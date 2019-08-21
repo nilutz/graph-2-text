@@ -43,7 +43,7 @@ python3 preprocess.py -train_src data/data-webnlg/train-webnlg-all-notdelex-src-
 -valid_node1 data/data-webnlg/dev-webnlg-all-notdelex-src-node1.txt \
 -valid_node2 data/data-webnlg/dev-webnlg-all-notdelex-src-node2.txt \
 -valid_tgt data/data-webnlg/dev-webnlg-all-notdelex-tgt.txt \
--save_data data/gcn_exp_webnlg -src_vocab_size 5000 -tgt_vocab_size 5000 -data_type gcn 
+-save_data data/gcn_exp_webnlg -src_vocab_size 5000 -tgt_vocab_size 5000 -data_type gcn  
 ```
 
 The argument ```-dynamic_dict``` is needed to train models using copy mechanism e.g., the model GCN_CE in the paper.
@@ -65,7 +65,7 @@ python3 tools/embeddings_to_torch.py \
 After you preprocessed the files you can run the training procedure:
 ```
 
-python3 train.py -data data/gcn_exp_webnlg -save_model data/tmp_ -rnn_size 256 -word_vec_size 256 -layers 1 -epochs 10 -optim adam -learning_rate 0.001 -encoder_type gcn -gcn_num_inputs 256 -gcn_num_units 256 -gcn_in_arcs -gcn_out_arcs -gcn_num_layers 1 -gcn_num_labels 5
+python3 train.py -data data/gcn_exp_webnlg -save_model data/webnlg1_ -rnn_size 256 -word_vec_size 256 -layers 1 -epochs 10 -optim adam -learning_rate 0.001 -encoder_type gcn -gcn_num_inputs 256 -gcn_num_units 256 -gcn_in_arcs -gcn_out_arcs -gcn_num_layers 1 -gcn_num_labels 5 -tensorboard -gpuid 0 -model_name webnlg1
 ```
 
 To train with a GCN encoder the following options must be set:

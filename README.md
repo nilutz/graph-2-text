@@ -1,7 +1,7 @@
 # Foundations
-This code is heavily based on the code used in the paper [Deep Graph Convolutional Encoders for Structured Data to Text Generation](http://aclweb.org/anthology/W18-6501) by Diego Marcheggiani and Laura Perez-Beltrachini. They leverage the [OpenNMT](https://github.com/OpenNMT/OpenNMT-py) library with a Graph Convolutional Network encoder.6
+This code is fork and is heavily based on the code used in the paper [Deep Graph Convolutional Encoders for Structured Data to Text Generation](http://aclweb.org/anthology/W18-6501) by Diego Marcheggiani and Laura Perez-Beltrachini. They leverage the [OpenNMT](https://github.com/OpenNMT/OpenNMT-py) library with a Graph Convolutional Network encoder.
 
-Basically I added some code for the context vectors and random sampling
+Basically I added some code for the context vectors and my own dataset
 
 ### Dependencies
  - Python 3
@@ -139,7 +139,7 @@ GOLD SCORE: -143.2870
 * https://github.com/wouterkool/stochastic-beam-search
 * https://github.com/huggingface/transfer-learning-conv-ai/blob/master/interact.py
 
-### References
+# References
 
 * [Controlling Linguistic Style Aspects in Neural Language Generation
 ](https://arxiv.org/abs/1707.02633)

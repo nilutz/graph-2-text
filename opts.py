@@ -425,7 +425,7 @@ def train_opts(parser):
                        """)
     group.add_argument("-model_name", type=str,
                        default="default",
-                       help="""name if the modek
+                       help="""name for the model
                        """)    
 
     group = parser.add_argument_group('Speech')
