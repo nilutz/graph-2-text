@@ -14,15 +14,24 @@ Clone and cd into directory. We use docker that installs all requirements in a d
 	
 	make build .
 
-# Running on CPU
+## Running on CPU
 
 	make run 
 
-# Running on GPU
+## Running on GPU
 
 	make run_gpu
 
-# Prepare data
+# Reproducing the original Webnlg Experiment
+read the 
+
+	README-original.md
+
+and run the commands
+
+# Football Data Experiment
+
+## Prepare data
 Run [data-extractor]() and get a data_with_triples_full.pkl file and put it in data/data-football/, then for generating the input:
 	
 	cd football_preprocessing
@@ -37,7 +46,7 @@ Run [data-extractor]() and get a data_with_triples_full.pkl file and put it in d
 	python preprocess.py -p ../data/data-football/sentences_full_lower_lemma.pkl -o lower -c -f
 
 
-# Preprocess
+## Preprocess
 This generates the vocab and torchtext iterators
 
 Exchange text_/delex_/delex_lower_/lower_ for different versions
@@ -55,7 +64,7 @@ Exchange text_/delex_/delex_lower_/lower_ for different versions
 	-save_data data/gcn_exp_text_football -src_vocab_size 5000 -tgt_vocab_size 5000 -data_type gcn 
 
 
-### with context
+#### with context
 	python preprocess.py -train_src data/football/text_/train-football-gcn-text-src-nodes.txt \
 	-train_label data/football/text_/train-football-gcn-text-src-labels.txt \
 	-train_node1 data/football/text_/train-football-gcn-text-src-node1.txt \
@@ -72,39 +81,39 @@ Exchange text_/delex_/delex_lower_/lower_ for different versions
 
 One can also run the original webnlg data with this repository just navigate to data/webnlg
 
-# TRAIN
+## TRAIN
 Training procedure:
 
 	python3 train.py -data data/gcn_exp_text_football -save_model data/exp_football_ -rnn_size 256 -word_vec_size 256 -layers 1 -epochs 10 -optim adam -learning_rate 0.001 -encoder_type gcn -gcn_num_inputs 256 -gcn_num_units 256 -gcn_in_arcs -gcn_out_arcs -gcn_num_layers 1 -gcn_num_labels 5 -tensorboard -gpuid 0 -model_name text
 
-### with context
+#### with context
 make sure the data has a context field
 
 	python3 train.py -data data/gcn_exp_text_football_ctx -save_model data/1_exp_football_ctx_ -rnn_size 256 -word_vec_size 256 -layers 1 -epochs 10 -optim adam -learning_rate 0.001 -encoder_type gcn -gcn_num_inputs 256 -gcn_num_units 256 -gcn_in_arcs -gcn_out_arcs -gcn_num_layers 1 -gcn_num_labels 5 -context -tensorboard -gpuid 0 -model_name text_
 
 
-# GENERATE
+## GENERATE
 Generate with obtained model
 
 	python3 translate.py -model data/exp_football__acc_55.09_ppl_12.18_e10.pt -data_type gcn -src data/football/text_/test-football-gcn-text-src-nodes.txt -tgt data/football/text_/test-football-gcn-text-tgt.txt -src_label data/football/text_/test-football-gcn-text-src-labels.txt -src_node1 data/football/text_/test-football-gcn-text-src-node1.txt -src_node2 data/football/text_/test-football-gcn-text-src-node2.txt -output data/football/delexicalized_predictions_test.txt -replace_unk -verbose -model_name text_
 
 
-### with context
+#### with context
 
 	python3 translate.py -model data/1_exp_football_ctx__acc_52.40_ppl_15.87_e10.pt -data_type gcn -src data/football/text_/test-football-gcn-text-src-nodes.txt -tgt data/football/text_/test-football-gcn-text-tgt.txt -src_label data/football/text_/test-football-gcn-text-src-labels.txt -src_node1 data/football/text_/test-football-gcn-text-src-node1.txt -src_node2 data/football/text_/test-football-gcn-text-src-node2.txt -src_ctx data/football/text_/test-football-gcn-text-context.txt -output data/football/delexicalized_predictions_test_CONTEXT.txt -replace_unk -verbose -context -model_name text_
 
-### Also test with test_fake
+#### Also test with test_fake
 we just flip the classes here:
 
 	python3 translate.py -model data/1_exp_football_ctx__acc_52.40_ppl_15.87_e10.pt -data_type gcn -src data/football/text_/test_fake-football-gcn-text-src-nodes.txt -tgt data/football/text_/test_fake-football-gcn-text-tgt.txt -src_label data/football/text_/test_fake-football-gcn-text-src-labels.txt -src_node1 data/football/text_/test_fake-football-gcn-text-src-node1.txt -src_node2 data/football/text_/test_fake-football-gcn-text-src-node2.txt -src_ctx data/football/text_/test_fake-football-gcn-text-context.txt -output data/football/delexicalized_predictions_test_CONTEXT.txt -replace_unk -verbose -context -model_name text_
 
-### more params
+#### more params
 add the following to get more statistic
 	
 	-report_bleu
 	-report_rouge
 	
-# EVAL
+## EVAL
 
 
 
