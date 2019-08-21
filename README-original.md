@@ -92,7 +92,7 @@ Add the following arguments to use pre-trained embeddings:
 ### Generate ###
 Generating with obtained model:
 ```
-python3 translate.py -model data/tmp__acc_4.72_ppl_390.39_e1.pt -data_type gcn -src data/webnlg/dev-webnlg-all-delex-src-nodes.txt -tgt data/webnlg/dev-webnlg-all-delex-tgt.txt -src_label data/webnlg/dev-webnlg-all-delex-src-labels.txt -src_node1 data/webnlg/dev-webnlg-all-delex-src-node1.txt -src_node2 data/webnlg/dev-webnlg-all-delex-src-node2.txt -output data/webnlg/delexicalized_predictions_dev.txt -replace_unk -verbose
+python3 translate.py -model data/webnlg1__webnlg1_acc_69.66_ppl_3.39_e10.pt -data_type gcn -src data/data-webnlg/dev-webnlg-all-delex-src-nodes.txt -tgt data/data-webnlg/dev-webnlg-all-delex-tgt.txt -src_label data/data-webnlg/dev-webnlg-all-delex-src-labels.txt -src_node1 data/data-webnlg/dev-webnlg-all-delex-src-node1.txt -src_node2 data/data-webnlg/dev-webnlg-all-delex-src-node2.txt -output data/data-webnlg/delexicalized_predictions_dev.txt -replace_unk -verbose
 ```
 
 ### Postprocessing and Evaluation ###
@@ -104,7 +104,7 @@ For the SR11 task, scripts for the 3 metrics are the same as used for WebNLG [se
 
 1. generate input files for GCN (note WebNLG dataset partitions 'train' and 'dev' are in *graph2text/webnlg-baseline/data/webnlg/*
 ```
-cd data/webnlg/
+cd data/data-webnlg/
 python3 ../../webnlg_eval_scripts/webnlg_gcnonmt_input.py -i ./
 python3 ../../webnlg_eval_scripts/webnlg_gcnonmt_input.py -i ./ -p test -c seen #to process test partition
 ```
@@ -122,7 +122,7 @@ To make source and target tokens lowercased, add ```-l``` argument. This applies
 
 2. relexicalise output of GCN
 ```
-cd data/webnlg/
+cd data/data-webnlg/
 python3 ../../webnlg_eval_scripts/webnlg_gcnonmt_relexicalise.py -i ./ -f delexicalized_predictions_dev.txt
 ```
 To relexicalise specific partition only, e.g. test add the following argument:

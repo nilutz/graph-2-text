@@ -94,8 +94,8 @@ class TranslationBuilder(object):
                     src_vocab, src_raw,
                     tgt[1:, b] if tgt is not None else None, None)
 
-            if ctx is not None:
-                pass
+            #if ctx is not None:
+            #    pass
                 #gold_ctx: 
                 #pred_ctx:
 
