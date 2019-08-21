@@ -112,7 +112,7 @@ class Trainer(object):
 
     def __init__(self, model, train_loss, valid_loss, optim,
                  trunc_size=0, shard_size=32, data_type='text',
-                 norm_method="sents", grad_accum_count=1):
+                 norm_method="sents", grad_accum_count=1, context = False):
         # Basic attributes.
         self.model = model
         self.train_loss = train_loss
@@ -124,6 +124,7 @@ class Trainer(object):
         self.norm_method = norm_method
         self.grad_accum_count = grad_accum_count
         self.progress_step = 0
+        self.context = context
 
         assert(grad_accum_count > 0)
         if grad_accum_count > 1:
@@ -223,6 +224,8 @@ class Trainer(object):
                 mask_in, mask_out, mask_loop, mask_sent = onmt.io.get_adj(batch)
                 if hasattr(batch, 'morph'):
                     morph, mask_morph = onmt.io.get_morph(batch)  # [b,t, max_morph]
+                if hasattr(batch, 'ctx') and self.context:
+                    context = onmt.io.make_features(batch, 'ctx')  # [b,t, max_morph]
             else:
                 src_lengths = None
 
@@ -231,11 +234,21 @@ class Trainer(object):
             # F-prop through the model.
             if self.data_type == 'gcn':
 
-                if hasattr(batch, 'morph'):
+                if hasattr(batch, 'morph') and hasattr(batch, 'ctx') and self.context:
+                    outputs, attns, dec_state = self.model(src, tgt, src_lengths,
+                               adj_arc_in, adj_arc_out, adj_lab_in,
+                               adj_lab_out, mask_in, mask_out,
+                               mask_loop, mask_sent, morph, mask_morph, context = context)
+                elif hasattr(batch, 'morph'):
                     outputs, attns, dec_state = self.model(src, tgt, src_lengths,
                                adj_arc_in, adj_arc_out, adj_lab_in,
                                adj_lab_out, mask_in, mask_out,
                                mask_loop, mask_sent, morph, mask_morph)
+                elif hasattr(batch, 'ctx'):
+                    outputs, attns, dec_state = self.model(src, tgt, src_lengths,
+                               adj_arc_in, adj_arc_out, adj_lab_in,
+                               adj_lab_out, mask_in, mask_out,
+                               mask_loop, mask_sent, context = context)
                 else:
                     outputs, attns, dec_state = \
                         self.model(src, tgt, src_lengths,
@@ -290,8 +303,8 @@ class Trainer(object):
             'optim': self.optim,
         }
         torch.save(checkpoint,
-                   '%s_acc_%.2f_ppl_%.2f_e%d.pt'
-                   % (opt.save_model, valid_stats.accuracy(),
+                   '%s_%s_acc_%.2f_ppl_%.2f_e%d.pt'
+                   % (opt.model_name, opt.save_model, valid_stats.accuracy(),
                       valid_stats.ppl(), epoch))
 
     def _gradient_accumulation(self, true_batchs, total_stats,
@@ -323,7 +336,9 @@ class Trainer(object):
                 #     otherStuff()
                 # if batch.morph is not None:
                     morph, mask_morph = onmt.io.get_morph(batch)  # [b,t, max_morph]
-
+                if hasattr(batch, 'ctx') and self.context:
+                    context = onmt.io.make_features(batch, 'ctx')  # [b,t, max_morph]
+ 
             else:
                 src_lengths = None
 
@@ -338,11 +353,21 @@ class Trainer(object):
                     self.model.zero_grad()
                 if self.data_type == 'gcn':
 
-                    if hasattr(batch, 'morph'):
+                    if hasattr(batch, 'morph') and hasattr(batch, 'ctx') and self.context:
+                        outputs, attns, dec_state = self.model(src, tgt, src_lengths,
+                               adj_arc_in, adj_arc_out, adj_lab_in,
+                               adj_lab_out, mask_in, mask_out,
+                               mask_loop, mask_sent, morph, mask_morph, context = context)
+                    elif hasattr(batch, 'morph'):
                         outputs, attns, dec_state = self.model(src, tgt, src_lengths,
                                    adj_arc_in, adj_arc_out, adj_lab_in,
                                    adj_lab_out, mask_in, mask_out,
                                    mask_loop, mask_sent, morph, mask_morph)
+                    elif hasattr(batch, 'ctx') and self.context:
+                        outputs, attns, dec_state = self.model(src, tgt, src_lengths,
+                               adj_arc_in, adj_arc_out, adj_lab_in,
+                               adj_lab_out, mask_in, mask_out,
+                               mask_loop, mask_sent, context = context)
                     else:
                         outputs, attns, dec_state = \
                             self.model(src, tgt, src_lengths,

@@ -77,7 +77,7 @@ if opt.exp_host != "":
 if opt.tensorboard:
     from tensorboardX import SummaryWriter
     writer = SummaryWriter(
-        opt.tensorboard_log_dir + datetime.now().strftime("/%b-%d_%H-%M-%S"),
+        opt.tensorboard_log_dir + opt.model_name + datetime.now().strftime("/%b-%d_%H-%M-%S"),
         comment="Onmt")
 
 progress_step = 0
@@ -239,7 +239,7 @@ def train_model(model, fields, optim, data_type, model_opt):
 
     trainer = onmt.Trainer(model, train_loss, valid_loss, optim,
                            trunc_size, shard_size, data_type,
-                           norm_method, grad_accum_count)
+                           norm_method, grad_accum_count, model_opt.context)
 
     print('\nStart training...')
     print(' * number of epochs: %d, starting from Epoch %d' %

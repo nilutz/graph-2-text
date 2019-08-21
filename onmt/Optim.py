@@ -66,6 +66,8 @@ class Optim(object):
         self.warmup_steps = warmup_steps
         self.model_size = model_size
 
+        print('optimizer:', method, self.lr, self.start_decay)
+
     def set_parameters(self, params):
         self.params = []
         self.sparse_params = []

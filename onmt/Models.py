@@ -415,7 +415,7 @@ class RNNDecoderBase(nn.Module):
                  hidden_size, attn_type="general",
                  coverage_attn=False, context_gate=None,
                  copy_attn=False, dropout=0.0, embeddings=None,
-                 reuse_copy_attn=False):
+                 reuse_copy_attn=False, context_embeddings = None):
         super(RNNDecoderBase, self).__init__()
 
         # Basic attributes.
@@ -423,10 +423,15 @@ class RNNDecoderBase(nn.Module):
         self.bidirectional_encoder = bidirectional_encoder
         self.num_layers = num_layers
         self.hidden_size = hidden_size
-        self.embeddings = embeddings
+        self.embeddings = embeddings        
+        if context_embeddings is not None:
+          self.embeddings_ctx = context_embeddings
+        else:
+          self.embeddings_ctx = None
         self.dropout = nn.Dropout(dropout)
 
         # Build the RNN.
+        self._input_size = self._input_size_getter()
         self.rnn = self._build_rnn(rnn_type,
                                    input_size=self._input_size,
                                    hidden_size=hidden_size,
@@ -458,7 +463,7 @@ class RNNDecoderBase(nn.Module):
             self._copy = True
         self._reuse_copy_attn = reuse_copy_attn
 
-    def forward(self, tgt, memory_bank, state, memory_lengths=None):
+    def forward(self, tgt, memory_bank, state, memory_lengths=None, context = None):
         """
         Args:
             tgt (`LongTensor`): sequences of padded tokens
@@ -486,7 +491,7 @@ class RNNDecoderBase(nn.Module):
 
         # Run the forward pass of the RNN.
         decoder_final, decoder_outputs, attns = self._run_forward_pass(
-            tgt, memory_bank, state, memory_lengths=memory_lengths)
+            tgt, memory_bank, state, memory_lengths=memory_lengths, context = context)
 
         # Update the state with the result.
         final_output = decoder_outputs[-1]
@@ -634,7 +639,7 @@ class InputFeedRNNDecoder(RNNDecoderBase):
           G --> H
     """
 
-    def _run_forward_pass(self, tgt, memory_bank, state, memory_lengths=None):
+    def _run_forward_pass(self, tgt, memory_bank, state, memory_lengths=None, context = None):
         """
         See StdRNNDecoder._run_forward_pass() for description
         of arguments and return values.
@@ -657,6 +662,10 @@ class InputFeedRNNDecoder(RNNDecoderBase):
         emb = self.embeddings(tgt)
         assert emb.dim() == 3  # len x batch x embedding_dim
 
+        if context is not None:
+          context_emb = self.embeddings_ctx(context)
+          assert context_emb.dim() == 3  # len x batch x embedding_dim
+
         hidden = state.hidden
         coverage = state.coverage.squeeze(0) \
             if state.coverage is not None else None
@@ -665,7 +674,12 @@ class InputFeedRNNDecoder(RNNDecoderBase):
         # input at every time step.
         for i, emb_t in enumerate(emb.split(1)):
             emb_t = emb_t.squeeze(0)
-            decoder_input = torch.cat([emb_t, input_feed], 1)
+
+            if context is not None:
+              emb_c = context_emb.squeeze(0)
+              decoder_input = torch.cat([emb_t, input_feed, emb_c], 1)
+            else:
+              decoder_input = torch.cat([emb_t, input_feed], 1)
 
             rnn_output, hidden = self.rnn(decoder_input, hidden)
             decoder_output, p_attn = self.attn(
@@ -711,12 +725,14 @@ class InputFeedRNNDecoder(RNNDecoderBase):
         return stacked_cell(num_layers, input_size,
                             hidden_size, dropout)
 
-    @property
-    def _input_size(self):
+    def _input_size_getter(self):
         """
         Using input feed by concatenating input with attention vectors.
         """
-        return self.embeddings.embedding_size + self.hidden_size
+        if self.embeddings_ctx is not None:
+          return self.embeddings.embedding_size + self.hidden_size + self.embeddings_ctx.embedding_size
+        else:
+          return self.embeddings.embedding_size + self.hidden_size
 
 
 class NMTModel(nn.Module):
@@ -791,7 +807,7 @@ class NMTModelGCN(nn.Module):
 
     def forward(self, src, tgt, lengths, adj_arc_in, adj_arc_out, adj_lab_in,
                 adj_lab_out, mask_in, mask_out, mask_loop, mask_sent, morph=None,
-                mask_morph=None, dec_state=None):
+                mask_morph=None, dec_state=None, context = None):
         """Forward propagate a `src` and `tgt` pair for training.
         Possible initialized with a beginning decoder state.
 
@@ -823,7 +839,7 @@ class NMTModelGCN(nn.Module):
             self.decoder(tgt, memory_bank,
                          enc_state if dec_state is None
                          else dec_state,
-                         memory_lengths=lengths)
+                         memory_lengths=lengths, context = context)
         if self.multigpu:
             # Not yet supported on multi-gpu
             dec_state = None
@@ -898,3 +914,9 @@ class RNNDecoderState(DecoderState):
                 for e in self._all]
         self.hidden = tuple(vars[:-1])
         self.input_feed = vars[-1]
+
+    # def map_state(self, fn):
+    #     self.hidden = tuple(fn(h, 1) for h in self.hidden)
+    #     self.input_feed = fn(self.input_feed, 1)
+    #     if self.coverage is not None:
+    #         self.coverage = fn(self.coverage, 1)

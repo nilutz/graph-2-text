@@ -125,7 +125,7 @@ def make_encoder(opt, embeddings, morph_embeddings=None):
                           opt.bridge)
 
 
-def make_decoder(opt, embeddings):
+def make_decoder(opt, embeddings, ctx_embeddings = None):
     """
     Various decoder dispatcher function.
     Args:
@@ -142,6 +142,18 @@ def make_decoder(opt, embeddings):
                           opt.cnn_kernel_width, opt.dropout,
                           embeddings)
     elif opt.input_feed:
+      if opt.context:
+        return InputFeedRNNDecoder(opt.rnn_type, opt.brnn,
+                                   opt.dec_layers, opt.rnn_size,
+                                   opt.global_attention,
+                                   opt.coverage_attn,
+                                   opt.context_gate,
+                                   opt.copy_attn,
+                                   opt.dropout,
+                                   embeddings,
+                                   opt.reuse_copy_attn,
+                                   ctx_embeddings)
+      else:
         return InputFeedRNNDecoder(opt.rnn_type, opt.brnn,
                                    opt.dec_layers, opt.rnn_size,
                                    opt.global_attention,
@@ -229,6 +241,11 @@ def make_base_model(model_opt, fields, gpu, checkpoint=None):
     tgt_embeddings = make_embeddings(model_opt, tgt_dict,
                                      feature_dicts, for_encoder=False)
 
+    if model_opt.context:
+      ctx_dict = fields["ctx"].vocab
+      ctx_feature_dicts = onmt.io.collect_feature_vocabs(fields, 'ctx')
+      ctx_embeddings = make_embeddings(model_opt, ctx_dict, ctx_feature_dicts, for_encoder=False)
+
     # Share the embedding matrix - preprocess with share_vocab required.
     if model_opt.share_embeddings:
         # src/tgt vocab should be the same if `-share_vocab` is specified.
@@ -238,7 +255,10 @@ def make_base_model(model_opt, fields, gpu, checkpoint=None):
 
         tgt_embeddings.word_lut.weight = src_embeddings.word_lut.weight
 
-    decoder = make_decoder(model_opt, tgt_embeddings)
+    if model_opt.context:
+      decoder = make_decoder(model_opt, tgt_embeddings, ctx_embeddings)
+    else:
+      decoder = make_decoder(model_opt, tgt_embeddings)
 
     # Make NMTModel(= encoder + decoder).
     if model_opt.encoder_type == 'gcn':
@@ -284,7 +304,9 @@ def make_base_model(model_opt, fields, gpu, checkpoint=None):
         if hasattr(model.decoder, 'embeddings'):
             model.decoder.embeddings.load_pretrained_vectors(
                     model_opt.pre_word_vecs_dec, model_opt.fix_word_vecs_dec)
-
+        if hasattr(model.decoder, 'ctx_embeddings'):
+            model.decoder.ctx_embeddings.load_pretrained_vectors(
+                    model_opt.pre_word_vecs_ctx, model_opt.fix_word_vecs_ctx)
     # Add generator to model (this registers it as parameter of model).
     model.generator = generator
 

@@ -113,7 +113,7 @@ def build_save_text_dataset_in_shards(src_corpus, tgt_corpus, fields,
 def build_save_text_dataset_in_shards_gcn(src_corpus, tgt_corpus,
                                           label_corpus, node1_corpus,
                                           node2_corpus, fields,
-                                          corpus_type, opt, mf_corpus=''):
+                                          corpus_type, opt, mf_corpus='', context_corpus = ''):
     '''
     Divide the big corpus into shards, and build dataset separately.
     This is currently only for data_type=='text'.
@@ -171,6 +171,7 @@ def build_save_text_dataset_in_shards_gcn(src_corpus, tgt_corpus,
         node2_corpus, opt.src_seq_length_trunc,
         "node2", opt.max_shard_size,
                 assoc_iter=src_iter)
+
     if mf_corpus != '':
         mf_iter = onmt.io.ShardedTextCorpusIterator(
             mf_corpus, opt.src_seq_length_trunc,
@@ -180,16 +181,33 @@ def build_save_text_dataset_in_shards_gcn(src_corpus, tgt_corpus,
         mf_iter = ''
 
 
+    if context_corpus != '':
+        ctx_iter = onmt.io.ShardedTextCorpusIterator(
+            context_corpus, opt.ctx_seq_length_trunc,
+            "ctx", opt.max_shard_size,
+            assoc_iter=src_iter)
+    else:
+        ctx_iter = ''
+
     index = 0
     while not src_iter.hit_end():
         index += 1
-        dataset = onmt.io.GCNDataset(
-                fields, src_iter, tgt_iter, label_iter,
-                node1_iter, node2_iter, mf_iter,
-                src_iter.num_feats, tgt_iter.num_feats,
-                src_seq_length=opt.src_seq_length,
-                tgt_seq_length=opt.tgt_seq_length,
-                dynamic_dict=opt.dynamic_dict)
+        if ctx_iter != '':
+            dataset = onmt.io.GCNDataset(
+                    fields, src_iter, tgt_iter, label_iter,
+                    node1_iter, node2_iter, mf_iter, ctx_iter,
+                    src_iter.num_feats, tgt_iter.num_feats, ctx_iter.num_feats,
+                    src_seq_length=opt.src_seq_length,
+                    tgt_seq_length=opt.tgt_seq_length,
+                    dynamic_dict=opt.dynamic_dict)
+        else:
+             dataset = onmt.io.GCNDataset(
+                    fields, src_iter, tgt_iter, label_iter,
+                    node1_iter, node2_iter, mf_iter, ctx_iter,
+                    src_iter.num_feats, tgt_iter.num_feats, 0,
+                    src_seq_length=opt.src_seq_length,
+                    tgt_seq_length=opt.tgt_seq_length,
+                    dynamic_dict=opt.dynamic_dict)
 
         # We save fields in vocab.pt separately, so make it empty.
         dataset.fields = []
@@ -221,24 +239,43 @@ def build_save_dataset(corpus_type, fields, opt):
                 corpus_type, opt)
     elif opt.data_type == 'gcn':
         mf_corpus = ''
+        ctx_corpus = ''
         if corpus_type == 'train':
             label_corpus = opt.train_label
             node1_corpus = opt.train_node1
             node2_corpus = opt.train_node2
             if opt.train_mf != '':
                 mf_corpus = opt.train_mf
+            if opt.train_ctx:
+                ctx_corpus = opt.train_ctx
         else:
             label_corpus = opt.valid_label
             node1_corpus = opt.valid_node1
             node2_corpus = opt.valid_node2
             if opt.valid_mf != '':
                 mf_corpus = opt.valid_mf
-        if opt.train_mf != '':
+            if opt.train_ctx:
+                ctx_corpus = opt.train_ctx
+
+
+        if opt.train_mf != '' and opt.train_ctx != '':
+            return build_save_text_dataset_in_shards_gcn(
+                src_corpus, tgt_corpus,
+                label_corpus, node1_corpus, node2_corpus,
+                fields,
+                corpus_type, opt, mf_corpus, ctx_corpus)
+        elif opt.train_mf != '' and opt.train_ctx == '':
             return build_save_text_dataset_in_shards_gcn(
                 src_corpus, tgt_corpus,
                 label_corpus, node1_corpus, node2_corpus,
                 fields,
                 corpus_type, opt, mf_corpus)
+        elif opt.train_mf == '' and opt.train_ctx != '':
+            return build_save_text_dataset_in_shards_gcn(
+                src_corpus, tgt_corpus,
+                label_corpus, node1_corpus, node2_corpus,
+                fields,
+                corpus_type, opt, context_corpus = ctx_corpus)
         else:
             return build_save_text_dataset_in_shards_gcn(
                 src_corpus, tgt_corpus,
@@ -277,12 +314,26 @@ def build_save_dataset(corpus_type, fields, opt):
 
 
 def build_save_vocab(train_dataset, fields, opt):
-    fields = onmt.io.build_vocab(train_dataset, fields, opt.data_type,
+    if opt.train_ctx:
+        fields = onmt.io.build_vocab(train_dataset, fields, opt.data_type,
                                  opt.share_vocab,
                                  opt.src_vocab_size,
                                  opt.src_words_min_frequency,
                                  opt.tgt_vocab_size,
-                                 opt.tgt_words_min_frequency)
+                                 opt.tgt_words_min_frequency,
+                                 opt.ctx_vocab_size,
+                                 opt.ctx_words_min_frequency,
+                                 context = True)
+    else:
+        fields = onmt.io.build_vocab(train_dataset, fields, opt.data_type,
+                                 opt.share_vocab,
+                                 opt.src_vocab_size,
+                                 opt.src_words_min_frequency,
+                                 opt.tgt_vocab_size,
+                                 opt.tgt_words_min_frequency,
+                                 opt.ctx_vocab_size,
+                                 opt.ctx_words_min_frequency,
+                                 context = False)
 
     # Can't save fields, so remove/reconstruct at training time.
     vocab_file = opt.save_data + '.vocab.pt'
@@ -297,9 +348,19 @@ def main():
     tgt_nfeats = onmt.io.get_num_features(opt.data_type, opt.train_tgt, 'tgt')
     print(" * number of source features: %d." % src_nfeats)
     print(" * number of target features: %d." % tgt_nfeats)
+    if opt.train_ctx:
+        ctx_nfeats = onmt.io.get_num_features(opt.data_type, opt.train_ctx, 'ctx')
+        print(" * number of context features: %d." % ctx_nfeats)
+
 
     print("Building `Fields` object...")
-    fields = onmt.io.get_fields(opt.data_type, src_nfeats, tgt_nfeats)
+    if opt.train_ctx:
+        fields = onmt.io.get_fields(opt.data_type, src_nfeats, tgt_nfeats, ctx_nfeats)
+        print('..with context...')
+    else:
+        fields = onmt.io.get_fields(opt.data_type, src_nfeats, tgt_nfeats)
+
+
 
     print("Building & saving training data...")
     train_dataset_files = build_save_dataset('train', fields, opt)

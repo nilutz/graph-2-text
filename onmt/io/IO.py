@@ -29,7 +29,7 @@ torchtext.vocab.Vocab.__getstate__ = _getstate
 torchtext.vocab.Vocab.__setstate__ = _setstate
 
 
-def get_fields(data_type, n_src_features, n_tgt_features):
+def get_fields(data_type, n_src_features, n_tgt_features, ctx = False):
     """
     Args:
         data_type: type of the source input. Options are [text|img|audio].
@@ -48,8 +48,10 @@ def get_fields(data_type, n_src_features, n_tgt_features):
         return ImageDataset.get_fields(n_src_features, n_tgt_features)
     elif data_type == 'audio':
         return AudioDataset.get_fields(n_src_features, n_tgt_features)
-    elif data_type == 'gcn':
+    elif data_type == 'gcn' and not ctx:
         return GCNDataset.get_fields(n_src_features, n_tgt_features)
+    elif data_type =='gcn' and ctx:
+        return GCNDataset.get_fields(n_src_features, n_tgt_features, n_ctx_features)
 
 
 def load_fields_from_vocab(vocab, data_type="text"):
@@ -108,7 +110,7 @@ def get_num_features(data_type, corpus_file, side):
     Returns:
         number of features on `side`.
     """
-    assert side in ["src", "tgt"]
+    assert side in ["src", "tgt", "ctx"]
 
     if data_type == 'text':
         return TextDataset.get_num_features(corpus_file, side)
@@ -131,7 +133,7 @@ def make_features(batch, side, data_type='text'):
         A sequence of src/tgt tensors with optional feature tensors
         of size (len x batch).
     """
-    assert side in ['src', 'tgt']
+    assert side in ['src', 'tgt', 'ctx']
     if isinstance(batch.__dict__[side], tuple):
         data = batch.__dict__[side][0]
     else:
@@ -291,7 +293,7 @@ def collect_feature_vocabs(fields, side):
     """
     Collect feature Vocab objects from Field object.
     """
-    assert side in ['src', 'tgt']
+    assert side in ['src', 'tgt', 'ctx']
     feature_vocabs = []
     for j in count():
         key = side + "_feat_" + str(j)
@@ -356,7 +358,7 @@ def build_dataset_gcn(fields, data_type, src_path, tgt_path,
                   src_seq_length_trunc=0, tgt_seq_length_trunc=0,
                   dynamic_dict=True, sample_rate=0,
                   window_size=0, window_stride=0, window=None,
-                  normalize_audio=True, use_filter_pred=True):
+                  normalize_audio=True, use_filter_pred=True, ctx_path = False, ctx_seq_length_trunc = 0):
 
     # Build src/tgt examples iterator from corpus files, also extract
     # number of features.
@@ -395,12 +397,21 @@ def build_dataset_gcn(fields, data_type, src_path, tgt_path,
                                       src_seq_length_trunc, sample_rate,
                                       window_size, window_stride,
                                       window, normalize_audio)
+    ctx_examples_iter = ''
+    num_ctx_feat = 0        
+    if ctx_path:
+        ctx_examples_iter, num_ctx_feats = \
+        TextDataset.make_text_examples_nfeats_tpl(
+            ctx_path, ctx_seq_length_trunc, "ctx")  
+
 
     dataset = GCNDataset(
                 fields, src_examples_iter, tgt_examples_iter,
                 label_examples_iter, node1_examples_iter,
                 node2_examples_iter, morph_examples_iter,
+                ctx_examples_iter,
                 num_src_feats, num_tgt_feats,
+                num_ctx_feat,
                 src_seq_length=src_seq_length,
                 tgt_seq_length=tgt_seq_length,
                 dynamic_dict=dynamic_dict,
@@ -420,7 +431,8 @@ def _build_field_vocab(field, counter, **kwargs):
 
 def build_vocab(train_dataset_files, fields, data_type, share_vocab,
                 src_vocab_size, src_words_min_frequency,
-                tgt_vocab_size, tgt_words_min_frequency):
+                tgt_vocab_size, tgt_words_min_frequency,
+                ctx_vocab_size, ctx_words_min_frequency, context = False):
     """
     Args:
         train_dataset_files: a list of train dataset pt file.
@@ -533,6 +545,19 @@ def build_vocab(train_dataset_files, fields, data_type, share_vocab,
                            max_size=src_vocab_size,
                            min_freq=0)
         print(" * morph vocab size: %d." % len(fields["morph"].vocab))
+
+
+        if context:
+            _build_field_vocab(fields["ctx"], counter["ctx"],
+                           max_size=ctx_vocab_size,
+                           min_freq=ctx_words_min_frequency)
+            print(" * ctx vocab size: %d." % len(fields["ctx"].vocab))
+            
+            for j in range(dataset.n_ctx_feats):
+                key = "ctx_feat_" + str(j)
+                _build_field_vocab(fields[key], counter[key])
+                print(" * %s vocab size: %d." % (key, len(fields[key].vocab)))
+
 
 
 

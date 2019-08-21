@@ -33,6 +33,21 @@ class GCNLayer(nn.Module):
         self.sigmoid = nn.Sigmoid()
         self.use_gates = use_gates
         self.use_glus = use_glus
+
+        text = \
+        '\nnum_inputs = %s\
+        \nnum_units = %s \
+        \nnum_labels = %s\
+        \nself.in_arcs = %s\
+        \nself.out_arcs = %s\
+        \nself.num_inputs = %s\
+        \nself.num_units = %s\
+        \nself.num_labels = %s\
+        \nself.batch_first = %s\
+        \nself.use_gates = %s\
+        \nself.use_glus = %s' %(num_inputs, num_units, num_labels, in_arcs, out_arcs, num_inputs, num_units, num_labels, batch_first, use_gates, use_glus)
+        
+        print('GCN params:',text)
         #https://www.cs.toronto.edu/~yujiali/files/talks/iclr16_ggnn_talk.pdf
         #https://arxiv.org/pdf/1612.08083.pdf
 

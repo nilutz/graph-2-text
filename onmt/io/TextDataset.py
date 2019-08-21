@@ -139,7 +139,7 @@ class TextDataset(ONMTDatasetBase):
         Returns:
             (example_dict iterator, num_feats) tuple.
         """
-        assert side in ['src', 'tgt', 'labels', 'node1', '']
+        assert side in ['src', 'tgt', 'labels', 'node1', 'ctx', '']
 
         if path is None:
             return (None, 0)

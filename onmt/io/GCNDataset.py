@@ -37,7 +37,8 @@ class GCNDataset(ONMTDatasetBase):
     """
     def __init__(self, fields, src_examples_iter, tgt_examples_iter,
                  label_examples_iter, node1_examples_iter, node2_examples_iter, morph_iter='',
-                 num_src_feats=0, num_tgt_feats=0,
+                 ctx_examples_iter = '', 
+                 num_src_feats=0, num_tgt_feats=0, num_ctx_feat = 0,
                  src_seq_length=0, tgt_seq_length=0,
                  dynamic_dict=True, use_filter_pred=True):
         self.data_type = 'gcn'
@@ -48,19 +49,30 @@ class GCNDataset(ONMTDatasetBase):
 
         self.n_src_feats = num_src_feats
         self.n_tgt_feats = num_tgt_feats
+        self.n_ctx_feats = num_ctx_feat
 
         # Each element of an example is a dictionary whose keys represents
         # at minimum the src tokens and their indices and potentially also
         # the src and tgt features and alignment information.
         if tgt_examples_iter is not None:
-            if morph_iter == '':
+            if morph_iter == '' and ctx_examples_iter != '':
+                examples_iter = (self._join_dicts(src, label, node1, node2, tgt, ctx) for src, label, node1, node2, tgt, ctx in
+                                 zip(src_examples_iter, label_examples_iter, node1_examples_iter,
+                                     node2_examples_iter, tgt_examples_iter, ctx_examples_iter))
+
+            elif morph_iter == '' and ctx_examples_iter == '':
                 examples_iter = (self._join_dicts(src, label, node1, node2, tgt) for src, label, node1, node2, tgt in
                                  zip(src_examples_iter, label_examples_iter, node1_examples_iter,
                                      node2_examples_iter, tgt_examples_iter))
-            else:
+
+            elif ctx_examples_iter == '' and morph_iter != '':
                 examples_iter = (self._join_dicts(src, label, node1, node2, morph, tgt) for src, label, node1, node2, morph, tgt in
                                  zip(src_examples_iter, label_examples_iter, node1_examples_iter,
-                                     node2_examples_iter, morph_iter, tgt_examples_iter))
+                                     node2_examples_iter, tgt_examples_iter, morph_iter))
+            else:
+                examples_iter = (self._join_dicts(src, label, node1, node2, morph, tgt, ctx) for src, label, node1, node2, morph, tgt in
+                                 zip(src_examples_iter, label_examples_iter, node1_examples_iter,
+                                     node2_examples_iter, morph_iter, tgt_examples_iter, ctx_examples_iter))
 
         else:
             # examples_iter = src_examples_iter
@@ -150,7 +162,7 @@ class GCNDataset(ONMTDatasetBase):
         Returns:
             (example_dict iterator, num_feats) tuple.
         """
-        assert side in ['src', 'tgt', 'label', 'node1', 'node2', 'morph']
+        assert side in ['src', 'tgt', 'label', 'node1', 'node2', 'morph', 'ctx']
 
         if path is None:
             return (None, 0)
@@ -197,7 +209,7 @@ class GCNDataset(ONMTDatasetBase):
                 yield example_dict, n_feats
 
     @staticmethod
-    def get_fields(n_src_features, n_tgt_features):
+    def get_fields(n_src_features, n_tgt_features, n_ctx_features = None):
         """
         Args:
             n_src_features (int): the number of source features to
@@ -270,6 +282,17 @@ class GCNDataset(ONMTDatasetBase):
         fields["morph"] = torchtext.data.Field(
             use_vocab=True, tensor_type=torch.LongTensor,
             sequential=True)
+
+
+        fields["ctx"] = torchtext.data.Field(
+            use_vocab=True,
+            pad_token=PAD_WORD,
+            include_lengths=True)
+
+        if n_ctx_features is not None:
+            for j in range(n_ctx_features):
+                fields["ctx_feat_"+str(j)] = \
+                    torchtext.data.Field(pad_token=PAD_WORD)
 
         return fields
 

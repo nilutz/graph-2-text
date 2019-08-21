@@ -1,0 +1,4 @@
+pandas==0.22.0
+numpy==1.16.4
+networkx==2.3
+plac==1.0.0

@@ -94,6 +94,11 @@ class TranslationBuilder(object):
                     src_vocab, src_raw,
                     tgt[1:, b] if tgt is not None else None, None)
 
+            if ctx is not None:
+                pass
+                #gold_ctx: 
+                #pred_ctx:
+
             translation = Translation(src[:, b] if src is not None else None,
                                       src_raw, pred_sents,
                                       attn[b], pred_score[b], gold_sent,

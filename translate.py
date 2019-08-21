@@ -70,6 +70,10 @@ def main():
 
     # Test data
     if opt.data_type == 'gcn':
+        if opt.src_ctx:
+            ctx_path = opt.src_ctx
+        else:
+            ctx_path = ''
         data = onmt.io.build_dataset_gcn(fields, opt.data_type,
                                  opt.src, opt.tgt, opt.src_label,
                                  opt.src_node1, opt.src_node2,
@@ -79,7 +83,7 @@ def main():
                                  window_size=opt.window_size,
                                  window_stride=opt.window_stride,
                                  window=opt.window,
-                                 use_filter_pred=False)
+                                 use_filter_pred=False, ctx_path=ctx_path)
 
     else:
         data = onmt.io.build_dataset(fields, opt.data_type,
@@ -113,7 +117,8 @@ def main():
         cuda=opt.cuda,
         beam_trace=opt.dump_beam != "",
         min_length=opt.min_length,
-        stepwise_penalty=opt.stepwise_penalty)
+        stepwise_penalty=opt.stepwise_penalty,
+        context = opt.context)
     builder = onmt.translate.TranslationBuilder(
         data, translator.fields,
         opt.n_best, opt.replace_unk, opt.tgt)
@@ -127,7 +132,11 @@ def main():
         #print(batch.src)
         #print(batch.node1)
 
-        batch_data = translator.translate_batch(batch, data)
+        if opt.random_sampling:
+            batch_data = translator.random_sampling(batch, data, sampling_temp=0.9, keep_topk=1)
+        else:    
+            batch_data = translator.translate_batch(batch, data)
+            
         translations = builder.from_batch(batch_data)
 
         for trans in translations:

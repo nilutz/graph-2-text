@@ -101,6 +101,8 @@ def model_opts(parser):
                        help="""Type of context gate to use.
                        Do not select for no context gate.""")
 
+    group.add_argument('-context', action="store_true",
+                       help='Use a context vector for training.')
     # Attention options
     group = parser.add_argument_group('Model- Attention')
     group.add_argument('-global_attention', type=str, default='general',
@@ -142,6 +144,8 @@ def preprocess_opts(parser):
                        help="Path to the training target data")
     group.add_argument('-train_mf', required=False, default='',
                        help="Path to the training target data")
+    group.add_argument('-train_ctx', required=False,
+                       help="Whether to use context field or not")
 
     group.add_argument('-valid_src', required=True,
                        help="Path to the validation source data")
@@ -153,6 +157,8 @@ def preprocess_opts(parser):
                        help="Path to the training source data")
     group.add_argument('-valid_tgt', required=True,
                        help="Path to the validation target data")
+    group.add_argument('-valid_ctx', required=False,
+                       help="Whether to use context field or not")
 
     group.add_argument('-valid_mf', required=False, default='',
                        help="Path to the training target data")
@@ -170,6 +176,7 @@ def preprocess_opts(parser):
                        is in bytes. Optimal value should be multiples of
                        64 bytes.""")
 
+
     # Dictionary options, for text corpus
 
     group = parser.add_argument_group('Vocab')
@@ -177,15 +184,20 @@ def preprocess_opts(parser):
                        help="Path to an existing source vocabulary")
     group.add_argument('-tgt_vocab',
                        help="Path to an existing target vocabulary")
+    group.add_argument('-ctx_vocab', required = False,
+                       help="Path to an existing ctx vocabulary")
     group.add_argument('-features_vocabs_prefix', type=str, default='',
                        help="Path prefix to existing features vocabularies")
     group.add_argument('-src_vocab_size', type=int, default=50000,
                        help="Size of the source vocabulary")
     group.add_argument('-tgt_vocab_size', type=int, default=50000,
                        help="Size of the target vocabulary")
+    group.add_argument('-ctx_vocab_size', type=int, default=20,
+                       help="Size of the ctx vocabulary")
 
     group.add_argument('-src_words_min_frequency', type=int, default=0)
     group.add_argument('-tgt_words_min_frequency', type=int, default=0)
+    group.add_argument('-ctx_words_min_frequency', type=int, default=0)
 
     group.add_argument('-dynamic_dict', action='store_true',
                        help="Create dynamic dictionaries")
@@ -202,6 +214,8 @@ def preprocess_opts(parser):
                        help="Maximum target sequence length to keep.")
     group.add_argument('-tgt_seq_length_trunc', type=int, default=0,
                        help="Truncate target sequence length.")
+    group.add_argument('-ctx_seq_length_trunc', type=int, default=0,
+                       help="Truncate context sequence length.")
     group.add_argument('-lower', action='store_true', help='lowercase data')
 
     # Data processing options
@@ -409,6 +423,10 @@ def train_opts(parser):
                        help="""Log directory for Tensorboard.
                        This is also the name of the run.
                        """)
+    group.add_argument("-model_name", type=str,
+                       default="default",
+                       help="""name if the modek
+                       """)    
 
     group = parser.add_argument_group('Speech')
     # Options most relevant to speech
@@ -436,6 +454,8 @@ def translate_opts(parser):
                        help="Path to the test source data gcn")
     group.add_argument('-src_node2', required=False,
                        help="Path to the test source data gcn")
+    group.add_argument('-src_ctx', required=False,
+                       help="Path to the test ctx data gcn")
     group.add_argument('-src_morph', required=False, default='',
                        help="Path to the test morph data")
     group.add_argument('-src_dir',   default="",
@@ -467,12 +487,16 @@ def translate_opts(parser):
                        help='Maximum prediction length.')
     group.add_argument('-max_sent_length', action=DeprecateAction,
                        help="Deprecated, use `-max_length` instead")
-
+    
+    group.add_argument('-random_sampling',  action='store_true',
+                       help='use random sampling instead of beam search')
     # Alpha and Beta values for Google Length + Coverage penalty
     # Described here: https://arxiv.org/pdf/1609.08144.pdf, Section 7
     group.add_argument('-stepwise_penalty', action='store_true',
                        help="""Apply penalty at every decoding step.
                        Helpful for summary penalty.""")
+    group.add_argument('-context', action='store_true',
+                       help="""Apply context to translation.""")
     group.add_argument('-length_penalty', default='none',
                        choices=['none', 'wu', 'avg'],
                        help="""Length Penalty to use.""")
