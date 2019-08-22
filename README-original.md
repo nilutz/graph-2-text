@@ -43,7 +43,7 @@ python3 preprocess.py -train_src data/data-webnlg/train-webnlg-all-notdelex-src-
 -valid_node1 data/data-webnlg/dev-webnlg-all-notdelex-src-node1.txt \
 -valid_node2 data/data-webnlg/dev-webnlg-all-notdelex-src-node2.txt \
 -valid_tgt data/data-webnlg/dev-webnlg-all-notdelex-tgt.txt \
--save_data data/gcn_exp_webnlg -src_vocab_size 5000 -tgt_vocab_size 5000 -data_type gcn  
+-save_data data/webnlg_1_notdelex -src_vocab_size 5000 -tgt_vocab_size 5000 -data_type gcn  
 ```
 
 The argument ```-dynamic_dict``` is needed to train models using copy mechanism e.g., the model GCN_CE in the paper.
@@ -57,7 +57,7 @@ Using pre-trained embeddings in OpenNMT, need to do this pre-processing step fir
 export glove_dir="../vectors"
 python3 tools/embeddings_to_torch.py \
     -emb_file "$glove_dir/glove.6B.200d.txt" \
-    -dict_file "data/gcn_exp.vocab.pt" \
+    -dict_file "data/gcn_exp_webnlg1_delex.vocab.pt" \
     -output_file "data/gcn_exp.embeddings" 
 ```
 
@@ -65,7 +65,7 @@ python3 tools/embeddings_to_torch.py \
 After you preprocessed the files you can run the training procedure:
 ```
 
-python3 train.py -data data/gcn_exp_webnlg -save_model data/webnlg1_ -rnn_size 256 -word_vec_size 256 -layers 1 -epochs 10 -optim adam -learning_rate 0.001 -encoder_type gcn -gcn_num_inputs 256 -gcn_num_units 256 -gcn_in_arcs -gcn_out_arcs -gcn_num_layers 1 -gcn_num_labels 5 -tensorboard -gpuid 0 -model_name webnlg1
+python3 train.py -data data/gcn_exp_webnlg1_delex -save_model data/webnlg1_delex_emb -rnn_size 256 -word_vec_size 256 -layers 1 -epochs 10 -optim adam -learning_rate 0.001 -encoder_type gcn -gcn_num_inputs 256 -gcn_num_units 256 -gcn_in_arcs -gcn_out_arcs -gcn_num_layers 1 -gcn_num_labels 5 -tensorboard -gpuid 0 -model_name webnlg1_delex_emb 
 ```
 
 To train with a GCN encoder the following options must be set:
@@ -91,13 +91,22 @@ Add the following arguments to use pre-trained embeddings:
 
 ### Generate ###
 Generating with obtained model:
+DEV SET
 ```
-python3 translate.py -model data/webnlg1__webnlg1_acc_69.66_ppl_3.39_e10.pt -data_type gcn -src data/data-webnlg/dev-webnlg-all-delex-src-nodes.txt -tgt data/data-webnlg/dev-webnlg-all-delex-tgt.txt -src_label data/data-webnlg/dev-webnlg-all-delex-src-labels.txt -src_node1 data/data-webnlg/dev-webnlg-all-delex-src-node1.txt -src_node2 data/data-webnlg/dev-webnlg-all-delex-src-node2.txt -output data/data-webnlg/delexicalized_predictions_dev.txt -replace_unk -verbose
+python3 translate.py -model data/webnlg3Emb__webnlg3Emb_acc_70.35_ppl_3.29_e10.pt -data_type gcn -src data/data-webnlg/dev-webnlg-all-notdelex-src-nodes.txt -tgt data/data-webnlg/dev-webnlg-all-notdelex-tgt.txt -src_label data/data-webnlg/dev-webnlg-all-notdelex-src-labels.txt -src_node1 data/data-webnlg/dev-webnlg-all-notdelex-src-node1.txt -src_node2 data/data-webnlg/dev-webnlg-all-notdelex-src-node2.txt -output data/data-webnlg/delexicalized_predictions_dev.txt -replace_unk -verbose -report_bleu
+```
+
+TEST SET
+```
+python3 translate.py -model data/webnlg3_delex_emb_webnlg3_delex_emb_acc_65.82_ppl_4.18_e17.pt -data_type gcn -src data/data-webnlg/test-webnlg-all-delex-src-nodes.txt -tgt data/data-webnlg/test-webnlg-all-delex-tgt.txt -src_label data/data-webnlg/test-webnlg-all-delex-src-labels.txt -src_node1 data/data-webnlg/test-webnlg-all-delex-src-node1.txt -src_node2 data/data-webnlg/test-webnlg-all-delex-src-node2.txt -output data/data-webnlg/delexicalized_predictions_test.txt -replace_unk -verbose -report_bleu
 ```
 
 ### Postprocessing and Evaluation ###
 For post processing follow step 2 and 3 of WebNLG scripts.
-For evaluation follow the instruction of the WebNLG challenge [baseline](http://webnlg.loria.fr/pages/baseline.html) or run webnlg_eval_scripts/calculate_bleu_dev.sh .
+For evaluation follow the instruction of the WebNLG challenge [baseline](http://webnlg.loria.fr/pages/baseline.html) or run 
+
+    cd data/data-webnlg/
+    ../../webnlg_eval_scripts/calculate_bleu_dev.sh .
 For the SR11 task, scripts for the 3 metrics are the same as used for WebNLG [see](https://www.aclweb.org/anthology/W11-2832).
 
 ### WebNLG scripts ###
@@ -105,8 +114,8 @@ For the SR11 task, scripts for the 3 metrics are the same as used for WebNLG [se
 1. generate input files for GCN (note WebNLG dataset partitions 'train' and 'dev' are in *graph2text/webnlg-baseline/data/webnlg/*
 ```
 cd data/data-webnlg/
-python3 ../../webnlg_eval_scripts/webnlg_gcnonmt_input.py -i ./
-python3 ../../webnlg_eval_scripts/webnlg_gcnonmt_input.py -i ./ -p test -c seen #to process test partition
+python3 ../../webnlg_eval_scripts/webnlg_gcnonmt_input.py -i ./webnlg/
+python3 ../../webnlg_eval_scripts/webnlg_gcnonmt_input.py -i ./webnlg/ -p test -c seen #to process test partition
 ```
 (Make sure the test directory only contains files from the WebNLG dataset, e.g., look out for .DS_Store files.)
 
@@ -115,7 +124,7 @@ If we want to have special arcs in the graph for multi-word named entities then 
 Otherwise the graph will contain a single node, e.g. The_Monument_To_War_Soldiers.
 
 ```
-python3 ../../webnlg_eval_scripts/webnlg_gcnonmt_input.py -i ./ -e
+python3 ../../webnlg_eval_scripts/webnlg_gcnonmt_input.py -i ./webnlg/ -e
 ```
 
 To make source and target tokens lowercased, add ```-l``` argument. This applies only to **notdelex** version.
@@ -123,7 +132,7 @@ To make source and target tokens lowercased, add ```-l``` argument. This applies
 2. relexicalise output of GCN
 ```
 cd data/data-webnlg/
-python3 ../../webnlg_eval_scripts/webnlg_gcnonmt_relexicalise.py -i ./ -f delexicalized_predictions_dev.txt
+python3 ../../webnlg_eval_scripts/webnlg_gcnonmt_relexicalise.py -i ./webnlg/ -f ../data-webnlg/delexicalized_predictions_dev.txt
 ```
 To relexicalise specific partition only, e.g. test add the following argument:
 ```-p test```
@@ -132,13 +141,13 @@ Note: The scripts now read the file 'delex_dict.json' from the same directory of
 Note: The sorting of the list of files is added but commented out
 Note: the relexicalisation script should be run both for 'all-delex' and 'all-notdelex' too, as it does some other formattings needed before running the evaluation metrics.
 ```
-python3 ../../webnlg_eval_scripts/webnlg_gcnonmt_relexicalise.py -i ./ -f delexicalized_predictions_test.txt -c seen
+python3 ../../webnlg_eval_scripts/webnlg_gcnonmt_relexicalise.py -i ./webnlg/ -f ../data-webnlg/delexicalized_predictions_test.txt -c seen
 ```
 
 
 3. metrics (generate files for METEOR and TER)
 ```
-python3 webnlg_eval_scripts/metrics.py --td data/webnlg/ --pred data/webnlg/relexicalised_predictions.txt --p dev
+python3 webnlg_eval_scripts/metrics.py --td data/data-webnlg/ --pred data/data-webnlg/relexicalised_predictions.txt --p dev
 ```
 
 ### SR11 scripts ###
