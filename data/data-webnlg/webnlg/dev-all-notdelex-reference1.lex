@@ -851,7 +851,7 @@ english is spoken in great britain and the united states . a fortress of grey ic
 barack obama is both president of the us and african american , which is an ethnic group of the united states . a fortress of grey ice originates from the us .
 alcatraz versus the evil librarians is from the united states where english is spoken and the asian americans are an ethnic group .
 in great britain english is the language spoken . the same is true for the united states where there are many asian americans . it is also where a fortress of grey ice is from .
-native americans are an ethnic group in the united states .
+native americans in the united states are one of the ethnic groups of the country .
 a fortress of grey ice is from the united states , which has english as one of its languages .
 250 delaware avenue is located in the united states , where english is spoken . the president of the united states is the main leader , alongside joe biden , and an ethnic group in the country is white americans .
 a severed wasp is written in english , the language spoken in great britain . however , it originates from the united states where the president is barack obama and the native americans are an ethnic group .

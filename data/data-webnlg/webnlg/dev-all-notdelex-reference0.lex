@@ -851,7 +851,7 @@ the president is the primary leader of english language speaking united states ,
 a fortress of grey ice is from the united states where barack obama is the leader and the african americans are one of the ethnic groups .
 in the united states , english is the language , asian americans are an ethnic group and the book alcatraz versus the evil librarians was written .
 a fortress of grey ice is from the united states . that country has an ethnic group called asian americans and they speak english , same as in great britain .
-native americans in the united states are one of the ethnic groups of the country .
+native americans are an ethnic group in the united states .
 a fortress of grey ice is from the united states where the language is english .
 joe biden is a leader of the united states which is lead by a president . the white americans are one of the ethnic groups of the country which uses the english language and is where 250 delaware avenue is located .
 the english language is spoken in great britain and a severed wasp was written in it even though it comes from the united states . barack obama is the leader of the united states where native americans are an ethnic group .
