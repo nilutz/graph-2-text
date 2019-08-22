@@ -13,6 +13,7 @@ multi-bleu.perl
 
 #GPU Server specific notes
 README-gpuserver.md
+cmds*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
