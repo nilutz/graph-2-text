@@ -1,871 +1,871 @@
-peter stoger is the manager of fc kolin .
-1 fc magdeburg played in the 2014 season .
-103 colmore row was designed by the architect , john madin .
-103 colmore row is located at colmore row .
-11 diagonal street was completed in 1983 .
-11 diagonal street is located in south africa ( cyril ramaphosa is one of the leaders ) , the capital of which is cape town .
-cyril ramaphosa is one of the leaders of south africa , which capital is cape town . the address , 11 diagonal street is located in that country and one of the the ethnic groups is asian south africans .
-with the capital of cape town , south africa is the location of 11 diagonal street and has the ethnic groups of asian south africans and white south africans .
-11 diagonal street is in south africa . one south african group is the coloured .
-11 diagonal street is located in south africa , a country in which coloureds are one of the ethnic groups and jacob zuma is the leader .
-11 diagonal street is in south africa where the leader is jacob zuma . an ethnic group found there are white south africans .
-the municipality of gettysburg is located in adams county , pennsylvania which lies to the south of cumberland county and to the northwest of carroll county , maryland . it is the location of the 11th mississippi infantry monument which was established in 2000 and categorised as a contributing property within the united states .
-1634 : the bavarian crisis can be located by it ' s isbn number " 978 - 1 - 4165 - 4253 - 7 " . it is written by virginia demarce and eric flint and was put in print .
-eric flint is the author of 1634 : the bavarian crisis .
-born in burbank , california , eric flint wrote 1634 : the bavarian crisis which was preceded by 1634 : the baltic war .
-1634 : the bavarian crisis was preceded by 1634 : the baltic war ( author : david weber ) and followed by ring of fire ii which is written in english .
-1634 : the bavarian crisis is written by virginia demarce and eric flint and was preceded by grantville gazette iii .
-1634 : the bavarian crisis is the sequel to the grantville gazettes .
-eric flint is the author of ' 1634 : the ram rebellion ' which can be found as an e book .
-eric flint is the author of 1634 : the ram rebellion which has 512 pages and is available as an e - book .
-1634 : the ram rebellion was written by eric flint and can be found in hardcover .
-the hardcover book 1634 : the ram rebellion was written by eric flint and has the isbn number 1 - 4165 - 2060 - 0 .
-1634 : the ram rebellion was followed by 1635 : the cannon law .
-1634 : the ram rebellion , written by eric flint , virginia demarce . et al . , is 512 pages long and can be found as an e book .
-1634 : the ram rebellion was written by virginia demarce and has 512 pages . it can be found as an ebook and has the isbn number of 1 - 4165 - 2060 - 0 .
-the building at 20 fenchurch street was started in january 2009 .
-20 fenchurch street is located in london , which is currently led by the european parliament .
-20 fenchurch street is located in the united kingdom .
-20 fenchurch street is located within the united kingdom , where london is the capital , and the currency is pounds sterling . boris johnson is the leader in london , and one of the leaders of the united kingdom is elizabeth ii .
-the 200 public square was completed in 1985 .
-there are 45 floors at 200 public square in cleveland .
-200 public square is located in cleveland , cuyahoga county , ohio which is governed by cleveland city council .
-frank g jackson is the leader of cleveland , united states where 200 public square is located .
-construction beginning in january 2014 , postmodern art 250 delaware avenue has 12 floors with a total area of 30843 . 8 square meters .
-250 delaware avenue was built in buffalo new york at a cost of 110 million dollars . construction began in january 2014 and the building has 12 floors with an area of 30843 . 8 square metres .
-250 delaware avenue is located in buffalo , erie county , new york .
-250 delaware avenue is located in the united states , the leader of which was barack obama .
-there are 60 floors at 300 north lasalle .
-300 north lasalle is located in chicago , du page county , illinois , united states where the leader is susana mendoza .
-300 north lasalle is located in chicago ( the leader of which is rahm emanuel ) , united states .
-rahm emanuel is the leader of chicago , dupage county , illinois , united states which is the location of the building at 300 north lasalle which has 60 floors .
-there are 60 floors at 300 north lasalle in illinois .
-hok sve was the architect of 3arena .
-located in dublin , the 3arena whose architect was hok sve ) was completed in december 2008 .
-populous was the architect of 3arena in dublin which was completed in december 2008 .
-the 3arena is located at east link bridge .
-hok sve was the architect of the 3arena at north wall , dublin .
-3arena at east link bridge is owned by live nation entertainment .
-the owner of 3arena is live nation entertainment which is located in dublin , ireland .
-3 arena is located in dublin , the republic of ireland , where críona ní dhálaigh was lord mayor . the owner of 3arena is live nation entertainment .
-live nation entertainment owns 3arena , located in dublin , republic of ireland . the lord mayor of dublin is críona ní dhálaigh .
-3arena ( owned by live nation entertainment ) is located in dublin , republic of ireland . dáil éireann is a leader in dublin , which is part of leinster .
-3arena , owned by live nation entertainment , is located in beverly hills , california .
-a . c . cesena , in the serie b league , has 23900 members and is located is cesena .
-ac cesena are in the serie b league , the previous champions of which are carpi fc 1909 .
-massimo drago played for the club ssd potenza calcio and his own club was calcio catania . he is currently managing ac cesena .
-the full name of a . c . chievo verona is associazione calcio chievoverona s . r . l . and their home ground in verona , italy holds 39371 fans . the club played the 2014 - 15 season in serie a .
-ac chievo verona play in the serie a league and their home ground is stadio marc antonio bentegodi .
-italian born rolando maran manages associazione calcio chievo verona . he is also in the unione triestina 2012 s . s . d . club as well as playing for carrarese calcio .
-a . c . lumezzane ' s ground is in italy where the leader is pietro grasso .
-ac lumezzane has 4150 members and is in the lega pro / a league where they played in the 2014 season .
-michele marcolini , manager of a . c . lumezzane , was born in italy , owns torino f . c . and has been associated with f . c . bari 1908 .
-a c lumezzane played the 2014 - 2015 season in lega pro .
-a . d . isidro metapan ' s full name is " asociación deportiva " .
-a . d . isidro metapán are at estadio jorge calero suárez whose full name is isidro metapan and has 10000 members .
-jorge humberto rodríguez manages the a . d . isidro metapan , he played for the c . d . fas .
-a . e dimitra efxeinoupolis ' s full name is a . e dimitra efxeinoupolis .
-greece , led by alexis tsipras and nikos voutsis is the location of a . e . dimitra efxeinoupolis , where the language is greek .
-the a . e dimitra efxeinoupolis club is located in greece , where there are leaders called nikos voutsis and prokopis pavlopoulos .
-a . e . dimitra efeinoupolis has 1500 members and is in the epsth 2nd group league .
-a . e dimitra efxeinoupolis played in the 2014 season .
-a . e dimitra efxeinoupolis were in the 2014 – 15 a epsth . greece season .
-the manager of a . f . c . blackpool is stuart parker who is with drogheda united f . c and plays for runcorn f . c . halton .
-the manager of a . f . c . blackpool is stuart parker who was at drogheda united fc and once played for stockport county fc .
-gordon marsden is the leader of blackpool where afc blackpool are located . their manager is stuart parker who is a member of chesterfield fc and plays for kv mechelen .
-stuart parker is a member of the iriam town f . c . as well as the manager of a . f . c . blackpool and has also represented the kv mechelen club .
-the manager of a . f . c . blackpool is stuart parker ( footballer ) who plays for runcorn f . c . halton .
-the manager of a . f . c . blackpool is stuart parker ( footballer ) , who plays at the sparta rotterdam club .
-a . f . c . blackpool has 1500 members .
-the fylde is the home ground of afc fylde .
-afc fylde has the home ground called the fylde and has 3180 members .
-afc fylde has the full name " association football club fylde , " they have 3180 members and their ground is located in warton , fylde .
-a . f . c . fylde has 3180 members and are based at bryning lane .
-the full name of the italian club as gubbio 1910 is " associazione sportiva gubbio 1910 srl " . they played in the 2014 season and they have 5300 members .
-the fullname of a . s . gubbio 1910 is associazione sportiva gubbio 1910 srl and they competed in the 2014 season . their ground is called the stadio pietro barbetti and they have 5300 members .
-the ground of a . s . gubbio 1910 is located in italy .
-the fullname of a . s . livorno calcio is livorno calcio s . p . a . and their home ground is the stadio armando picchi . they competed in serie b during the 2014 - 15 season and has 19238 members .
-christian panucci , who has been attached to the genoa cfc and real madrid cf clubs , manages a . s . livorno calcio .
-a . s . livorno calcio is managed by christian panucci who plays for the italy national football team .
-a . s . livorno calcio has 19238 members .
-the " associazione sportiva roma s . p . a . " is the non - abbreviated name of a . s . roma which has 70634 members and a home ground in rome , italy .
-grounds being in rome , italy , a . s . roma to play in serie a .
-a . s . roma ' s fullname is associazione sportiva roma s . p . a . and they have 70634 members . their ground is in rome and the club played in serie a in 2014 - 15 .
-a . s . roma were in serie a in 2014 - 15 .
-a fortress of grey ice was written by j . v . jones and has the isbn number 0 - 7653 - 0633 - 6 .
-a fortress of grey ice was written by j . v . jones and is available in print . th book which has the isbn number 0 - 7653 - 0633 - 6 . it also has the oclc number 51969173 .
-a fortress of grey ice is a hardcover book .
-a glastonbury romance identified by isbn 0 - 7156 - 3648 - 0 was published in hardcover .
-a glastonbury romance , which can be found in hardcover , has the isbn number 0 - 7156 - 3648 - 0 as well as the oclc number 76798317 .
-a glastonbury romance has the isbn number 0 - 7156 - 3648 - 0 and is in print .
-a glastonbury romance has 1174 pages and is available in print .
-the isbn number of a long long way is 0 - 670 - 03380 - 4 .
-the isbn number of a long long way is 0 - 670 - 03380 - 4 , and its oclc number is 57392246 .
-faber and faber are the publishers of the secret scripture , a sequel to a long long way . that book comes from ireland which is located in europe and where there is an ethnic group of white people .
-a long long way ( followed by the book the secret scripture ) is written in the english language , which is spoken in great britain .
-published by viking press , the irish novel a long long way was preceded by annie dunne and followed by the secret scripture .
-the ethnic group of ireland is white people and is where a long long way comes from . it was preceded by annie dunne and followed by the secret scripture which is published by faber and faber .
-the book , a loyal character dancer , has the isbn number of 1 - 56947 - 301 - 3 .
-a loyal character dancer is published in the united states where the asian americans are one of the ethnic groups .
-a loyal character dancer was published by soho press in the united states , which counts african americans among its ethnic groups .
-a loyal character dancer is published by soho press which is located in the united states .
-a loyal character dancer was published by soho press in the united states where barack obama is the leader .
-a severed wasp can be found in print with the oclc number 8805735 and the library of congress classification of ps3523 . e55 s4 1982 .
-a severed wasp is available in print , with the library of congress classification ps3523 . e55 s4 1982 . its isbn number is 0 - 374 - 26131 - 8 , and its oclc number is 8805735 .
-madeleine l ' engle wrote " a severed wasp " .
-english is spoken in great britain and is the language used in a severed wasp . the book originates from the united states where the african americans are an ethnic group , .
-a severed wasp was published in hardback and has 388 pages . the oclc number of a severed wasp is 8805735 and the isbn number of " 0 - 374 - 26131 - 8 " .
-a severed wasp has an isbn number of " 0 - 374 - 26131 - 8 " , 388 pages and can be found in print .
-a wizard of mars was written by diane duane with on oclc number 318875313 .
-a wizard of mars is published in english .
-a wizard of mars is published in hardcover and has the isbn number 978 - 0 - 15 - 204770 - 2 .
-diane duane wrote a wizard of mars which was published in hardback and has the oclc number 318875313 .
-diane duane wrote a wizard of mars which is published in hardcover and has the isbn number 978 - 0 - 15 - 204770 - 2 .
-a wizard of mars , written by diane duane , is available in hardcover , has the isbn number 978 - 0 - 15 - 204770 - 2 and the oclc number 318875313 .
-a wizard of mars is 560 pages long and has the isbn number 978 - 0 - 15 - 204770 - 2 .
-marriott international is the tenant of the ac hotel bella sky copenhagen , denmark , which was designed by the architects of the 3xn firm .
-ac hotel bella sky is located in copenhagen , denmark and the tenant from the hotel is marriott international . it is own by bella center and there is 23 floors in that hotel .
-the tenant of the ac hotel bella sky copenhagen is marriott international . the hotel has 23 floors , was designed by the company 3xn and is owned by the bella center .
-marriott international is the tenant of ac hotel bella sky copenhagen and it has 23 floors .
-acf fiorentina play in serie a which is based in italy .
-acm transactions on information systems with the coden atiset is abbreviated as acm trans . inf . syst .
-acm transactions on information systems , or acm trans . inf . syst . , is part of the academic discipline of computer science and has an issn number of 1046 - 8188 .
-the acm transactions on information systems issn number is 1558 - 2868 . it is part of the academic discipline of computer science and abbreviated to acm trans . inf . syst .
-aek athens f . c . ground is in athens , they have 69618 members and they compete in the superleague greece .
-olympiacos f . c . were past champions in the greece superleague , the league aek athens fc compete in . their manager is gus poyet , whose club is real zaragoza even though he played for chelsea f . c .
-afc ajax is based in amsterdam where the leader is eberhard van der laan .
-afc ajax ( amateurs ) have the nickname " joden , godenzonen " .
-afc ajax has 5000 members .
-afc ajax ( amateurs ) has 5000 members play in the hoofdklasse league and competed in the 2014 season .
-afc ajax ( amateurs ) , who have 5000 members , played in the topklasse in the 2014 - 2015 season .
-frank de boer manages the afc ajax team .
-the manager of afc ajax is frank de boer who is in the ajax youth academy .
-afc ajax has 53502 members and is the owner of afc ajax nv .
-the aids journal was published by lippincott williams & wilkins in the united kingdom where elizabeth ii is the leader .
-the aids journal is published by lippincott , williams & wilkins in the united kingdom . the capital of the country is london and it ' s leader is elizabeth ii .
-aids journal is from the united kingdom whose leader is elizabeth ii .
-aip advances had the eissnnumber 2158 .
-a . t . charlie johnson , who lives in the us , is the editor of aip advances which is published by the american institute of physics .
-aip advances , or aip adv . , has a coden of aaidbi and is edited by a . t . charlie johnson .
-az alkmaar ' s fullname is alkmaar zaanstreek , it has 17023 members .
-alkmaar zaanstreek is the full name of az alkmaar who played in the 2014 season and has 17023 members .
-john van den brom plays for afc ajax and istanbulspor a . s . he manages az alkmaair which is owned by robert eenhoorn .
-john van den brom manages the az alkmaair and plays for vitesse arnhem and de graafschap .
-az alkmaar has 17023 members .
-azal pfk play their home matches at the azal arena in shuvulan .
-azal pfk play their home matches at the azal arena , and are in the azerbaijan premier league , who ' s championships name is the qarabag fk .
-azal pfk play their home matches at the azal arena in azerbaijan and they compete in the azerbaijan premier league where qarabag fk are champions .
-azal prk , known as the qarabag fk in the azerbaijan premier league is located in azal arena and has 3500 members .
-azal pfk is located at shuvalan , baku , azerbaijan .
-aarhus airport ' s runway length is 2702 . 0 .
-the leader of aarhus is jacob bundsgaard .
-abhandlungen aus dem mathematischen seminar der universität hamburg has the lccn number 32024459 .
-the area code of abilene , in texas , is 325 .
-abilene is a part of texas .
-abilene regional airport serves the city of abilene which is part of taylor county , texas , in the united states .
-abilene is in texas and is served by the abilene regional airport .
-with a runway length of 1 , 121 metres , abilene regional airport serves abilene , texas , in the united states .
-with a runway length of 2194 . 0 , abilene regional airport serves abiliene , part of jones county , texas , in the united states .
-abilene , texas is served by abilene regional airport which is 546 metres above sea level and has the icao location identifier of kabi . it has the runway name of 17l / 35r with a length of 2194 . 0 .
-serving the city of abilene in texas , is abilene regional airport . it has the icao location identifier kabi and the runway name 17r / 35l . the airport is 546 metres above sea level and has a runway length of 2194 . 0 .
-aenir and it ' s sequel above the veil are examples of austrlian literature .
-above the veil , from australia , is the third book in a series after aenir and castle .
-above the veil is an australian novel and the sequel to aenir and castle . it was later followed by into battle and the violet keystone .
-above the veil followed the book aenir and is written in english .
-above the veil is available in hardcover .
-above the veil is the sequel to aenir , which was written after castle .
-the academic staff size of accademia di architettura di mendrisio is 100 .
-the accademia di architettura di mendrisio in switzerland has a staff of 100 , the dean is named mario botta .
-the accademia di architettura di mendrisio in mendrisio , switzerland had 100 academic staff and 600 students . its dean is mario botta .
-the accademia di architettura di mendrisio is in switzerland . its dean is mario botta and it has 600 students .
-the accademia di architettura di mendrisio was established in switzerland in 1996 . it has 600 students . the leader of switzerland is the federal chancellor .
-the accademia di architettura di mendrisio is located in ticino , switzerland . it was established in 1996 and it has 600 students . the leader of switzerland is johann schneider - ammann .
-the accademia di architettura di mendrisio located in ticino , switzerland was established in 1996 . it has 600 students . switzerland ' s leader is federal chancellor johann schneider - ammann .
-the accademia di architettura di mendrisio ( dean - mario botta ) was established in 1996 , has an academic staff of 100 and is located in the city of mendrisio .
-acharya institute of technology ' s campus is located in soldevanahalli , acharya dr . sarvapalli radhakrishnan road , hessarghatta main road , bangalore , karnataka , india – 560090 . the institute ( president b m reddy ) was established in 2000 and is affiliated with visvesvaraya technological university .
-acharya institute of technology has an affiliation with visvesvaraya technological university ( belgaum ) and was given the ' technical campus ' status by the all india council for technical education , which is located in mumbai .
-the acharya institute of technology is affiliated with the visvesvaraya technological university and is located in bangalore , karnataka . to its northeast is telangana and to its west is the arabian sea .
-the campus address for the acharya institue of technology is : soldenvanahalli , acharya dr . sarvapalli radhakrishnan road , hessarghatta main road , bangalore - 560090 .
-the acharya institute of technology is located in soldevanahalli , acharya dr . sarvapalli radharkrishnan road , hessarghatta main road , bangalore - 560090 , india . it has 700 postgraduate students .
-acharya institute of technology is in bangalore , india in the state of karnataka . the school was established in 2000 and its director is dr . g . p . prabhukumar . the full address of the school is in soldevanahalli , acharya dr . sarvapalli radhakrishnan road , hessarghatta main road , bangalore – 560090 .
-the acharya institute of technology is located at in soldevanahalli , acharya dr . sarvapalli radhakrishnan road , hessarghatta main road , bangalore – 560090 , india . the school was established in 2000 and has 700 postgraduate students .
-in soldevanahalli , acharya dr . sarvapalli radhakrishnan road , hessarghatta main road , bangalore – 560090 is the location of the acharya institute of technology in india which is affiliated with the visvesvaraya technological university . the motto of the institute which was established in the year 2000 is " nurturing excellence " and there are 700 postgraduate students .
-the acharya institute of technology is located in bangalore , india and its motto is : " nurturing excellence " .
-acharya institute of technology ' s campus is located in soldevanahalli , acharya dr . sarvapalli radhakrishnan road , hessarghatta main road , bangalore – 560090 and the director is dr . g . p . prabhukumar .
-the acharya institute of technology ( director - dr . g . p . prabhukumar ) , is located in india , was established in 2000 and is affiliated with visvesvaraya technological university .
-the all india council for technical education gave the acharya institute of technology the status of " technical campus " . the official school colours are blue , white and orange .
-b . m . reddy is the president of the acharya institute of technology , which is located in bangalore , india .
-the acharya institute of technology in bangalore , india was established in 2000 . it is affiliated with the visvesvaraya technological university . its president is b . m . reddy and its directore is dr . g . p . prabhukumar .
-acharya institute of technology in bangalore , india was established in 2000 and is affiliated with visvesvaraya technological university . the school president is b . m . reddy and its director is dr . g . p . prabhukumar . the school ' s full address is in soldevanahalli , acharya dr . sarvapalli radhakrishnan road , hessarghatta main road , bangalore – 560090 .
-acharya institute of technology ( president b m reddy ) is located in soldevanahalli , acharya dr . sarvapalli radhakrishnan road , hessarghatta main road , bangalore , india – 560090 . the institute was established in 2000 , has 700 postgraduate students and is affiliated with visvesvaraya technological university of belgaum .
-the acharya insitute of technology offers tennis and it was established in 2000 . the tennis governing body is the international tennis federation .
-the international tennis federation , which is the sport ' s governing body , has agreed to let acharya institute of technology offer tennis at the school .
-the acharya institute of technology in mumbai , karnataka was given the " technological campus " status by the all india council for technical education ( located in mumbai ) . the acharya institute offers tennis and the sports governing body is the international tennis foundation . karnataka has the arabian sea to its west .
-acharya institute of technology is affiliated with visvesvaraya technological university in belgium . the institute was given technical campus ' status by the all india council for technical education in mumbai . the institute offers tennis which is governed by the international tennis federation .
-acta mathematica hungarica , or acta math . hungar . , has a lccn number of 83646315 and a issn number of 1588 - 2632 .
-acta mathematica hungarica is also known as acta math . hungar .
-the acta mathematica hungarica issn number is " 0236 - 5294 " and the abbreviation is acta math . hungar . it comes under the academic discipline of math .
-the acta mathematica hungarica covers the academic discipline of mathematics .
-acta mathematica hungarica is the publisher of springer science + business media , founded by julius springer .
-acta palaeontologica polonica has the coden code apgpac .
-acta palaeontologica polonica has the issn number 1732 - 2421 and an lccn number of 60040714 . the abbreviated name is acta palaeontol . pol .
-adams county , pennsylvania has carrol county , maryland to its southeast and pennsylvania ' s cumberland county is to the north of the adams county . the 11th mississippi infantry monument is in adams county of the municipality of gettysburg pennsylvania . .
-the 11th mississippi infantry monument is a contributing property located in adams county , pennsylvania , with franklin county to its west and carrol county , maryland to its southeast .
-the 11th mississippi infantry monument is located in the municipality of gettysburg , adams county , pennsylvania . adams county is east of franklin county and south of cumberland county . maryland ' s carrol county is located to the southeast .
-adams county , pennsylvania is the location of the 11th mississippi infantry monument . franklin county pennsylvania is to the west and frederick county to the south west .
-adare manor ' s building start was in 1700 .
-james pain was the architect of adare manor which was completed in 1862 and is owned by j p mcmanus .
-adare manor is located in the republic of ireland .
-the oclc number of addiction ( journal ) is 27367194 .
-the addiction journal concerns the topic of addiction and has the lccn number 93645978 . the abbreviated name is " addiction " and the issn number is 1360 - 0443 .
-addiction is the abbreviated version of the " addiction journal " which has the issn number 0965 - 2140 .
-wiley - blackwell is the publisher of the journal addiction .
-the government of addis ababa is the current tenant of the addis ababa city hall which is 42 metres high and has a floor area of 140000 . 0 ( square metres ) .
-addis ababa city hall is 42 m high and houses the government of addis ababa .
-adirondack regional airport is 507 metres above sea level .
-adirondack regional airport is located at harrietstown , new york .
-adirondack regional airport has a runway length of 1219 . 0 and serves the cities of saranac lake and lake placid , new york .
-admisham hall ' s architectural style is tudor and jacabian and the building is located in haputale , sri lanka .
-construction began in 1927 and finished in 1931 of adisham hall in sri lanka and was in the tudor and jacobean style .
-adisham hall in sri lanka was constructed between 1927 and 1931 at st benedicts monastery , adisham , haputhale , sri lanka in the tudor and jacobean style of architecture .
-adisham hall is located in haputale , sri lanka which has the capital city of sri jayawardenepura kotte . tamil is the language of the country .
-adisham hall is located in haputale , sri lanka . the capital of sri lanka is sri jayawardenepura kotte , the language used in the country is tamil and the currency is the sri lankan rupee .
-ranil wickremesinghe is the leader of sri lanka where the capital city is sri jayawardenepura kotte and the currency is the sri lankan rupee . adisham hall is located in the country at haputale .
-adisham hall is located in sri lanka , where they speak the tamil language .
-the adisham hall , which is located in sri lanka , was completed in 1931 and architectural style is tudor revival .
-construction of adisham hall in sri lanka began in 1927 and ended in 1931 . it was built in the tudor revival architectural style .
-the administrative science quarterly has a coden code of " ascqag " and the abbreviation of admin . sci . q .
-the lccn number of the administrative science quarterly is 57059226 .
-cornell university in ithaca , new york is the publisher of administrative science quarterly . the university is affiliated with the association of american universities .
-cornell university is affiliated with the association of public and land grant universities and published administrative science quarterly .
-cornell university is in ithaca , new york and is nicknamed cornell big red . they are the publisher of administrative science quarterly and are affiliated with the association of american universities .
-the administrative science quarterly is published by cornell university , ithaca , in the state of new york . cornell university ( nicknamed ' cornell big red ' ) is affiliated with the association of public and land grant universities .
-adolfo suárez madrid – barajas airport is in alcobendas and has a runway length of 3500 .
-adolfo suarez madrid barajas airport is located in alcobendas , spain , and operated by the madrid - based enaire .
-adolfo suárez madrid – barajas airport is found in san sebastián de los reyes .
-the adolfo suárez madrid – barajas airport located at san sebastian de los reye has a runway length of 3500 .
-the 14l / 32r runway of the adolfo suarez madrid - barajas airport in madrid has a length of 4100 . 0 .
-the adolfo suárez madrid – barajas airport is operated by enaire and can be found in madrid . the airport is situated 610 . 0 meters above sea level and has a 4 , 349 kilometers long runway whose name is 14l / 32r .
-adolfo suárez madrid - barajas airport runway name is 14l / 32r .
-14r / 32l is the name of the runway for adolfo suárez madrid – barajas airport .
-adolfo suarez madrid - barajas airport is located at madrid , paracuellos de jarama , san sebastián de los reyes and alcobendas and is operated by enaire . the runway name is 18r / 26l and is 3 , 500 in length .
-oclc number 45644811 is aenir .
-aenir , written by garth nix , was produced in print and has the oclc number 45644811 .
-written by garth nix , aenir , has the isbn number of " 0 - 439 - 17684 - 0 .
-aenir has the isbn number of " 0 - 439 - 17684 - 0 " , it was written by garth nix and was produced in print .
-the operating organization for afonso pena international airport is infraero .
-agra airport is in uttar pradesh bundelkhand , it ' s icao location identifier is viag . the leader of utterar pradesh is ram naik .
-agra airport is in uttar pradesh , which is part of awadh and bundelkhand , is located 167 . 94 metres above sea level .
-agra airport is in agra .
-the indian air force in india , operates agra airport which uses viag as its icao location identifier .
-agra airport is in india where one of its leaders is t . s . thakur .
-agra airport is located in uttar pradesh ( lead by ram naik ) which is part of awadh and bundelkhand .
-ram naik is the leader of uttar pradesh which is part of awadh and bundelkhand . it is the location of agra airport which has the native name of kheria air force station .
-agremiacao sportiva arapiraquense ' s ground is the estadio minicipal coaracy da mata fonseca , its located in brazil .
-agremiação sportiva arapiraquense play at their ground estadio minicipal coaracy da mata fonseca in the campeonato brasileiro série c league . the champions of this league are vila nova futebol clube .
-estádio municipal coaracy da mata fonseca is the name of the ground of agremiação sportiva arapiraquense . it is located in alagoas . agremiação sportiva arapiraquense play in the campeonato brasileiro série c league from brazil . the vila nova futebol clube were champions at the série c .
-vila nova futebol clube have been champions of campeonato brasileiro série c . league in brazil . agremiação sportiva arapiraquense also play in the league and have their home ground at estádio municipal coaracy da mata fonseca in arapiraca .
-the vila nova futebol clube were champions at the campeonato brasileiro série c . in brazil . agremiação sportiva arapiraquense who also play in the league have 17000 members and are managed by vica .
-agremiação sportiva arapiraquense , which has the nickname asa gigante , play in the campeonato brasileiro série c league from brazil . the league was previously won by vila nova futebol clube .
-brazilian football team agremiação sportiva arapiraquense play their football in the campeonato brasileiro série c league . campeonato brasileiro serie c is a brazilian league . agremiação sportiva arapiraquense competed in the 2015 campeonato brasileiro série c . the vila nova futebol clube were the winners at the campeonato brasileiro série c .
-agremiação sportiva arapiraquense play in the campeonato brasileiro série c league in brazil . vila nova futebol clube are the champions of this league .
-agremiacao sportiva arapiraquense are managed by vica .
-agremiação sportiva arapiraquense ( which is his full name ) has a club with 17000 members .
-agremiação sportiva arapiraquense competed in the 2015 campeonato brasileiro série c .
-the alternative name for ajoblanco is " ajo blanco " .
-from spain , ajoblanco ( alternatively known as ajo blanco ) has bread as an ingredient .
-bread is an ingredient of ajoblanco which originates from spain .
-from andalusia , spain , ajoblanco is made with bread , almonds , garlic , water and olive oil . ajo blanco is an alternative name to ajoblanco .
-bread , almonds , garlic , water , and olive oil are the main ingredients in ajoblanco , a food which originates from andalusia , in spain .
-water is an ingredient in ajoblanco , also known as ajo blanco , a dish that comes from andalusia spain .
-ajoblanco is from andalusia , in spain . ajoblanco contains water .
-ajoblanco , from andalusia , has almond as one of its ingredients .
-the main ingredients in ajoblanco are bread , almonds , garlic , water and olive oil .
-the main ethnic group in japan are the japanese and the leader is tarō asō . akita museum of art is in akita , akita which is part of japan and the akita prefecture .
-the akita museum of art has a floor area of 3746 . 66 square metres over 3 floors and was inaugurated on 28 september 2013 .
-the akita museum of art was inaugurated on 28th september 2013 .
-the akita museum of art is located in akita prefecture , akita , japan . one of the ethnic groups of japan is the filipinos .
-the akita museum or art is located in akita , within the akita prefecture , japan .
-3000 member strong akron summit assault , fullname " akron metro futbol club summit assault " , play in the 2011 pdl season . denzil antonio was previously their manager .
-the team akron summit assault are based in akron , ohio , usa .
-the akron summit assault team is based in akron , ohio , united states . they play in the premier development league , which has been won by k - w united fc .
-akron summit assault ' s ground is st . vincent - st . mary high school .
-st vincent - st mary high school is the ground of akron summit assault who play in the premier development league , of which k - w united fc have been champions .
-akron summit assault has 3000 members .
-k - w united fc were champions of the premier development league where akron summit assault ( which has 3000 members ) also play .
-al - taqaddum air base is 84 metres above sea level .
-al asad airbase is 618 ft above sea level and is located in al anbar province , iraq .
-operated by the united states air force , al asad airbase , in iraq , has a runway length of 3078 . 48 metres .
-al asad airbase is operated bt the united states air force which carried out the 1986 united states bombing of libya . its aircraft fighter is general dynamics f - 16 fighting falcon and the lockheed ac - 130 can be found on usaf aircraft carriers .
-al asad airbase is operated by the united states air force who participated in the battles during operation enduring freedom . they deploy the lockheed ac - 130 on their aircraft carriers and also make use of the aircraft fighter general dynamics f - 16 fighting falcon .
-al asad airbase is operated by the united states air force who deploy the lockheed ac - 130 as an attack aircraft and the mcdonnell douglas f - 15 eagle as a fighter aircraft . they also fought in the battles of operation enduring freedom .
-al asad airbase is operated by the united states air force . some of its aircraft include the boeing c - 17 globemaster iii ( transport aircraft ) , general dynamics f - 16 fighting falcon ( aircraft fighter ) , and the lockheed ac - 130 which can be found on usaf aircraft carriers . the usaf was involved in the invasion of panama .
-the united states air force has fought in the korean war . it is the operating organisation for al asad airbase . it has a boeing c - 17 globemaster iii transport aircraft and additionally , the lockheed ac - 130 can be found on usaf aircraft carriers . mcdonnell douglas f - eagle was a fighter aircraft of the united states air force .
-al asad airbase is operated by the united states air force who took part in the noted battles at the invasion of grenada . they deploy the lockheed ac - 130 attack aircraft and the general dynamics f - 16 fighting falcon as an aircraft fighter .
-the transport aircraft for the united states air force is the lockheed c - 130 hercules . and lockheed ac - 130 can be found on usaf aircraft carriers . both the korean war and the invasion of grenda involved the united states air force which currently operates the al asad airbase .
-the invasions of grenada and panama in involved the united states air force which now operates the al asad airbase . the air force has several types of aircraft such as the boeing c - 17 globemaster iii transport aircraft and the lockheed ac - 130 which can be found on usaf aircraft carriers .
-al asad airbase is operated by the united states air force which was involved in the invasion of grenada and the korean war .
-al asad airbase is operated by the united states air force which has the invasion of grenada as one of its noted battles as well as the operation enduring freedom .
-the united states air force who is the operating organisation for al asad airbase fought battles in the korean war and also in operation enduring freedom .
-al asad airbase is operated by the united states air force who fought in the operation of enduring freedom battle .
-the united states invasion of panama was a battle involving the united states air force who operate the al asad airbase .
-the construction of alan b miller hall , 101 ukrop way , began on 30th march 2007 .
-the mason school of business are the current tenants of alan b miller hall .
-the mason school of business is located in the us and they are the current tenants of alan b miller hall . robert a . m . stern is the architect for alan b . miller hall , which is situated in virginia .
-situated in virginia , united states , , alan b . miller hall was completed on 1st june 2009 . the current tenants are the mason school of business .
-the college of william and mary is the owner of the alan b . miller hall in virginia . the building was begun on 30 march 2007 .
-robert gates is the chancellor of the college of william and mary which is owned by alan b miller hall and is located in virginia .
-the mason school of business in the us are the current tenants of alan b miller hall in virginia .
-alan b miller hall is owned by the college of william and mary and located in williamsburg , virginia .
-alan b . miller hall , the building of which began 30 march , 2007 , is located in williamsburg , virginia and owned by the college of william and mary .
-robert a . m . stern is the architect of the alan b . miller hall where the mason school of business is located .
-alan bean was an american born in wheeler , texas . he served as a test pilot and became a crew member of apollo 12 , which was operated by nasa .
-alan bean was born on march 15 , 1932 in wheeler , texas and is american . he worked as a test pilot and was a member of apollo 12 , which was run by nasa . bean is retired .
-alan bean ( of the united states ) was a crew member of nasa ' s apollo 12 under the commander david scott .
-american alan bean was a member of nasa ' s apollo 12 which was commanded by david scott . bean , who was born in wheeler , texas , is now retired .
-alan bean was born in wheeler , texas and attended ut austin where he graduated in 1955 with a bs . prior to his retirement he served as a test pilot and was selected by nasa to serve as a crew member on apollo 12 alongside commander david scott .
-alan bean was under commander david scott on nasa ' s apollo 12 mission .
-alan shepard , who was born in new hampshire on november 18th , 1923 , graduated with a m . a . from nwc in 1957 and retired on august 1st , 1974 .
-alan shepard , born in new hampshire on november 18 , 1923 , graduated from nwc in 1957 with a m . a . he died in california on july 21 , 1998 .
-the american alan shepard was born on november 18 , 1923 , in new hampshire . he graduated with an m . a . from nwc in 1957 , and was hired by nasa in 1959 . shepard died in california .
-alan shepard was born on nov 18 , 1923 in new hampshire , us . he graduated from nwc in 1957 with an m . a . in 1959 he began working for nasa and was a member of apollo 14 . he died in california .
-the united states navy awarded the distinguished service medal to alan shepard .
-dianne feinstein is a senator in california where alan shepard died on july 21 1998 .
-alan shepard died in california .
-alan shepard was born on the 18th of november , 1923 in new hampshire . he graduated from nwc with a m . a . in 1957 and was selected by nasa in 1959 . his death place was california .
-alan shepard , born in new hampshire , has died in california . after graduating from nwc , ma in 1957 he served as a test pilot .
-alan shepard was born on nov 18 , 1923 in new hampshire , usa . he graduated from nwc in 1957 with an m . a . he worked as a test pilot before passing away in california .
-american test pilot alan shepard died in california and was born in new hampshire .
-alan shepard was born on november 18 , 1923 . murio in california . he was a test pilot rewarded with the medal of service distinguished from the sea - coast of the united states , medal of the united states navy is higher than the department of commerce gold medal .
-apollo 14 crew member alan shepard retired on the first of august , 1974 .
-alan shepard was born on november 18 , 1923 , in new hampshire . he served as a crew member on nasa ' s apollo 14 mission before retiring on august 1 , 1974 . shepard passed away in california .
-alan shepard was a test pilot born in new hampshire who nasa picked as a member of apollo 14 .
-the late alan shepard was born in new hampshire , and chosen by nasa in 1959 a a crew member of apollo 14 .
-alan shephard was born in new hampshire . he was won the american defence service ribbon . the united states navy also awarded him the distinguished service medal , which is higher than the department of commerce gold medal . he died on july 21st , 1998 .
-alba iulia is located in romania .
-alba iulia os part of the county of alba .
-albany , georgia has a mayor as leader .
-albany , oregon has a total area of 45 . 97 square kilometres .
-albany , oregon is in the u . s .
-the albuquerque city council has a leadership role in albuquerque , new mexico .
-albuquerque , new mexico is led by the state senate .
-alcatraz versus the evil librarian oclc number is 78771100 .
-the book alcatraz versus the evil librarians is followed by the book alcatraz versus the scrivener ' s bones .
-the united states is home to the ethnic group of african americans and is lead by barack obama . the country is the origin of the book alcatraz versus the evil librarians . this book was written in english , as spoken in great britain .
-the book alcatraz versus the evil librarians was written in english and comes from the united states where the capital city is washington dc and the african americans are an ethnic group .
-alcatraz versus the evil librarians is published in hardcover and has the isbn number 0 - 439 - 92550 - 9 .
-alcatraz versus the evil librarian , which is identified by isbn 0 - 439 - 92550 - 9 , has 320 pages .
-adolfo suárez madrid – barajas airport is located in alcobendas which is part of the community of madrid .
-the 1st runway at alderney airport is made from poaceae and has a length of 733 . 0 .
-poaceae is the surface of the 1st runway at alderney airport which has a runway with the length of 877 . 0 metres .
-the alderney airport serves alderney .
-allama iqbal international airport is located in punjab pakistan and serves lahore , pakistan . the pakistan civil aviation authority governs the allama iqbal international airport . the country is lead by anwar zaheer jamali .
-allama iqbal international airport is operated by pakistan civil aviation authority , the hq of which is at jinnah international airport .
-the pakistan civil aviation authority has headquarters at jinnah international airport and governs the allama iqbal international airport in punjab , pakistan which is lead by the provincial assembly of the punjab .
-the pakistan civil aviation authority is the operating organisation of the allama iqbal international airport . the airport serves the city of lahore , in pakistan where shehbaz sharif is the leader , it is also where the allama iqbal international airport is found , in punjab , pakistan .
-18r / 36l is the runway name at allama iqbal international airport .
-alpena county regional airport serves alpena , michigan and is located at maple ridge township , alpena county , michigan . it has a runway length of 1533 . 0 and is 210 metres above sea level .
-located in wilson township , alpena county , michigan , alpena county regional airport has an elevation of 210 metres above sea level and a runway length of 1 , 533 metres .
-the location of alpena county regional airport is wilson township , alpena county , michigan , united states .
-the runway length of alpena county regional airport is 1 , 533 .
-alpena country regional airport runway name is 1 / 19 / .
-amarillo is in texas , in the united states .
-amarillo is part of potter county in texas .
-amarillo is in texas , in the united states .
-tomatoes , guanciale , cheese , and olive oil are main ingredients in the traditional amatriciana sauce , which comes from the region of lazio and can be found in an italian meal .
-tomato is an ingredient in amatriciana sauce which comes from lazio .
-the architecct b v doshi designed amdavad ni gufa .
-narendra modi and sumitra mahajan are leaders in india where amdavad ni gufa is located in ahmedabad .
-the address for amdavad ni gufa is lalbhai dalpatbhai campus , near cept university , opp . gujarat university , university road , gujarat , ahmedabad , india .
-amdavad ni gufa is located in gujarat , ahmedabad , india . gujarat ' s leader is known as the gujarat legislative assembly , and the leader of india is narendra modi .
-amdavad ni gufa is located in ahmedabad , gujarat , india ; led by the gujarat legislative assembly , including leader t s thakur .
-amdavad ni gufa is located in ahmedabad , gujarat , india . t s thakur was an indian leader .
-the american journal of mathematics , abbreviated to am . j . math , whose academic discipline is mathematics has issn no . 1080 - 6377 .
-the american journal of mathematics is abbreviated to am . j . math . and comes under the discipline of math . it is published bimonthly and has the issn number 1080 - 6377 .
-the american journal of mathematics was first published in 1878 and is also known by the abbreviated title of am . j . math . it has an issn number of 1080 - 6377 .
-the academic discipline of the american journal of mathematics is mathematics , published in 1878 .
-the impact factor of the american journal of mathematics is 1 . 337 .
-ampara hospital is located in sri lanka .
-ampara hospital is located in the ampara district in sri lanka .
-the 476 bed ampara hospital is located in ampara district , sri lanka .
-sri jayawardenepura kotte is the capital of sri lanka , where ampara hospital is located .
-the 476 bed ampara hospital is situated in the eastern province state of sri lanka where austin fernando is the leader . the country ' s leader is ranil wickremesinghe .
-ampara hospital is in eastern province , sri lanka . ranil wickremesinghe is a leader there .
-ampara hospital is located in the eastern province of sri lanka , where the currency is the ski lankan rupee . one of the leaders of sri lanka is ranil wickremesinghe .
-amsterdam airport schiphol serves the city of amsterdam .
-amsterdam airport , schipol which serves the city of amsterdam is located at - 3 . 3528 metres above sea level and has a runway length of 3500 .
-the city of amsterdam is served by amsterdam airport schiphol which is - 3 . 3528 metres above sea level . it has a runway length of 2014 . 0 meters and 06 / 24 , kaagbaan , is the runway name .
-the schipol group are the operators of amsterdam airport schiphol , which is - 3 . 3528 above sea level .
-amsterdam - centrum is part of amsterdam .
-anaheim , in california , has the area code 657 .
-anderson , indiana is part of adams fall creek , lafayette , richland , union .
-andrews county , texas is country seat to andrews , texas .
-andrews county airport is 973 metres above sea level and the 4th runway is made of asphalt .
-andrews country airport ' s city is served by andrews , texas .
-located in texas , and serving andrews , is andrews county airport . the airport is 973 . 0 below sea level , has a runway length of 896 , and a runway with the name 11 / 29 .
-andrews county airport is located in texas , the capital of which is austin .
-the demonym for the people of texas is tejano and the spoken language is english . the state is the location of andrews county airport and has the capital city of austin .
-andrews county airport , texas is in the united states . the inhabitants of texas , texans , speak english .
-andrews county airport is in texas , united states , where the people are known as texans and spanish is spoken .
-andrews county airport is in texas in the u . s . a . where spanish is one of the languages spoken . houston is the largest city in the state and its capital is austin .
-houston is the largest city in texas , where austin is the capital city . andrews county airport is located in texas and some texans can speak spanish .
-andrews county airport is located in texas in the united states . in texas , the capital city is austin and the largest city is houston .
-andrews county airport is located in texas ( united states ) , where houston is the largest city .
-andrews country airport runway name is 11 / 29 .
-the name of the runway at andrews county airport is helipad .
-angola is in pleasant township which is part of steuben county , in indiana .
-angola international airport city served is luanda .
-angola international airport serves the city of luanda , it is 159m above sea level .
-angola international airport is located in ícolo e bengo , angola .
-the angola international airport is in ícolo e bengo , ( luanda province ) , the airport serves luanda , and is 159 metres above sea level .
-angola international airport is located in icolo e bengo angola , it has a runway length of 4000ft .
-angola international airport is located in ícolo e bengo , luanda , angola . the runway is 4000ft long and is 159m a . s . l .
-angola international airport is located at ícolo e bengo in angola and the runway is named " south runway " .
-at 159 meters above sea level , angola international airport is located at ícolo e bengo , part of luanda province , in angola .
-a city administrator leads ann arbor , michigan .
-mayor , is the title of the leader in ann arbor , michigan .
-the city of ann arbor , michigan , has a population of 1580 . 7 as per square kilometre .
-antioch , ca is 13 above sea level .
-the leader title of antioch , california , is california ' s 11th state assembly district .
-bandeja paisa comes from the antioquia department of colombia .
-the flemish government runs the flemish region in belgium where antwerp is served by antwerp international airport .
-antwerp international airport which has an elevation of 12 . 0 metres above sea level is owned and operated by the flemish government .
-antwerp international airport , operated by the flemish department of mobility and public works , is 12 metres above sea level .
-the flemish department of mobility and public works is the operating organisation and owner of antwerp international airport that serves the city of antwerp .
-the flemish department of mobility and public works is the operating organisation of antwerp international airport which is owned by the flemish region . the airport serves the city of antwerp , is 12 . 0 metres above sea level , and has a runway length of 600 . 0 .
-william anders was the backup pilot on apollo 11 .
-alan bean ( born in wheeler , texas ) was a crew member of apollo 12 operated by nasa and was in space 100305 minutes . apollo 12 was commanded by david scott and alfred worden was a backup pilot .
-the backup pilot to apollo 12 was alfred worden and also part of apollo 12 were alan bean and commander david scott who were all chosen by nasa .
-the apollo 14 was operated by nasa .
-the apollo 8 operator is nasa .
-appleton international airport serves the city of appleton which is part of kimberly , wisconsin , as is little chute .
-appleton , grand chute , wisconsin is a city which is served by appleton international airport .
-appleton international airport ( in greenville , wisconsin ) has an elevation of 280 metres above sea level , serves the city of appleton , and has a runway length of 2 , 439 .
-the city of appleton is served by appleton international airport located 280 metres above sea level in greenville , wisconsin . the runway at the airport is 3 / 21 and is 2439 in length .
-the appleton international airport is in greenville which is part of clayton winnebago county , wisconsin , in the united states .
-the city of appleton is served by appleton international airport in greenville ( part of menasha ) , clayton winnebago county , wisconsin , united states .
-appleton international airport , which serves appleton , wisconsin , is located in greenville , wisconsin which is part of both menasha and dale .
-new zealand ' s ardmore airport ' s second runway has the surface type poaceae which is part of the poales order .
-ardmore airport ( new zealand ) ' s 3rd runway surface type is poaceae of the class monocotyledon .
-the 3rd runway at ardmore airport ( new zealand ) is made of poaceae which is of the order poales and belongs to the division of flowering plants .
-poaceae is of the order poales , the class of monocotyledon and belongs to the order of commelinids . it constitutes the surface of the 3rd runway at ardmore airport in new zealand .
-the ardmore airport , new zealand is in auckland .
-ardmore airport in new zealand is operated by the civil aviation authority and is 34 metres above sea level . it has a runway named 03r / 21l which is 1 , 411 long and its third runway has a poaceae surface .
-the ardmore airport in new zealand is 34 meters above sea level and has a runway length of 597 . 0 . it has the runway name 03r / 21l and the 3rd runway is made of poaceae .
-arem - arem , a javanese dish , is commonly served in indonesia where the leader is joko widodo . it is also where the currency is the indonesian rupiah and where indonesian language is the language spoken .
-arem arem originates from the country of indonesia , where two of the leaders are , joko widodo and jusuf kalla .
-arem - arem is a food found nationwide in indonesia , but is more specific to java . jusuf kalla is the leader of indonesia .
-lemper , a dish variation of arem - arem contains banana leaf in which is cooked compressed rice with vegetables or minced meat fillings and is a form of javanese cuisine .
-arem - arem is a food that is found nationwide in indonesia , but more specific to java , it can be served as a main course and has a banana leaf in it . it ' s main ingredients are compressed rice cooked in banana leaf with vegetables or minced meat fillings .
-arem arem comes from indonesia .
-arem - arem uses the ingredient banana leaf , it is a common dish in indonesia .
-arem - arem is found nationwide in indonesia , but is more specific to java .
-arlington texas is has an elevation of 184 above sea level .
-olive oil is an ingredient used in the preparation of arrabbiata sauce , found in italy .
-arrabbiata sauce is found in italy where the capital city is rome .
-sergio mattarella is a leader in italy , a country where rome is the capital , and both the people and the language spoken are italian . arrabbiata sauce can be found in italy .
-the leader of italy is sergio mattarella , it is also where italian is spoken and the arrabbiata sauce is from .
-arrabbiata sauce , a traditional dish from rome in italy , has chili pepper as one of its important ingredients .
-arrabbiata sauce originates from the region of rome in italy . it is made with tomatoes , red chili , garlic and olive oil .
-garlic is an ingredient in arrabbiata sauce which originates from the region of rome , in italy .
-tomatoes are found in arrabbiata sauce which comes from italy .
-arrabbiata sauce is made with tomatoes , red chili , garlic and olive oil .
-arròs negre is from spain , it includes squid .
-arros negre is a traditional dish from the catalonia region of spain . the main ingredients of arros negre are white rice , cuttlefish or squid , cephalopod ink , and cubanelle peppers .
-the main ingredients of arròs negre , which is from spain , are white rice , cuttlefish or squid , cephalopod ink , cubanelle and cubanelle peppers . arròs negre is from the catalonia region .
-arros negre contains squid and comes from the catalonia region of spain .
-cuttlefish is an ingredient in arros negre .
-squid is an ingredient of arros negre .
-cuttlefish is an ingredient in arròs negre which comes from the region of the valencian community , in spain .
-arros negre is a traditonal dish from the valencian community , spain . it has the main ingredients of white rice , cuttlefish or squid , cephalopod ink and cubnelle peppers .
-cuttlefish is an ingredient in arros negre which comes from the region of valencian community .
-ximo puig is a leader of the valencian community which is where arros negre comes from . it is a a traditional dish from spain , where the people are called spaniards and the leader is felipe vi of spain .
-asam pedas is a food found in malaysia .
-the main ingredients of asam pedas , a food from the sumatra and malay peninsula regions of malaysia , consist of fish cooked in a sour and hot sauce .
-asam pedas is found in the region of sumatra and malay peninsula in malaysia . it can also be called asam padeh and it ' s ingredients are fish cooked in sour and hot sauce .
-asam pedas is a food found in the malay peninsula of malaysia , whose capital is kuala lumpur , and includes the malaysian chinese and malaysian indians .
-malaysian indian and malaysian chinese are two of the ethnic groups in malaysia where arifin zakaria is the leader . asam pedas is found in malaysia and is from the malay peninsula region .
-asam pedas is a food found in malaysia and sumatra . malaysian malay is an ethnic group in malaysia and sumatra has an ethnic group called the minangkabau people .
-asher and mary isabelle richardson house was added to the national register of historic places on " 1988 - 11 - 22 " .
-the asher and mary isabelle richardson house is located on u . s . route 83 and has the reference number 88002539 in the national register of historic places .
-the asher and mary isabelle richardson house located on us route 83 and built in 1911 was added to the national register of historic places , on 22nd november 1988 .
-ashgabat international airport ( located in ashgabat ) is elevated 211 metres above sea level and has a runway length of 3800 .
-turkmenistan airlines operates ashgabat international airport in ashgabat . the airport is 211 metres above sea level , has the runway length of 2989 . 0 and 12r / 30l is the runway name .
-the runway length at ashgabat international airport , located in ashgabat , is 3800 . 0 .
-san francisco born architect julia morgan designed many significant buildings including the asilomar conference grounds , the los angeles herald examiner building and the asilomar state beach .
-born in california , julia morgan has designed buildings such as los angeles herald examiner building and the riverside art museum , and was also the architect of the grounds of asilomar conference .
-julia morgan , who was born in california , designed the asilomar conference grounds , the los angeles herald examiner building , the riverside art musuem and hearst castle .
-asilomar conference grounds were designed by julia morgan ( born in california ) , who is known for a number of buildings , including hearst castle and the riverside art museum , and her work in san francisco ' s chinatown .
-asilomar conference grounds , asilomar blvd . , pacific grove , california has a reference number in the national register of historic places of : 87000823 .
-asilomar conference grounds at pacific grove , california was added to the national register of historic places on february the 27nd 1987 .
-asilomar conference grounds are located in pacific grove , california and was added to the national register of historic places on february the 27nd 1987 . its reference number in the national register of historic places is 87000823 , .
-the asilomar conference grounds were constructed in 1913 . they are located in pacific grove , california and they were added to the national register of historic places on february 27th 1987 ( with reference number 87000823 ) . the grounds are in the architectural style of the arts and crafts movement .
-asser levy public baths , built in 1904 in a romanesque revival style , is located at 23rd street ( manhattan ) . the site was added to the national register of historic places on 1980 - 04 - 23 , with reference number 80002709 .
-asser levy public baths is located on 23rd street , manhattan , and was constructed in 1904 .
-the asser levy public baths are located in asser levy place , east 23rd street and were added to the national register of historic places on 1980 - 04 - 23 , with the number 80002709 .
-the asser levy public baths are found in new york city , new york , united states . another part of new york city is manhattan where gale brewer is the leader .
-the asser levy public baths are located in new york city , u . s . manhattan is a borough in new york city .
-asser levy public baths are in new york city , u . s . which is part of manhattan . new york city was part of new netherland .
-the asser levy public baths was built in 1904 .
-asterix was created by rene goscinny .
-the comic strip character asterix was created by albert uderzo and rene goscinny .
-the atatürk monument in izmir was designed by pietro canonica .
-ankara is the turkish capital and the country ' s leader ' s name is ahmet davutoglu . the atatürk monument ( i̇zmir ) can be found in turkey . pietro canonica designed the monument and it is made of bronze . the ataturk monument was inaugurated on 27th july , 1932 .
-ankara is the capital of turkey where the currency is the turkish lira and the leader is ahmet davutoglu . izmir is located in the country and is the site of the bronze ataturk monument which was inaugurated in izmir on 27 july 1932 , having been designed by pietro canonica .
-the inauguration date for the atatürk monument ( i̇zmir , turkey ) is 1932 - 07 - 27 .
-the atatürk monument in izmir is made of bronze .
-athens international airport is in spata and serves the city of athens .
-athens international airport serves the city of athens and has a runway length of 3800 . 0 .
-the athens international airport serves the city of athens , in greece where alexis tsipras is the leader .
-athens international airport is in spata .
-athens mayor is giorgos kaminis .
-with a runway length of 1 , 873 , atlantic city international airport is located in egg harbor township , new jerse y ( part of atlantic county ) in the united states .
-atlantic city international airport has a runway length of 1 , 873 and is operated by the port authority of new york and new jersey . it is situated 23 metres above sea level , has the runway name of 4 / 22 and is known by the icao location identifier kacy .
-atlantic city international airport , which has a runway with the name is 4 / 22 , is located in egg harbor township , in new jersey , united states .
-atlantic county , new jersey is located in the united states .
-attica is part of fountain county indiana .
-auburn is part of alabama .
-created by len wein , aurakles ' s alternative name is also aurakles .
-the comic character auron was created by walt simonson and the american , karl kesel .
-the comic character auron was created by marv wolfman .
-the genus of the avocado is persea .
-ayam penyet is a food found in java and the main ingredients are " squeezed " or " smashed " chicken served with sambal .
-ayam penyet is made from squeezed or squashed chicken served with sambla and is a popular dish in java , malaysia .
-malaysian chinese is an ethnic group from malaysia and ayam penyet is from there . ayam penyet is also from indonesia and it contains fried chicken as well as " squeezed " or " smashed " chicken served with sambal .
-ayam penyet is a javanese dish made nationwide , and can also be found in malaysia and singapore . it should be served hot and contains the main ingredients of squeezed or smashed fried chicken served with sambal .
-ayam penyet should be served hot .
-the capital of azerbaijan is baku and the leader and prime minister of azerbaijan is called artur rasizade . the baku turkish martyr ' s memorial is located in azerbaijan and the legislature is known as the national assembly .
-baku , the capital of azerbaijan is the location of the turkish martyrs memorial dedicated to the soldiers of the ottoman army killed in the battle of baku . the memorial was designed by huseyin butuner and hilmi guner .
-the national assembly is the official legislature of azerbaijan which is lead by a prime minister . the capital city is baku which is the location of the memorial designed in red granite and white marble by huseyin butuner and hilmi guner . the memorial is dedicated to the ottoman army soldiers who were killed in the battle of baku .
-baku is the capital of azerbaijan and the leader of the legislature ( the national assembly ) is artur rasizade . azerbaijan is the location of the baku turkish martyrs memorial .
-the baku turkish martyr ' s memorial which is dedicated to the soldiers of the ottoman army who were killed in the battle of baku is located in azerbaijan . at present artur rasizade is the leader of the country .
-the red granite and white marble baku turkish martyrs ' memorial is dedicated to the ottoman army soldiers killed in the battle of baku , and is located in baku , azerbaijan , where the leader is artur rasizade .
-azerbaijan leader ' s name is artur rasizade .
-the baku turkish martyrs ' memorial , which is dedicated to the ottoman army soldiers killed in the battle of baku , is located in azerbaijan , where the official leader ( prime minister of azerbaijan ) is called artur rasizade .
-the baku turkish martyrs ' memorial was designed by huseyin butuner and hilmi guner and is located in azerbaijan . it is dedicated to the ottoman army soldiers killed in the battle of baku . the leader , the prime minister of azerbaijan is artur rasizade .
-tony hall , baron hall of birkenhead , is a key person at the bbc which is located in london and broadcast bananaman .
-bacon and sausage are the main ingredients in a bacon explosion , which comes from the united states .
-a sausage is used when making a bacon explosion which has the united states to thank for inventing it .
-the bacon explosion comes from the kansas city metro area in the u . s . the main ingredient in it is bacon and also includes sausage .
-one of the ethnic groups in the united states are native americans , the country is also the home of the dish bacon explosion and has wasington d . c . as it ' s capitol city .
-the united states is the country of bacon explosion . barack obama is the leader and washington d . c . is the capital .
-bacon explosion is a dish that originates in the united states , where english is the language spoken and the capital is washington dc . barack obama is leader of the us and native americans are one of the ethnic groups of the country .
-the united states , where john roberts is a leader , is the country of the bacon explosion .
-the bacon explosion originated in the united states , where african americans are an ethnic group and john roberts is a leader .
-bacon explosion comes from the united states , where one of the leaders is paul ryan . it is also where asian americans are one of the ethnic groups and washington , d . c . is the capital .
-bacon is an ingredient in the main course dish ' bacon explosion ' .
-a bacon sandwich on bread is also known as bacon butty , bacon sarnie , rasher sandwich , bacon sanger , piece ' n bacon , bacon cob , bacon barm , or bacon muffin .
-bacon sandwiches are popular in the uk , have a variant called a blt , include the ingredient bacon and sometimes go by the name of : bacon butty , bacon sarnie , rasher sandwich , bacon sanger , piece ' n bacon , bacon cob , bacon barm and bacon muffin .
-bacon sandwich is a dish from the united kingdom and a variation is the blt . an ingredient used is brown sauce and it ' s different names include bacon butty , bacon sarnie , rasher sandwich , bacon sanger , piece ' n bacon , bacon cob , bacon barm and bacon muffin .
-bacon sandwiches are variations of blt and come from the u . k . condiments are found in these sandwiches .
-from the united kingdom , the bacon sandwich ' s main ingredients are bread and bacon and a condiment , often ketchup or brown sauce . it can also be known as a bacon butty , bacon sarnie , rasher sandwich , bacon sanger , piece ' n bacon , bacon cob , bacon barm , or bacon muffin .
-baked alaska comes from china , where standard chinese is spoken .
-baked alaska is thought to have originated in the united states , france or china , and contains christmas pudding as an ingredient .
-meringue is an ingredient of a baked alaska , which is from the new york region and france .
-baked alaska originates from france where the national language is french and one of the leader is gerard larcher . the dessert is served in hong kong as well where the leader is carrie lam .
-sponge cake is one of the ingredients in baked alaska , a dish from the new york region and found in the united states .
-baked alaska is a dessert .
-baked alaska and cookies are types of dessert .
-christmas pudding is an ingredient in the dessert baked alaska . cookie is also a dessert .
-sandesh ( confectionery ) is a dish that can be served as a dessert . another dish that is a dessert is baked alaska which has christmas pudding as an ingredient .
-baked alaska has the main ingredients of meringue , ice cream and sponge cake ( or christmas pudding ) . it is found in france , the us , china , hong kong , new york and paris .
-baked alaska comes from either paris , new york usa or hong kong . meringue , ice cream , sponge cake or christmas pudding are main ingredients in baked alaska .
-bakewell pudding was created in 1820 at the rutland arms , bakewell and has ground almond , jam , butter and eggs as main ingredients .
-bakewell tart , made with shortcrust pastry , is a variation of bakewell pudding .
-the bakewell tart is popular in the derbyshire dales area which is part of derbyshire . it ' s a variant of bakewell pudding and uses frangipane .
-bakewell tart is a variation of bakewell pudding that originates from the derbyshire dales . it is a dessert that has the main ingredients of ground almond , jam , butter and eggs .
-from the derbyshire dales region ( in derbyshire ) , isbakewell pudding . a variation of which , is bakewell tart , its main ingredient is shortcrust pastry .
-bakewell tart ( or pudding ) is from the derbyshire dales area of derbyshire where patrick mcloughlin is a leader . the tart is made with shortcrust pastry .
-an ingredient of bakewell tart is frangipane .
-the dish bakso contains noodles .
-vermicelli is an ingredient in bakso .
-the baku turkish martyrs memorial in azerbaijan was designed by hüseyin bütüner and hilmi güner and is dedicated to ottoman army soldiers killed in the battle of baku .
-the baku turkish martyrs ' memorial in azerbaijan is dedicated to the ottoman army soldiers killed in the battle of baku and was designed by huseyin butuner and hilmi guner . the monument is also known by the native name türk şehitleri anıtı . azerbaijan ' s leader is artur rasizade .
-huseyin butuner and hilmi guner designed the red granite and white marble baku turkish martyrs memorial in azerbaijan . it is also known as turk sehitleri aniti and is dedicated to the soldiers of the ottoman army killed in the battle of baku .
-the baku turkish martyrs memorial has been dedicated to ottoman army soldiers killed in the battle of baku and is made of red granite and white marble .
-the baku turkish martyrs ' memorial is located in azerbaijan .
-azerbaijan , where the leader is artur rasizade , is the location of the baku turkish martyrs memorial . the memorial was designed by huseyin butuner and hilmi guner .
-the baku turkish martyrs ' memorial was designed by huseyin butuner and hilmi guner , and is located in azerbaijan , where it is called turk sehitleri aniti .
-the materials used for the baku turkish martyrs ' memorial is red granite and white marble .
-the baku turkish martyrs ' memorial , designed by huseyin butuner and hilmi guner and made of granite and white marble , is dedicated to the ottoman army soldiers killed in the battle of baku . the memorial is found in azerbaijan whose leader is the prime minister .
-the native name of the baku turkish martyrs ' memorial is turk sehitleri aniti and is made of red granite and white marble .
-the comic character , balder , was created by jack kirby .
-doug moench was the creator of the comic character ballistic , who has the alternative name kelvin mao .
-starring graeme garden , bananaman , the tv series was shown on the bbc .
-bananaman is broadcast by stv .
-bananaman first aired on 3rd october 1983 .
-bill oddie stars in bananaman .
-bill oddie starred in bananaman which first aired on 3 october 1983 and was broadcast by stv .
-bill oddie , who stars in bananaman , was born in lancashire .
-bananaman was shown on the bbc , first airing on 3 october 1983 and the final broadcast being 15 april 1986 . it was created by john geering and starred tim brooke taylor .
-tim brooke - taylor was the star of bananaman , an stv series first aired on 10 / 03 / 1983 and created by steve bright .
-part of columbian cuisine , bandeja paisa ( which has kidney beans as one of the ingredients ) , comes from antioquia department area .
-chorizo is an ingredient in the dish bandeja paisa .
-bandeja paisa is a dish from colombian cuisine and originates from the paisa region . one of the ingredients in bandeja paisa is lemon which is a member of the family rutaceae and is from the genus citrus .
-lemon ( part of genus citrus ) is an ingredient in bandeja paisa .
-bandeja paisa is typical colombian cuisine that originates from the paisa region and contains lemon . the lemon belongs to the rutaceae family and the order of rosids .
-bandeja paisa is a colombian dish from the paisa region . its main ingredients include red beans , pork belly , white rice , ground meat , chicharon , fried egg , plantain ( patacones ) , chorizo , arepa , hogao sauce , black pudding ( morcilla ) , avocado and lemon .
-acharya institute of technology was founded by kempe gowda i in bangalore in the state of karnataka . it has the arabian sea to its west and is affiliated with visvesvaraya technological university .
-barny cakes , which are made from sponge cake , are from france , where gerard larcher and claude bartolone are leaders and french is the language spoken .
-created by mondelez international ( founded in chicago ) , barny cakes come from france where gerard larcher is leader and they speak french .
-barny cakes come from france where gerard larcher and claude bartolone are leaders .
-mondelez international is the creator of barny cakes .
-barny cakes can be made with apple and have 18 grams of carbs and 1 . 8 g of protein .
-barny cakes can be chocolate flavoured .
-barny cakes contain 1 . 8 g of protein .
-batagor is an indonesian food and a variation of the siomay dish . it contains a fried fish dumpling with tofu and vegetables in peanut suace .
-batagor is found in the country of indonesia . it is a variation on siomay or shumai , the latter of which includes shiitake .
-batchoy is eaten in the philippines .
-batchoy is a food in the philippines and one of its ingredient is shrimp .
-the chinese filipino is an ethnic group in the philippines , where batchoy is a traditional dish .
-chicken is an ingredient in batchoy .
-vegetable are used in the preparation of batchoy .
-baymax first appeared in big hero 6 and was created by duncan rouleau and steven t . seagle .
-baymax is a character in big hero 6 .
-beef kway teow is a dish from the country of singapore , where halimah yacob is leader and standard chinese is spoken . the dish originated from the region of indonesia .
-beef kway teow is a dish from the country of singapore , where the leader is halimah yacob and the currency is the singapore dollar .
-a dish commonly found in singapore and indonesia is beef kway teow which has oyster sauce as a main ingredient .
-beef kway teow is a dish found in singapore and indonesia . kway teow , beef tender loin , gula melaka , sliced , dried black beans , garlic , dark soy sauce , lengkuas , oyster sauce , soya sauce , chilli and sesame oil are main ingredients in beef kway teow .
-a popular food in indonesia , beef kway teow originates from singapore . the country where tony tan is the leader .
-beef kway teow is known to come from the singapore region and also indonesia . it ' s main ingredients are kway teow , beef tender loin , gula melaka , sliced , dried black beans , garlic , dark soy sauce , lengkuas , oyster sauce , soya sauce , chilli and sesame oil .
-beef kway teow comes from the singapore region where the english language is spoken . the dish is found in the countries of indonesia and singapore . the leader of singapore is tony tan .
-english speaking singapore , led by tony tan and halimah yacob , offers the dish beef kway teow , also found in indonesia .
-beef kway teow originates from singapore , where chinese is spoken .
-beef kway teow is a dish of singapore where tony tan is a leader .
-belgium language is german language .
-the flemish government have jurisdiction over the flemish region of belgium . the leader of the country is charles michel and the city of antwerp is served by antwerp international airport .
-philippe of belgium is the leader of belgium .
-antwerp international airport serves the city of antwerp in belgium where the leader is phillipe of belgium .
-bhajji originates from india , it ' s main ingredients are gram flour and vegetables .
-bhajji is also known as bhaji or bajj , originates from the karnataka region of india . it is usually made up of vegetables and gram flour .
-bhajji comes from the country india , where two of the leaders are t . s . thakur and narendra modi . it is also where the indian rupee is the currency .
-indians is the name given to people from india and the leaders are sumitra mahajan and vajubhai vala . bhajji is from the karnataka region of india .
-bhajji originates from india , country of indians where the leader is t . s . thakur .
-bhajji originate from india where the indian people come from . the leaders of the country are t s thakur and sumitra mahajan .
-bhajji come from the karnataka region of india . narendra modi is the name of the leader of india , another leader is sumitra mahajan .
-bhajji originates from india and sumitra mahajan is it ' s leader .
-bhajji comes from karnataka , india . one leader in india is t . s . thakur and another vajubhai vala .
-bhajji comes from the country of india , where two of the leaders are , t . s . thakur and narendra modi .
-bhajji originates from the karnataka region and the main ingredients are vegetables and gram flour .
-bhajji , which uses gram flour , is a dish similar to pakora and other fritters made from wheat or corn flour .
-the creator of bibbo bibbowski , who is often called bibbo , are jerry ordway and marv wolfman .
-bibbo bibbowski was created by american , jerry ordway .
-bill everett has won the eisner award .
-bill oddie ' s daughter is kate hardie .
-cookies and binignit are types of dessert . one of the ingrediens in binignit is sweet potato which belongs to the order solanales .
-an ingredient of binignit is sweet potato , and one of the main ingredients is the banana .
-the binignit dish can be found in the philippines . two of the main ingredients in it are banana and sweet potato .
-sago is the main ingredient in binignit but sweet potatoes are also used in it .
-sweet potatoes ( a kind of flowering plant ) are used in binignit recipes .
-sweet potatoes are the main ingredient of binignit and the potatoes are part of the order of solanales .
-binignit is a dish from the region of visayas .
-bionico is a dessert containing sour cream from mexico .
-sour cream , chopped fruits , condensed milk . granola , raisins and shredded coconut are the main ingredients in bionico , a food found in guadalajara , in mexico .
-bionico is a food found in the jalisco region of mexico ; its ingredients contain the following : sour cream , chopped fruits , condensed milk . granola , raisins and shredded coconut .
-containing raisins , bionico is found in the region of jalisco , in mexico .
-bionico is a dessert from jalisco , mexio . the leader in jalisco is jesus casillas romero . another dessert is a cake .
-a type of dessert is a cake . however , bionico is not a cake , and instead a dessert from the guadalajara region , in mexico . mexico is where enrique pena nieto is the leader .
-bionico is a dessert and it requires granola as one of it ' s ingredients .
-a popular dessert is bionico and a variation of this dish can be honey .
-birmingham has the postcode area ' b ' .
-103 colmore row was designed by the architect john madin , who was born in birmingham , where the postal code is ' b ' . andrew mitchell is the leader of the city and birmingham city council is the governing body .
-the architect john madin was the designer of 103 colmore row , which is located in his home city of birmingham . labour politician , john clancy is the leader of birmingham and the city has the postal code ' b ' .
-black pirate , also known as jon valor , was created by sheldon moldoff .
-the comic character blockbuster , also known as roland desmond , was created by roger stern and tom lyle .
-the comic character blockbuster was created by roger stern and tom lyle .
-dan mishkin is one of the creators of the comic character , bolt .
-the comic character bolt has the alternative name of larry bolatinsky and was created by ernie colon and dan mishkin .
-dan mishkin and the puerto rican national , ernie colon created the comic character of bolt who has the alternative name of larry bolatinsky .
-an alternative name for the comic character bolt is larry bolatinsky and he was created by paris cullins and dan mishkin .
-paris culins and gary cohn are the creators of the comics character bolt .
-bozo the iron man ’ s full name is hugh hazzard .
-buzz aldrin , also called edwin e . aldrin jr . , graduated in 1963 from mit with a sc . d . and was a crew member on apollo 11 .
-retired american fighter pilot buzz aldrin , also known as edwin e . aldrin jr . , was born in glen ridge , new jersey . he graduated from massachusetts institute of technology in 1963 with a doctorate in science and was a crew member on apollo 11 .
-buzz aldrin was a fighter pilot who was born in glen ridge , new jersey om january 20th , 1930 . his real name is edwin e . aldrin jr . and after graduating from mit with a doctorate in science in 1963 , he became a member of apollo 11 .
-buzz aldrin is a us national because he was born in glen ridge , new jersey .
-buzz aldrin is a national of the united states whose leader is joe biden . he was born in glen ridge , essex county , new jersey .
-buzz aldrin , who was a member of the apollo 11 crew and spent 52 minutes in space , was born in glen ridge new jersey .
-buzz aldrin was born in glen ridge , essex county , new jersey . he is a us national , who was a crew member of the nasa operated apollo 11 program . william anders was a backup pilot on the apollo 11 mission . the us leader was joe biden .
-buzz aldrin was born on jan 20 , 1930 in glen ridge , new jersey . he graduated from mit with an sc . d in 1963 . he began working for nasa in 1963 was a member of apollo 11 which was run by nasa . he is now retired .
-buzz aldrin was born in glen ridge , new jersey and graduated from massachusetts institute of technology in 1963 with a doctorate in science . he was a member of the apollo 11 crew after being selected by nasa in 1963 with william anders as a backup pilot on apollo 11 .
-buzz aldrin was born in glen ridge new jersey in 1930 . he graduated from mit in 1963 and was hired by nasa in the same year . he was a member of the apollo 11 crew and is now retired .
-buzz aldrin ' s nationality is united states .
-retiree buzz aldrin is a former fighter pilot .
-the apollo 11 program was organized by nasa and included buzz aldrin as one of its crew members .
-buzz aldrin performed as a fighter pilot and was a crew member on apollo 11 .
-buzz aldrin graduated from massachusetts institute of technology with a sc . d in 1963 and became a fighter pilot . he was selected to work for nasa in 1963 , and was chosen as a crew member ( serving as backup pilot ) of the nasa operated apollo 11 mission .
-california is in the united states .
-alan shepard , who was awarded the us navy distinguished service medal died in california , incidentally a smilodon is a fossil from california .
-the novel castle is followed by aenir .
-one ingredient in bakso is celery , which is a member of the genus apium in the family apiaceae .
-chicago is part of dupage county in illinois .
-cornwell university is nicknamed cornell big red .
-the dead man ' s plack , which is made of rock , is dedicated to æthelwald , ealdorman of east anglia .
-the capital of denmark is copenhagen .
-denmark ' s leader name is lars løkke rasmussen .
-patrick mcloughlin is a leader in the derbyshire dales .
-patrick mcloughlin is the leader of derbyshire dales which is in the county of derbyshire . bakewell tart , a variation of bakewell pudding , comes from the derbyshire dales and contains frangipane .
-patrick mcloughlin is the leader of derbyshire dales which is part of derbyshire . coming from the derbyshire dales region is bakewell tart ( a variation of bakewell pudding ) which has frangipane as an ingredient .
-a variation on dessert is cake .
-bionico is a dessert that requires granola as one of its ingredients ; it can be eaten as an alternative to cake .
-ice cream is a type of dessert .
-bionico and ice cream are both served as a dessert course .
-alan shepard ( born november 18th , 1923 , new hampshire ) was awarded the united states navy distinguished service medal which is higher than the department of commerce gold medal has died in california .
-dublin is in the republic of ireland .
-dublin is part of leinster .
-baymax is a character from the film big hero 6 starring scott adsit . he was created by steven t seagle and the american , duncan rouleau .
-baymax is a character in big hero 6 that stars damon wayans jr . the character was created by the american , duncan rouleau .
-baymax , a character in big hero 6 , starring jamie chung , was created by duncan rouleau , an american .
-big hero 6 starred may rudolph and the character of baymax who was created by the american , duncan rouleau .
-adolfo suarez madrid - barajas airport is operated by enaire , which is located in the city of madrid , spain . the adolfo suarez madrid - barajas airport is located in madrid , paracuellos de jarama , san sebastian de los reyes and alcobendas .
-egg harbor township is in new jersey , in the united states and is where atlantic city international airport is located . this airport has a runway length of 3048 . 0 .
-elliot see was born in dallas and later attended the university of texas at austin . the university of texas at austin is affiliated with university of texas system and is competing in the big 12 conference . nowadays , gregory l . fenves is the president of the university .
-elliot see , a graduate of university of texas at austin , was born in dallas on july 23 , 1927 , and died in st . louis .
-elliot see attended the university of texas in austin . he became a test pilot . he died in st . louis on 1966 - 02 - 28 .
-elliot see was born on july 23 , 1927 in dallas . he graduated from u of texas at austin which is part of the u of texas system . he worked as a test pilot before he died in st . louis .
-elliot see was born in dallas on the 23rd of july in 1927 before attending the university of texas at austin . elliot was a test pilot before passing away in st louis in 1966 .
-elliot see , a graduate of the university of texas at austin , passed away on 28th february 1966 in st . louis . he was born in dallas .
-elliot see was born in dallas as us national and graduated from the university of texas at austin . elliot see has died on the 28th of february 1966 in st louis .
-elliot see was born in dallas , which is a county in texas . he attended the university of texas at austin , which is affiliated to the university of texas system . the university of texas at austin will be part of the big 12 conference competition .
-elliot see was born on 07 / 23 / 1927 in dallas and died in st . louis . he attended the university of texas at austin which is a part of the university of texas system .
-elliot see was born in dallas and studied at the university of texas in austin ( which is affiliated to the university of texas system ) . he died in st . louis .
-elliot see attended the university of texas in austin which is affiliated to the university of texas system . he died in st louis which is part of the kingdom of france .
-elliot see was born on july 23rd , 1927 in dallas , and died in st . louis on february 28th , 1966 .
-elliot see who was selected by nasa in 1962 died on 28 february 1966 in st louis .
-elliot see was a test pilot .
-elliot see , born july 23 1927 in dallas , has died .
-english is the language in great britain and the united states . a loyal character dancer was published by soho press in the united states .
-the language of the united states and great britain is english . the united states has an ethnic group called asian americans and is where a severed wasp originates from .
-alcatraz versus the evil librarians is from the united states where one of the ethnic groups are the native americans . the english language is spoken in the us as well as great britain .
-a severed wasp is from the united states which like great britain speaks english . the capital of the us is washington d . c and one ethnic group is the african americans .
-english is spoken in great britain and the united states where joe biden is leader , african americans are an ethnic group and alcatraz versus the evil librarians is from there .
-addis ababa , ethiopia is home to addis ababa stadium and the addis ababa city hall . the name of the leader in ethiopia is malatu teshome .
-hailemariam desalegn and mulatu teshome are leaders within ethiopia . the addis ababa stadium and the addis ababa city hall are both located within the country in addis ababa .
-the school of business and social sciences at the aarhus university is affiliated to the european university association which has its headquarters in brussels .
-the flemish region is led by the flemish government .
-atlanta is the largest city of fulton county , georgia .
-the state of georgia is in the u . s .
-greek is the language spoken in greece .
-the leader of greece is nikos voutsis .
-the leader of greece is nikos voutsis .
-anandiben patel was the leader of gujurat where amdavad ni gufa is located .
-gus poyet is in aek athens f . c .
-aids ( journal ) comes under the academic discipline hiv which belongs to the family orthoretrovirinae .
-the hiv virus is from the genus lentivirus .
-harrietstown , new york is part of the united states .
-awh engineering college in kuttikkattoor , india is in the state of kerala which has mahe to its northwest . the school has 250 employees . india is home to the ganges river and its largest city is mumbai .
-awh engineering college is in india . mumbai is the largest city in india . the river ganges runs through india .
-sumitra mahajan is an indian leader .
-t s thakur and sumitra mahajan are leaders in india where amdavad ni gufa is located .
-indianapolis is the capital of indiana .
-jakarta is the capital of indonesia where the leader is jusuf kalla , they speak indonesian and eat bakso .
-bakso is a dish from the country of indonesia , where the capital is jakarta and one of the leaders is jusuf kalla .
-bakso is a chinese dish found in indonesia , the leader of which is jusuf kalla . jakarta is the capital of indonesia .
-jusuf kalla is a leader in indonesia .
-bakso comes from indonesia , and celery is a main ingredient . jasuf kalla is a leader in indonesia .
-the ground of a . s . gubbio 1910 is located in italy , where the capital is rome , the leader is sergio mattarella and the language spoken is italian .
-two leaders of italy , where amatriciana sauce is found , are matteo renzi and sergio mattarella . its capital is rome .
-italians are from italy .
-italy is the country amatriciana sauce comes from and people there are called italians . the capital is rome and the leaders are matteo renzi and sergio mattarella .
-the ground of a . s . gubbio 1910 is located in italy where sergio mattarella is a leader of the italian people .
-the capital of italy is rome and the leader is pietro grasso . the italian language is spoken in the country which is the location of the home ground of as gubbio 1910 .
-one of the ethnic groups in japan in the brazilians .
-the leader of japan is tarō asō .
-baduy is the ethnic group of java .
-from the singapore region , ayam penyet , is a food found in java where an ethic group is the baduy .
-halimah yacob is the leader in singapore where english is spoken and the dish ayam penyet is from . it is also from java , a country where one of the ethnic groups are the baduy .
-ayam penyet comes from the singaporean region and halimah yacob is the country ' s leader . it can be found in java as well where baduy people is an ethnic group .
-ayam penyet originates from java where the banyumasan are an ethnic group . it can be found nationwide and also in singapore and malaysia .
-ayam penyet is a dish from java and singapore . the leader of the latter is tony tan and the banyumasan people are an ethnic group from java .
-jens hartel plays for sv germania schoneiche .
-john buscema has won the comic book award , eagle award .
-wolf solent is a notable work by john cowper powys .
-john van den brom plays at the az alkmaar club .
-jorge humberto rodriguez ' s club is a . d . isidro metapan .
-acharya institue of technology is located in the state of karnataka which has the arabian sea to the west .
-lee county is in alabama .
-lemon is under the order of rosids .
-bill marriott is the key person at marriott international .
-marv wolfman is a recipient of the eagle award .
-massimo drago is attached to the club delfino pescara 1936 .
-massimo drago plays for s . s . chieti calcio .
-massimo drago ' s club is the s . s . chieti calcio and he manages a . c . cesena .
-mexico is inhabited by mexicans .
-in mexico , the spoken language is spanish .
-the 14th new jersey volunteer infantry monument is located at the monocacy national battlefield near frederick , maryland . the monument was established 1907 - 07 - 11 and belongs to the category of historic districts in the united states . the monument has been provided by the national park service .
-the 14th new jersey volunteer infantry monument is located in the monocacy national battlefield , in frederick county , maryland , united states . the monument was established on july 11th , 1907 . it is now categorized as a united states historic district and is owned by the national park service .
-trenton is the capital of new jersey .
-the ground for aek athens fc is the olympic stadium ( athens ) in athens whose mayor is giorgos kaminis .
-the olympic stadium ( athens ) is located at marousi .
-the leader of pakistan is anwar zaheer jamali .
-paracuellos de jarama is part of the community of madrid .
-philippines is the country the dish batchoy comes from . the llocano and igorot peoples are ethnic groups from the philippines , where languages spoken include arabic and phillippine english .
-the language spoken in the philippines is philippine spanish and batchoy is eaten there . ethnic groups include the llocano people and the moro people .
-one of the languages used in the philippines is arabic .
-poaceae , of the class monocotyledon and the order of commelinids belongs to the division of flowering plants and is used as the surface of the second runway of ardmore airport , new zealand .
-poaceae is in the class monocotyledon and the order of commelinids . it is also the surface type of the second runway of ardmore airport , new zealand .
-port authority of new york and new jersey headquarter is four world trade center .
-potter county is in texas .
-k - w united fc have been champions of the premier development league .
-ireland official language is irish english .
-the 1 decembrie 1918 university is located in romania ( capital bucharest ) . the leader of romania is klaus lohannis and the ethnic group is germans of romania .
-bucharest is the capital of romania where one of the country ' s ethnic groups are the germans of romania . the country ' s leader is prime minister klaus iohannis . the patron saint of the country is andrew the apostle and the country is the location of the 1 decembrie 1918 university .
-1 decembrie 1918 university is located in the city of alba iulia , romania . the country ' s capital is bucharest and the leader ( title prime minister of romania ) is klaus iohannis . an ethnic group of the country is the germans of romania and the country ' s national anthem is deșteaptă - te , române !
-the 1 decembrie 1918 university is in alba iulia , romania . the country ' s capital is bucharest and the prime minister is klaus iohannis .
-the leader of romania is prime minister klaus lohannis . the 1 decembrie 1918 university is in romania .
-the patron saint of romania is andrew the apostle .
-1 decembrie 1918 university is located in romania . its latin name is " universitas apulensis " . the patron saint of romania is andrew the apostle .
-administrative science quarterly ( admin . sci . q ) is published by sage publications which was founded by sara miller mccune .
-san sebastián de los reyes is in spain .
-san sebastian de los reyes is part of the community of madrid and is also the location of adolfo suárez madrid – barajas airport .
-adirondack regional airport serves the city of lake placid and saranac lake in new york . saranac lake is part of harrietstown and essex county in new york in the u . s .
-saranac lake , new york is part of the united states .
-the academic staff of the school of business and social sciences at the aarhus university number 737 .
-the school of business and social sciences at the aarhus university is located in aarhus , denmark was established in 1928 . its academic staff numbers 737 and it is affiliated to the european university association . denmark ' s leader is lars lokke rasmussen .
-the school of business and social sciences at the aarhus university is located in denmark and affiliated to the european university association . it was established in 1928 and it has 737 academic staff .
-the school of business and social sciences at the aarhus university was established in 1928 in denmark . it has an academic staff of 737 and a student body of 16000 .
-the school of business and social sciences at the aarhus university was established in 1928 . it has 737 academic staff and 16 , 000 students .
-the school of business and social sciences at aarhus university in denmark is affiliated with the european university association . it has 16 , 000 students , 737 employees . and was established in 1928 .
-the school of business and social sciences at the aarhus university at aarhus , denmark was established in 1928 . it has 737 academic staff and 16 , 000 students . it is affiliated to the european university association .
-the aarhus university school of business and social sciences is in the country of denmark .
-the " associazione sportiva roma s . p . a . " is the non - abbreviated name of a . s . roma with their ground in stadio olimpico . a . s . roma play in serie a whose current champions are juventus f . c . .
-available nationwide in indonesia and singapore , beef kway teow is a dish which comes from singapore , where english is spoken . it is also where two of the leaders are halimah yacob and tony tan .
-shumai is a variation of the dish siomay .
-batagor and siomay ( which has peanut sauce as an ingredient ) are variations of the same dish .
-cape town is the capital of south africa .
-south jersey transportation authority chief is stephen dilts .
-arròs negre is a traditional dish from spain whose leader is felipe vi and euro is its currency . spaniards are the ethnic group of spain .
-the leader of spain is felipe vi and it is also where spanish is spoken and the dish arros negre is from .
-ajoblanco is a dish from spain , where the currency is the euro , the leader is felipe vi , the language spoken is spanish and the people that live there are called spaniards .
-stuart parker played football for bury fc .
-tarrant county , texas is situated in the united states .
-the capital of the united kingdom is london .
-david cameron and elizabeth ii are leaders in the united kingdom . the country , which uses the english language has the capital city of london and is where the aids journal originates .
-the aids ( journal ) , is published by lippincott williams & wilkins who are based in the united kingdom which is where david cameron is the leader .
-in the united kingdom , the prime minister is david cameron and the queen is elizabeth ii . the aids journal was published in the united kingdom by lippincott , williams & wilkins .
-elizabeth ii is a leader in the united kingdom .
-the leaders of the united kingdom are elizabeth ii and david cameron . the aids journal is published in the united kingdom by lippincott , williams & wilkins , whose parent company is wolters kluwer .
-the leader of the us is known as the president and the capital city is washington dc . one of the country ' s leaders if paul ryan and it is the location of 250 delaware avenue .
-a fortress of grey ice is from the united states where african american is an ethnic group and english is spoken like in great britain .
-the president is the primary leader of english language speaking united states , ( includes leader john roberts ) , has the ethnic african american group and is home to 250 delaware avenue .
-a fortress of grey ice is from the united states where barack obama is the leader and the african americans are one of the ethnic groups .
-in the united states , english is the language , asian americans are an ethnic group and the book alcatraz versus the evil librarians was written .
-a fortress of grey ice is from the united states . that country has an ethnic group called asian americans and they speak english , same as in great britain .
-native americans are an ethnic group in the united states .
-a fortress of grey ice is from the united states where the language is english .
-joe biden is a leader of the united states which is lead by a president . the white americans are one of the ethnic groups of the country which uses the english language and is where 250 delaware avenue is located .
-the english language is spoken in great britain and a severed wasp was written in it even though it comes from the united states . barack obama is the leader of the united states where native americans are an ethnic group .
-a severed wasp is from the united states , where barack obama is the president . english is the main language of the u . s . , and is also spoken in great britain . native americans are one of the national ethnic groups .
-a severed wasp originates from the united states where the leader is barack obama . the english language is spoken in the us where one of the ethnic groups is african american .
-joe biden is a united states leader .
-paul ryan is the leader of the united states .
-the university of texas at austin is affiliated to the university of texas system .
-the university of texas at austin ' s mascot is called hook ' em .
-in the year 2000 the acharya institute of technology was established in the state of karnataka , india . the current location is " in soldevanahalli , acharya dr . sarvapalli radhakrishnan road , hessarghatta main road , bangalore – 560090 . " the director is dr g p prabhukumar and it is affiliated with the visvesvaraya technological university in the city of belgaum .
-ann arbor is the largest city in washtenaw county , michigan .
-born on october 17th , 1933 in british hong kong , william anders would serve as a crew member on apollo 8 .
-the members of apollo 8 were buzz aldrin who was backup pilot , commander frank borman and william anders who retired on september 1st , 1969 .
-william anders was a member of the apollo 8 crew ( operated by nasa ) and he retired on september 1st , 1969 . frank borman was the commander of apollo 8 and buzz aldrin was a back up pilot .
-william anders was born on october 17 , 1933 , in british hong kong . he graduated from afit in 1962 with an m . s . , and would go on to serve as a fighter pilot , and as a crew member on apollo 8 . anders retired on september 1 , 1969 .
-william anders ( born on the 17th of october 1933 in british hong kong ) graduated from afit , m . s . in 1962 . he was a us national and served as a fighter pilot before he retired on the 1st of september in 1969 .
-john cowper powys is the author of wolf solent .
+Peter Stoger is the manager of FC Kolin .
+1 FC Magdeburg played in the 2014 season .
+103 Colmore Row was designed by the architect , John Madin .
+103 Colmore Row is located at Colmore Row .
+11 Diagonal Street was completed in 1983 .
+11 Diagonal Street is located in South Africa ( Cyril Ramaphosa is one of the leaders ) , the capital of which is Cape Town .
+Cyril Ramaphosa is one of the leaders of South Africa , which capital is Cape Town . The address , 11 Diagonal Street is located in that country and one of the the ethnic groups is Asian South Africans .
+With the capital of Cape Town , South Africa is the location of 11 Diagonal Street and has the ethnic groups of Asian South Africans and white South Africans .
+11 Diagonal Street is in South Africa . One South African group is the Coloured .
+11 Diagonal Street is located in South Africa , a country in which coloureds are one of the ethnic groups and Jacob Zuma is the leader .
+11 Diagonal Street is in South Africa where the leader is Jacob Zuma . An ethnic group found there are white South Africans .
+The Municipality of Gettysburg is located in Adams County , Pennsylvania which lies to the south of Cumberland County and to the northwest of Carroll County , Maryland . It is the location of the 11th Mississippi Infantry monument which was established in 2000 and categorised as a contributing property within the United States .
+1634 : The Bavarian Crisis can be located by it ' s ISBN number " 978 - 1 - 4165 - 4253 - 7 " . It is written by Virginia DeMarce and Eric Flint and was put in print .
+Eric Flint is the author of 1634 : The Bavarian Crisis .
+Born in Burbank , California , Eric Flint wrote 1634 : The Bavarian Crisis which was preceded by 1634 : The Baltic War .
+1634 : The Bavarian Crisis was preceded by 1634 : The Baltic War ( author : David Weber ) and followed by Ring of Fire II which is written in English .
+1634 : The Bavarian Crisis is written by Virginia DeMarce and Eric Flint and was preceded by Grantville Gazette III .
+1634 : The Bavarian crisis is the sequel to The Grantville Gazettes .
+Eric Flint is the author of ' 1634 : The Ram Rebellion ' which can be found as an E book .
+Eric Flint is the author of 1634 : The Ram Rebellion which has 512 pages and is available as an E - Book .
+1634 : The Ram Rebellion was written by Eric Flint and can be found in hardcover .
+The hardcover book 1634 : The Ram Rebellion was written by Eric Flint and has the ISBN number 1 - 4165 - 2060 - 0 .
+1634 : The Ram Rebellion was followed by 1635 : The Cannon Law .
+1634 : The Ram Rebellion , written by Eric Flint , Virginia DeMarce . et al . , is 512 pages long and can be found as an E book .
+1634 : The Ram Rebellion was written by Virginia DeMarce and has 512 pages . It can be found as an ebook and has the ISBN number of 1 - 4165 - 2060 - 0 .
+The building at 20 Fenchurch Street was started in January 2009 .
+20 Fenchurch Street is located in London , which is currently led by the European Parliament .
+20 Fenchurch Street is located in the United Kingdom .
+20 Fenchurch Street is located within the United Kingdom , where London is the capital , and the currency is pounds sterling . Boris Johnson is the leader in London , and one of the leaders of the United Kingdom is Elizabeth II .
+The 200 Public Square was completed in 1985 .
+There are 45 floors at 200 Public Square in Cleveland .
+200 Public Square is located in Cleveland , Cuyahoga County , Ohio which is governed by Cleveland City Council .
+Frank G Jackson is the leader of Cleveland , United States where 200 Public Square is located .
+Construction beginning in January 2014 , Postmodern art 250 Delaware Avenue has 12 floors with a total area of 30843 . 8 square meters .
+250 Delaware Avenue was built in Buffalo New York at a cost of 110 million dollars . Construction began in January 2014 and the building has 12 floors with an area of 30843 . 8 square metres .
+250 Delaware Avenue is located in Buffalo , Erie County , New York .
+250 Delaware Avenue is located in the United States , the leader of which was Barack Obama .
+There are 60 floors at 300 North LaSalle .
+300 North LaSalle is located in Chicago , Du Page County , Illinois , United States where the leader is Susana Mendoza .
+300 North LaSalle is located in Chicago ( the leader of which is Rahm Emanuel ) , United States .
+Rahm Emanuel is the leader of Chicago , DuPage County , Illinois , United States which is the location of the building at 300 North LaSalle which has 60 floors .
+There are 60 floors at 300 North LaSalle in Illinois .
+HOK SVE was the architect of 3Arena .
+Located in Dublin , the 3Arena whose architect was HOK SVE ) was completed in December 2008 .
+Populous was the architect of 3Arena in Dublin which was completed in December 2008 .
+The 3Arena is located at East Link Bridge .
+HOK SVE was the architect of the 3Arena at North Wall , Dublin .
+3Arena at East Link Bridge is owned by Live Nation Entertainment .
+The owner of 3Arena is Live Nation Entertainment which is located in Dublin , Ireland .
+3 Arena is located in Dublin , the Republic of Ireland , where Críona Ní Dhálaigh was Lord Mayor . The owner of 3Arena is Live Nation Entertainment .
+Live Nation Entertainment owns 3Arena , located in Dublin , Republic of Ireland . The Lord Mayor of Dublin is Críona Ní Dhálaigh .
+3Arena ( owned by Live Nation Entertainment ) is located in Dublin , Republic of Ireland . Dáil Éireann is a leader in Dublin , which is part of Leinster .
+3Arena , owned by Live Nation Entertainment , is located in Beverly Hills , California .
+A . C . Cesena , in the Serie B League , has 23900 members and is located is Cesena .
+AC Cesena are in the Serie B league , the previous champions of which are Carpi FC 1909 .
+Massimo Drago played for the club SSD Potenza Calcio and his own club was Calcio Catania . He is currently managing AC Cesena .
+The full name of A . C . Chievo Verona is Associazione Calcio ChievoVerona S . r . l . and their home ground in Verona , Italy holds 39371 fans . The club played the 2014 - 15 season in Serie A .
+AC Chievo Verona play in the Serie A league and their home ground is Stadio Marc Antonio Bentegodi .
+Italian born Rolando Maran manages Associazione Calcio Chievo Verona . He is also in the Unione Triestina 2012 S . S . D . club as well as playing for Carrarese Calcio .
+A . C . Lumezzane ' s ground is in Italy where the leader is Pietro Grasso .
+AC Lumezzane has 4150 members and is in the Lega Pro / A league where they played in the 2014 season .
+Michele Marcolini , manager of A . C . Lumezzane , was born in Italy , owns Torino F . C . And has been associated with F . C . Bari 1908 .
+A C Lumezzane played the 2014 - 2015 season in Lega Pro .
+A . D . Isidro Metapan ' s full name is " Asociación Deportiva " .
+A . D . Isidro Metapán are at Estadio Jorge Calero Suárez whose full name is Isidro Metapan and has 10000 members .
+Jorge Humberto Rodríguez manages the A . D . Isidro Metapan , he played for the C . D . FAS .
+A . E Dimitra Efxeinoupolis ' s full name is A . E Dimitra Efxeinoupolis .
+Greece , led by Alexis Tsipras and Nikos Voutsis is the location of A . E . Dimitra Efxeinoupolis , where the language is greek .
+The A . E Dimitra Efxeinoupolis club is located in Greece , where there are leaders called Nikos Voutsis and Prokopis Pavlopoulos .
+A . E . Dimitra Efeinoupolis has 1500 members and is in the EPSTH 2nd GROUP league .
+A . E Dimitra Efxeinoupolis played in the 2014 season .
+A . E Dimitra Efxeinoupolis were in the 2014 – 15 A EPSTH . Greece season .
+The manager of A . F . C . Blackpool is Stuart Parker who is with Drogheda United F . C and plays for Runcorn F . C . Halton .
+The manager of A . F . C . Blackpool is Stuart Parker who was at Drogheda United FC and once played for Stockport County FC .
+Gordon Marsden is the leader of Blackpool where AFC Blackpool are located . Their manager is Stuart Parker who is a member of Chesterfield FC and plays for KV Mechelen .
+Stuart Parker is a member of the Iriam Town F . C . as well as the manager of A . F . C . Blackpool and has also represented the KV Mechelen club .
+The manager of A . F . C . Blackpool is Stuart Parker ( footballer ) who plays for Runcorn F . C . Halton .
+The manager of A . F . C . Blackpool is Stuart Parker ( footballer ) , who plays at the Sparta Rotterdam club .
+A . F . C . Blackpool has 1500 members .
+The Fylde is the home ground of AFC Fylde .
+AFC Fylde has the home ground called The Fylde and has 3180 members .
+AFC Fylde has the full name " Association Football Club Fylde , " they have 3180 members and their ground is located in Warton , Fylde .
+A . F . C . Fylde has 3180 members and are based at Bryning Lane .
+The full name of the Italian club AS Gubbio 1910 is " Associazione Sportiva Gubbio 1910 Srl " . They played in the 2014 season and they have 5300 members .
+The fullname of A . S . Gubbio 1910 is Associazione Sportiva Gubbio 1910 Srl and they competed in the 2014 season . Their ground is called the Stadio Pietro Barbetti and they have 5300 members .
+The ground of A . S . Gubbio 1910 is located in Italy .
+The fullname of A . S . Livorno Calcio is Livorno Calcio S . p . A . and their home ground is the Stadio Armando Picchi . They competed in Serie B during the 2014 - 15 season and has 19238 members .
+Christian Panucci , who has been attached to the Genoa CFC and Real Madrid CF clubs , manages A . S . Livorno Calcio .
+A . S . Livorno Calcio is managed by Christian Panucci who plays for the Italy national football team .
+A . S . Livorno Calcio has 19238 members .
+The " Associazione Sportiva Roma S . p . A . " is the non - abbreviated name of A . S . Roma which has 70634 members and a home ground in Rome , Italy .
+Grounds being in Rome , Italy , A . S . Roma to play in Serie A .
+A . S . Roma ' s fullname is Associazione Sportiva Roma S . p . A . and they have 70634 members . Their ground is in Rome and the club played in Serie A in 2014 - 15 .
+A . S . Roma were in Serie A in 2014 - 15 .
+A Fortress of Grey Ice was written by J . V . Jones and has the ISBN number 0 - 7653 - 0633 - 6 .
+A Fortress of Grey Ice was written by J . V . Jones and is available in print . Th book which has the ISBN number 0 - 7653 - 0633 - 6 . It also has the OCLC number 51969173 .
+A Fortress of Grey Ice is a hardcover book .
+A Glastonbury Romance identified by ISBN 0 - 7156 - 3648 - 0 was published in hardcover .
+A Glastonbury Romance , which can be found in hardcover , has the ISBN number 0 - 7156 - 3648 - 0 as well as the OCLC number 76798317 .
+A Glastonbury Romance has the ISBN number 0 - 7156 - 3648 - 0 and is in print .
+A Glastonbury Romance has 1174 pages and is available in print .
+The ISBN number of A Long Long Way is 0 - 670 - 03380 - 4 .
+The ISBN number of A Long Long Way is 0 - 670 - 03380 - 4 , and its OCLC number is 57392246 .
+Faber and Faber are the publishers of The Secret Scripture , a sequel to A Long Long Way . That book comes from Ireland which is located in Europe and where there is an ethnic group of white people .
+A Long Long Way ( followed by the book The Secret Scripture ) is written in the English language , which is spoken in Great Britain .
+Published by Viking Press , the Irish novel A Long Long Way was preceded by Annie Dunne and followed by The Secret Scripture .
+The ethnic group of Ireland is White people and is where A Long Long Way comes from . It was preceded by Annie Dunne and followed by The Secret Scripture which is published by Faber and Faber .
+The book , A Loyal Character Dancer , has the ISBN number of 1 - 56947 - 301 - 3 .
+A Loyal Character Dancer is published in the United States where the Asian Americans are one of the ethnic groups .
+A Loyal Character Dancer was published by Soho Press in the United States , which counts African Americans among its ethnic groups .
+A Loyal Character Dancer is published by Soho Press which is located in the United States .
+A Loyal Character Dancer was published by Soho Press in the United States where Barack Obama is the leader .
+A Severed Wasp can be found in print with the OCLC number 8805735 and the Library of Congress Classification of PS3523 . E55 S4 1982 .
+A Severed Wasp is available in print , with The Library of Congress Classification PS3523 . E55 S4 1982 . Its ISBN number is 0 - 374 - 26131 - 8 , and its OCLC number is 8805735 .
+Madeleine L ' Engle wrote " A Severed Wasp " .
+English is spoken in Great Britain and is the language used in A Severed Wasp . The book originates from the United States where the African Americans are an ethnic group , .
+A Severed Wasp was published in hardback and has 388 pages . The OCLC number of A Severed Wasp is 8805735 and the ISBN number of " 0 - 374 - 26131 - 8 " .
+A Severed Wasp has an ISBN number of " 0 - 374 - 26131 - 8 " , 388 pages and can be found in print .
+A Wizard of Mars was written by Diane Duane with on OCLC number 318875313 .
+A Wizard of Mars is published in English .
+A Wizard of Mars is published in Hardcover and has the ISBN number 978 - 0 - 15 - 204770 - 2 .
+Diane Duane wrote A Wizard of Mars which was published in hardback and has the OCLC number 318875313 .
+Diane Duane wrote A Wizard of Mars which is published in hardcover and has the ISBN number 978 - 0 - 15 - 204770 - 2 .
+A Wizard of Mars , written by Diane Duane , is available in hardcover , has the ISBN number 978 - 0 - 15 - 204770 - 2 and the OCLC number 318875313 .
+A Wizard of Mars is 560 pages long and has the ISBN number 978 - 0 - 15 - 204770 - 2 .
+Marriott International is the tenant of the AC Hotel Bella Sky Copenhagen , Denmark , which was designed by the architects of the 3XN firm .
+AC Hotel Bella Sky is located in Copenhagen , Denmark and the tenant from the hotel is Marriott International . It is own by Bella Center and there is 23 floors in that hotel .
+The tenant of the AC Hotel Bella Sky Copenhagen is Marriott International . The hotel has 23 floors , was designed by the company 3XN and is owned by the Bella Center .
+Marriott International is the tenant of AC Hotel Bella Sky Copenhagen and it has 23 floors .
+ACF Fiorentina play in Serie A which is based in Italy .
+ACM Transactions on Information Systems with the CODEN ATISET is abbreviated as ACM Trans . Inf . Syst .
+ACM Transactions on Information Systems , or ACM Trans . Inf . Syst . , is part of the academic Discipline of Computer Science and has an ISSN number of 1046 - 8188 .
+The ACM Transactions on Information Systems ISSN number is 1558 - 2868 . It is part of the academic Discipline of Computer Science and abbreviated to ACM Trans . Inf . Syst .
+AEK Athens F . C . ground is in Athens , they have 69618 members and they compete in the Superleague Greece .
+Olympiacos F . C . were past champions in the Greece Superleague , the league AEK Athens FC compete in . Their manager is Gus Poyet , whose club is Real Zaragoza even though he played for Chelsea F . C .
+AFC Ajax is based in Amsterdam where the leader is Eberhard van der Laan .
+AFC Ajax ( amateurs ) have the nickname " Joden , Godenzonen " .
+AFC Ajax has 5000 Members .
+AFC Ajax ( amateurs ) has 5000 members play in the Hoofdklasse league and competed in the 2014 season .
+AFC Ajax ( amateurs ) , who have 5000 members , played in the Topklasse in the 2014 - 2015 season .
+Frank de Boer manages the AFC Ajax team .
+The manager of AFC Ajax is Frank de Boer who is in the Ajax Youth Academy .
+AFC Ajax has 53502 members and is the owner of AFC Ajax NV .
+The AIDS journal was published by Lippincott Williams & Wilkins in the United Kingdom where Elizabeth II is the leader .
+The AIDS journal is published by Lippincott , Williams & Wilkins in the United Kingdom . The capital of the country is London and it ' s leader is Elizabeth II .
+AIDS journal is from the United Kingdom whose leader is Elizabeth II .
+AIP Advances had the EISSNnumber 2158 .
+A . T . Charlie Johnson , who lives in the US , is the editor of AIP Advances which is published by the American Institute of Physics .
+AIP Advances , or AIP Adv . , has a CODEN of AAIDBI and is edited by A . T . Charlie Johnson .
+AZ Alkmaar ' s fullname is Alkmaar Zaanstreek , it has 17023 members .
+Alkmaar Zaanstreek is the full name of AZ Alkmaar who played in the 2014 season and has 17023 members .
+John van den Brom plays for AFC Ajax and Istanbulspor A . S . He manages AZ Alkmaair which is owned by Robert Eenhoorn .
+John van den Brom manages the AZ Alkmaair and plays for Vitesse Arnhem and De Graafschap .
+AZ Alkmaar has 17023 members .
+AZAL PFK play their home matches at the AZAL Arena in Shuvulan .
+AZAL PFK play their home matches at the AZAL Arena , and are in the Azerbaijan Premier League , who ' s championships name is the Qarabag FK .
+AZAL PFK play their home matches at the AZAL Arena in Azerbaijan and they compete in the Azerbaijan Premier League where Qarabag FK are champions .
+AZAL PRK , known as the Qarabag FK in the Azerbaijan Premier League is located in AZAL Arena and has 3500 members .
+AZAL PFK is located at Shuvalan , Baku , Azerbaijan .
+Aarhus Airport ' s runway length is 2702 . 0 .
+The leader of Aarhus is Jacob Bundsgaard .
+Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg has the LCCN number 32024459 .
+The area code of Abilene , in Texas , is 325 .
+Abilene is a part of Texas .
+Abilene Regional Airport serves the city of Abilene which is part of Taylor County , Texas , in the United States .
+Abilene is in Texas and is served by the Abilene regional airport .
+With a runway length of 1 , 121 metres , Abilene regional airport serves Abilene , Texas , in the United States .
+With a runway length of 2194 . 0 , Abilene regional airport serves Abiliene , part of Jones County , Texas , in the United States .
+Abilene , Texas is served by Abilene regional airport which is 546 metres above sea level and has the ICAO location identifier of KABI . It has the runway name of 17L / 35R with a length of 2194 . 0 .
+Serving the city of Abilene in Texas , is Abilene Regional Airport . It has the ICAO location identifier KABI and the runway name 17R / 35L . The airport is 546 metres above sea level and has a runway length of 2194 . 0 .
+Aenir and it ' s sequel Above the Veil are examples of Austrlian literature .
+Above the Veil , from Australia , is the third book in a series after Aenir and Castle .
+Above the Veil is an Australian novel and the sequel to Aenir and Castle . It was later followed by Into Battle and The Violet Keystone .
+Above the Veil followed the book Aenir and is written in English .
+Above the Veil is available in hardcover .
+Above the Veil is the sequel to Aenir , which was written after Castle .
+The academic staff size of Accademia di Architettura di Mendrisio is 100 .
+The Accademia di Architettura di Mendrisio in Switzerland has a staff of 100 , the dean is named Mario Botta .
+The Accademia di Architettura di Mendrisio in Mendrisio , Switzerland had 100 academic staff and 600 students . Its dean is Mario Botta .
+The Accademia di Architettura di Mendrisio is in Switzerland . Its dean is Mario Botta and it has 600 students .
+The Accademia di Architettura di Mendrisio was established in Switzerland in 1996 . It has 600 students . The leader of Switzerland is the Federal Chancellor .
+The Accademia di Architettura di Mendrisio is located in Ticino , Switzerland . It was established in 1996 and it has 600 students . The leader of Switzerland is Johann Schneider - Ammann .
+The Accademia di Architettura di Mendrisio located in Ticino , Switzerland was established in 1996 . It has 600 students . Switzerland ' s leader is Federal Chancellor Johann Schneider - Ammann .
+The Accademia di Architettura di Mendrisio ( Dean - Mario Botta ) was established in 1996 , has an academic staff of 100 and is located in the city of Mendrisio .
+Acharya Institute of Technology ' s campus is located in Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore , Karnataka , India – 560090 . The Institute ( president B M Reddy ) was established in 2000 and is affiliated with Visvesvaraya Technological University .
+Acharya Institute of Technology has an affiliation with Visvesvaraya Technological University ( Belgaum ) and was given the ' Technical Campus ' status by the All India Council for Technical Education , which is located in Mumbai .
+The Acharya Institute of Technology is affiliated with the Visvesvaraya Technological University and is located in Bangalore , Karnataka . To its northeast is Telangana and to its west is the Arabian Sea .
+The campus address for the Acharya Institue of Technology is : Soldenvanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore - 560090 .
+The Acharya Institute of Technology is located in Soldevanahalli , Acharya Dr . Sarvapalli Radharkrishnan Road , Hessarghatta Main Road , Bangalore - 560090 , India . It has 700 postgraduate students .
+Acharya Institute of Technology is in Bangalore , India in the state of Karnataka . The school was established in 2000 and its director is Dr . G . P . Prabhukumar . The full address of the school is In Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore – 560090 .
+The Acharya Institute of Technology is located at In Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore – 560090 , India . The School was established in 2000 and has 700 Postgraduate Students .
+In Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore – 560090 is the location of the Acharya Institute of Technology in India which is affiliated with the Visvesvaraya Technological University . The motto of the Institute which was established in the year 2000 is " Nurturing Excellence " and there are 700 postgraduate students .
+The Acharya Institute of Technology is located in Bangalore , India and its motto is : " Nurturing Excellence " .
+Acharya Institute of Technology ' s campus is located in Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore – 560090 and the director is Dr . G . P . Prabhukumar .
+The Acharya Institute of Technology ( Director - Dr . G . P . Prabhukumar ) , is located in India , was established in 2000 and is affiliated with Visvesvaraya Technological University .
+The All India Council for Technical Education gave the Acharya Institute of Technology the status of " Technical Campus " . The official school colours are blue , white and orange .
+B . M . Reddy is the president of the Acharya Institute of Technology , which is located in Bangalore , India .
+The Acharya Institute of Technology in Bangalore , India was established in 2000 . It is affiliated with the Visvesvaraya Technological University . Its president is B . M . Reddy and its directore is Dr . G . P . Prabhukumar .
+Acharya Institute of Technology in Bangalore , India was established in 2000 and is affiliated with Visvesvaraya Technological University . The school president is B . M . Reddy and its director is Dr . G . P . Prabhukumar . The school ' s full address is In Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore – 560090 .
+Acharya Institute of Technology ( president B M Reddy ) is located in Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore , India – 560090 . The Institute was established in 2000 , has 700 postgraduate students and is affiliated with Visvesvaraya Technological University of Belgaum .
+The Acharya Insitute of Technology offers tennis and it was established in 2000 . The tennis governing body is the International Tennis Federation .
+The International Tennis Federation , which is the sport ' s governing body , has agreed to let Acharya Institute of Technology offer tennis at the school .
+The Acharya Institute of Technology in Mumbai , Karnataka was given the " Technological Campus " status by the All India Council for Technical Education ( located in Mumbai ) . The Acharya Institute offers tennis and the sports governing body is the International Tennis Foundation . Karnataka has the Arabian Sea to its west .
+Acharya Institute of Technology is affiliated with Visvesvaraya Technological University in Belgium . The institute was given Technical Campus ' status by the All India Council for Technical Education in Mumbai . The institute offers tennis which is governed by the International Tennis Federation .
+Acta Mathematica Hungarica , or Acta Math . Hungar . , has a LCCN number of 83646315 and a ISSN number of 1588 - 2632 .
+Acta Mathematica Hungarica is also known as Acta Math . Hungar .
+The Acta Mathematica Hungarica ISSN number is " 0236 - 5294 " and the abbreviation is Acta Math . Hungar . It comes under the academic discipline of Math .
+The Acta Mathematica Hungarica covers the academic discipline of Mathematics .
+Acta Mathematica Hungarica is the publisher of Springer Science + Business Media , founded by Julius Springer .
+Acta Palaeontologica Polonica has the CODEN code APGPAC .
+Acta Palaeontologica Polonica has the ISSN number 1732 - 2421 and an LCCN number of 60040714 . The abbreviated name is Acta Palaeontol . Pol .
+Adams County , Pennsylvania has Carrol County , Maryland to its southeast and Pennsylvania ' s Cumberland County is to the north of the Adams County . The 11th Mississippi Infantry Monument is in Adams County of the municipality of Gettysburg Pennsylvania . .
+The 11th Mississippi Infantry Monument is a Contributing Property located in Adams County , Pennsylvania , with Franklin County to its west and Carrol County , Maryland to its southeast .
+The 11th Mississippi Infantry monument is located in the municipality of Gettysburg , Adams County , Pennsylvania . Adams County is east of Franklin County and south of Cumberland County . Maryland ' s Carrol county is located to the southeast .
+Adams County , Pennsylvania is the location of the 11th Mississippi Infantry monument . Franklin County Pennsylvania is to the west and Frederick County to the south west .
+Adare Manor ' s building start was in 1700 .
+James Pain was the architect of Adare Manor which was completed in 1862 and is owned by J P McManus .
+Adare Manor is located in the Republic of Ireland .
+The OCLC number of Addiction ( journal ) is 27367194 .
+The Addiction journal concerns the topic of Addiction and has the LCCN number 93645978 . The abbreviated name is " Addiction " and the ISSN number is 1360 - 0443 .
+Addiction is the abbreviated version of the " Addiction Journal " which has the ISSN number 0965 - 2140 .
+Wiley - Blackwell is the publisher of the journal Addiction .
+The Government of Addis Ababa is the current tenant of the Addis Ababa City Hall which is 42 metres high and has a floor area of 140000 . 0 ( square metres ) .
+Addis Ababa City Hall is 42 m high and houses the Government of Addis Ababa .
+Adirondack Regional Airport is 507 metres above sea level .
+Adirondack Regional airport is located at Harrietstown , New York .
+Adirondack Regional Airport has a runway length of 1219 . 0 and serves the cities of Saranac Lake and Lake Placid , New York .
+Admisham Hall ' s architectural style is Tudor and Jacabian and the building is located in Haputale , Sri Lanka .
+Construction began in 1927 and finished in 1931 of Adisham Hall in Sri Lanka and was in the Tudor and Jacobean style .
+Adisham Hall in Sri Lanka was constructed between 1927 and 1931 at St Benedicts Monastery , Adisham , Haputhale , Sri Lanka in the Tudor and Jacobean style of architecture .
+Adisham Hall is located in Haputale , Sri Lanka which has the capital city of Sri Jayawardenepura Kotte . Tamil is the language of the country .
+Adisham Hall is located in Haputale , Sri Lanka . The capital of Sri Lanka is Sri Jayawardenepura Kotte , the language used in the country is Tamil and the currency is the Sri Lankan Rupee .
+Ranil Wickremesinghe is the leader of Sri Lanka where the capital city is Sri Jayawardenepura Kotte and the currency is the Sri Lankan rupee . Adisham Hall is located in the country at Haputale .
+Adisham Hall is located in Sri Lanka , where they speak the Tamil language .
+The Adisham hall , which is located in Sri Lanka , was completed in 1931 and architectural style is Tudor Revival .
+Construction of Adisham Hall in Sri Lanka began in 1927 and ended in 1931 . It was built in the Tudor Revival architectural style .
+The Administrative Science Quarterly has a Coden code of " ASCQAG " and the abbreviation of Admin . Sci . Q .
+The LCCN number of the Administrative Science Quarterly is 57059226 .
+Cornell University in Ithaca , New York is the publisher of Administrative Science Quarterly . The University is affiliated with the Association of American Universities .
+Cornell University is affiliated with the Association of Public and Land grant Universities and published Administrative Science Quarterly .
+Cornell University is in Ithaca , New York and is nicknamed Cornell Big Red . They are the publisher of Administrative Science Quarterly and are affiliated with the Association of American Universities .
+The Administrative Science Quarterly is published by Cornell University , Ithaca , in the state of New York . Cornell University ( nicknamed ' Cornell Big Red ' ) is affiliated with the Association of Public and Land Grant Universities .
+Adolfo Suárez Madrid – Barajas Airport is in Alcobendas and has a runway length of 3500 .
+Adolfo Suarez Madrid Barajas Airport is located in Alcobendas , Spain , and operated by the Madrid - based ENAIRE .
+Adolfo Suárez Madrid – Barajas Airport is found in San Sebastián de los Reyes .
+The Adolfo Suárez Madrid – Barajas Airport located at San Sebastian de los Reye has a runway length of 3500 .
+The 14L / 32R runway of the Adolfo Suarez Madrid - Barajas Airport in Madrid has a length of 4100 . 0 .
+The Adolfo Suárez Madrid – Barajas Airport is operated by ENAIRE and can be found in Madrid . The airport is situated 610 . 0 meters above sea level and has a 4 , 349 kilometers long runway whose name is 14L / 32R .
+Adolfo Suárez Madrid - Barajas Airport runway name is 14L / 32R .
+14R / 32L is the name of the runway for Adolfo Suárez Madrid – Barajas Airport .
+Adolfo Suarez Madrid - Barajas airport is located at Madrid , Paracuellos de Jarama , San Sebastián de los Reyes and Alcobendas and is operated by ENAIRE . The runway name is 18R / 26L and is 3 , 500 in length .
+OCLC number 45644811 is Aenir .
+Aenir , written by Garth Nix , was produced in print and has the OCLC number 45644811 .
+Written by Garth Nix , Aenir , has the ISBN number of " 0 - 439 - 17684 - 0 .
+Aenir has the ISBN number of " 0 - 439 - 17684 - 0 " , it was written by Garth Nix and was produced in print .
+The operating organization for Afonso Pena International Airport is Infraero .
+Agra Airport is in Uttar Pradesh Bundelkhand , it ' s ICAO location identifier is VIAG . the leader of Utterar Pradesh is Ram Naik .
+Agra airport is in Uttar Pradesh , which is part of Awadh and Bundelkhand , is located 167 . 94 metres above sea level .
+Agra Airport is in Agra .
+The Indian Air Force in India , operates Agra Airport which uses VIAG as its ICAO location identifier .
+Agra Airport is in India where one of its leaders is T . S . Thakur .
+Agra airport is located in Uttar Pradesh ( lead by Ram Naik ) which is part of Awadh and Bundelkhand .
+Ram Naik is the leader of Uttar Pradesh which is part of Awadh and Bundelkhand . It is the location of Agra airport which has the native name of Kheria Air Force Station .
+Agremiacao Sportiva Arapiraquense ' s ground is the Estadio Minicipal Coaracy da Mata Fonseca , its located in Brazil .
+Agremiação Sportiva Arapiraquense play at their ground Estadio Minicipal Coaracy da Mata Fonseca in the Campeonato Brasileiro Série C league . The champions of this league are Vila Nova Futebol Clube .
+Estádio Municipal Coaracy da Mata Fonseca is the name of the ground of Agremiação Sportiva Arapiraquense . It is located in Alagoas . Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league from Brazil . The Vila Nova Futebol Clube were champions at the Série C .
+Vila Nova Futebol Clube have been champions of Campeonato Brasileiro Série C . league in Brazil . Agremiação Sportiva Arapiraquense also play in the league and have their home ground at Estádio Municipal Coaracy da Mata Fonseca in Arapiraca .
+The Vila Nova Futebol Clube were champions at the Campeonato Brasileiro Série C . in Brazil . Agremiação Sportiva Arapiraquense who also play in the league have 17000 members and are managed by Vica .
+Agremiação Sportiva Arapiraquense , which has the nickname Asa Gigante , play in the Campeonato Brasileiro Série C league from Brazil . The league was previously won by Vila Nova Futebol Clube .
+Brazilian football team Agremiação Sportiva Arapiraquense play their football in the Campeonato Brasileiro Série C league . Campeonato Brasileiro Serie C is a Brazilian league . Agremiação Sportiva Arapiraquense competed in the 2015 Campeonato Brasileiro Série C . The Vila Nova Futebol Clube were the winners at the Campeonato Brasileiro Série C .
+Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league in Brazil . Vila Nova Futebol Clube are the champions of this league .
+Agremiacao Sportiva Arapiraquense are managed by Vica .
+Agremiação Sportiva Arapiraquense ( which is his full name ) has a club with 17000 members .
+Agremiação Sportiva Arapiraquense competed in the 2015 Campeonato Brasileiro Série C .
+The alternative name for Ajoblanco is " Ajo blanco " .
+From Spain , Ajoblanco ( alternatively known as Ajo blanco ) has bread as an ingredient .
+Bread is an ingredient of Ajoblanco which originates from Spain .
+From Andalusia , Spain , Ajoblanco is made with bread , almonds , garlic , water and olive oil . Ajo blanco is an alternative name to Ajoblanco .
+Bread , almonds , garlic , water , and olive oil are the main ingredients in Ajoblanco , a food which originates from Andalusia , in Spain .
+Water is an ingredient in Ajoblanco , also known as Ajo blanco , a dish that comes from Andalusia Spain .
+Ajoblanco is from Andalusia , in Spain . Ajoblanco contains water .
+Ajoblanco , from Andalusia , has almond as one of its ingredients .
+The main ingredients in ajoblanco are bread , almonds , garlic , water and olive oil .
+The main ethnic group in Japan are the Japanese and the leader is Tarō Asō . Akita Museum of Art is in Akita , Akita which is part of Japan and the Akita Prefecture .
+The Akita Museum of Art has a floor area of 3746 . 66 square metres over 3 floors and was inaugurated on 28 September 2013 .
+The Akita Museum of Art was inaugurated on 28th September 2013 .
+The Akita Museum of Art is located in Akita Prefecture , Akita , Japan . One of the ethnic groups of Japan is the Filipinos .
+The Akita Museum or art is located in Akita , within the Akita Prefecture , Japan .
+3000 member strong Akron Summit Assault , fullname " Akron Metro Futbol Club Summit Assault " , play in the 2011 PDL season . Denzil Antonio was previously their manager .
+The team Akron Summit Assault are based in Akron , Ohio , USA .
+The Akron Summit Assault team is based in Akron , Ohio , United States . They play in the Premier Development League , which has been won by K - W United FC .
+Akron Summit Assault ' s ground is St . Vincent - St . Mary High School .
+St Vincent - St Mary High School is the ground of Akron Summit Assault who play in the Premier Development League , of which K - W United FC have been champions .
+Akron Summit Assault has 3000 members .
+K - W United FC were champions of the Premier Development League where Akron Summit Assault ( which has 3000 members ) also play .
+Al - Taqaddum Air Base is 84 metres above sea level .
+Al Asad Airbase is 618 ft above sea level and is located in Al Anbar Province , Iraq .
+Operated by the United States Air Force , Al Asad Airbase , in Iraq , has a runway length of 3078 . 48 metres .
+Al Asad airbase is operated bt the United States Air Force which carried out the 1986 United States bombing of Libya . Its aircraft fighter is General Dynamics F - 16 Fighting Falcon and the Lockheed AC - 130 can be found on USAF aircraft carriers .
+Al Asad airbase is operated by the United States Air Force who participated in the battles during Operation Enduring Freedom . They deploy the Lockheed AC - 130 on their aircraft carriers and also make use of the aircraft fighter General Dynamics F - 16 Fighting Falcon .
+Al Asad Airbase is operated by the United States Air Force who deploy the Lockheed AC - 130 as an attack aircraft and the McDonnell Douglas F - 15 Eagle as a fighter aircraft . They also fought in the battles of Operation Enduring Freedom .
+Al Asad airbase is operated by the United States Air Force . Some of its aircraft include the Boeing C - 17 Globemaster III ( transport aircraft ) , General Dynamics F - 16 Fighting Falcon ( aircraft fighter ) , and the Lockheed AC - 130 which can be found on USAF aircraft carriers . The USAF was involved in the Invasion of Panama .
+The United States Air Force has fought in the Korean War . It is the operating organisation for Al Asad airbase . It has a Boeing C - 17 Globemaster III transport aircraft and additionally , the Lockheed AC - 130 can be found on USAF aircraft carriers . McDonnell Douglas F - Eagle was a Fighter Aircraft of the United States Air Force .
+Al Asad airbase is operated by the United States Air Force who took part in the noted battles at the invasion of Grenada . They deploy the Lockheed AC - 130 attack aircraft and the General Dynamics F - 16 Fighting Falcon as an aircraft fighter .
+The transport aircraft for the United States Air Force is the Lockheed C - 130 Hercules . And Lockheed AC - 130 can be found on USAF aircraft carriers . Both the Korean War and the Invasion of Grenda involved the United States Air Force which currently operates the Al Asad Airbase .
+The Invasions of Grenada and Panama in involved the United States Air Force which now operates the Al Asad airbase . The Air Force has several types of aircraft such as the Boeing C - 17 Globemaster III transport aircraft and the Lockheed AC - 130 which can be found on USAF aircraft carriers .
+Al Asad airbase is operated by the United States Air Force which was involved in the Invasion of Grenada and the Korean war .
+Al Asad Airbase is operated by the United States Air Force which has the Invasion of Grenada as one of its noted battles as well as The Operation Enduring Freedom .
+The United States Air Force who is the operating organisation for Al Asad airbase fought battles in the Korean war and also in Operation Enduring Freedom .
+Al Asad Airbase is operated by the United States Air Force who fought in The Operation of Enduring Freedom battle .
+The United States invasion of Panama was a battle involving the United States Air Force who operate the Al Asad Airbase .
+The construction of Alan B Miller Hall , 101 Ukrop Way , began on 30th March 2007 .
+The Mason School of Business are the current tenants of Alan B Miller Hall .
+The Mason School of Business is located in the US and they are the current tenants of Alan B Miller Hall . Robert A . M . Stern is the architect for Alan B . Miller Hall , which is situated in Virginia .
+Situated in Virginia , United States , , Alan B . Miller Hall was completed on 1st June 2009 . The current tenants are the Mason School of Business .
+The College of William and Mary is the owner of the Alan B . Miller Hall in Virginia . The building was begun on 30 March 2007 .
+Robert Gates is the chancellor of The College of William and Mary which is owned by Alan B Miller Hall and is located in Virginia .
+The Mason School of Business in the US are the current tenants of Alan B Miller Hall in Virginia .
+Alan B Miller Hall is owned by The College of William and Mary and located in Williamsburg , Virginia .
+Alan B . Miller Hall , the building of which began 30 March , 2007 , is located in Williamsburg , Virginia and owned by the College of William and Mary .
+Robert A . M . Stern is the architect of the Alan B . Miller Hall where the Mason School of Business is located .
+Alan Bean was an American born in Wheeler , Texas . He served as a test pilot and became a crew member of Apollo 12 , which was operated by NASA .
+Alan Bean was born on March 15 , 1932 in Wheeler , Texas and is American . He worked as a test pilot and was a member of Apollo 12 , which was run by NASA . Bean is retired .
+Alan Bean ( of the United States ) was a crew member of NASA ' s Apollo 12 under the commander David Scott .
+American Alan Bean was a member of NASA ' s Apollo 12 which was commanded by David Scott . Bean , who was born in Wheeler , Texas , is now retired .
+Alan Bean was born in Wheeler , Texas and attended UT Austin where he graduated in 1955 with a BS . Prior to his retirement he served as a test pilot and was selected by NASA to serve as a crew member on Apollo 12 alongside commander David Scott .
+Alan Bean was under commander David Scott on Nasa ' s Apollo 12 mission .
+Alan Shepard , who was born in New Hampshire on November 18th , 1923 , graduated with a M . A . from NWC in 1957 and retired on August 1st , 1974 .
+Alan Shepard , born in New Hampshire on November 18 , 1923 , graduated from NWC in 1957 with a M . A . He died in California on July 21 , 1998 .
+The American Alan Shepard was born on November 18 , 1923 , in New Hampshire . He graduated with an M . A . from NWC in 1957 , and was hired by NASA in 1959 . Shepard died in California .
+Alan Shepard was born on Nov 18 , 1923 in New Hampshire , US . He graduated from NWC in 1957 with an M . A . In 1959 he began working for NASA and was a member of Apollo 14 . He died in California .
+The United States Navy awarded the Distinguished Service Medal to Alan Shepard .
+Dianne Feinstein is a senator in California where Alan Shepard died on July 21 1998 .
+Alan Shepard died in California .
+Alan Shepard was born on the 18th of November , 1923 in New Hampshire . He graduated from NWC with a M . A . in 1957 and was selected by NASA in 1959 . His death place was California .
+Alan Shepard , born in New Hampshire , has died in California . After graduating from NWC , MA in 1957 he served as a test pilot .
+Alan Shepard was born on Nov 18 , 1923 in New Hampshire , USA . He graduated from NWC in 1957 with an M . A . He worked as a test pilot before passing away in California .
+American test pilot Alan Shepard died in California and was born in New Hampshire .
+Alan Shepard was born on November 18 , 1923 . Murio in California . He was A Test pilot Rewarded with the Medal of Service Distinguished from The Sea - coast of The United States , Medal of the United States Navy is higher than the Department of Commerce Gold Medal .
+Apollo 14 crew member Alan Shepard retired on the first of August , 1974 .
+Alan Shepard was born on November 18 , 1923 , in New Hampshire . He served as a crew member on NASA ' s Apollo 14 mission before retiring on August 1 , 1974 . Shepard passed away in California .
+Alan Shepard was a test pilot born in New Hampshire who NASA picked as a member of Apollo 14 .
+The late Alan Shepard was born in New Hampshire , and chosen by NASA in 1959 a a crew member of Apollo 14 .
+Alan Shephard was born in New Hampshire . He was won the American Defence Service Ribbon . The United States Navy also awarded him the Distinguished Service Medal , which is higher than the Department of Commerce Gold Medal . He died on July 21st , 1998 .
+Alba Iulia is located in Romania .
+Alba Iulia os part of the county of Alba .
+Albany , Georgia has a Mayor as leader .
+Albany , Oregon has a total area of 45 . 97 square kilometres .
+Albany , Oregon is in the U . S .
+The Albuquerque City Council has a leadership role in Albuquerque , New Mexico .
+Albuquerque , New Mexico is led by the State Senate .
+Alcatraz Versus The Evil Librarian OCLC number is 78771100 .
+The book Alcatraz Versus the Evil Librarians is followed by the book Alcatraz Versus the Scrivener ' s Bones .
+The United States is home to the ethnic group of African Americans and is lead by Barack Obama . The country is the origin of the book Alcatraz Versus the Evil Librarians . This book was written in English , as spoken in Great Britain .
+The book Alcatraz Versus the Evil Librarians was written in English and comes from the United States where the capital city is Washington DC and the African Americans are an ethnic group .
+Alcatraz Versus the Evil Librarians is published in Hardcover and has the ISBN number 0 - 439 - 92550 - 9 .
+Alcatraz Versus the Evil Librarian , which is identified by ISBN 0 - 439 - 92550 - 9 , has 320 pages .
+Adolfo Suárez Madrid – Barajas Airport is located in Alcobendas which is part of the Community of Madrid .
+The 1st runway at Alderney Airport is made from Poaceae and has a length of 733 . 0 .
+Poaceae is the surface of the 1st runway at Alderney Airport which has a runway with the length of 877 . 0 metres .
+The Alderney Airport serves Alderney .
+Allama Iqbal International airport is located in Punjab Pakistan and serves Lahore , Pakistan . The Pakistan Civil Aviation Authority governs the Allama Iqbal International Airport . The country is lead by Anwar Zaheer Jamali .
+Allama Iqbal International Airport is operated by Pakistan Civil Aviation Authority , the HQ of which is at Jinnah International Airport .
+The Pakistan Civil Aviation Authority has headquarters at Jinnah International airport and governs the Allama Iqbal International Airport in Punjab , Pakistan which is lead by the Provincial Assembly of the Punjab .
+The Pakistan Civil Aviation Authority is the operating organisation of the Allama Iqbal International Airport . The airport serves the city of Lahore , in Pakistan where Shehbaz Sharif is the leader , It is also where the Allama Iqbal International Airport is found , in Punjab , Pakistan .
+18R / 36L is the runway name at Allama Iqbal International airport .
+Alpena County Regional Airport serves Alpena , Michigan and is located at Maple Ridge Township , Alpena County , Michigan . It has a runway length of 1533 . 0 and is 210 metres above sea level .
+Located in Wilson Township , Alpena County , Michigan , Alpena County Regional Airport has an elevation of 210 metres above sea level and a runway length of 1 , 533 metres .
+The location of Alpena County Regional Airport is Wilson Township , Alpena County , Michigan , United States .
+The runway length of Alpena County Regional Airport is 1 , 533 .
+Alpena Country Regional Airport runway name is 1 / 19 / .
+Amarillo is in Texas , in the United States .
+Amarillo is part of Potter County in Texas .
+Amarillo is in Texas , in the United States .
+Tomatoes , guanciale , cheese , and olive oil are main ingredients in the traditional Amatriciana sauce , which comes from the region of Lazio and can be found in an Italian meal .
+Tomato is an ingredient in Amatriciana sauce which comes from Lazio .
+The architecct B V Doshi designed Amdavad Ni Gufa .
+Narendra Modi and Sumitra Mahajan are leaders in India where Amdavad ni Gufa is located in Ahmedabad .
+The address for Amdavad ni Gufa is Lalbhai Dalpatbhai Campus , near CEPT University , opp . Gujarat University , University Road , Gujarat , Ahmedabad , India .
+Amdavad ni Gufa is located in Gujarat , Ahmedabad , India . Gujarat ' s leader is known as the Gujarat Legislative Assembly , and the leader of India is Narendra Modi .
+Amdavad ni Gufa is located in Ahmedabad , Gujarat , India ; led by the Gujarat Legislative Assembly , including leader T S Thakur .
+Amdavad ni Gufa is located in Ahmedabad , Gujarat , India . T S Thakur was an Indian leader .
+The American Journal of Mathematics , abbreviated to Am . J . Math , whose academic discipline is Mathematics has ISSN No . 1080 - 6377 .
+The American Journal of Mathematics is abbreviated to Am . J . Math . and comes under the discipline of Math . It is published bimonthly and has the ISSN number 1080 - 6377 .
+The American Journal of Mathematics was first published in 1878 and is also known by the abbreviated title of Am . J . Math . It has an ISSN number of 1080 - 6377 .
+The academic discipline of the American Journal of Mathematics is Mathematics , published in 1878 .
+The impact factor of the American Journal of Mathematics is 1 . 337 .
+Ampara Hospital is located in Sri Lanka .
+Ampara Hospital is located in the Ampara District in Sri Lanka .
+The 476 bed Ampara Hospital is located in Ampara District , Sri Lanka .
+Sri Jayawardenepura Kotte is the capital of Sri Lanka , where Ampara Hospital is located .
+The 476 bed Ampara Hospital is situated in the Eastern Province state of Sri Lanka where Austin Fernando is the leader . The country ' s leader is Ranil Wickremesinghe .
+Ampara Hospital is in Eastern Province , Sri Lanka . Ranil Wickremesinghe is a leader there .
+Ampara Hospital is located in the Eastern Province of Sri Lanka , where the currency is the Ski Lankan rupee . One of the leaders of Sri Lanka is Ranil Wickremesinghe .
+Amsterdam Airport Schiphol serves the city of Amsterdam .
+Amsterdam airport , Schipol which serves the city of Amsterdam is located at - 3 . 3528 metres above sea level and has a runway length of 3500 .
+The city of Amsterdam is served by Amsterdam Airport Schiphol which is - 3 . 3528 metres above sea level . It has a runway length of 2014 . 0 meters and 06 / 24 , Kaagbaan , is the runway name .
+The Schipol Group are the operators of Amsterdam Airport Schiphol , which is - 3 . 3528 above sea level .
+Amsterdam - Centrum is part of Amsterdam .
+Anaheim , in California , has the area code 657 .
+Anderson , Indiana is part of Adams Fall Creek , Lafayette , Richland , Union .
+Andrews County , Texas is country seat to Andrews , Texas .
+Andrews County Airport is 973 metres above sea level and The 4th runway is made of Asphalt .
+Andrews Country Airport ' s city is served by Andrews , Texas .
+Located in Texas , and serving Andrews , is Andrews County Airport . The airport is 973 . 0 below sea level , has a runway length of 896 , and a runway with the name 11 / 29 .
+Andrews County Airport is located in Texas , the capital of which is Austin .
+The demonym for the people of Texas is Tejano and the spoken language is English . The state is the location of Andrews County airport and has the capital city of Austin .
+Andrews County Airport , Texas is in the United States . The inhabitants of Texas , Texans , speak English .
+Andrews County airport is in Texas , United States , where the people are known as Texans and Spanish is spoken .
+Andrews County Airport is in Texas in the U . S . A . where Spanish is one of the languages spoken . Houston is the largest city in the state and its capital is Austin .
+Houston is the largest city in Texas , where Austin is the Capital city . Andrews County Airport is located in Texas and Some texans can speak Spanish .
+Andrews County Airport is located in Texas in the United States . In Texas , the capital city is Austin and the largest city is Houston .
+Andrews County Airport is located in Texas ( United States ) , where Houston is the largest city .
+Andrews Country Airport runway name is 11 / 29 .
+The name of the runway at Andrews County Airport is Helipad .
+Angola is in Pleasant Township which is part of Steuben County , in Indiana .
+Angola International Airport city served is Luanda .
+Angola International Airport serves the city of Luanda , it is 159m above sea level .
+Angola International Airport is located in Ícolo e Bengo , Angola .
+The Angola International Airport is in Ícolo e Bengo , ( Luanda Province ) , The airport serves Luanda , and is 159 metres above sea level .
+Angola International airport is located in Icolo e Bengo Angola , it has a runway length of 4000ft .
+Angola International Airport is located in Ícolo e Bengo , Luanda , Angola . The runway is 4000ft long and is 159m a . s . l .
+Angola International Airport is located at Ícolo e Bengo in Angola and the runway is named " south runway " .
+At 159 meters above sea level , Angola International Airport is located at Ícolo e Bengo , part of Luanda Province , in Angola .
+A City Administrator leads Ann Arbor , Michigan .
+Mayor , is the title of the leader in Ann Arbor , Michigan .
+The city of Ann Arbor , Michigan , has a population of 1580 . 7 as per square kilometre .
+Antioch , CA is 13 above sea level .
+The leader title of Antioch , California , is California ' s 11th State Assembly district .
+Bandeja paisa comes from the Antioquia Department of Colombia .
+The Flemish Government runs the flemish region in Belgium where Antwerp is served by Antwerp International airport .
+Antwerp International Airport which has an elevation of 12 . 0 metres above sea level is owned and operated by the Flemish government .
+Antwerp International Airport , operated by The Flemish department of Mobility and Public Works , is 12 metres above sea level .
+The Flemish department of Mobility and Public Works is the operating organisation and owner of Antwerp International Airport that serves the city of Antwerp .
+The Flemish department of Mobility and Public Works is the operating organisation of Antwerp International Airport which is owned by the Flemish Region . The airport serves the city of Antwerp , is 12 . 0 metres above sea level , and has a runway length of 600 . 0 .
+William Anders was the backup pilot on Apollo 11 .
+Alan Bean ( born in Wheeler , Texas ) was a crew member of Apollo 12 operated by NASA and was in space 100305 minutes . Apollo 12 was commanded by David Scott and Alfred Worden was a backup pilot .
+The backup pilot to Apollo 12 was Alfred Worden and also part of Apollo 12 were Alan Bean and commander David Scott who were all chosen by NASA .
+The Apollo 14 was operated by NASA .
+The Apollo 8 operator is NASA .
+Appleton International airport serves the city of Appleton which is part of Kimberly , Wisconsin , as is Little Chute .
+Appleton , Grand Chute , Wisconsin is a city which is served by Appleton International Airport .
+Appleton International Airport ( in Greenville , Wisconsin ) has an elevation of 280 metres above sea level , serves the city of Appleton , and has a runway length of 2 , 439 .
+The city of Appleton is served by Appleton International Airport located 280 metres above sea level in Greenville , Wisconsin . The runway at the airport is 3 / 21 and is 2439 in length .
+The Appleton International Airport is in Greenville which is part of Clayton Winnebago County , Wisconsin , in the United States .
+The city of Appleton is served by Appleton International Airport in Greenville ( part of Menasha ) , Clayton Winnebago County , Wisconsin , United States .
+Appleton International airport , which serves Appleton , Wisconsin , is located in Greenville , Wisconsin which is part of both Menasha and Dale .
+New Zealand ' s Ardmore Airport ' s second runway has the surface type Poaceae which is part of the Poales order .
+Ardmore Airport ( New Zealand ) ' s 3rd runway surface type is Poaceae of the class Monocotyledon .
+The 3rd runway at Ardmore Airport ( New Zealand ) is made of Poaceae which is of the order Poales and belongs to the division of flowering plants .
+Poaceae is of the order poales , the class of Monocotyledon and belongs to the order of Commelinids . It constitutes the surface of the 3rd runway at Ardmore Airport in New Zealand .
+The Ardmore Airport , New Zealand is in Auckland .
+Ardmore Airport in New Zealand is operated by the Civil Aviation Authority and is 34 metres above sea level . It has a runway named 03R / 21L which is 1 , 411 long and its third runway has a poaceae surface .
+The Ardmore Airport in New Zealand is 34 meters above sea level and has a runway length of 597 . 0 . It has the runway name 03R / 21L and the 3rd runway is made of Poaceae .
+Arem - arem , a Javanese dish , is commonly served in Indonesia where the leader is Joko Widodo . It is also where the currency is the Indonesian rupiah and where Indonesian language is the language spoken .
+Arem arem originates from the country of Indonesia , where two of the leaders are , Joko Widodo and Jusuf Kalla .
+Arem - arem is a food found nationwide in Indonesia , but is more specific to Java . Jusuf Kalla is the leader of Indonesia .
+Lemper , a dish variation of Arem - Arem contains Banana leaf in which is cooked compressed rice with vegetables or minced meat fillings and is a form of Javanese cuisine .
+Arem - arem is a food that is found nationwide in Indonesia , but more specific to Java , it can be served as a main course and has a banana leaf in it . It ' s main ingredients are compressed rice cooked in banana leaf with vegetables or minced meat fillings .
+Arem arem comes from Indonesia .
+Arem - arem uses the ingredient banana leaf , it is a common dish in Indonesia .
+Arem - arem is found nationwide in Indonesia , but is more specific to Java .
+Arlington Texas is has an elevation of 184 above sea level .
+Olive oil is an ingredient used in the preparation of Arrabbiata sauce , found in Italy .
+Arrabbiata sauce is found in Italy where the capital city is Rome .
+Sergio Mattarella is a leader in Italy , a country where Rome is the capital , and both the people and the language spoken are Italian . Arrabbiata sauce can be found in Italy .
+The leader of Italy is Sergio Mattarella , it is also where Italian is spoken and the arrabbiata sauce is from .
+Arrabbiata sauce , a traditional dish from Rome in Italy , has chili pepper as one of its important ingredients .
+Arrabbiata sauce originates from the region of Rome in Italy . It is made with tomatoes , red chili , garlic and olive oil .
+Garlic is an ingredient in arrabbiata sauce which originates from the region of Rome , in Italy .
+Tomatoes are found in Arrabbiata sauce which comes from Italy .
+Arrabbiata sauce is made with tomatoes , red chili , garlic and olive oil .
+Arròs negre is from Spain , it includes squid .
+Arros Negre is a traditional dish from the Catalonia region of Spain . The main ingredients of Arros negre are white rice , cuttlefish or squid , cephalopod ink , and cubanelle peppers .
+The main ingredients of Arròs negre , which is from Spain , are white rice , cuttlefish or squid , cephalopod ink , cubanelle and cubanelle peppers . Arròs negre is from the Catalonia region .
+Arros negre contains Squid and comes from the Catalonia region of Spain .
+Cuttlefish is an ingredient in Arros negre .
+Squid is an ingredient of Arros negre .
+Cuttlefish is an ingredient in Arròs negre which comes from the region of the Valencian Community , in Spain .
+Arros negre is a traditonal dish from the Valencian Community , Spain . It has the main ingredients of white rice , cuttlefish or squid , cephalopod ink and cubnelle peppers .
+Cuttlefish is an ingredient in Arros negre which comes from the region of Valencian Community .
+Ximo Puig is a leader of the Valencian Community which is where Arros negre comes from . It is a a traditional dish from Spain , where the people are called Spaniards and the leader is Felipe VI of Spain .
+Asam pedas is a food found in Malaysia .
+The main ingredients of asam pedas , a food from the Sumatra and Malay Peninsula regions of Malaysia , consist of fish cooked in a sour and hot sauce .
+Asam pedas is found in the region of Sumatra and Malay peninsula in Malaysia . It can also be called Asam padeh and it ' s ingredients are fish cooked in sour and hot sauce .
+Asam pedas is a food found in the Malay Peninsula of Malaysia , whose capital is Kuala Lumpur , and includes the Malaysian Chinese and Malaysian Indians .
+Malaysian Indian and Malaysian chinese are two of the ethnic groups in Malaysia where Arifin Zakaria is the leader . Asam pedas is found in Malaysia and is from the Malay Peninsula region .
+Asam pedas is a food found in Malaysia and Sumatra . Malaysian Malay is an ethnic group in Malaysia and Sumatra has an ethnic group called the Minangkabau people .
+Asher and Mary Isabelle Richardson House was added to the National Register of Historic Places on " 1988 - 11 - 22 " .
+The Asher and Mary Isabelle Richardson House is located on U . S . Route 83 and has the reference number 88002539 in the National Register of Historic Places .
+The Asher and Mary Isabelle Richardson House located on US Route 83 and built in 1911 was added to the National Register of Historic Places , on 22nd November 1988 .
+Ashgabat International Airport ( located in Ashgabat ) is elevated 211 metres above sea level and has a runway length of 3800 .
+Turkmenistan Airlines operates Ashgabat International Airport in Ashgabat . The airport is 211 metres above sea level , has the runway length of 2989 . 0 and 12R / 30L is the runway name .
+The runway length at Ashgabat International airport , located in Ashgabat , is 3800 . 0 .
+San Francisco born architect Julia Morgan designed many significant buildings including the Asilomar Conference Grounds , the Los Angeles Herald Examiner Building and the Asilomar State Beach .
+Born in California , Julia Morgan has designed buildings such as Los Angeles Herald Examiner building and The Riverside Art Museum , and was also the architect of the grounds of Asilomar Conference .
+Julia Morgan , who was born in California , designed the Asilomar Conference Grounds , the Los Angeles Herald examiner building , The Riverside Art Musuem and Hearst Castle .
+Asilomar Conference Grounds were designed by Julia Morgan ( born in California ) , who is known for a number of buildings , including Hearst Castle and The Riverside Art Museum , and her work in San Francisco ' s Chinatown .
+Asilomar Conference Grounds , Asilomar Blvd . , Pacific Grove , California has a reference number in the National Register of Historic Places of : 87000823 .
+Asilomar Conference Grounds at Pacific Grove , California was added to the National Register of Historic Places on February the 27nd 1987 .
+Asilomar Conference Grounds are located in Pacific Grove , California and was added to the National Register of Historic Places on February the 27nd 1987 . Its reference number in the National Register of Historic Places is 87000823 , .
+The Asilomar Conference Grounds were constructed in 1913 . They are located in Pacific Grove , California and they were added to the National Register of Historic Places on February 27th 1987 ( with reference number 87000823 ) . The grounds are in the architectural style of the Arts and Crafts Movement .
+Asser Levy Public Baths , built in 1904 in a Romanesque Revival style , is located at 23rd Street ( Manhattan ) . The site was added to the National Register of Historic Places on 1980 - 04 - 23 , with Reference Number 80002709 .
+Asser Levy Public Baths is located on 23rd Street , Manhattan , and was constructed in 1904 .
+The Asser Levy Public Baths are located in Asser Levy Place , East 23rd Street and were added to the National Register of Historic Places on 1980 - 04 - 23 , with the number 80002709 .
+The Asser Levy Public Baths are found in New York City , New York , United States . Another part of New York City is Manhattan where Gale Brewer is the leader .
+The Asser Levy Public Baths are located in New York City , U . S . Manhattan is a borough in New York City .
+Asser Levy Public Baths are in New York City , U . S . which is part of Manhattan . New York City was part of New Netherland .
+The Asser Levy Public Baths was built in 1904 .
+Asterix was created by Rene Goscinny .
+The comic strip character Asterix was created by Albert Uderzo and Rene Goscinny .
+The Atatürk Monument in Izmir was designed by Pietro Canonica .
+Ankara is the Turkish capital and the country ' s leader ' s name is Ahmet Davutoglu . The Atatürk Monument ( İzmir ) can be found in Turkey . Pietro Canonica designed the Monument and it is made of bronze . The Ataturk Monument was inaugurated on 27th July , 1932 .
+Ankara is the capital of Turkey where the currency is the Turkish lira and the leader is Ahmet Davutoglu . Izmir is located in the country and is the site of the bronze Ataturk Monument which was inaugurated in Izmir on 27 July 1932 , having been designed by Pietro Canonica .
+The inauguration date for the Atatürk Monument ( İzmir , Turkey ) is 1932 - 07 - 27 .
+The Atatürk Monument in Izmir is made of bronze .
+Athens International Airport is in Spata and serves the city of Athens .
+Athens International Airport serves the city of Athens and has a runway length of 3800 . 0 .
+The Athens International Airport serves the city of Athens , in Greece where Alexis Tsipras is the leader .
+Athens International Airport is in Spata .
+Athens mayor is Giorgos Kaminis .
+With a runway length of 1 , 873 , Atlantic City International Airport is located in Egg Harbor Township , New Jerse y ( part of Atlantic County ) in the United States .
+Atlantic City International Airport has a runway length of 1 , 873 and is operated by the Port Authority of New York and New Jersey . It is situated 23 metres above sea level , has the runway name of 4 / 22 and is known by the ICAO location identifier KACY .
+Atlantic City International Airport , which has a runway with the name is 4 / 22 , is located in Egg Harbor Township , in New Jersey , United States .
+Atlantic County , New Jersey is located in the United States .
+Attica is part of Fountain County Indiana .
+Auburn is part of Alabama .
+Created by Len Wein , Aurakles ' s alternative name is also Aurakles .
+The comic character Auron was created by Walt Simonson and the American , Karl Kesel .
+The comic character Auron was created by Marv Wolfman .
+The genus of the avocado is persea .
+Ayam penyet is a food found in Java and the main ingredients are " squeezed " or " smashed " chicken served with sambal .
+Ayam penyet is made from squeezed or squashed chicken served with sambla and is a popular dish in Java , Malaysia .
+Malaysian Chinese is an ethnic group from Malaysia and Ayam Penyet is from there . Ayam Penyet is also from Indonesia and it contains fried chicken as well as " squeezed " or " smashed " chicken served with sambal .
+Ayam penyet is a Javanese dish made nationwide , and can also be found in Malaysia and Singapore . It should be served hot and contains the main ingredients of squeezed or smashed fried chicken served with sambal .
+Ayam penyet should be served hot .
+The capital of Azerbaijan is Baku and the leader and Prime Minister of Azerbaijan is called Artur Rasizade . The Baku Turkish Martyr ' s Memorial is located in Azerbaijan and the legislature is known as the National Assembly .
+Baku , the capital of Azerbaijan is the location of the Turkish Martyrs memorial dedicated to the soldiers of the Ottoman army killed in the Battle of Baku . The memorial was designed by Huseyin Butuner and Hilmi Guner .
+The National Assembly is the official legislature of Azerbaijan which is lead by a Prime Minister . The capital city is Baku which is the location of the memorial designed in red granite and white marble by Huseyin Butuner and Hilmi Guner . The memorial is dedicated to the Ottoman army soldiers who were killed in the Battle of Baku .
+Baku is the capital of Azerbaijan and the leader of the legislature ( the National Assembly ) is Artur Rasizade . Azerbaijan is the location of the Baku Turkish Martyrs memorial .
+The Baku Turkish Martyr ' s memorial which is dedicated to the soldiers of the Ottoman army who were killed in the Battle of Baku is located in Azerbaijan . At present Artur Rasizade is the leader of the country .
+The red granite and white marble Baku Turkish Martyrs ' Memorial is dedicated to the Ottoman Army Soldiers killed in the Battle of Baku , and is located in Baku , Azerbaijan , where the leader is Artur Rasizade .
+Azerbaijan leader ' s name is Artur Rasizade .
+The Baku Turkish Martyrs ' Memorial , which is dedicated to the Ottoman Army Soldiers killed in the Battle of Baku , is located in Azerbaijan , where the official leader ( Prime Minister of Azerbaijan ) is called Artur Rasizade .
+The Baku Turkish Martyrs ' Memorial was designed by Huseyin Butuner and Hilmi Guner and is located in Azerbaijan . It is dedicated to the Ottoman Army Soldiers killed in the Battle of Baku . The leader , the Prime Minister of Azerbaijan is Artur Rasizade .
+Tony Hall , Baron Hall of Birkenhead , is a key person at the BBC which is located in London and broadcast Bananaman .
+Bacon and sausage are the main ingredients in a Bacon Explosion , which comes from the United States .
+A sausage is used when making a Bacon Explosion which has The United states to thank for inventing it .
+The Bacon Explosion comes from the Kansas city metro area in the U . S . The main ingredient in it is bacon and also includes sausage .
+One of the ethnic groups in the United States are native Americans , the country is also the home of the dish bacon explosion and has Wasington D . C . as it ' s capitol city .
+The United States is the country of Bacon Explosion . Barack Obama is the leader and Washington D . C . is the capital .
+Bacon Explosion is a dish that originates in the United States , where English is the language spoken and the capital is Washington DC . Barack Obama is leader of the US and Native Americans are one of the ethnic groups of the country .
+The United States , where John Roberts is a leader , is the country of the Bacon Explosion .
+The Bacon Explosion originated in the United States , where African Americans are an ethnic group and John Roberts is a leader .
+Bacon Explosion comes from the United States , where one of the leaders is Paul Ryan . It is also where Asian Americans are one of the ethnic groups and Washington , D . C . is the capital .
+Bacon is an ingredient in the main course dish ' Bacon Explosion ' .
+A bacon sandwich on bread is also known as bacon butty , bacon sarnie , rasher sandwich , bacon sanger , piece ' n bacon , bacon cob , bacon barm , or bacon muffin .
+Bacon sandwiches are popular in the UK , have a variant called a BLT , include the ingredient bacon and sometimes go by the name of : bacon butty , bacon sarnie , rasher sandwich , bacon sanger , piece ' n bacon , bacon cob , bacon barm and bacon muffin .
+Bacon sandwich is a dish from the United Kingdom and a variation is the BLT . An ingredient used is brown sauce and it ' s different names include Bacon butty , bacon sarnie , rasher sandwich , bacon sanger , piece ' n bacon , bacon cob , bacon barm and bacon muffin .
+Bacon sandwiches are variations of BLT and come from the U . K . Condiments are found in these sandwiches .
+From the United Kingdom , the bacon sandwich ' s main ingredients are bread and bacon and a condiment , often ketchup or brown sauce . It can also be known as a bacon butty , bacon sarnie , rasher sandwich , bacon sanger , piece ' n bacon , bacon cob , bacon barm , or bacon muffin .
+Baked Alaska comes from China , where Standard Chinese is spoken .
+Baked Alaska is thought to have originated in the United States , France or China , and contains Christmas pudding as an ingredient .
+Meringue is an ingredient of a Baked Alaska , which is from the New York region and France .
+Baked Alaska originates from France where the national language is French and one of the leader is Gerard Larcher . The dessert is served in Hong Kong as well where the leader is Carrie Lam .
+Sponge cake is one of the ingredients in Baked Alaska , a dish from the New York region and found in the United States .
+Baked Alaska is a dessert .
+Baked Alaska and cookies are types of dessert .
+Christmas pudding is an ingredient in the dessert Baked Alaska . Cookie is also a dessert .
+Sandesh ( confectionery ) is a dish that can be served as a dessert . Another dish that is a dessert is Baked Alaska which has Christmas pudding as an ingredient .
+Baked Alaska has the main ingredients of meringue , ice cream and sponge cake ( or Christmas pudding ) . It is found in France , the US , China , Hong Kong , New York and Paris .
+Baked Alaska comes from either Paris , New York USA or Hong Kong . Meringue , ice cream , sponge cake or Christmas pudding are main ingredients in baked Alaska .
+Bakewell pudding was created in 1820 at the Rutland Arms , Bakewell and has ground almond , jam , butter and eggs as main ingredients .
+Bakewell tart , made with shortcrust pastry , is a variation of Bakewell pudding .
+The bakewell tart is popular in the Derbyshire Dales area which is part of Derbyshire . It ' s a variant of bakewell pudding and uses frangipane .
+Bakewell tart is a variation of Bakewell pudding that originates from the Derbyshire Dales . It is a dessert that has the main ingredients of ground almond , jam , butter and eggs .
+From the Derbyshire Dales region ( in Derbyshire ) , isBakewell pudding . A variation of which , is Bakewell tart , its main ingredient is shortcrust pastry .
+Bakewell Tart ( or pudding ) is from the Derbyshire Dales area of Derbyshire where Patrick McLoughlin is a leader . The tart is made with shortcrust pastry .
+An ingredient of bakewell tart is frangipane .
+The dish Bakso contains noodles .
+Vermicelli is an ingredient in Bakso .
+The Baku Turkish Martyrs Memorial in Azerbaijan was designed by Hüseyin Bütüner and Hilmi Güner and is dedicated to Ottoman Army soldiers killed in the Battle of Baku .
+The Baku Turkish Martyrs ' Memorial in Azerbaijan is dedicated to the Ottoman Army Soldiers killed in the Battle of Baku and was designed by Huseyin Butuner and Hilmi Guner . The monument is also known by the native name Türk Şehitleri Anıtı . Azerbaijan ' s leader is Artur Rasizade .
+Huseyin Butuner and Hilmi Guner designed the red granite and white marble Baku Turkish Martyrs memorial in Azerbaijan . It is also known as Turk Sehitleri Aniti and is dedicated to the soldiers of the Ottoman army killed in the Battle of Baku .
+The Baku Turkish Martyrs Memorial has been dedicated to Ottoman Army soldiers killed in the Battle of Baku and is made of red granite and white marble .
+The Baku Turkish Martyrs ' Memorial is located in Azerbaijan .
+Azerbaijan , where the leader is Artur Rasizade , is the location of the Baku Turkish Martyrs Memorial . The memorial was designed by Huseyin Butuner and Hilmi Guner .
+The Baku Turkish Martyrs ' Memorial was designed by Huseyin Butuner and Hilmi Guner , and is located in Azerbaijan , where it is called Turk Sehitleri Aniti .
+The materials used for the Baku Turkish Martyrs ' Memorial is red granite and white marble .
+The Baku Turkish Martyrs ' Memorial , designed by Huseyin Butuner and Hilmi Guner and made of granite and white marble , is dedicated to the Ottoman Army Soldiers killed in the Battle of Baku . The memorial is found in Azerbaijan whose leader is the Prime Minister .
+The native name of the Baku Turkish Martyrs ' Memorial is Turk Sehitleri Aniti and is made of red granite and white marble .
+The comic character , Balder , was created by Jack Kirby .
+Doug Moench was the creator of the comic character Ballistic , who has the alternative name Kelvin Mao .
+Starring Graeme Garden , Bananaman , the TV series was shown on the BBC .
+Bananaman is broadcast by STV .
+Bananaman first aired on 3rd October 1983 .
+Bill Oddie stars in Bananaman .
+Bill Oddie starred in Bananaman which first aired on 3 October 1983 and was broadcast by STV .
+Bill Oddie , who stars in Bananaman , was born in Lancashire .
+Bananaman was shown on the BBC , first airing on 3 October 1983 and the final broadcast being 15 April 1986 . It was created by John Geering and starred Tim Brooke Taylor .
+Tim Brooke - Taylor was the star of Bananaman , an STV series first aired on 10 / 03 / 1983 and created by Steve Bright .
+Part of Columbian cuisine , Bandeja paisa ( which has kidney beans as one of the ingredients ) , comes from Antioquia Department area .
+Chorizo is an ingredient in the dish Bandeja paisa .
+Bandeja paisa is a dish from Colombian cuisine and originates from the Paisa region . One of the ingredients in Bandeja paisa is lemon which is a member of the family Rutaceae and is from the genus citrus .
+Lemon ( part of genus Citrus ) is an ingredient in Bandeja paisa .
+Bandeja paisa is typical Colombian cuisine that originates from the Paisa region and contains lemon . The lemon belongs to the rutaceae family and the order of Rosids .
+Bandeja paisa is a Colombian dish from the Paisa region . Its main ingredients include red beans , pork belly , white rice , ground meat , chicharon , fried egg , plantain ( patacones ) , chorizo , arepa , hogao sauce , black pudding ( morcilla ) , avocado and lemon .
+Acharya Institute of Technology was founded by Kempe Gowda I in Bangalore in the state of Karnataka . It has the Arabian Sea to its west and is affiliated with Visvesvaraya Technological University .
+Barny Cakes , which are made from sponge cake , are from France , where Gerard Larcher and Claude Bartolone are leaders and French is the language spoken .
+Created by Mondelez International ( founded in Chicago ) , Barny Cakes come from France where Gerard Larcher is leader and they speak French .
+Barny Cakes come from France where Gerard Larcher and Claude Bartolone are leaders .
+Mondelez International is the creator of Barny cakes .
+Barny cakes can be made with apple and have 18 grams of carbs and 1 . 8 g of protein .
+Barny Cakes can be chocolate flavoured .
+Barny cakes contain 1 . 8 g of protein .
+Batagor is an Indonesian food and a variation of the Siomay dish . It contains a fried fish dumpling with tofu and vegetables in peanut suace .
+Batagor is found in the country of Indonesia . It is a variation on Siomay or Shumai , the latter of which includes Shiitake .
+Batchoy is eaten in the Philippines .
+Batchoy is a food in the Philippines and one of its ingredient is shrimp .
+The Chinese Filipino is an ethnic group in the Philippines , where batchoy is a traditional dish .
+Chicken is an ingredient in Batchoy .
+Vegetable are used in the preparation of Batchoy .
+Baymax first appeared in Big Hero 6 and was created by Duncan Rouleau and Steven T . Seagle .
+Baymax is a character in Big Hero 6 .
+Beef kway teow is a dish from the country of Singapore , where Halimah Yacob is leader and Standard Chinese is spoken . The dish originated from the region of Indonesia .
+Beef kway teow is a dish from the country of Singapore , where the leader is Halimah Yacob and the currency is the Singapore dollar .
+A dish commonly found in Singapore and Indonesia is beef kway teow which has oyster sauce as a main ingredient .
+Beef kway teow is a dish found in Singapore and Indonesia . Kway teow , beef tender loin , gula Melaka , sliced , dried black beans , garlic , dark soy sauce , lengkuas , oyster sauce , soya sauce , chilli and sesame oil are main ingredients in beef kway teow .
+A popular food in Indonesia , Beef kway teow originates from Singapore . The country where Tony Tan is the leader .
+Beef kway teow is known to come from the Singapore region and also Indonesia . It ' s main ingredients are Kway teow , beef tender loin , gula Melaka , sliced , dried black beans , garlic , dark soy sauce , lengkuas , oyster sauce , soya sauce , chilli and sesame oil .
+Beef kway teow comes from the Singapore region where The English language is spoken . The dish is found in the countries of Indonesia and Singapore . The leader of Singapore is Tony Tan .
+English speaking Singapore , led by Tony Tan and Halimah Yacob , offers the dish Beef kway teow , also found in Indonesia .
+Beef kway teow originates from Singapore , where Chinese is spoken .
+Beef kway teow is a dish of Singapore where Tony Tan is a leader .
+Belgium language is German language .
+The Flemish Government have jurisdiction over the Flemish Region of Belgium . The leader of the country is Charles Michel and the city of Antwerp is served by Antwerp International Airport .
+Philippe of Belgium is the leader of Belgium .
+Antwerp International Airport serves the city of Antwerp in Belgium where the leader is Phillipe of Belgium .
+Bhajji originates from India , it ' s main ingredients are gram flour and vegetables .
+Bhajji is also known as Bhaji or bajj , originates from the Karnataka region of India . It is usually made up of vegetables and gram flour .
+Bhajji comes from the country India , where two of the leaders are T . S . Thakur and Narendra Modi . It is also where the Indian rupee is the currency .
+Indians is the name given to people from India and the leaders are Sumitra Mahajan and Vajubhai Vala . Bhajji is from the Karnataka region of India .
+Bhajji originates from India , country of Indians where the leader is T . S . Thakur .
+Bhajji originate from India where the Indian people come from . The leaders of the country are T S Thakur and Sumitra Mahajan .
+Bhajji come from the Karnataka region of India . Narendra Modi is the name of the leader of India , another leader is Sumitra Mahajan .
+Bhajji originates from India and Sumitra Mahajan is it ' s leader .
+Bhajji comes from Karnataka , India . One leader in India is T . S . Thakur and another Vajubhai Vala .
+Bhajji comes from the country of India , where two of the leaders are , T . S . Thakur and Narendra Modi .
+Bhajji originates from the Karnataka region and the main ingredients are vegetables and gram flour .
+Bhajji , which uses gram flour , is a dish similar to pakora and other fritters made from wheat or corn flour .
+The creator of Bibbo Bibbowski , who is often called Bibbo , are Jerry Ordway and Marv Wolfman .
+Bibbo Bibbowski was created by American , Jerry Ordway .
+Bill Everett has won the Eisner Award .
+Bill Oddie ' s daughter is Kate Hardie .
+Cookies and binignit are types of dessert . One of the ingrediens in binignit is sweet potato which belongs to the order Solanales .
+An ingredient of Binignit is sweet potato , and one of the main ingredients is the banana .
+The binignit dish can be found in the Philippines . Two of the main ingredients in it are banana and sweet potato .
+Sago is the main ingredient in binignit but sweet potatoes are also used in it .
+Sweet potatoes ( a kind of flowering plant ) are used in binignit recipes .
+Sweet potatoes are the main ingredient of binignit and the potatoes are part of the order of Solanales .
+Binignit is a dish from the region of Visayas .
+Bionico is a dessert containing sour cream from Mexico .
+Sour cream , chopped fruits , condensed milk . granola , raisins and shredded coconut are the main ingredients in Bionico , a food found in Guadalajara , in Mexico .
+Bionico is a food found in the Jalisco region of Mexico ; its ingredients contain the following : sour cream , chopped fruits , condensed milk . granola , raisins and shredded coconut .
+Containing raisins , Bionico is found in the region of Jalisco , in Mexico .
+Bionico is a dessert from Jalisco , Mexio . The leader in Jalisco is Jesus Casillas Romero . Another dessert is a cake .
+A type of dessert is a cake . However , bionico is not a cake , and instead a dessert from the Guadalajara region , in Mexico . Mexico is where Enrique Pena Nieto is the leader .
+Bionico is a dessert and it requires granola as one of it ' s ingredients .
+A popular dessert is Bionico and a variation of this dish can be honey .
+Birmingham has the postcode area ' B ' .
+103 Colmore Row was designed by the architect John Madin , who was born in Birmingham , where the postal code is ' B ' . Andrew Mitchell is the leader of the city and Birmingham City Council is the governing body .
+The architect John Madin was the designer of 103 Colmore Row , which is located in his home city of Birmingham . Labour politician , John Clancy is the leader of Birmingham and the city has the postal code ' B ' .
+Black Pirate , also known as Jon Valor , was created by Sheldon Moldoff .
+The comic character Blockbuster , also known as Roland Desmond , was created by Roger Stern and Tom Lyle .
+The comic character Blockbuster was created by Roger Stern and Tom Lyle .
+Dan Mishkin is one of the creators of the comic character , Bolt .
+The comic character Bolt has the alternative name of Larry Bolatinsky and was created by Ernie Colon and Dan Mishkin .
+Dan Mishkin and the Puerto Rican national , Ernie Colon created the comic character of Bolt who has the alternative name of Larry Bolatinsky .
+An alternative name for the comic character Bolt is Larry Bolatinsky and he was created by Paris Cullins and Dan Mishkin .
+Paris Culins and Gary Cohn are the creators of the comics character Bolt .
+Bozo the Iron Man ’ s full name is Hugh Hazzard .
+Buzz Aldrin , also called Edwin E . Aldrin Jr . , graduated in 1963 from MIT with a Sc . D . and was a crew member on Apollo 11 .
+Retired American fighter pilot Buzz Aldrin , also known as Edwin E . Aldrin Jr . , was born in Glen Ridge , New Jersey . He graduated from Massachusetts Institute of Technology in 1963 with a doctorate in Science and was a crew member on Apollo 11 .
+Buzz Aldrin was a fighter pilot who was born in Glen Ridge , New Jersey om January 20th , 1930 . His real name is Edwin E . Aldrin Jr . and after graduating from MIT with a doctorate in Science in 1963 , he became a member of Apollo 11 .
+Buzz Aldrin is a US national because he was born in Glen Ridge , New Jersey .
+Buzz Aldrin is a national of the United States whose leader is Joe Biden . He was born in Glen Ridge , Essex County , New Jersey .
+Buzz Aldrin , who was a member of the Apollo 11 crew and spent 52 minutes in space , was born in Glen Ridge New Jersey .
+Buzz Aldrin was born in Glen Ridge , Essex County , New Jersey . He is a US national , who was a crew member of the NASA operated Apollo 11 program . William Anders was a backup pilot on the Apollo 11 mission . The US leader was Joe Biden .
+Buzz Aldrin was born on Jan 20 , 1930 in Glen Ridge , New Jersey . He graduated from MIT with an Sc . D in 1963 . He began working for NASA in 1963 was a member of Apollo 11 which was run by NASA . He is now retired .
+Buzz Aldrin was born in Glen Ridge , New Jersey and graduated from Massachusetts Institute of Technology in 1963 with a doctorate in Science . He was a member of the Apollo 11 crew after being selected by NASA in 1963 with William Anders as a backup pilot on Apollo 11 .
+Buzz Aldrin was born in Glen Ridge New Jersey in 1930 . He graduated from MIT in 1963 and was hired by NASA in the same year . He was a member of the Apollo 11 crew and is now retired .
+Buzz Aldrin ' s nationality is United States .
+Retiree Buzz Aldrin is a former fighter pilot .
+The Apollo 11 program was organized by NASA and included Buzz Aldrin as one of its crew members .
+Buzz Aldrin performed as a fighter pilot and was a crew member on Apollo 11 .
+Buzz Aldrin graduated from Massachusetts Institute of Technology with a Sc . D in 1963 and became a fighter pilot . He was selected to work for NASA in 1963 , and was chosen as a crew member ( serving as backup pilot ) of the NASA operated Apollo 11 mission .
+California is in the United States .
+Alan Shepard , who was awarded the US Navy Distinguished Service Medal died in California , incidentally a Smilodon is a fossil from California .
+The novel Castle is followed by Aenir .
+One ingredient in Bakso is celery , which is a member of the genus Apium in the family Apiaceae .
+Chicago is part of DuPage County in Illinois .
+Cornwell University is nicknamed Cornell Big Red .
+The Dead Man ' s Plack , which is made of rock , is dedicated to Æthelwald , Ealdorman of East Anglia .
+The capital of Denmark is Copenhagen .
+Denmark ' s leader name is Lars Løkke Rasmussen .
+Patrick McLoughlin is a leader in the Derbyshire Dales .
+Patrick McLoughlin is the leader of Derbyshire Dales which is in the County of Derbyshire . Bakewell tart , a variation of Bakewell pudding , comes from the Derbyshire Dales and contains frangipane .
+Patrick McLoughlin is the leader of Derbyshire Dales which is part of Derbyshire . Coming from the Derbyshire Dales region is Bakewell tart ( a variation of Bakewell pudding ) which has Frangipane as an ingredient .
+A variation on dessert is cake .
+Bionico is a dessert that requires granola as one of its ingredients ; it can be eaten as an alternative to cake .
+Ice cream is a type of dessert .
+Bionico and ice cream are both served as a dessert course .
+Alan Shepard ( born November 18th , 1923 , New Hampshire ) was awarded the United States Navy Distinguished Service Medal which is higher than the department of commerce gold medal has died in California .
+Dublin is in the Republic of Ireland .
+Dublin is part of Leinster .
+Baymax is a character from the film Big Hero 6 starring Scott Adsit . He was created by Steven T Seagle and the American , Duncan Rouleau .
+Baymax is a character in Big Hero 6 that stars Damon Wayans Jr . The character was created by the American , Duncan Rouleau .
+Baymax , a character in Big Hero 6 , starring Jamie Chung , was created by Duncan Rouleau , an American .
+Big Hero 6 starred May Rudolph and the character of Baymax who was created by the American , Duncan Rouleau .
+Adolfo Suarez Madrid - Barajas Airport is operated by ENAIRE , which is located in the city of Madrid , Spain . The Adolfo Suarez Madrid - Barajas Airport is located in Madrid , Paracuellos de Jarama , San Sebastian de los Reyes and Alcobendas .
+Egg Harbor Township is in New Jersey , in the United States and is where Atlantic City International Airport is located . This airport has a runway length of 3048 . 0 .
+Elliot See was born in Dallas and later attended the University of Texas at Austin . The University of Texas at Austin is affiliated with University of Texas System and is competing in the Big 12 Conference . Nowadays , Gregory L . Fenves is the President of the University .
+Elliot See , a graduate of University of Texas at Austin , was born in Dallas on July 23 , 1927 , and died in St . Louis .
+Elliot See attended the University of Texas in Austin . He became a test pilot . He died in St . Louis on 1966 - 02 - 28 .
+Elliot See was born on July 23 , 1927 in Dallas . He graduated from U of Texas at Austin which is part of the U of Texas system . He worked as a test pilot before he died in St . Louis .
+Elliot See was born in Dallas on the 23rd of July in 1927 before attending the University of Texas at Austin . Elliot was a test pilot before passing away in St Louis in 1966 .
+Elliot See , a graduate of the University of Texas at Austin , passed away on 28th February 1966 in St . Louis . He was born in Dallas .
+Elliot See was born in Dallas as US national and graduated from the University of Texas at Austin . Elliot See has died on the 28th of February 1966 in St Louis .
+Elliot See was born in Dallas , which is a county in Texas . He attended the University of Texas at Austin , which is affiliated to the University of Texas system . The University of Texas at Austin will be part of the Big 12 Conference competition .
+Elliot See was born on 07 / 23 / 1927 in Dallas and died in St . Louis . He attended the University of Texas at Austin which is a part of the university of Texas system .
+Elliot See was born in Dallas and studied at the University of Texas in Austin ( which is affiliated to the university of Texas system ) . He died in St . Louis .
+Elliot See attended the University of Texas in Austin which is affiliated to the University of Texas system . He died in St Louis which is part of the Kingdom of France .
+Elliot See was born on July 23rd , 1927 in Dallas , and died in St . Louis on February 28th , 1966 .
+Elliot See who was selected by NASA in 1962 died on 28 February 1966 in St Louis .
+Elliot See was a test pilot .
+Elliot See , born July 23 1927 in Dallas , has died .
+English is the language in Great Britain and the United States . A Loyal Character Dancer was published by Soho Press in the United States .
+The language of the United States and Great Britain is English . The United States has an ethnic group called Asian Americans and is where A severed Wasp originates from .
+Alcatraz Versus the Evil Librarians is from The United States where one of the ethnic groups are the Native Americans . The English language is spoken in the US as well as Great Britain .
+A Severed Wasp is from the United States which like Great Britain speaks English . The capital of the US is Washington D . C and one ethnic group is the African Americans .
+English is spoken in Great Britain and the United States where Joe Biden is leader , African Americans are an ethnic group and Alcatraz Versus the Evil Librarians is from there .
+Addis Ababa , Ethiopia is home to Addis Ababa Stadium and the Addis Ababa City Hall . The name of the leader in Ethiopia is Malatu Teshome .
+Hailemariam Desalegn and Mulatu Teshome are leaders within Ethiopia . The Addis Ababa Stadium and the Addis Ababa City Hall are both located within the country in Addis Ababa .
+The School of Business and Social Sciences at the Aarhus University is affiliated to the European University Association which has its headquarters in Brussels .
+The Flemish region is led by the Flemish government .
+Atlanta is the largest city of Fulton County , Georgia .
+The state of Georgia is in the U . S .
+Greek is the language spoken in Greece .
+The leader of Greece is Nikos Voutsis .
+The leader of Greece is Nikos Voutsis .
+Anandiben Patel was the leader of Gujurat where Amdavad ni Gufa is located .
+Gus Poyet is in AEK Athens F . C .
+AIDS ( journal ) comes under the academic discipline HIV which belongs to the family Orthoretrovirinae .
+The HIV virus is from the genus Lentivirus .
+Harrietstown , New York is part of the United States .
+AWH Engineering College in Kuttikkattoor , India is in the state of Kerala which has Mahe to its northwest . The school has 250 employees . India is home to the Ganges River and its largest city is Mumbai .
+AWH Engineering College is in India . Mumbai is the largest city in India . The river Ganges runs through India .
+Sumitra Mahajan is an Indian leader .
+T S Thakur and Sumitra Mahajan are leaders in India where Amdavad ni Gufa is located .
+Indianapolis is the capital of Indiana .
+Jakarta is the capital of Indonesia where the leader is Jusuf Kalla , they speak Indonesian and eat bakso .
+Bakso is a dish from the country of Indonesia , where the capital is Jakarta and one of the leaders is Jusuf Kalla .
+Bakso is a Chinese dish found in Indonesia , the leader of which is Jusuf Kalla . Jakarta is the capital of Indonesia .
+Jusuf Kalla is a leader in Indonesia .
+Bakso comes from Indonesia , and celery is a main ingredient . Jasuf Kalla is a leader in Indonesia .
+The ground of A . S . Gubbio 1910 is located in Italy , where the capital is Rome , the leader is Sergio Mattarella and the language spoken is Italian .
+Two leaders of Italy , where Amatriciana sauce is found , are Matteo Renzi and Sergio Mattarella . Its capital is Rome .
+Italians are from Italy .
+Italy is the country Amatriciana sauce comes from and people there are called Italians . The capital is Rome and the leaders are Matteo Renzi and Sergio Mattarella .
+The ground of A . S . Gubbio 1910 is located in Italy where Sergio Mattarella is a leader of the Italian people .
+The capital of Italy is Rome and the leader is Pietro Grasso . The Italian language is spoken in the country which is the location of the home ground of AS Gubbio 1910 .
+One of the ethnic groups in Japan in the Brazilians .
+The leader of Japan is Tarō Asō .
+Baduy is the ethnic group of Java .
+From the Singapore region , Ayam penyet , is a food found in Java where an ethic group is the Baduy .
+Halimah Yacob is the leader in Singapore where English is spoken and the dish Ayam penyet is from . It is also from Java , a country where one of the ethnic groups are the Baduy .
+Ayam penyet comes from the Singaporean region and Halimah Yacob is the country ' s leader . It can be found in Java as well where Baduy people is an ethnic group .
+Ayam penyet originates from Java where the Banyumasan are an ethnic group . It can be found nationwide and also in Singapore and Malaysia .
+Ayam penyet is a dish from Java and Singapore . The leader of the latter is Tony Tan and the Banyumasan people are an ethnic group from Java .
+Jens Hartel plays for SV Germania Schoneiche .
+John Buscema has won the comic book award , Eagle Award .
+Wolf Solent is a notable work by John Cowper Powys .
+John van den Brom plays at the AZ Alkmaar club .
+Jorge Humberto Rodriguez ' s club is A . D . Isidro Metapan .
+Acharya Institue of Technology is located in the state of Karnataka which has the Arabian Sea to the west .
+Lee County is in Alabama .
+Lemon is under the order of Rosids .
+Bill Marriott is the key person at Marriott International .
+Marv Wolfman is a recipient of the Eagle Award .
+Massimo Drago is attached to the club Delfino Pescara 1936 .
+Massimo Drago plays for S . S . Chieti Calcio .
+Massimo Drago ' s club is the S . S . Chieti Calcio and he manages A . C . Cesena .
+Mexico is inhabited by Mexicans .
+In Mexico , the spoken language is Spanish .
+The 14th New Jersey Volunteer Infantry Monument is located at the Monocacy National Battlefield near Frederick , Maryland . The monument was established 1907 - 07 - 11 and belongs to the category of Historic districts in the United States . The monument has been provided by the National Park Service .
+The 14th New Jersey Volunteer Infantry Monument is located in the Monocacy National Battlefield , in Frederick County , Maryland , United States . The monument was established on July 11th , 1907 . It is now categorized as a United States historic district and is owned by the National Park Service .
+Trenton is the capital of New Jersey .
+The ground for AEK Athens FC is the Olympic Stadium ( Athens ) in Athens whose mayor is Giorgos Kaminis .
+The Olympic Stadium ( Athens ) is located at Marousi .
+The leader of Pakistan is Anwar Zaheer Jamali .
+Paracuellos de Jarama is part of the community of Madrid .
+Philippines is the country the dish Batchoy comes from . The llocano and Igorot peoples are ethnic groups from the Philippines , where languages spoken include Arabic and Phillippine English .
+The language spoken in the Philippines is Philippine Spanish and batchoy is eaten there . Ethnic groups include the llocano people and the Moro people .
+One of the languages used in the Philippines is Arabic .
+Poaceae , of the class Monocotyledon and the order of commelinids belongs to the division of flowering plants and is used as the surface of the second runway of Ardmore airport , New Zealand .
+Poaceae is in the class Monocotyledon and the order of Commelinids . It is also the surface type of the second runway of Ardmore Airport , New Zealand .
+Port Authority of New York and New Jersey headquarter is Four World Trade Center .
+Potter County is in Texas .
+K - W United FC have been champions of the Premier Development League .
+Ireland official language is Irish English .
+The 1 Decembrie 1918 University is located in Romania ( capital Bucharest ) . The leader of Romania is Klaus lohannis and the ethnic group is Germans of Romania .
+Bucharest is the capital of Romania where one of the country ' s ethnic groups are the Germans of Romania . The country ' s leader is Prime Minister Klaus Iohannis . The patron saint of the country is Andrew the Apostle and the country is the location of the 1 Decembrie 1918 University .
+1 Decembrie 1918 University is located in the city of Alba Iulia , Romania . The country ' s capital is Bucharest and the leader ( title Prime Minister of Romania ) is Klaus Iohannis . An ethnic group of the country is The Germans of Romania and the country ' s national anthem is Deșteaptă - te , române !
+The 1 Decembrie 1918 University is in Alba Iulia , Romania . The country ' s capital is Bucharest and the prime minister is Klaus Iohannis .
+The leader of Romania is Prime Minister Klaus Lohannis . The 1 Decembrie 1918 University is in Romania .
+The patron Saint of Romania is Andrew the Apostle .
+1 Decembrie 1918 University is located in Romania . Its Latin name is " Universitas Apulensis " . The patron saint of Romania is Andrew the Apostle .
+Administrative Science Quarterly ( Admin . Sci . Q ) is published by SAGE Publications which was founded by Sara Miller McCune .
+San Sebastián de los Reyes is in Spain .
+San Sebastian de los Reyes is part of the Community of Madrid and is also the location of Adolfo Suárez Madrid – Barajas Airport .
+Adirondack Regional Airport serves the city of Lake Placid and Saranac Lake in New York . Saranac Lake is part of Harrietstown and Essex County in New York in the U . S .
+Saranac Lake , New York is part of the United States .
+The academic staff of the School of Business and Social Sciences at the Aarhus University number 737 .
+The School of Business and Social Sciences at the Aarhus University is located in Aarhus , Denmark was established in 1928 . Its academic staff numbers 737 and it is affiliated to the European University Association . Denmark ' s leader is Lars Lokke Rasmussen .
+The School of Business and Social Sciences at the Aarhus University is located in Denmark and affiliated to the European University Association . It was established in 1928 and it has 737 academic staff .
+The School of Business and Social Sciences at the Aarhus University was established in 1928 in Denmark . It has an academic staff of 737 and a student body of 16000 .
+The School of Business and Social Sciences at the Aarhus University was established in 1928 . It has 737 academic staff and 16 , 000 students .
+The School of Business and Social Sciences at Aarhus University in Denmark is affiliated with the European University Association . It has 16 , 000 students , 737 employees . and was established in 1928 .
+The School of Business and Social Sciences at the Aarhus University at Aarhus , Denmark was established in 1928 . It has 737 academic staff and 16 , 000 students . It is affiliated to the European University Association .
+The Aarhus University School of Business and Social Sciences is in the country of Denmark .
+The " Associazione Sportiva Roma S . p . A . " is the non - abbreviated name of A . S . Roma with their ground in Stadio Olimpico . A . S . Roma play in Serie A whose current champions are Juventus F . C . .
+Available nationwide in Indonesia and Singapore , Beef kway teow is a dish which comes from Singapore , where English is spoken . It is also where two of the leaders are Halimah Yacob and Tony Tan .
+Shumai is a variation of the dish Siomay .
+Batagor and Siomay ( which has peanut sauce as an ingredient ) are variations of the same dish .
+Cape Town is the capital of South Africa .
+South Jersey Transportation Authority chief is Stephen Dilts .
+Arròs negre is a traditional dish from Spain whose leader is Felipe VI and Euro is its currency . Spaniards are the ethnic group of Spain .
+The leader of Spain is Felipe VI and it is also where Spanish is spoken and the dish arros negre is from .
+Ajoblanco is a dish from Spain , where the currency is the euro , the leader is Felipe VI , the language spoken is Spanish and the people that live there are called Spaniards .
+Stuart Parker played football for Bury FC .
+Tarrant County , Texas is situated in the United States .
+The capital of the United Kingdom is London .
+David Cameron and Elizabeth II are leaders in the United Kingdom . The country , which uses the English language has the capital city of London and is where the AIDS journal originates .
+The AIDS ( journal ) , is published by Lippincott Williams & Wilkins who are based in the United Kingdom which is where David Cameron is the leader .
+In the United Kingdom , the Prime Minister is David Cameron and the queen is Elizabeth II . The AIDS journal was published in the United Kingdom by Lippincott , Williams & Wilkins .
+Elizabeth II is a leader in the United Kingdom .
+The leaders of the United Kingdom are Elizabeth II and David Cameron . The AIDS journal is published in the United Kingdom by Lippincott , Williams & Wilkins , whose parent company is Wolters Kluwer .
+The leader of the US is known as the President and the capital city is Washington DC . One of the country ' s leaders if Paul Ryan and it is the location of 250 Delaware Avenue .
+A Fortress of Grey Ice is from the United states where African American is an ethnic group and English is spoken like in Great Britain .
+The President is the primary leader of English language speaking United States , ( includes leader John Roberts ) , has the ethnic African American group and is home to 250 Delaware Avenue .
+A Fortress of Grey Ice is from the United States where Barack Obama is the leader and the African Americans are one of the ethnic groups .
+In the United States , English is the language , Asian Americans are an ethnic group and the book Alcatraz versus the Evil Librarians was written .
+A Fortress of Grey Ice is from the United States . That country has an ethnic group called Asian Americans and they speak English , same as in Great Britain .
+Native Americans are an ethnic group in the United States .
+A Fortress of Grey Ice is from the United States where the language is English .
+Joe Biden is a leader of the United States which is lead by a President . The White Americans are one of the ethnic groups of the country which uses the English language and is where 250 Delaware Avenue is located .
+The English language is spoken in Great Britain and A Severed Wasp was written in it even though it comes from the United States . Barack Obama is the leader of the United States where Native Americans are an ethnic group .
+A Severed Wasp is from the United States , where Barack Obama is the president . English is the main language of the U . S . , and is also spoken in Great Britain . Native Americans are one of the national ethnic groups .
+A severed Wasp originates from the United States where the leader is Barack Obama . The English language is spoken in the US where one of the ethnic groups is African American .
+Joe Biden is a United States leader .
+Paul Ryan is the leader of the United States .
+The university of texas at Austin is affiliated to the university of texas system .
+The University of Texas at Austin ' s mascot is called Hook ' em .
+In the year 2000 the Acharya Institute of Technology was established in the state of Karnataka , India . The current location is " In Soldevanahalli , Acharya Dr . Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore – 560090 . " The Director is Dr G P Prabhukumar and it is affiliated with the Visvesvaraya Technological University in the city of Belgaum .
+Ann Arbor is the largest city in Washtenaw County , Michigan .
+Born on October 17th , 1933 in British Hong Kong , William Anders would serve as a crew member on Apollo 8 .
+The members of Apollo 8 were Buzz Aldrin who was backup pilot , commander Frank Borman and William Anders who retired on September 1st , 1969 .
+William Anders was a member of the Apollo 8 crew ( operated by NASA ) and he retired on September 1st , 1969 . Frank Borman was the commander of Apollo 8 and Buzz Aldrin was a back up pilot .
+William Anders was born on October 17 , 1933 , in British Hong Kong . He graduated from AFIT in 1962 with an M . S . , and would go on to serve as a fighter pilot , and as a crew member on Apollo 8 . Anders retired on September 1 , 1969 .
+William Anders ( born on the 17th of October 1933 in British Hong Kong ) graduated from AFIT , M . S . in 1962 . He was a US National and served as a Fighter pilot before he retired on the 1st of September in 1969 .
+John Cowper Powys is the author of Wolf Solent .

@@ -509,7 +509,7 @@
 
 
 
-the atatürk monument ( i̇zmir ) was designed by pietro canonica .
+The Atatürk Monument ( İzmir ) was designed by Pietro Canonica .
 
 
 
@@ -583,10 +583,10 @@ the atatürk monument ( i̇zmir ) was designed by pietro canonica .
 
 
 
-the baku turkish martyrs ' memorial is in azerbaijan .
+The Baku Turkish Martyrs ' Memorial is in Azerbaijan .
 
 
-baku turkish martyrs ' memorial is made from red granite and white marble .
+Baku Turkish Martyrs ' Memorial is made from red granite and white marble .
 
 
 
@@ -691,7 +691,7 @@ baku turkish martyrs ' memorial is made from red granite and white marble .
 
 
 
-buzz aldrin was a crew member of apollo 11 , which was operated by nasa .
+buzz aldrin was a crew member of apollo 11 , which was operated by NASA .
 
 
 

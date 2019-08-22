@@ -268,7 +268,7 @@
 
 
 
-The AIDAstella had its maiden voyage on the 17th of March 2013 .
+The AIDAstella ship ' s first journey took place on 17 / 03 / 2013 .
 
 
 
@@ -1733,7 +1733,7 @@ The AIDAstella had its maiden voyage on the 17th of March 2013 .
 
 
 
-The School of Business and Social Sciences at the Aarhus University has 16000 students .
+
 
 
 

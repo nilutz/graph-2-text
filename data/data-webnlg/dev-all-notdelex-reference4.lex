@@ -329,7 +329,7 @@
 
 
 
-alan shepard was awarded the united states navy distinguished service medal .
+Alan Shepard was awarded the United States Navy Distinguished Service Medal .
 
 
 
@@ -509,11 +509,11 @@ alan shepard was awarded the united states navy distinguished service medal .
 
 
 
-ataturk monument was designed by pietro canonica .
+Ataturk Monument was designed by Pietro Canonica .
 
 
 
-ataturk monument is made of bronze .
+Ataturk Monument is made of Bronze .
 
 
 
@@ -583,10 +583,10 @@ ataturk monument is made of bronze .
 
 
 
-the baku turkish martyrs ' memorial can be found is azerbaijan .
+The Baku Turkish Martyrs ' Memorial can be found is Azerbaijan .
 
 
-baku turkish martyrs ' memorial is made of red granite and white marble .
+Baku Turkish Martyrs ' Memorial is made of red granite and white marble .
 
 
 
@@ -691,8 +691,8 @@ baku turkish martyrs ' memorial is made of red granite and white marble .
 
 
 
-buzz aldrin was a crew member of apollo 11 - whose operator was nasa .
-buzz aldrin was a fighter pilot and crew member of apollo 11 .
+Buzz Aldrin was a crew member of Apollo 11 - whose operator was NASA .
+Buzz Aldrin was a fighter pilot and crew member of Apollo 11 .
 
 
 
@@ -732,7 +732,7 @@ buzz aldrin was a fighter pilot and crew member of apollo 11 .
 
 
 
-elliot see performed as a test pilot .
+Elliot See performed as a test pilot .
 
 
 

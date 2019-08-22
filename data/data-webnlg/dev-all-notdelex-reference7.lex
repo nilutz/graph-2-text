@@ -509,7 +509,7 @@
 
 
 
-pietro canonica is the designer of the ataturk monument in izmir .
+Pietro Canonica is the designer of the Ataturk Monument in Izmir .
 
 
 

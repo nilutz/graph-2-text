@@ -329,7 +329,7 @@
 
 
 
-alan shepard was awarded the distinguished service medal by the us navy .
+Alan Shepard was awarded the Distinguished Service Medal by the US Navy .
 
 
 
@@ -509,11 +509,11 @@ alan shepard was awarded the distinguished service medal by the us navy .
 
 
 
-the ataturk monument was designed by pietro canonica .
+The Ataturk Monument was designed by Pietro Canonica .
 
 
 
-the atatürk monument ( i̇zmir ) is made of bronze .
+The Atatürk Monument ( İzmir ) is made of Bronze .
 
 
 
@@ -583,10 +583,10 @@ the atatürk monument ( i̇zmir ) is made of bronze .
 
 
 
-baku turkish martyrs ' memorial is located in azerbaijan .
+Baku Turkish Martyrs ' Memorial is located in Azerbaijan .
 
 
-the baku turkish martyrs ' memorial is made from red granite and white marble .
+The Baku Turkish Martyrs ' Memorial is made from red granite and white marble .
 
 
 
@@ -679,20 +679,20 @@ the baku turkish martyrs ' memorial is made from red granite and white marble .
 
 
 
-buzz aldrin , whose real name is edwin e . aldrin jr . , was a member of apollo 11 who in 1963 graduated with a sc . d . from mit .
+Buzz Aldrin , whose real name is Edwin E . Aldrin Jr . , was a member of Apollo 11 who in 1963 graduated with a Sc . D . from MIT .
 
 
-buzz aldrin was a us citizen born in glen ridge , new jersey .
+Buzz Aldrin was a US citizen born in Glen Ridge , New Jersey .
 
 
 
 
 
 
-buzz aldrin is a us national .
-buzz aldrin served as a fighter pilot and is now retired .
-buzz aldrin served as a crew member of apollo 11 which is operated by nasa .
-buzz aldrin was both a fighter pilot and member of the apollo 11 flight crew .
+Buzz Aldrin is a US national .
+Buzz Aldrin served as a fighter pilot and is now retired .
+Buzz Aldrin served as a crew member of Apollo 11 which is operated by NASA .
+Buzz Aldrin was both a fighter pilot and member of the Apollo 11 flight crew .
 
 
 
@@ -732,8 +732,8 @@ buzz aldrin was both a fighter pilot and member of the apollo 11 flight crew .
 
 
 
-elliot see ' s occupation was a test pilot .
-elliot see was born in dallas on july 23 , 1927 . he is now deceased .
+Elliot See ' s occupation was a test pilot .
+Elliot See was born in Dallas on July 23 , 1927 . He is now deceased .
 
 
 
@@ -801,7 +801,7 @@ elliot see was born in dallas on july 23 , 1927 . he is now deceased .
 
 
 
-arabic is one of the languages spoken in the philippines .
+Arabic is one of the languages spoken in the Philippines .
 
 
 
@@ -827,7 +827,7 @@ arabic is one of the languages spoken in the philippines .
 
 
 
-the school of business and social sciences at the aarhus university is in denmark .
+The School of Business and Social Sciences at the Aarhus University is in Denmark .
 
 
 
@@ -860,7 +860,7 @@ the school of business and social sciences at the aarhus university is in denmar
 
 
 
-the hook ' em is the mascot of university of texas at austin .
+The Hook ' em is the mascot of University of Texas at Austin .
 
 
 
