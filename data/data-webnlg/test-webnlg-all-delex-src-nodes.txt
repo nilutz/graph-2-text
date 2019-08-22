@@ -1,0 +1,2495 @@
+AIRPORT cityServed CITYSERVED
+AIRPORT cityServed CITYSERVED
+AIRPORT location LOCATION
+AIRPORT location LOCATION
+AIRPORT location LOCATION
+AIRPORT runwayName RUNWAYNAME
+AIRPORT runwayName RUNWAYNAME
+AIRPORT runwayName RUNWAYNAME
+AIRPORT ICAO_Location_Identifier ICAO_LOCATION_IDENTIFIER
+AIRPORT ICAO_Location_Identifier ICAO_LOCATION_IDENTIFIER
+AIRPORT cityServed CITYSERVED
+AIRPORT cityServed CITYSERVED
+AIRPORT cityServed CITYSERVED
+AIRPORT cityServed CITYSERVED
+AIRPORT runwayLength RUNWAYLENGTH
+AIRPORT runwayLength RUNWAYLENGTH
+AIRPORT runwayName RUNWAYNAME
+AIRPORT runwayName RUNWAYNAME
+AIRPORT runwayName RUNWAYNAME
+AIRPORT runwayLength RUNWAYLENGTH
+AIRPORT runwayLength RUNWAYLENGTH
+AIRPORT runwayLength RUNWAYLENGTH
+AIRPORT 1st_runway_Number 1ST_RUNWAY_NUMBER
+AIRPORT 1st_runway_Number 1ST_RUNWAY_NUMBER
+AIRPORT 1st_runway_Number 1ST_RUNWAY_NUMBER
+AIRPORT 5th_runway_SurfaceType 5TH_RUNWAY_SURFACETYPE
+AIRPORT 5th_runway_SurfaceType 5TH_RUNWAY_SURFACETYPE
+AIRPORT 5th_runway_SurfaceType 5TH_RUNWAY_SURFACETYPE
+AIRPORT runwayName RUNWAYNAME
+AIRPORT runwayName RUNWAYNAME
+AIRPORT runwayName RUNWAYNAME
+AIRPORT elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES)
+AIRPORT elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES)
+AIRPORT owner OWNER
+AIRPORT owner OWNER
+AIRPORT owner OWNER
+AIRPORT runwayLength RUNWAYLENGTH
+AIRPORT 1st_runway_SurfaceType 1ST_RUNWAY_SURFACETYPE
+AIRPORT 1st_runway_SurfaceType 1ST_RUNWAY_SURFACETYPE
+AIRPORT 1st_runway_SurfaceType 1ST_RUNWAY_SURFACETYPE
+AIRPORT elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES)
+AIRPORT elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES)
+AIRPORT operatingOrganisation OPERATINGORGANISATION
+AIRPORT operatingOrganisation OPERATINGORGANISATION
+AIRPORT operatingOrganisation OPERATINGORGANISATION
+AIRPORT runwayLength RUNWAYLENGTH
+AIRPORT runwayLength RUNWAYLENGTH
+AIRPORT runwayLength RUNWAYLENGTH
+AIRPORT runwayLength RUNWAYLENGTH
+AIRPORT runwayLength RUNWAYLENGTH
+AIRPORT runwayLength RUNWAYLENGTH
+AIRPORT ICAO_Location_Identifier ICAO_LOCATION_IDENTIFIER
+AIRPORT ICAO_Location_Identifier ICAO_LOCATION_IDENTIFIER
+AIRPORT runwayName RUNWAYNAME
+AIRPORT runwayName RUNWAYNAME
+AIRPORT owner OWNER
+AIRPORT owner OWNER
+AIRPORT owner OWNER
+AIRPORT runwayName RUNWAYNAME
+AIRPORT runwayName RUNWAYNAME
+AIRPORT runwayName RUNWAYNAME
+Belgium language LANGUAGE
+Belgium language LANGUAGE
+Belgium language LANGUAGE
+Curitiba isPartOf ISPARTOF
+Denmark demonym DEMONYM
+Denmark demonym DEMONYM
+Denmark demonym DEMONYM
+Fallujah country COUNTRY
+Fallujah country COUNTRY
+Fallujah country COUNTRY
+Greenville_,_Wisconsin country COUNTRY
+Greenville_,_Wisconsin country COUNTRY
+Greenville_,_Wisconsin country COUNTRY
+Greenville_,_Wisconsin isPartOf ISPARTOF
+Greenville_,_Wisconsin isPartOf ISPARTOF
+Greenville_,_Wisconsin isPartOf ISPARTOF
+Iraq language LANGUAGE
+Iraq language LANGUAGE
+Madrid country COUNTRY
+Madrid country COUNTRY
+Madrid country COUNTRY
+Maple_Ridge_Township_,_Alpena_County_,_Michigan isPartOf ISPARTOF
+Maple_Ridge_Township_,_Alpena_County_,_Michigan isPartOf ISPARTOF
+Pakistan leaderName LEADERNAME
+Port_Authority_of_New_York_and_REGIONSERVED regionServed REGIONSERVED
+Port_Authority_of_New_York_and_REGIONSERVED regionServed REGIONSERVED
+Port_Authority_of_New_York_and_REGIONSERVED regionServed REGIONSERVED
+Texas largestCity LARGESTCITY
+United_States_Air_Force battles BATTLES
+United_States_Air_Force battles BATTLES
+United_States_Air_Force battles BATTLES
+United_States_Air_Force transportAircraft TRANSPORTAIRCRAFT
+United_States_Air_Force transportAircraft TRANSPORTAIRCRAFT
+MONUMENT established ESTABLISHED
+MONUMENT established ESTABLISHED
+MONUMENT established ESTABLISHED
+MONUMENT established ESTABLISHED
+MONUMENT established ESTABLISHED
+MONUMENT established ESTABLISHED
+Adams_County_,_Pennsylvania has_to_its_southeast HAS_TO_ITS_SOUTHEAST
+Adams_County_,_Pennsylvania has_to_its_southeast HAS_TO_ITS_SOUTHEAST
+Adams_County_,_Pennsylvania has_to_its_southeast HAS_TO_ITS_SOUTHEAST
+Azerbaijan leader LEADER
+Azerbaijan leader LEADER
+Azerbaijan leader LEADER
+Azerbaijan leaderTitle LEADERTITLE
+Azerbaijan leaderTitle LEADERTITLE
+Azerbaijan leaderTitle LEADERTITLE
+Azerbaijan leaderTitle LEADERTITLE
+MONUMENT nativeName NATIVENAME
+MONUMENT nativeName NATIVENAME
+MONUMENT nativeName NATIVENAME
+MONUMENT nativeName NATIVENAME
+MONUMENT nativeName NATIVENAME
+MONUMENT nativeName NATIVENAME
+BUILDING location LOCATION
+BUILDING location LOCATION
+BUILDING architecturalStyle ARCHITECTURALSTYLE
+BUILDING architecturalStyle ARCHITECTURALSTYLE
+BUILDING location LOCATION
+BUILDING architect ARCHITECT
+BUILDING architect ARCHITECT
+BUILDING buildingStartDate BUILDINGSTARTDATE
+BUILDING buildingStartDate BUILDINGSTARTDATE
+BUILDING numberOfRooms NUMBEROFROOMS
+BUILDING numberOfRooms NUMBEROFROOMS
+BUILDING architect ARCHITECT
+BUILDING architect ARCHITECT
+BUILDING architect ARCHITECT
+BUILDING location LOCATION
+BUILDING country COUNTRY
+BUILDING owner OWNER
+BUILDING address ADDRESS
+BUILDING address ADDRESS
+BUILDING ReferenceNumber_in_the_National_Register_of_Historic_Places REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES
+BUILDING ReferenceNumber_in_the_National_Register_of_Historic_Places REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES
+BUILDING ReferenceNumber_in_the_National_Register_of_Historic_Places REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES
+BUILDING architect ARCHITECT
+BUILDING architect ARCHITECT
+BUILDING architecture ARCHITECTURE
+BUILDING architecture ARCHITECTURE
+BUILDING yearOfConstruction YEAROFCONSTRUCTION
+BUILDING yearOfConstruction YEAROFCONSTRUCTION
+BUILDING location LOCATION
+BUILDING location LOCATION
+Buffalo_,_New_York isPartOf ISPARTOF
+Buffalo_,_New_York isPartOf ISPARTOF
+Buffalo_,_New_York leaderName LEADERNAME
+Buffalo_,_New_York leaderName LEADERNAME
+Buffalo_,_New_York leaderName LEADERNAME
+County_Limerick isPartOf ISPARTOF
+County_Limerick isPartOf ISPARTOF
+County_Limerick isPartOf ISPARTOF
+Dublin leaderName LEADERNAME
+Ethiopia leaderName LEADERNAME
+Ethiopia leaderName LEADERNAME
+India demonym DEMONYM
+India demonym DEMONYM
+Julia_Morgan significantBuilding SIGNIFICANTBUILDING
+Live_Nation_Entertainment location LOCATION
+Live_Nation_Entertainment location LOCATION
+Manhattan isPartOf ISPARTOF
+Manhattan isPartOf ISPARTOF
+New_York_City isPartOf ISPARTOF
+New_York_City isPartOf ISPARTOF
+New_York_City isPartOf ISPARTOF
+Pacific_Grove_,_ISPARTOF isPartOf ISPARTOF
+Pacific_Grove_,_ISPARTOF isPartOf ISPARTOF
+South_Africa ethnicGroup ETHNICGROUP
+South_Africa ethnicGroup ETHNICGROUP
+United_Kingdom leaderName LEADERNAME
+United_Kingdom leaderName LEADERNAME
+United_Kingdom leaderName LEADERNAME
+WRITTENWORK ISBN_number ISBN_NUMBER
+WRITTENWORK ISBN_number ISBN_NUMBER
+WRITTENWORK ISBN_number ISBN_NUMBER
+WRITTENWORK author AUTHOR
+WRITTENWORK author AUTHOR
+WRITTENWORK author AUTHOR
+WRITTENWORK mediaType MEDIATYPE
+WRITTENWORK country COUNTRY
+WRITTENWORK country COUNTRY
+WRITTENWORK country COUNTRY
+WRITTENWORK OCLC_number OCLC_NUMBER
+WRITTENWORK OCLC_number OCLC_NUMBER
+WRITTENWORK OCLC_number OCLC_NUMBER
+WRITTENWORK mediaType MEDIATYPE
+WRITTENWORK mediaType MEDIATYPE
+WRITTENWORK language LANGUAGE
+WRITTENWORK author AUTHOR
+WRITTENWORK author AUTHOR
+WRITTENWORK author AUTHOR
+WRITTENWORK ISSN_number ISSN_NUMBER
+WRITTENWORK ISSN_number ISSN_NUMBER
+WRITTENWORK ISSN_number ISSN_NUMBER
+WRITTENWORK author AUTHOR
+WRITTENWORK author AUTHOR
+WRITTENWORK mediaType MEDIATYPE
+WRITTENWORK ISSN_number ISSN_NUMBER
+WRITTENWORK ISSN_number ISSN_NUMBER
+WRITTENWORK ISSN_number ISSN_NUMBER
+WRITTENWORK LCCN_number LCCN_NUMBER
+WRITTENWORK LCCN_number LCCN_NUMBER
+WRITTENWORK LCCN_number LCCN_NUMBER
+WRITTENWORK academicDiscipline ACADEMICDISCIPLINE
+WRITTENWORK academicDiscipline ACADEMICDISCIPLINE
+WRITTENWORK language LANGUAGE
+WRITTENWORK country COUNTRY
+WRITTENWORK country COUNTRY
+WRITTENWORK language LANGUAGE
+WRITTENWORK language LANGUAGE
+WRITTENWORK language LANGUAGE
+WRITTENWORK academicDiscipline ACADEMICDISCIPLINE
+WRITTENWORK academicDiscipline ACADEMICDISCIPLINE
+WRITTENWORK academicDiscipline ACADEMICDISCIPLINE
+Castle_(_novel_) language LANGUAGE
+Castle_(_novel_) language LANGUAGE
+Castle_(_novel_) language LANGUAGE
+Eric_Flint birthPlace BIRTHPLACE
+Eric_Flint birthPlace BIRTHPLACE
+Farrar_,_Straus_and_Giroux parentCompany PARENTCOMPANY
+Farrar_,_Straus_and_Giroux parentCompany PARENTCOMPANY
+Farrar_,_Straus_and_Giroux parentCompany PARENTCOMPANY
+John_Cowper_Powys notableWork WRITTENWORK
+John_Cowper_Powys notableWork WRITTENWORK
+Soho_Press country COUNTRY
+Soho_Press country COUNTRY
+Soho_Press country COUNTRY
+The_Secret_Scripture publisher PUBLISHER
+The_Secret_Scripture publisher PUBLISHER
+The_Secret_Scripture publisher PUBLISHER
+United_States ethnicGroup ETHNICGROUP
+United_States ethnicGroup ETHNICGROUP
+United_States ethnicGroup ETHNICGROUP
+United_States language LANGUAGE
+United_States language LANGUAGE
+Weymouth_Sands precededBy WRITTENWORK
+Weymouth_Sands precededBy WRITTENWORK
+Weymouth_Sands precededBy WRITTENWORK
+SPORTSTEAM manager MANAGER
+SPORTSTEAM manager MANAGER
+SPORTSTEAM manager MANAGER
+SPORTSTEAM league LEAGUE
+SPORTSTEAM league LEAGUE
+SPORTSTEAM league LEAGUE
+SPORTSTEAM fullname FULLNAME
+SPORTSTEAM fullname FULLNAME
+SPORTSTEAM fullname FULLNAME
+SPORTSTEAM ground GROUND
+SPORTSTEAM ground GROUND
+SPORTSTEAM ground GROUND
+SPORTSTEAM ground GROUND
+SPORTSTEAM ground GROUND
+SPORTSTEAM ground GROUND
+SPORTSTEAM numberOfMembers NUMBEROFMEMBERS
+SPORTSTEAM numberOfMembers NUMBEROFMEMBERS
+SPORTSTEAM ground GROUND
+SPORTSTEAM season SEASON
+AZAL_Arena location LOCATION
+AZAL_Arena location LOCATION
+SPORTSTEAM league LEAGUE
+SPORTSTEAM league LEAGUE
+SPORTSTEAM league LEAGUE
+SPORTSTEAM season SEASON
+Akron_,_Ohio country COUNTRY
+Akron_,_Ohio country COUNTRY
+Akron_,_Ohio location LOCATION
+Akron_,_Ohio location LOCATION
+Akron_,_Ohio location LOCATION
+SPORTSTEAM fullname FULLNAME
+SPORTSTEAM fullname FULLNAME
+SPORTSTEAM fullname FULLNAME
+Amsterdam leader LEADER
+Amsterdam leader LEADER
+Christian_Panucci club CLUB
+Christian_Panucci club CLUB
+Christian_Panucci club CLUB
+Frank_de_Boer club CLUB
+Frank_de_Boer club CLUB
+Gubbio region REGION
+Gubbio region REGION
+Italy leader LEADER
+Italy leader LEADER
+Italy leader LEADER
+Jens_Härtel club CLUB
+Jens_Härtel club CLUB
+Jorge_Humberto_Rodríguez club CLUB
+Jorge_Humberto_Rodríguez club CLUB
+Jorge_Humberto_Rodríguez club CLUB
+Luciano_Spalletti club CLUB
+Luciano_Spalletti club CLUB
+Luciano_Spalletti club CLUB
+Massimo_Drago club CLUB
+Massimo_Drago club CLUB
+Michele_Marcolini club CLUB
+Michele_Marcolini club CLUB
+Michele_Marcolini club CLUB
+Michele_Marcolini club CLUB
+Michele_Marcolini club CLUB
+Michele_Marcolini club CLUB
+Peter_Stöger club SPORTSTEAM
+Peter_Stöger club SPORTSTEAM
+Peter_Stöger club SPORTSTEAM
+Rolando_Maran club CLUB
+Rolando_Maran club CLUB
+Sportpark_De_Toekomst tenant TENANT
+Sportpark_De_Toekomst tenant TENANT
+Sportpark_De_Toekomst tenant TENANT
+St_._Vincent_–_St_._Mary_High_School country COUNTRY
+St_._Vincent_–_St_._Mary_High_School country COUNTRY
+UNIVERSITY state STATE
+UNIVERSITY president PRESIDENT
+UNIVERSITY president PRESIDENT
+Kerala has_to_its_northwest HAS_TO_ITS_NORTHWEST
+Kerala has_to_its_northwest HAS_TO_ITS_NORTHWEST
+Kerala has_to_its_northwest HAS_TO_ITS_NORTHWEST
+Mendrisio neighboringMunicipality NEIGHBORINGMUNICIPALITY
+Mendrisio neighboringMunicipality NEIGHBORINGMUNICIPALITY
+Romania capital CAPITAL
+Romania capital CAPITAL
+UNIVERSITY dean DEAN
+UNIVERSITY dean DEAN
+UNIVERSITY dean DEAN
+UNIVERSITY dean DEAN
+UNIVERSITY numberOfStudents NUMBEROFSTUDENTS
+UNIVERSITY numberOfStudents NUMBEROFSTUDENTS
+UNIVERSITY numberOfStudents NUMBEROFSTUDENTS
+UNIVERSITY numberOfStudents NUMBEROFSTUDENTS
+UNIVERSITY numberOfStudents NUMBEROFSTUDENTS
+UNIVERSITY numberOfStudents NUMBEROFSTUDENTS
+UNIVERSITY numberOfStudents NUMBEROFSTUDENTS
+UNIVERSITY numberOfStudents NUMBEROFSTUDENTS
+ASTRONAUT nationality NATIONALITY
+ASTRONAUT nationality NATIONALITY
+ASTRONAUT nationality NATIONALITY
+ASTRONAUT nationality NATIONALITY
+ASTRONAUT nationality NATIONALITY
+Apollo_8 backup_pilot ASTRONAUT
+Apollo_8 backup_pilot ASTRONAUT
+ASTRONAUT almaMater ALMAMATER
+ASTRONAUT almaMater ALMAMATER
+ASTRONAUT almaMater ALMAMATER
+ASTRONAUT almaMater ALMAMATER
+ASTRONAUT almaMater ALMAMATER
+ASTRONAUT was_a_crew_member_of WAS_A_CREW_MEMBER_OF
+ASTRONAUT was_a_crew_member_of WAS_A_CREW_MEMBER_OF
+ASTRONAUT was_a_crew_member_of WAS_A_CREW_MEMBER_OF
+ASTRONAUT was_selected_by_NASA WAS_SELECTED_BY_NASA
+ASTRONAUT was_selected_by_NASA WAS_SELECTED_BY_NASA
+ASTRONAUT was_selected_by_NASA WAS_SELECTED_BY_NASA
+ASTRONAUT was_selected_by_NASA WAS_SELECTED_BY_NASA
+California gemstone GEMSTONE
+California gemstone GEMSTONE
+California gemstone GEMSTONE
+California gemstone GEMSTONE
+ASTRONAUT deathDate DEATHDATE
+ASTRONAUT deathDate DEATHDATE
+ASTRONAUT deathDate DEATHDATE
+ASTRONAUT deathDate DEATHDATE
+ASTRONAUT deathDate DEATHDATE
+ASTRONAUT deathDate DEATHDATE
+ASTRONAUT deathPlace DEATHPLACE
+ASTRONAUT deathPlace DEATHPLACE
+ASTRONAUT status STATUS
+ASTRONAUT status STATUS
+ASTRONAUT status STATUS
+COMICSCHARACTER creator CREATOR
+COMICSCHARACTER creator CREATOR
+COMICSCHARACTER broadcastedBy BROADCASTEDBY
+COMICSCHARACTER broadcastedBy BROADCASTEDBY
+COMICSCHARACTER broadcastedBy BROADCASTEDBY
+COMICSCHARACTER fullName FULLNAME
+COMICSCHARACTER fullName FULLNAME
+COMICSCHARACTER creator CREATOR
+COMICSCHARACTER creator CREATOR
+COMICSCHARACTER creator CREATOR
+COMICSCHARACTER fullName FULLNAME
+COMICSCHARACTER fullName FULLNAME
+Bill_Oddie birthPlace BIRTHPLACE
+COMICSCHARACTER alternativeName ALTERNATIVENAME
+COMICSCHARACTER alternativeName ALTERNATIVENAME
+COMICSCHARACTER alternativeName ALTERNATIVENAME
+John_Buscema award AWARD
+Karl_Kesel nationality NATIONALITY
+Karl_Kesel nationality NATIONALITY
+Marv_Wolfman award AWARD
+Marv_Wolfman award AWARD
+Peter_Laird nationality NATIONALITY
+Peter_Laird nationality NATIONALITY
+Scott_Adsit birthPlace BIRTHPLACE
+Scott_Adsit birthPlace BIRTHPLACE
+CITY areaCode AREACODE
+CITY areaCode AREACODE
+CITY areaCode AREACODE
+CITY isPartOf ISPARTOF
+CITY isPartOf ISPARTOF
+CITY leaderTitle LEADERTITLE
+CITY leaderTitle LEADERTITLE
+CITY leaderTitle LEADERTITLE
+CITY leaderTitle LEADERTITLE
+CITY leaderTitle LEADERTITLE
+CITY leaderTitle LEADERTITLE
+CITY leaderTitle LEADERTITLE
+CITY areaTotal AREATOTAL
+CITY areaTotal AREATOTAL
+CITY areaTotal AREATOTAL
+CITY isPartOf ISPARTOF
+CITY isPartOf ISPARTOF
+CITY isPartOf ISPARTOF
+CITY isPartOf ISPARTOF
+CITY isPartOf ISPARTOF
+CITY elevationAboveTheSeaLevel ELEVATIONABOVETHESEALEVEL
+CITY elevationAboveTheSeaLevel ELEVATIONABOVETHESEALEVEL
+CITY areaCode AREACODE
+CITY areaCode AREACODE
+CITY areaCode AREACODE
+CITY isPartOf ISPARTOF
+CITY isPartOf ISPARTOF
+CITY isPartOf ISPARTOF
+CITY populationDensity POPULATIONDENSITY
+CITY populationDensity POPULATIONDENSITY
+CITY populationDensity POPULATIONDENSITY
+CITY leader LEADER
+CITY leader LEADER
+CITY areaTotal AREATOTAL
+CITY areaTotal AREATOTAL
+CITY areaTotal AREATOTAL
+CITY isPartOf ISPARTOF
+CITY isPartOf ISPARTOF
+CITY elevationAboveTheSeaLevel ELEVATIONABOVETHESEALEVEL
+CITY elevationAboveTheSeaLevel ELEVATIONABOVETHESEALEVEL
+CITY isPartOf ISPARTOF
+CITY isPartOf ISPARTOF
+CITY isPartOf ISPARTOF
+CITY areaTotal AREATOTAL
+CITY areaTotal AREATOTAL
+CITY areaTotal AREATOTAL
+CITY isPartOf ISPARTOF
+CITY isPartOf ISPARTOF
+CITY isPartOf ISPARTOF
+California language LANGUAGE
+California language LANGUAGE
+DeKalb_County_,_Georgia largestCity LARGESTCITY
+Fulton_County_,_Georgia country COUNTRY
+Fulton_County_,_Georgia country COUNTRY
+Madison_County_,_Indiana countySeat CITY
+Madison_County_,_Indiana countySeat CITY
+Michigan country COUNTRY
+Michigan country COUNTRY
+Michigan country COUNTRY
+Michigan largestCity LARGESTCITY
+Orange_County_,_California country COUNTRY
+Orange_County_,_California country COUNTRY
+Oregon largestCity LARGESTCITY
+Oregon largestCity LARGESTCITY
+Tarrant_County_,_Texas largestCity LARGESTCITY
+Tarrant_County_,_Texas largestCity LARGESTCITY
+United_States leader LEADER
+United_States leader LEADER
+United_States leader LEADER
+United_States_House_of_Representatives location LOCATION
+United_States_House_of_Representatives location LOCATION
+United_States_House_of_Representatives location LOCATION
+FOOD ingredient INGREDIENT
+FOOD ingredient INGREDIENT
+FOOD ingredient INGREDIENT
+FOOD ingredient INGREDIENT
+FOOD ingredient INGREDIENT
+FOOD ingredient INGREDIENT
+FOOD ingredient INGREDIENT
+FOOD region REGION
+FOOD region REGION
+FOOD region REGION
+FOOD region REGION
+FOOD region REGION
+FOOD region REGION
+BLT ingredient INGREDIENT
+BLT ingredient INGREDIENT
+FOOD region REGION
+FOOD region REGION
+FOOD served SERVED
+FOOD served SERVED
+FOOD country COUNTRY
+FOOD country COUNTRY
+FOOD country COUNTRY
+FOOD ingredient INGREDIENT
+FOOD ingredient INGREDIENT
+FOOD region REGION
+FOOD region REGION
+FOOD region REGION
+FOOD servingSize SERVINGSIZE
+FOOD servingSize SERVINGSIZE
+FOOD servingSize SERVINGSIZE
+FOOD dishVariation DISHVARIATION
+FOOD dishVariation DISHVARIATION
+FOOD dishVariation DISHVARIATION
+FOOD mainIngredients MAININGREDIENTS
+FOOD mainIngredients MAININGREDIENTS
+FOOD mainIngredients MAININGREDIENTS
+FOOD ingredient INGREDIENT
+FOOD ingredient INGREDIENT
+FOOD region REGION
+FOOD region REGION
+FOOD region REGION
+FOOD alternativeName ALTERNATIVENAME
+FOOD alternativeName ALTERNATIVENAME
+FOOD ingredient INGREDIENT
+FOOD ingredient INGREDIENT
+FOOD ingredient INGREDIENT
+FOOD dishVariation DISHVARIATION
+FOOD region REGION
+FOOD region REGION
+Chicken class CLASS
+Chicken class CLASS
+India currency CURRENCY
+India currency CURRENCY
+India currency CURRENCY
+India leaderName LEADERNAME
+India leaderName LEADERNAME
+Indonesia language LANGUAGE
+Indonesia language LANGUAGE
+Jalisco leaderName LEADERNAME
+Jalisco leaderName LEADERNAME
+Jalisco leaderName LEADERNAME
+Java ethnicGroup ETHNICGROUP
+Java ethnicGroup ETHNICGROUP
+Java ethnicGroup ETHNICGROUP
+Malaysia ethnicGroup ETHNICGROUP
+Malaysia ethnicGroup ETHNICGROUP
+Malaysia ethnicGroup ETHNICGROUP
+Mexico leaderName LEADERNAME
+Mexico leaderName LEADERNAME
+Mexico leaderName LEADERNAME
+New_York language LANGUAGE
+New_York language LANGUAGE
+Shumai country COUNTRY
+Shumai country COUNTRY
+Siomay ingredient INGREDIENT
+Siomay ingredient INGREDIENT
+Sumatra ethnicGroup ETHNICGROUP
+Sumatra ethnicGroup ETHNICGROUP
+United_Kingdom leaderName LEADERNAME
+United_Kingdom leaderName LEADERNAME
+United_Kingdom leaderName LEADERNAME
+MONUMENT established ESTABLISHED category CATEGORY
+MONUMENT established ESTABLISHED category CATEGORY
+MONUMENT district DISTRICT nearestCity NEARESTCITY
+MONUMENT district DISTRICT nearestCity NEARESTCITY
+MONUMENT dedicatedTo DEDICATEDTO location LOCATION
+MONUMENT dedicatedTo DEDICATEDTO location LOCATION
+MONUMENT dedicatedTo DEDICATEDTO nativeName NATIVENAME
+MONUMENT dedicatedTo DEDICATEDTO nativeName NATIVENAME
+MONUMENT dedicatedTo DEDICATEDTO nativeName NATIVENAME
+MONUMENT dedicatedTo DEDICATEDTO nativeName NATIVENAME
+MONUMENT dedicatedTo DEDICATEDTO nativeName NATIVENAME
+CITY country COUNTRY ethnicGroup ETHNICGROUP
+CITY country COUNTRY ethnicGroup ETHNICGROUP
+CITY country COUNTRY ethnicGroup ETHNICGROUP
+CITY isPartOf ISPARTOF capital CAPITAL
+CITY isPartOf ISPARTOF capital CAPITAL
+CITY leaderTitle COUNTRY_House_of_Representatives country COUNTRY
+CITY leaderTitle COUNTRY_House_of_Representatives country COUNTRY
+CITY leaderTitle COUNTRY_House_of_Representatives country COUNTRY
+CITY country COUNTRY isPartOf ISPARTOF
+CITY country COUNTRY isPartOf ISPARTOF
+CITY leaderTitle LEADERTITLE isPartOf ISPARTOF
+CITY leaderTitle LEADERTITLE isPartOf ISPARTOF
+CITY isPartOf ISPARTOF country COUNTRY
+CITY isPartOf ISPARTOF country COUNTRY
+CITY isPartOf ISPARTOF country COUNTRY
+CITY isPartOf ISPARTOF country COUNTRY
+CITY isPartOf ISPARTOF country COUNTRY
+CITY areaTotal AREATOTAL elevationAboveTheSeaLevel ELEVATIONABOVETHESEALEVEL
+CITY areaTotal AREATOTAL elevationAboveTheSeaLevel ELEVATIONABOVETHESEALEVEL
+CITY areaTotal AREATOTAL elevationAboveTheSeaLevel ELEVATIONABOVETHESEALEVEL
+CITY areaTotal AREATOTAL elevationAboveTheSeaLevel ELEVATIONABOVETHESEALEVEL
+CITY isPartOf ISPARTOF country COUNTRY
+CITY isPartOf ISPARTOF country COUNTRY
+CITY isPartOf ISPARTOF country COUNTRY
+CITY country COUNTRY isPartOf ISPARTOF
+CITY country COUNTRY isPartOf ISPARTOF
+CITY country COUNTRY isPartOf ISPARTOF
+CITY country COUNTRY isPartOf ISPARTOF
+CITY country COUNTRY isPartOf ISPARTOF
+CITY country COUNTRY capital CAPITAL
+CITY country COUNTRY capital CAPITAL
+CITY isPartOf ISPARTOF country COUNTRY
+CITY isPartOf ISPARTOF country COUNTRY
+CITY isPartOf ISPARTOF country COUNTRY
+CITY areaTotal AREATOTAL populationDensity POPULATIONDENSITY
+CITY areaTotal AREATOTAL populationDensity POPULATIONDENSITY
+CITY areaTotal AREATOTAL populationDensity POPULATIONDENSITY
+CITY isPartOf ISPARTOF country COUNTRY
+CITY isPartOf ISPARTOF country COUNTRY
+CITY isPartOf ISPARTOF country COUNTRY
+CITY isPartOf ISPARTOF capital CAPITAL
+CITY isPartOf ISPARTOF capital CAPITAL
+CITY isPartOf ISPARTOF capital CAPITAL
+CITY country COUNTRY capital CAPITAL
+CITY country COUNTRY capital CAPITAL
+CITY country COUNTRY capital CAPITAL
+CITY country COUNTRY ethnicGroup ETHNICGROUP
+CITY country COUNTRY ethnicGroup ETHNICGROUP
+CITY country COUNTRY ethnicGroup ETHNICGROUP
+CITY isPartOf ISPARTOF ethnicGroup ETHNICGROUP
+CITY isPartOf ISPARTOF ethnicGroup ETHNICGROUP
+CITY isPartOf ISPARTOF ethnicGroup ETHNICGROUP
+CITY country COUNTRY ethnicGroup Native_Americans_in_the_COUNTRY
+CITY country COUNTRY ethnicGroup Native_Americans_in_the_COUNTRY
+CITY country COUNTRY ethnicGroup Native_Americans_in_the_COUNTRY
+CITY country COUNTRY language LANGUAGE
+CITY country COUNTRY language LANGUAGE
+CITY country COUNTRY language LANGUAGE
+CITY country COUNTRY leaderTitle President_of_the_COUNTRY
+CITY country COUNTRY leaderTitle President_of_the_COUNTRY
+CITY country COUNTRY leaderTitle President_of_the_COUNTRY
+FOOD ingredient INGREDIENT country COUNTRY
+FOOD ingredient INGREDIENT country COUNTRY
+FOOD country COUNTRY leaderName LEADERNAME
+FOOD country COUNTRY leaderName LEADERNAME
+FOOD country COUNTRY leaderName LEADERNAME
+FOOD country COUNTRY language LANGUAGE
+FOOD country COUNTRY language LANGUAGE
+FOOD country COUNTRY language LANGUAGE
+FOOD country COUNTRY leaderName LEADERNAME
+FOOD country COUNTRY leaderName LEADERNAME
+FOOD country COUNTRY leaderName LEADERNAME
+FOOD ingredient INGREDIENT country COUNTRY
+FOOD ingredient INGREDIENT country COUNTRY
+FOOD ingredient INGREDIENT country COUNTRY
+FOOD country COUNTRY region REGION
+FOOD country COUNTRY region REGION
+FOOD country COUNTRY region REGION
+FOOD country COUNTRY mainIngredients MAININGREDIENTS
+FOOD country COUNTRY mainIngredients MAININGREDIENTS
+FOOD country COUNTRY mainIngredients MAININGREDIENTS
+FOOD country COUNTRY region REGION
+FOOD country COUNTRY region REGION
+FOOD country COUNTRY region REGION
+DISHVARIATION dishVariation Club_sandwich FOOD dishVariation
+DISHVARIATION dishVariation Club_sandwich FOOD dishVariation
+DISHVARIATION dishVariation Club_sandwich FOOD dishVariation
+FOOD ingredient INGREDIENT mainIngredients MAININGREDIENTS
+FOOD ingredient INGREDIENT mainIngredients MAININGREDIENTS
+FOOD ingredient INGREDIENT alternativeName ALTERNATIVENAME
+FOOD ingredient INGREDIENT alternativeName ALTERNATIVENAME
+FOOD ingredient INGREDIENT dishVariation DISHVARIATION
+FOOD ingredient INGREDIENT dishVariation DISHVARIATION
+FOOD ingredient INGREDIENT dishVariation DISHVARIATION
+FOOD ingredient INGREDIENT country COUNTRY
+FOOD ingredient INGREDIENT country COUNTRY
+FOOD ingredient INGREDIENT country COUNTRY
+FOOD country COUNTRY leaderName LEADERNAME
+FOOD country COUNTRY leaderName LEADERNAME
+FOOD country COUNTRY leaderName LEADERNAME
+FOOD ingredient INGREDIENT country COUNTRY
+FOOD ingredient INGREDIENT country COUNTRY
+FOOD ingredient INGREDIENT country COUNTRY
+FOOD dishVariation DISHVARIATION ingredient INGREDIENT
+FOOD dishVariation DISHVARIATION ingredient INGREDIENT
+FOOD dishVariation DISHVARIATION ingredient INGREDIENT
+FOOD ingredient INGREDIENT country COUNTRY
+FOOD ingredient INGREDIENT country COUNTRY
+FOOD ingredient INGREDIENT country COUNTRY
+FOOD ingredient INGREDIENT family FAMILY
+FOOD ingredient INGREDIENT family FAMILY
+FOOD ingredient INGREDIENT family FAMILY
+FOOD ingredient INGREDIENT country COUNTRY
+FOOD ingredient INGREDIENT country COUNTRY
+FOOD ingredient INGREDIENT country COUNTRY
+FOOD country COUNTRY leaderName LEADERNAME
+FOOD country COUNTRY leaderName LEADERNAME
+FOOD country COUNTRY leaderName LEADERNAME
+FOOD ingredient INGREDIENT country COUNTRY
+FOOD ingredient INGREDIENT country COUNTRY
+FOOD ingredient INGREDIENT country COUNTRY
+FOOD ingredient INGREDIENT dishVariation DISHVARIATION
+FOOD ingredient INGREDIENT dishVariation DISHVARIATION
+FOOD ingredient INGREDIENT dishVariation DISHVARIATION
+FOOD ingredient INGREDIENT country COUNTRY
+FOOD ingredient INGREDIENT country COUNTRY
+FOOD ingredient INGREDIENT country COUNTRY
+FOOD country COUNTRY leaderName LEADERNAME
+FOOD country COUNTRY leaderName LEADERNAME
+FOOD country COUNTRY leaderName LEADERNAME
+FOOD country COUNTRY mainIngredients MAININGREDIENTS
+FOOD country COUNTRY mainIngredients MAININGREDIENTS
+FOOD country COUNTRY mainIngredients MAININGREDIENTS
+FOOD country COUNTRY demonym DEMONYM
+FOOD country COUNTRY demonym DEMONYM
+FOOD country COUNTRY demonym DEMONYM
+FOOD country COUNTRY leaderName LEADERNAME
+FOOD country COUNTRY leaderName LEADERNAME
+FOOD country COUNTRY leaderName LEADERNAME
+FOOD country COUNTRY ethnicGroup ETHNICGROUP
+FOOD country COUNTRY ethnicGroup ETHNICGROUP
+FOOD country COUNTRY ethnicGroup ETHNICGROUP
+FOOD country COUNTRY mainIngredients MAININGREDIENTS
+FOOD country COUNTRY mainIngredients MAININGREDIENTS
+FOOD country COUNTRY mainIngredients MAININGREDIENTS
+FOOD ingredient INGREDIENT mainIngredients MAININGREDIENTS
+FOOD ingredient INGREDIENT mainIngredients MAININGREDIENTS
+FOOD ingredient INGREDIENT mainIngredients MAININGREDIENTS
+FOOD country COUNTRY leaderName LEADERNAME
+FOOD country COUNTRY leaderName LEADERNAME
+FOOD country COUNTRY leaderName LEADERNAME
+FOOD ingredient INGREDIENT region REGION
+FOOD ingredient INGREDIENT region REGION
+FOOD ingredient INGREDIENT region REGION
+COURSE dishVariation DISHVARIATION FOOD course
+COURSE dishVariation DISHVARIATION FOOD course
+COURSE dishVariation DISHVARIATION FOOD course
+FOOD country COUNTRY leaderName LEADERNAME
+FOOD country COUNTRY leaderName LEADERNAME
+DISHVARIATION ingredient INGREDIENT FOOD dishVariation
+DISHVARIATION ingredient INGREDIENT FOOD dishVariation
+DISHVARIATION ingredient INGREDIENT FOOD dishVariation
+AIRPORT operatingOrganisation OPERATINGORGANISATION runwayLength RUNWAYLENGTH
+AIRPORT operatingOrganisation OPERATINGORGANISATION runwayLength RUNWAYLENGTH
+AIRPORT elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) location LOCATION
+AIRPORT elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) location LOCATION
+AIRPORT elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) location LOCATION
+AIRPORT runwayLength RUNWAYLENGTH location LOCATION
+AIRPORT runwayLength RUNWAYLENGTH location LOCATION
+AIRPORT runwayLength RUNWAYLENGTH location LOCATION
+LOCATION isPartOf ISPARTOF AIRPORT location
+LOCATION isPartOf ISPARTOF AIRPORT location
+LOCATION isPartOf ISPARTOF AIRPORT location
+AIRPORT location LOCATION runwayLength RUNWAYLENGTH
+AIRPORT location LOCATION runwayLength RUNWAYLENGTH
+AIRPORT location LOCATION runwayLength RUNWAYLENGTH
+LOCATION language LANGUAGE AIRPORT location
+LOCATION language LANGUAGE AIRPORT location
+LOCATION language LANGUAGE AIRPORT location
+OPERATINGORGANISATION battles BATTLES AIRPORT operatingOrganisation
+OPERATINGORGANISATION battles BATTLES AIRPORT operatingOrganisation
+1ST_RUNWAY_SURFACETYPE class CLASS AIRPORT 1st_runway_SurfaceType
+1ST_RUNWAY_SURFACETYPE class CLASS AIRPORT 1st_runway_SurfaceType
+1ST_RUNWAY_SURFACETYPE class CLASS AIRPORT 1st_runway_SurfaceType
+AIRPORT runwayLength RUNWAYLENGTH 1st_runway_SurfaceType 1ST_RUNWAY_SURFACETYPE
+AIRPORT runwayLength RUNWAYLENGTH 1st_runway_SurfaceType 1ST_RUNWAY_SURFACETYPE
+LOCATION leaderName LEADERNAME AIRPORT location
+LOCATION leaderName LEADERNAME AIRPORT location
+LOCATION leaderName LEADERNAME AIRPORT location
+AIRPORT location LOCATION runwayLength RUNWAYLENGTH
+AIRPORT location LOCATION runwayLength RUNWAYLENGTH
+AIRPORT elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) 1st_runway_LengthMetre 1ST_RUNWAY_LENGTHMETRE
+AIRPORT elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) 1st_runway_LengthMetre 1ST_RUNWAY_LENGTHMETRE
+AIRPORT elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) 1st_runway_LengthMetre 1ST_RUNWAY_LENGTHMETRE
+AIRPORT elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) 1st_runway_SurfaceType 1ST_RUNWAY_SURFACETYPE
+AIRPORT elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) 1st_runway_SurfaceType 1ST_RUNWAY_SURFACETYPE
+AIRPORT elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) 1st_runway_SurfaceType 1ST_RUNWAY_SURFACETYPE
+AIRPORT cityServed CITYSERVED runwayLength RUNWAYLENGTH
+AIRPORT cityServed CITYSERVED runwayLength RUNWAYLENGTH
+LOCATION largestCity LARGESTCITY AIRPORT location
+LOCATION largestCity LARGESTCITY AIRPORT location
+AIRPORT cityServed CITYSERVED runwayLength RUNWAYLENGTH
+AIRPORT cityServed CITYSERVED runwayLength RUNWAYLENGTH
+AIRPORT cityServed CITYSERVED runwayLength RUNWAYLENGTH
+AIRPORT runwayLength RUNWAYLENGTH 3rd_runway_SurfaceType 3RD_RUNWAY_SURFACETYPE
+AIRPORT runwayLength RUNWAYLENGTH 3rd_runway_SurfaceType 3RD_RUNWAY_SURFACETYPE
+AIRPORT elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) 1st_runway_LengthFeet 1ST_RUNWAY_LENGTHFEET
+AIRPORT elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) 1st_runway_LengthFeet 1ST_RUNWAY_LENGTHFEET
+AIRPORT elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) 1st_runway_LengthFeet 1ST_RUNWAY_LENGTHFEET
+HEADQUARTER_Airlines headquarter HEADQUARTER AIRPORT operatingOrganisation
+HEADQUARTER_Airlines headquarter HEADQUARTER AIRPORT operatingOrganisation
+HEADQUARTER_Airlines headquarter HEADQUARTER AIRPORT operatingOrganisation
+LOCATION country COUNTRY AIRPORT location
+LOCATION country COUNTRY AIRPORT location
+LOCATION country COUNTRY AIRPORT location
+AIRPORT runwayName RUNWAYNAME operatingOrganisation OPERATINGORGANISATION
+AIRPORT runwayName RUNWAYNAME operatingOrganisation OPERATINGORGANISATION
+AIRPORT operatingOrganisation OPERATINGORGANISATION runwayLength RUNWAYLENGTH
+AIRPORT operatingOrganisation OPERATINGORGANISATION runwayLength RUNWAYLENGTH
+OPERATINGORGANISATION location LOCATION AIRPORT operatingOrganisation
+OPERATINGORGANISATION location LOCATION AIRPORT operatingOrganisation
+OPERATINGORGANISATION location LOCATION AIRPORT operatingOrganisation
+SPORTSTEAM season SEASON numberOfMembers NUMBEROFMEMBERS
+SPORTSTEAM season SEASON numberOfMembers NUMBEROFMEMBERS
+SPORTSTEAM season SEASON numberOfMembers NUMBEROFMEMBERS
+SPORTSTEAM numberOfMembers NUMBEROFMEMBERS ground GROUND
+SPORTSTEAM numberOfMembers NUMBEROFMEMBERS ground GROUND
+MANAGER placeOfBirth PLACEOFBIRTH SPORTSTEAM manager
+MANAGER placeOfBirth PLACEOFBIRTH SPORTSTEAM manager
+MANAGER placeOfBirth PLACEOFBIRTH SPORTSTEAM manager
+MANAGER club CLUB SPORTSTEAM manager
+MANAGER club CLUB SPORTSTEAM manager
+SPORTSTEAM season SEASON numberOfMembers NUMBEROFMEMBERS
+SPORTSTEAM season SEASON numberOfMembers NUMBEROFMEMBERS
+MANAGER club CLUB SPORTSTEAM manager
+MANAGER club CLUB SPORTSTEAM manager
+MANAGER club CLUB SPORTSTEAM manager
+MANAGER club CLUB SPORTSTEAM manager
+MANAGER club CLUB SPORTSTEAM manager
+MANAGER club CLUB SPORTSTEAM manager
+SPORTSTEAM numberOfMembers NUMBEROFMEMBERS ground GROUND
+SPORTSTEAM numberOfMembers NUMBEROFMEMBERS ground GROUND
+SPORTSTEAM numberOfMembers NUMBEROFMEMBERS ground GROUND
+SPORTSTEAM numberOfMembers NUMBEROFMEMBERS ground GROUND
+SPORTSTEAM numberOfMembers NUMBEROFMEMBERS ground GROUND
+SPORTSTEAM numberOfMembers NUMBEROFMEMBERS ground GROUND
+SPORTSTEAM league LEAGUE ground GROUND
+SPORTSTEAM league LEAGUE ground GROUND
+SPORTSTEAM league LEAGUE ground GROUND
+MANAGER club CLUB SPORTSTEAM manager
+MANAGER club CLUB SPORTSTEAM manager
+MANAGER club CLUB SPORTSTEAM manager
+MANAGER club CLUB SPORTSTEAM manager
+MANAGER club CLUB SPORTSTEAM manager
+SPORTSTEAM numberOfMembers NUMBEROFMEMBERS fullname SPORTSTEAM_S_._p_._A_.
+SPORTSTEAM numberOfMembers NUMBEROFMEMBERS fullname SPORTSTEAM_S_._p_._A_.
+SPORTSTEAM numberOfMembers NUMBEROFMEMBERS fullname SPORTSTEAM_S_._p_._A_.
+SPORTSTEAM numberOfMembers NUMBEROFMEMBERS ground GROUND
+SPORTSTEAM numberOfMembers NUMBEROFMEMBERS ground GROUND
+SPORTSTEAM numberOfMembers NUMBEROFMEMBERS ground GROUND
+SPORTSTEAM league LEAGUE ground GROUND
+SPORTSTEAM league LEAGUE ground GROUND
+SPORTSTEAM league LEAGUE ground GROUND
+GROUND tenant TENANT SPORTSTEAM ground
+GROUND tenant TENANT SPORTSTEAM ground
+GROUND tenant TENANT SPORTSTEAM ground
+SPORTSTEAM ground GROUND location LOCATION
+SPORTSTEAM ground GROUND location LOCATION
+SPORTSTEAM ground GROUND location LOCATION
+SPORTSTEAM season SEASON numberOfMembers NUMBEROFMEMBERS
+SPORTSTEAM season SEASON numberOfMembers NUMBEROFMEMBERS
+GROUND region REGION SPORTSTEAM ground
+GROUND region REGION SPORTSTEAM ground
+GROUND leader LEADER SPORTSTEAM ground
+GROUND leader LEADER SPORTSTEAM ground
+GROUND leader LEADER SPORTSTEAM ground
+MANAGER club CLUB A_._S_._Roma manager
+MANAGER club CLUB A_._S_._Roma manager
+MANAGER club CLUB A_._S_._Roma manager
+WRITTENWORK precededBy PRECEDEDBY author AUTHOR
+WRITTENWORK precededBy PRECEDEDBY author AUTHOR
+WRITTENWORK precededBy PRECEDEDBY author AUTHOR
+WRITTENWORK mediaType MEDIATYPE author AUTHOR
+WRITTENWORK mediaType MEDIATYPE author AUTHOR
+WRITTENWORK mediaType MEDIATYPE author AUTHOR
+WRITTENWORK abbreviation ABBREVIATION EISSN_number EISSN_NUMBER
+WRITTENWORK abbreviation ABBREVIATION EISSN_number EISSN_NUMBER
+WRITTENWORK abbreviation ABBREVIATION EISSN_number EISSN_NUMBER
+WRITTENWORK mediaType MEDIATYPE author AUTHOR
+WRITTENWORK mediaType MEDIATYPE author AUTHOR
+WRITTENWORK mediaType MEDIATYPE author AUTHOR
+WRITTENWORK ISBN_number ISBN_NUMBER numberOfPages NUMBEROFPAGES
+WRITTENWORK ISBN_number ISBN_NUMBER numberOfPages NUMBEROFPAGES
+WRITTENWORK followedBy FOLLOWEDBY author AUTHOR
+WRITTENWORK followedBy FOLLOWEDBY author AUTHOR
+WRITTENWORK OCLC_number OCLC_NUMBER mediaType MEDIATYPE
+WRITTENWORK OCLC_number OCLC_NUMBER mediaType MEDIATYPE
+WRITTENWORK ISBN_number ISBN_NUMBER numberOfPages NUMBEROFPAGES
+WRITTENWORK ISBN_number ISBN_NUMBER numberOfPages NUMBEROFPAGES
+WRITTENWORK publisher PUBLISHER parentCompany PARENTCOMPANY
+WRITTENWORK publisher PUBLISHER parentCompany PARENTCOMPANY
+WRITTENWORK publisher PUBLISHER parentCompany PARENTCOMPANY
+WRITTENWORK mediaType MEDIATYPE author AUTHOR
+WRITTENWORK mediaType MEDIATYPE author AUTHOR
+WRITTENWORK mediaType MEDIATYPE author AUTHOR
+WRITTENWORK ISBN_number ISBN_NUMBER OCLC_number OCLC_NUMBER
+WRITTENWORK ISBN_number ISBN_NUMBER OCLC_number OCLC_NUMBER
+WRITTENWORK ISBN_number ISBN_NUMBER OCLC_number OCLC_NUMBER
+WRITTENWORK OCLC_number OCLC_NUMBER mediaType MEDIATYPE
+WRITTENWORK OCLC_number OCLC_NUMBER mediaType MEDIATYPE
+WRITTENWORK OCLC_number OCLC_NUMBER mediaType MEDIATYPE
+WRITTENWORK language LANGUAGE spokenIn SPOKENIN
+WRITTENWORK language LANGUAGE spokenIn SPOKENIN
+WRITTENWORK ISBN_number ISBN_NUMBER mediaType MEDIATYPE
+WRITTENWORK ISBN_number ISBN_NUMBER mediaType MEDIATYPE
+WRITTENWORK ISBN_number ISBN_NUMBER mediaType MEDIATYPE
+WRITTENWORK publisher PUBLISHER founder FOUNDER
+WRITTENWORK publisher PUBLISHER founder FOUNDER
+WRITTENWORK publisher PUBLISHER founder FOUNDER
+WRITTENWORK ISBN_number ISBN_NUMBER literaryGenre LITERARYGENRE
+WRITTENWORK ISBN_number ISBN_NUMBER literaryGenre LITERARYGENRE
+WRITTENWORK ISBN_number ISBN_NUMBER literaryGenre LITERARYGENRE
+WRITTENWORK ISBN_number ISBN_NUMBER OCLC_number OCLC_NUMBER
+WRITTENWORK ISBN_number ISBN_NUMBER OCLC_number OCLC_NUMBER
+WRITTENWORK ISBN_number ISBN_NUMBER OCLC_number OCLC_NUMBER
+WRITTENWORK followedBy FOLLOWEDBY author AUTHOR
+WRITTENWORK followedBy FOLLOWEDBY author AUTHOR
+WRITTENWORK followedBy FOLLOWEDBY author AUTHOR
+WRITTENWORK abbreviation ABBREVIATION academicDiscipline ACADEMICDISCIPLINE
+WRITTENWORK abbreviation ABBREVIATION academicDiscipline ACADEMICDISCIPLINE
+WRITTENWORK abbreviation ABBREVIATION academicDiscipline ACADEMICDISCIPLINE
+WRITTENWORK publisher PARENTCOMPANY_Press parentCompany PARENTCOMPANY
+WRITTENWORK publisher PARENTCOMPANY_Press parentCompany PARENTCOMPANY
+WRITTENWORK country COUNTRY capital CAPITAL
+WRITTENWORK country COUNTRY capital CAPITAL
+WRITTENWORK country COUNTRY capital CAPITAL
+WRITTENWORK country COUNTRY capital CAPITAL
+WRITTENWORK country COUNTRY ethnicGroup ETHNICGROUP
+WRITTENWORK country COUNTRY ethnicGroup ETHNICGROUP
+WRITTENWORK country COUNTRY ethnicGroup ETHNICGROUP
+WRITTENWORK country COUNTRY ethnicGroup ETHNICGROUP
+WRITTENWORK country COUNTRY ethnicGroup ETHNICGROUP
+WRITTENWORK country COUNTRY ethnicGroup ETHNICGROUP
+WRITTENWORK country COUNTRY ethnicGroup ETHNICGROUP
+UNIVERSITY nickname NICKNAME state STATE
+UNIVERSITY nickname NICKNAME state STATE
+UNIVERSITY affiliation AFFILIATION city CITY
+UNIVERSITY affiliation AFFILIATION city CITY
+UNIVERSITY affiliation AFFILIATION city CITY
+UNIVERSITY city CITY president PRESIDENT
+UNIVERSITY city CITY president PRESIDENT
+UNIVERSITY was_given_the_'_Technical_Campus_'_status_by WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY location LOCATION
+UNIVERSITY was_given_the_'_Technical_Campus_'_status_by WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY location LOCATION
+UNIVERSITY was_given_the_'_Technical_Campus_'_status_by WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY location LOCATION
+UNIVERSITY state STATE leaderName LEADERNAME
+UNIVERSITY state STATE leaderName LEADERNAME
+COMICSCHARACTER creator CREATOR nationality NATIONALITY
+COMICSCHARACTER creator CREATOR nationality NATIONALITY
+COMICSCHARACTER creator CREATOR nationality NATIONALITY
+COMICSCHARACTER starring STARRING broadcastedBy BROADCASTEDBY
+COMICSCHARACTER starring STARRING broadcastedBy BROADCASTEDBY
+COMICSCHARACTER broadcastedBy BROADCASTEDBY starring STARRING
+COMICSCHARACTER broadcastedBy BROADCASTEDBY starring STARRING
+COMICSCHARACTER broadcastedBy BROADCASTEDBY starring STARRING
+COMICSCHARACTER starring STARRING birthPlace BIRTHPLACE
+COMICSCHARACTER starring STARRING birthPlace BIRTHPLACE
+COMICSCHARACTER firstAppearanceInFilm FIRSTAPPEARANCEINFILM starring STARRING
+COMICSCHARACTER firstAppearanceInFilm FIRSTAPPEARANCEINFILM starring STARRING
+COMICSCHARACTER firstAppearanceInFilm FIRSTAPPEARANCEINFILM starring STARRING
+COMICSCHARACTER firstAppearanceInFilm FIRSTAPPEARANCEINFILM starring STARRING
+COMICSCHARACTER firstAppearanceInFilm FIRSTAPPEARANCEINFILM starring STARRING
+COMICSCHARACTER creator CREATOR series SERIES
+COMICSCHARACTER creator CREATOR series SERIES
+COMICSCHARACTER creator CREATOR series SERIES
+COMICSCHARACTER fullName FULLNAME creator CREATOR
+COMICSCHARACTER fullName FULLNAME creator CREATOR
+COMICSCHARACTER fullName FULLNAME creator CREATOR
+COMICSCHARACTER creator CREATOR creator Jerry_Ordway
+COMICSCHARACTER creator CREATOR creator Jerry_Ordway
+COMICSCHARACTER creator CREATOR creator Jerry_Ordway
+COMICSCHARACTER fullName FULLNAME creator CREATOR
+COMICSCHARACTER fullName FULLNAME creator CREATOR
+ASTRONAUT birthDate BIRTHDATE status STATUS
+ASTRONAUT birthDate BIRTHDATE status STATUS
+ASTRONAUT birthDate BIRTHDATE status STATUS
+ASTRONAUT birthDate BIRTHDATE status STATUS
+ASTRONAUT occupation OCCUPATION status STATUS
+ASTRONAUT occupation OCCUPATION status STATUS
+ASTRONAUT occupation OCCUPATION status STATUS
+ASTRONAUT birthPlace BIRTHPLACE birthDate BIRTHDATE
+ASTRONAUT birthPlace BIRTHPLACE birthDate BIRTHDATE
+ASTRONAUT birthPlace BIRTHPLACE birthDate BIRTHDATE
+ASTRONAUT birthPlace BIRTHPLACE birthDate BIRTHDATE
+ASTRONAUT birthPlace BIRTHPLACE birthDate BIRTHDATE
+ASTRONAUT birthPlace BIRTHPLACE birthDate BIRTHDATE
+ASTRONAUT birthPlace BIRTHPLACE birthDate BIRTHDATE
+BIRTHPLACE isPartOf ISPARTOF ASTRONAUT birthPlace
+BIRTHPLACE isPartOf ISPARTOF ASTRONAUT birthPlace
+ASTRONAUT birthPlace BIRTHPLACE was_a_crew_member_of WAS_A_CREW_MEMBER_OF
+ASTRONAUT birthPlace BIRTHPLACE was_a_crew_member_of WAS_A_CREW_MEMBER_OF
+ASTRONAUT birthPlace BIRTHPLACE was_a_crew_member_of WAS_A_CREW_MEMBER_OF
+ASTRONAUT birthPlace BIRTHPLACE was_a_crew_member_of WAS_A_CREW_MEMBER_OF
+ASTRONAUT almaMater ALMAMATER status STATUS
+ASTRONAUT almaMater ALMAMATER status STATUS
+ASTRONAUT almaMater ALMAMATER status STATUS
+BUILDING floorCount FLOORCOUNT completionDate COMPLETIONDATE
+BUILDING floorCount FLOORCOUNT completionDate COMPLETIONDATE
+BUILDING floorCount FLOORCOUNT completionDate COMPLETIONDATE
+BUILDING floorCount FLOORCOUNT location LOCATION
+BUILDING floorCount FLOORCOUNT location LOCATION
+BUILDING floorCount FLOORCOUNT location LOCATION
+BUILDING floorCount FLOORCOUNT floorArea FLOORAREA
+BUILDING floorCount FLOORCOUNT floorArea FLOORAREA
+BUILDING floorCount FLOORCOUNT floorArea FLOORAREA
+BUILDING floorCount FLOORCOUNT location LOCATION
+BUILDING floorCount FLOORCOUNT location LOCATION
+BUILDING floorCount FLOORCOUNT location LOCATION
+BUILDING architect ARCHITECT country COUNTRY
+BUILDING architect ARCHITECT country COUNTRY
+BUILDING architect ARCHITECT country COUNTRY
+BUILDING architect ARCHITECT location LOCATION
+BUILDING architect ARCHITECT location LOCATION
+BUILDING architect ARCHITECT location LOCATION
+BUILDING architect ARCHITECT location LOCATION
+BUILDING architect ARCHITECT location LOCATION
+BUILDING architect ARCHITECT location LOCATION
+BUILDING tenant TENANT location LOCATION
+BUILDING tenant TENANT location LOCATION
+BUILDING tenant TENANT location LOCATION
+BUILDING architect ARCHITECT completionDate COMPLETIONDATE
+BUILDING architect ARCHITECT completionDate COMPLETIONDATE
+BUILDING location Adare location LOCATION
+BUILDING location Adare location LOCATION
+BUILDING location Adare location LOCATION
+BUILDING country COUNTRY location LOCATION
+BUILDING country COUNTRY location LOCATION
+BUILDING architecturalStyle ARCHITECTURALSTYLE location LOCATION
+BUILDING architecturalStyle ARCHITECTURALSTYLE location LOCATION
+BUILDING architecturalStyle ARCHITECTURALSTYLE location LOCATION
+BUILDING architecturalStyle ARCHITECTURALSTYLE location LOCATION
+BUILDING architecturalStyle ARCHITECTURALSTYLE location LOCATION
+BUILDING architecturalStyle ARCHITECTURALSTYLE location LOCATION
+BUILDING country COUNTRY ethnicGroup Brazilians_in_COUNTRY
+BUILDING country COUNTRY ethnicGroup Brazilians_in_COUNTRY
+BUILDING country COUNTRY ethnicGroup Brazilians_in_COUNTRY
+BUILDING floorCount FLOORCOUNT address ADDRESS
+BUILDING floorCount FLOORCOUNT address ADDRESS
+BUILDING location LOCATION address ADDRESS
+BUILDING location LOCATION address ADDRESS
+STATE leaderName LEADERNAME BUILDING state
+STATE leaderName LEADERNAME BUILDING state
+BUILDING location LOCATION country COUNTRY
+BUILDING location LOCATION country COUNTRY
+BUILDING location LOCATION isPartOf ISPARTOF
+BUILDING location LOCATION isPartOf ISPARTOF
+BUILDING location LOCATION isPartOf ISPARTOF
+BUILDING location LOCATION isPartOf ISPARTOF
+BUILDING location LOCATION isPartOf ISPARTOF
+BUILDING location LOCATION isPartOf ISPARTOF
+BUILDING location LOCATION isPartOf ISPARTOF
+BUILDING location LOCATION isPartOf ISPARTOF
+BUILDING location LOCATION isPartOf ISPARTOF
+ASTRONAUT birthPlace BIRTHPLACE status STATUS nationality NATIONALITY
+ASTRONAUT birthPlace BIRTHPLACE status STATUS nationality NATIONALITY
+ASTRONAUT birthPlace BIRTHPLACE status STATUS nationality NATIONALITY
+ASTRONAUT birthPlace BIRTHPLACE nationality NATIONALITY leaderName LEADERNAME
+ASTRONAUT was_selected_by_NASA WAS_SELECTED_BY_NASA almaMater ALMAMATER nationality NATIONALITY
+ASTRONAUT was_selected_by_NASA WAS_SELECTED_BY_NASA almaMater ALMAMATER nationality NATIONALITY
+ASTRONAUT was_selected_by_NASA WAS_SELECTED_BY_NASA almaMater ALMAMATER nationality NATIONALITY
+ASTRONAUT was_selected_by_NASA WAS_SELECTED_BY_NASA almaMater ALMAMATER nationality NATIONALITY
+ASTRONAUT birthPlace BIRTHPLACE almaMater ALMAMATER nationality NATIONALITY
+ASTRONAUT birthPlace BIRTHPLACE almaMater ALMAMATER nationality NATIONALITY
+ASTRONAUT birthPlace BIRTHPLACE almaMater ALMAMATER nationality NATIONALITY
+ASTRONAUT birthPlace BIRTHPLACE almaMater ALMAMATER nationality NATIONALITY
+ASTRONAUT was_selected_by_NASA WAS_SELECTED_BY_NASA almaMater ALMAMATER deathPlace DEATHPLACE
+ASTRONAUT was_selected_by_NASA WAS_SELECTED_BY_NASA almaMater ALMAMATER deathPlace DEATHPLACE
+ASTRONAUT was_selected_by_NASA WAS_SELECTED_BY_NASA almaMater ALMAMATER deathPlace DEATHPLACE
+ASTRONAUT almaMater ALMAMATER deathPlace DEATHPLACE leaderName LEADERNAME
+ASTRONAUT almaMater ALMAMATER deathPlace DEATHPLACE leaderName LEADERNAME
+ASTRONAUT almaMater ALMAMATER deathPlace DEATHPLACE leaderName LEADERNAME
+ASTRONAUT deathDate DEATHDATE deathPlace DEATHPLACE isPartOf ISPARTOF
+ASTRONAUT deathDate DEATHDATE deathPlace DEATHPLACE isPartOf ISPARTOF
+BIRTHPLACE bird BIRD ASTRONAUT birthPlace timeInSpace TIMEINSPACE
+WRITTENWORK numberOfPages NUMBEROFPAGES mediaType MEDIATYPE author AUTHOR
+WRITTENWORK numberOfPages NUMBEROFPAGES mediaType MEDIATYPE author AUTHOR
+WRITTENWORK numberOfPages NUMBEROFPAGES mediaType MEDIATYPE author AUTHOR
+WRITTENWORK language LANGUAGE precededBy PRECEDEDBY spokenIn SPOKENIN
+WRITTENWORK language LANGUAGE precededBy PRECEDEDBY spokenIn SPOKENIN
+WRITTENWORK language LANGUAGE precededBy PRECEDEDBY spokenIn SPOKENIN
+WRITTENWORK publisher PUBLISHER headquarter HEADQUARTER leaderName LEADERNAME
+WRITTENWORK publisher PUBLISHER headquarter HEADQUARTER leaderName LEADERNAME
+WRITTENWORK publisher PUBLISHER headquarter HEADQUARTER leaderName LEADERNAME
+WRITTENWORK academicDiscipline HIV ISSN_number ISSN_NUMBER academicDiscipline ACADEMICDISCIPLINE
+WRITTENWORK academicDiscipline HIV ISSN_number ISSN_NUMBER academicDiscipline ACADEMICDISCIPLINE
+WRITTENWORK academicDiscipline HIV ISSN_number ISSN_NUMBER academicDiscipline ACADEMICDISCIPLINE
+WRITTENWORK academicDiscipline HIV ISSN_number ISSN_NUMBER academicDiscipline ACADEMICDISCIPLINE
+WRITTENWORK editor EDITOR residence RESIDENCE almaMater ALMAMATER
+WRITTENWORK editor EDITOR residence RESIDENCE almaMater ALMAMATER
+WRITTENWORK editor EDITOR residence RESIDENCE almaMater ALMAMATER
+WRITTENWORK ISBN_number ISBN_NUMBER OCLC_number OCLC_NUMBER author AUTHOR
+WRITTENWORK ISBN_number ISBN_NUMBER OCLC_number OCLC_NUMBER author AUTHOR
+WRITTENWORK ISBN_number ISBN_NUMBER OCLC_number OCLC_NUMBER author AUTHOR
+WRITTENWORK ISBN_number ISBN_NUMBER OCLC_number OCLC_NUMBER author AUTHOR
+WRITTENWORK ISBN_number ISBN_NUMBER OCLC_number OCLC_NUMBER author AUTHOR
+WRITTENWORK ISBN_number ISBN_NUMBER OCLC_number OCLC_NUMBER author AUTHOR
+WRITTENWORK language LANGUAGE publisher PUBLISHER country COUNTRY
+WRITTENWORK language LANGUAGE publisher PUBLISHER country COUNTRY
+WRITTENWORK language LANGUAGE publisher PUBLISHER country COUNTRY
+WRITTENWORK language LANGUAGE country COUNTRY spokenIn SPOKENIN
+WRITTENWORK numberOfPages NUMBEROFPAGES OCLC_number OCLC_NUMBER mediaType MEDIATYPE
+WRITTENWORK numberOfPages NUMBEROFPAGES OCLC_number OCLC_NUMBER mediaType MEDIATYPE
+WRITTENWORK numberOfPages NUMBEROFPAGES OCLC_number OCLC_NUMBER mediaType MEDIATYPE
+WRITTENWORK ISSN_number ISSN_NUMBER abbreviation ABBREVIATION LCCN_number LCCN_NUMBER
+WRITTENWORK ISSN_number ISSN_NUMBER abbreviation ABBREVIATION LCCN_number LCCN_NUMBER
+WRITTENWORK ISSN_number ISSN_NUMBER abbreviation ABBREVIATION LCCN_number LCCN_NUMBER
+WRITTENWORK language LANGUAGE followedBy FOLLOWEDBY country COUNTRY
+WRITTENWORK language LANGUAGE followedBy FOLLOWEDBY country COUNTRY
+WRITTENWORK language LANGUAGE followedBy FOLLOWEDBY country COUNTRY
+WRITTENWORK followedBy FOLLOWEDBY author AUTHOR language LANGUAGE
+WRITTENWORK followedBy FOLLOWEDBY author AUTHOR language LANGUAGE
+WRITTENWORK followedBy FOLLOWEDBY author AUTHOR language LANGUAGE
+WRITTENWORK numberOfPages NUMBEROFPAGES mediaType MEDIATYPE author AUTHOR
+WRITTENWORK numberOfPages NUMBEROFPAGES mediaType MEDIATYPE author AUTHOR
+WRITTENWORK numberOfPages NUMBEROFPAGES mediaType MEDIATYPE author AUTHOR
+WRITTENWORK ISSN_number ISSN_NUMBER abbreviation ABBREVIATION LCCN_number LCCN_NUMBER
+WRITTENWORK ISSN_number ISSN_NUMBER abbreviation ABBREVIATION LCCN_number LCCN_NUMBER
+WRITTENWORK ISSN_number ISSN_NUMBER abbreviation ABBREVIATION LCCN_number LCCN_NUMBER
+WRITTENWORK ISSN_number ISSN_NUMBER academicDiscipline ABBREVIATION abbreviation
+WRITTENWORK ISSN_number ISSN_NUMBER academicDiscipline ABBREVIATION abbreviation
+WRITTENWORK publisher PUBLISHER ISSN_number ISSN_NUMBER parentCompany PARENTCOMPANY
+WRITTENWORK publisher PUBLISHER ISSN_number ISSN_NUMBER parentCompany PARENTCOMPANY
+WRITTENWORK publisher PUBLISHER ISSN_number ISSN_NUMBER parentCompany PARENTCOMPANY
+WRITTENWORK publisher PUBLISHER state STATE affiliation AFFILIATION
+WRITTENWORK publisher PUBLISHER state STATE affiliation AFFILIATION
+WRITTENWORK publisher PUBLISHER state STATE affiliation AFFILIATION
+WRITTENWORK language LANGUAGE followedBy FOLLOWEDBY author AUTHOR
+WRITTENWORK language LANGUAGE followedBy FOLLOWEDBY author AUTHOR
+WRITTENWORK language LANGUAGE followedBy FOLLOWEDBY author AUTHOR
+WRITTENWORK language LANGUAGE country COUNTRY spokenIn SPOKENIN
+WRITTENWORK language LANGUAGE country COUNTRY spokenIn SPOKENIN
+WRITTENWORK language LANGUAGE country COUNTRY spokenIn SPOKENIN
+WRITTENWORK numberOfPages NUMBEROFPAGES OCLC_number OCLC_NUMBER mediaType MEDIATYPE
+WRITTENWORK numberOfPages NUMBEROFPAGES OCLC_number OCLC_NUMBER mediaType MEDIATYPE
+WRITTENWORK numberOfPages NUMBEROFPAGES OCLC_number OCLC_NUMBER mediaType MEDIATYPE
+LANGUAGE spokenIn SPOKENIN WRITTENWORK country COUNTRY language
+LANGUAGE spokenIn SPOKENIN WRITTENWORK country COUNTRY language
+LANGUAGE spokenIn SPOKENIN WRITTENWORK country COUNTRY language
+WRITTENWORK author AUTHOR birthPlace BIRTHPLACE deathPlace DEATHPLACE
+WRITTENWORK author AUTHOR birthPlace BIRTHPLACE deathPlace DEATHPLACE
+WRITTENWORK author AUTHOR birthPlace BIRTHPLACE deathPlace DEATHPLACE
+WRITTENWORK publisher PUBLISHER ISSN_number ISSN_NUMBER founder FOUNDER
+WRITTENWORK publisher PUBLISHER ISSN_number ISSN_NUMBER founder FOUNDER
+WRITTENWORK publisher PUBLISHER ISSN_number ISSN_NUMBER founder FOUNDER
+WRITTENWORK country COUNTRY ethnicGroup Native_Americans_in_the_COUNTRY capital CAPITAL
+WRITTENWORK country COUNTRY ethnicGroup Native_Americans_in_the_COUNTRY capital CAPITAL
+WRITTENWORK country COUNTRY ethnicGroup Native_Americans_in_the_COUNTRY capital CAPITAL
+WRITTENWORK language LANGUAGE country COUNTRY ethnicGroup ETHNICGROUP
+WRITTENWORK language LANGUAGE country COUNTRY ethnicGroup ETHNICGROUP
+WRITTENWORK language LANGUAGE country COUNTRY ethnicGroup ETHNICGROUP
+WRITTENWORK country COUNTRY capital CAPITAL ethnicGroup ETHNICGROUP
+WRITTENWORK country COUNTRY capital CAPITAL ethnicGroup ETHNICGROUP
+WRITTENWORK country COUNTRY capital CAPITAL ethnicGroup ETHNICGROUP
+WRITTENWORK country COUNTRY ethnicGroup ETHNICGROUP leaderName LEADERNAME
+WRITTENWORK country COUNTRY ethnicGroup ETHNICGROUP leaderName LEADERNAME
+WRITTENWORK country COUNTRY ethnicGroup ETHNICGROUP leaderName LEADERNAME
+WRITTENWORK country COUNTRY leaderTitle President_of_the_COUNTRY ethnicGroup ETHNICGROUP
+WRITTENWORK country COUNTRY leaderTitle President_of_the_COUNTRY ethnicGroup ETHNICGROUP
+WRITTENWORK country COUNTRY leaderTitle President_of_the_COUNTRY ethnicGroup ETHNICGROUP
+WRITTENWORK country COUNTRY leaderTitle President_of_the_COUNTRY ethnicGroup Native_Americans_in_the_COUNTRY
+WRITTENWORK country COUNTRY leaderTitle President_of_the_COUNTRY ethnicGroup Native_Americans_in_the_COUNTRY
+MANAGER club 1_._FC_Lokomotive_Leipzig club CLUB SPORTSTEAM manager
+MANAGER club 1_._FC_Lokomotive_Leipzig club CLUB SPORTSTEAM manager
+MANAGER club 1_._FC_Lokomotive_Leipzig club CLUB SPORTSTEAM manager
+MANAGER club A_._S_._D_._Licata_1931 club CLUB SPORTSTEAM manager
+MANAGER club A_._S_._D_._Licata_1931 club CLUB SPORTSTEAM manager
+SPORTSTEAM fullname FULLNAME league LEAGUE numberOfMembers NUMBEROFMEMBERS
+SPORTSTEAM fullname FULLNAME league LEAGUE numberOfMembers NUMBEROFMEMBERS
+SPORTSTEAM fullname FULLNAME league LEAGUE numberOfMembers NUMBEROFMEMBERS
+MANAGER club Alianza_F_._C_. club CLUB SPORTSTEAM manager
+MANAGER club Alianza_F_._C_. club CLUB SPORTSTEAM manager
+SPORTSTEAM numberOfMembers NUMBEROFMEMBERS ground GROUND chairman CHAIRMAN
+SPORTSTEAM numberOfMembers NUMBEROFMEMBERS ground GROUND chairman CHAIRMAN
+SPORTSTEAM numberOfMembers NUMBEROFMEMBERS ground GROUND chairman CHAIRMAN
+SPORTSTEAM fullname FULLNAME numberOfMembers NUMBEROFMEMBERS ground GROUND
+SPORTSTEAM fullname FULLNAME numberOfMembers NUMBEROFMEMBERS ground GROUND
+SPORTSTEAM fullname FULLNAME numberOfMembers NUMBEROFMEMBERS ground GROUND
+MANAGER club Chesterfield_F_._C_. club CLUB SPORTSTEAM manager
+MANAGER club Chesterfield_F_._C_. club CLUB SPORTSTEAM manager
+MANAGER club Chesterfield_F_._C_. club CLUB SPORTSTEAM manager
+MANAGER club Stockport_County_F_._C_. club CLUB SPORTSTEAM manager
+MANAGER club Stockport_County_F_._C_. club CLUB SPORTSTEAM manager
+MANAGER club Stockport_County_F_._C_. club CLUB SPORTSTEAM manager
+SPORTSTEAM fullname FULLNAME numberOfMembers NUMBEROFMEMBERS ground GROUND
+SPORTSTEAM fullname FULLNAME numberOfMembers NUMBEROFMEMBERS ground GROUND
+SPORTSTEAM fullname FULLNAME numberOfMembers NUMBEROFMEMBERS ground GROUND
+LEAGUE champions CHAMPIONS SPORTSTEAM manager MANAGER league
+LEAGUE champions CHAMPIONS SPORTSTEAM manager MANAGER league
+LEAGUE champions CHAMPIONS SPORTSTEAM manager MANAGER league
+MANAGER club Chelsea_F_._C_. club CLUB SPORTSTEAM manager
+MANAGER club Chelsea_F_._C_. club CLUB SPORTSTEAM manager
+MANAGER club Chelsea_F_._C_. club CLUB SPORTSTEAM manager
+Superleague_GROUND champions CHAMPIONS SPORTSTEAM league ground GROUND
+Superleague_GROUND champions CHAMPIONS SPORTSTEAM league ground GROUND
+MANAGER club CLUB club Real_Zaragoza SPORTSTEAM manager
+MANAGER club CLUB club Real_Zaragoza SPORTSTEAM manager
+MANAGER club CLUB club Real_Zaragoza SPORTSTEAM manager
+GROUND part GROUND_-_Centrum leader LEADER SPORTSTEAM ground
+GROUND part GROUND_-_Noord leader LEADER SPORTSTEAM ground
+GROUND part GROUND_-_Noord leader LEADER SPORTSTEAM ground
+MANAGER club Jong_Ajax club CLUB SPORTSTEAM manager
+MANAGER club Jong_Ajax club CLUB SPORTSTEAM manager
+MANAGER club Jong_Ajax club CLUB SPORTSTEAM manager
+LEAGUE country COUNTRY SPORTSTEAM league ground GROUND
+LEAGUE country COUNTRY SPORTSTEAM league ground GROUND
+LEAGUE country COUNTRY SPORTSTEAM league ground GROUND
+MANAGER club CLUB club Udinese_Calcio A_._S_._Roma manager
+MANAGER club CLUB club Udinese_Calcio A_._S_._Roma manager
+MANAGER club CLUB club Udinese_Calcio A_._S_._Roma manager
+MANAGER club S_._S_._Chieti_Calcio club CLUB SPORTSTEAM manager
+MANAGER club S_._S_._Chieti_Calcio club CLUB SPORTSTEAM manager
+MANAGER club S_._S_._Chieti_Calcio club CLUB SPORTSTEAM manager
+MANAGER club U_._S_._Castrovillari_Calcio club CLUB SPORTSTEAM manager
+MANAGER club U_._S_._Castrovillari_Calcio club CLUB SPORTSTEAM manager
+MANAGER club U_._S_._Castrovillari_Calcio club CLUB SPORTSTEAM manager
+MANAGER club U_._S_._Castrovillari_Calcio club CLUB SPORTSTEAM manager
+MANAGER club U_._S_._Castrovillari_Calcio club CLUB SPORTSTEAM manager
+MANAGER club U_._S_._Castrovillari_Calcio club CLUB SPORTSTEAM manager
+BUILDING architect ARCHITECT location LOCATION birthPlace BIRTHPLACE
+BUILDING architect ARCHITECT location LOCATION birthPlace BIRTHPLACE
+BUILDING architect ARCHITECT location LOCATION birthPlace BIRTHPLACE
+BUILDING location LOCATION leaderName LEADERNAME isPartOf ISPARTOF
+BUILDING location LOCATION leaderName LEADERNAME isPartOf ISPARTOF
+BUILDING location LOCATION leaderName LEADERNAME isPartOf ISPARTOF
+BUILDING floorCount FLOORCOUNT floorArea FLOORAREA location LOCATION
+BUILDING floorCount FLOORCOUNT floorArea FLOORAREA location LOCATION
+BUILDING floorCount FLOORCOUNT floorArea FLOORAREA location LOCATION
+BUILDING location LOCATION leaderName LEADERNAME isPartOf ISPARTOF
+BUILDING location LOCATION leaderName LEADERNAME isPartOf ISPARTOF
+BUILDING location LOCATION leaderName LEADERNAME isPartOf ISPARTOF
+BUILDING floorCount FLOORCOUNT architect ARCHITECT country COUNTRY
+BUILDING floorCount FLOORCOUNT architect ARCHITECT country COUNTRY
+BUILDING architect ARCHITECT location LOCATION completionDate COMPLETIONDATE
+BUILDING architect ARCHITECT location LOCATION completionDate COMPLETIONDATE
+BUILDING floorCount FLOORCOUNT tenant TENANT location LOCATION
+BUILDING floorCount FLOORCOUNT tenant TENANT location LOCATION
+BUILDING floorCount FLOORCOUNT tenant TENANT architect ARCHITECT
+BUILDING floorCount FLOORCOUNT tenant TENANT architect ARCHITECT
+BUILDING architect ARCHITECT significantBuilding SIGNIFICANTBUILDING birthPlace BIRTHPLACE
+BUILDING architect ARCHITECT significantBuilding SIGNIFICANTBUILDING birthPlace BIRTHPLACE
+BUILDING owner OWNER architect ARCHITECT completionDate COMPLETIONDATE
+BUILDING owner OWNER architect ARCHITECT completionDate COMPLETIONDATE
+BUILDING owner OWNER architect ARCHITECT completionDate COMPLETIONDATE
+BUILDING architecturalStyle ARCHITECTURALSTYLE location LOCATION completionDate COMPLETIONDATE
+BUILDING architecturalStyle ARCHITECTURALSTYLE location LOCATION completionDate COMPLETIONDATE
+BUILDING architecturalStyle ARCHITECTURALSTYLE location LOCATION completionDate COMPLETIONDATE
+BUILDING architecturalStyle ARCHITECTURALSTYLE location LOCATION completionDate COMPLETIONDATE
+BUILDING architecturalStyle ARCHITECTURALSTYLE location LOCATION completionDate COMPLETIONDATE
+BUILDING country COUNTRY location LOCATION leaderName LEADERNAME
+BUILDING country COUNTRY location LOCATION leaderName LEADERNAME
+BUILDING country COUNTRY currency CURRENCY capital CAPITAL
+BUILDING country COUNTRY currency CURRENCY capital CAPITAL
+CURRENTTENANTS country COUNTRY BUILDING currentTenants buildingStartDate BUILDINGSTARTDATE
+CURRENTTENANTS country COUNTRY BUILDING currentTenants buildingStartDate BUILDINGSTARTDATE
+BUILDING architect ARCHITECT significantBuilding SIGNIFICANTBUILDING birthPlace BIRTHPLACE
+BUILDING architect ARCHITECT significantBuilding SIGNIFICANTBUILDING birthPlace BIRTHPLACE
+BUILDING architect ARCHITECT significantBuilding SIGNIFICANTBUILDING birthPlace BIRTHPLACE
+BUILDING architect ARCHITECT significantBuilding SIGNIFICANTBUILDING birthPlace BIRTHPLACE
+BUILDING architect ARCHITECT significantBuilding SIGNIFICANTBUILDING birthPlace BIRTHPLACE
+BUILDING architect ARCHITECT significantBuilding SIGNIFICANTBUILDING birthPlace BIRTHPLACE
+BUILDING ReferenceNumber_in_the_National_Register_of_Historic_Places REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES location LOCATION added_to_the_National_Register_of_Historic_Places ADDED_TO_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES
+BUILDING ReferenceNumber_in_the_National_Register_of_Historic_Places REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES location LOCATION added_to_the_National_Register_of_Historic_Places ADDED_TO_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES
+BUILDING location LOCATION added_to_the_National_Register_of_Historic_Places ADDED_TO_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES yearOfConstruction YEAROFCONSTRUCTION
+BUILDING location LOCATION added_to_the_National_Register_of_Historic_Places ADDED_TO_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES yearOfConstruction YEAROFCONSTRUCTION
+BUILDING location LOCATION added_to_the_National_Register_of_Historic_Places ADDED_TO_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES yearOfConstruction YEAROFCONSTRUCTION
+BUILDING location LOCATION added_to_the_National_Register_of_Historic_Places ADDED_TO_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES yearOfConstruction YEAROFCONSTRUCTION
+BUILDING location LOCATION added_to_the_National_Register_of_Historic_Places ADDED_TO_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES yearOfConstruction YEAROFCONSTRUCTION
+BUILDING location LOCATION added_to_the_National_Register_of_Historic_Places ADDED_TO_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES yearOfConstruction YEAROFCONSTRUCTION
+HOMETOWN leaderName LEADERNAME BUILDING architect ARCHITECT hometown
+BIRTHPLACE leaderName LEADERNAME BUILDING architect ARCHITECT birthPlace
+BIRTHPLACE leaderName LEADERNAME BUILDING architect ARCHITECT birthPlace
+BIRTHPLACE leaderName LEADERNAME BUILDING architect ARCHITECT birthPlace
+BUILDING location LOCATION COUNTRY leaderName LEADERNAME country
+BUILDING location LOCATION COUNTRY leaderName LEADERNAME country
+BUILDING location Ahmedabad location LOCATION leaderName LEADERNAME
+BUILDING location Ahmedabad location LOCATION leaderName LEADERNAME
+BUILDING location Ahmedabad location LOCATION leaderName LEADERNAME
+TENANT keyPerson KEYPERSON location LOCATION BUILDING tenant
+TENANT keyPerson KEYPERSON location LOCATION BUILDING tenant
+CITY country COUNTRY isPartOf ISPARTOF ethnicGroup ETHNICGROUP
+CITY country COUNTRY isPartOf ISPARTOF ethnicGroup ETHNICGROUP
+CITY country COUNTRY isPartOf ISPARTOF ethnicGroup ETHNICGROUP
+CITY areaTotal AREATOTAL populationDensity POPULATIONDENSITY leaderTitle LEADERTITLE
+CITY areaTotal AREATOTAL populationDensity POPULATIONDENSITY leaderTitle LEADERTITLE
+CITY country COUNTRY isPartOf ISPARTOF ethnicGroup ETHNICGROUP
+CITY country COUNTRY isPartOf ISPARTOF ethnicGroup ETHNICGROUP
+CITY country COUNTRY isPartOf ISPARTOF ethnicGroup ETHNICGROUP
+CITY country COUNTRY isPartOf ISPARTOF ethnicGroup ETHNICGROUP
+CITY country COUNTRY isPartOf ISPARTOF ethnicGroup ETHNICGROUP
+CITY country COUNTRY isPartOf ISPARTOF ethnicGroup ETHNICGROUP
+CITY country COUNTRY capital CAPITAL ethnicGroup ETHNICGROUP
+CITY country COUNTRY capital CAPITAL ethnicGroup ETHNICGROUP
+CITY country COUNTRY capital CAPITAL ethnicGroup ETHNICGROUP
+CITY UTCOffset UTCOFFSET areaCode AREACODE areaTotal AREATOTAL
+CITY UTCOffset UTCOFFSET areaCode AREACODE areaTotal AREATOTAL
+CITY UTCOffset UTCOFFSET areaCode AREACODE areaTotal AREATOTAL
+CITY leaderTitle ISPARTOF_State_Senate isPartOf ISPARTOF location ISPARTOF_State_Capitol
+CITY leaderTitle ISPARTOF_State_Senate isPartOf ISPARTOF location ISPARTOF_State_Capitol
+CITY leaderTitle ISPARTOF_State_Senate isPartOf ISPARTOF location ISPARTOF_State_Capitol
+CITY isPartOf Lafayette_Township_,_Madison_County_,_ISPARTOF isPartOf ISPARTOF country COUNTRY
+CITY isPartOf Lafayette_Township_,_Madison_County_,_ISPARTOF isPartOf ISPARTOF country COUNTRY
+CITY isPartOf Lafayette_Township_,_Madison_County_,_ISPARTOF isPartOf ISPARTOF country COUNTRY
+CITY country COUNTRY isPartOf ISPARTOF ethnicGroup ETHNICGROUP
+CITY country COUNTRY isPartOf ISPARTOF ethnicGroup ETHNICGROUP
+CITY country COUNTRY isPartOf ISPARTOF ethnicGroup ETHNICGROUP
+CITY isPartOf Contra_Costa_County_,_California leaderTitle LEADERTITLE isPartOf ISPARTOF
+CITY isPartOf Contra_Costa_County_,_California leaderTitle LEADERTITLE isPartOf ISPARTOF
+CITY isPartOf Contra_Costa_County_,_California leaderTitle LEADERTITLE isPartOf ISPARTOF
+CITY isPartOf ISPARTOF countySeat COUNTYSEAT country COUNTRY
+CITY isPartOf ISPARTOF countySeat COUNTYSEAT country COUNTRY
+CITY isPartOf ISPARTOF countySeat COUNTYSEAT country COUNTRY
+CITY country COUNTRY capital CAPITAL ethnicGroup ETHNICGROUP
+CITY country COUNTRY capital CAPITAL ethnicGroup ETHNICGROUP
+CITY country COUNTRY capital CAPITAL ethnicGroup ETHNICGROUP
+CITY areaCode AREACODE areaTotal AREATOTAL populationDensity POPULATIONDENSITY
+CITY areaCode AREACODE areaTotal AREATOTAL populationDensity POPULATIONDENSITY
+CITY areaCode AREACODE areaTotal AREATOTAL populationDensity POPULATIONDENSITY
+CITY country COUNTRY isPartOf ISPARTOF largestCity Newark_,_ISPARTOF
+CITY country COUNTRY isPartOf ISPARTOF largestCity Newark_,_ISPARTOF
+CITY country COUNTRY isPartOf ISPARTOF largestCity Newark_,_ISPARTOF
+CITY isPartOf ISPARTOF COUNTRY largestCity LARGESTCITY country
+CITY isPartOf ISPARTOF COUNTRY largestCity LARGESTCITY country
+CITY isPartOf Lee_County_,_ISPARTOF isPartOf ISPARTOF country COUNTRY
+CITY isPartOf Lee_County_,_ISPARTOF isPartOf ISPARTOF country COUNTRY
+CITY isPartOf Lee_County_,_ISPARTOF isPartOf ISPARTOF country COUNTRY
+CITY isPartOf ISPARTOF COUNTRY capital CAPITAL country
+CITY isPartOf ISPARTOF COUNTRY capital CAPITAL country
+CITY isPartOf ISPARTOF COUNTRY capital CAPITAL country
+CITY isPartOf ISPARTOF country COUNTRY capital CAPITAL
+CITY isPartOf ISPARTOF country COUNTRY capital CAPITAL
+CITY isPartOf ISPARTOF country COUNTRY capital CAPITAL
+Georgia_(_U_._S_._state_) capital CAPITAL CITY isPartOf isPartOf ISPARTOF
+Georgia_(_U_._S_._state_) capital CAPITAL CITY isPartOf isPartOf ISPARTOF
+Alexandria_,_Indiana isPartOf ISPARTOF largestCity CITY country COUNTRY
+Alexandria_,_Indiana isPartOf ISPARTOF largestCity CITY country COUNTRY
+CITY isPartOf ISPARTOF country COUNTRY capital CAPITAL
+CITY isPartOf ISPARTOF country COUNTRY capital CAPITAL
+CITY isPartOf ISPARTOF country COUNTRY capital CAPITAL
+CITY isPartOf ISPARTOF language LANGUAGE largestCity LARGESTCITY
+CITY isPartOf ISPARTOF language LANGUAGE largestCity LARGESTCITY
+CITY isPartOf ISPARTOF language LANGUAGE largestCity LARGESTCITY
+CITY country COUNTRY isPartOf ISPARTOF capital CAPITAL
+CITY country COUNTRY isPartOf ISPARTOF capital CAPITAL
+CITY country COUNTRY isPartOf ISPARTOF capital CAPITAL
+CITY isPartOf ISPARTOF COUNTRY capital CAPITAL country
+CITY isPartOf ISPARTOF COUNTRY capital CAPITAL country
+CITY isPartOf ISPARTOF COUNTRY capital CAPITAL country
+CITY country COUNTRY language LANGUAGE capital CAPITAL
+CITY country COUNTRY language LANGUAGE capital CAPITAL
+CITY country COUNTRY isPartOf ISPARTOF ethnicGroup ETHNICGROUP
+CITY country COUNTRY isPartOf ISPARTOF ethnicGroup ETHNICGROUP
+CITY country COUNTRY isPartOf ISPARTOF ethnicGroup ETHNICGROUP
+CITY country COUNTRY isPartOf ISPARTOF ethnicGroup ETHNICGROUP
+CITY country COUNTRY isPartOf ISPARTOF ethnicGroup ETHNICGROUP
+CITY country COUNTRY isPartOf ISPARTOF ethnicGroup ETHNICGROUP
+CITY country COUNTRY leader LEADER ethnicGroup ETHNICGROUP
+CITY country COUNTRY leader LEADER ethnicGroup ETHNICGROUP
+CITY country COUNTRY leader LEADER ethnicGroup ETHNICGROUP
+CITY country COUNTRY language LANGUAGE ethnicGroup ETHNICGROUP
+CITY country COUNTRY language LANGUAGE ethnicGroup ETHNICGROUP
+CITY country COUNTRY language LANGUAGE ethnicGroup ETHNICGROUP
+CITY country COUNTRY language LANGUAGE ethnicGroup ETHNICGROUP
+CITY country COUNTRY language LANGUAGE ethnicGroup ETHNICGROUP
+CITY country COUNTRY language LANGUAGE ethnicGroup ETHNICGROUP
+AIRPORT runwayName RUNWAYNAME operatingOrganisation OPERATINGORGANISATION runwayLength RUNWAYLENGTH
+AIRPORT runwayName RUNWAYNAME operatingOrganisation OPERATINGORGANISATION runwayLength RUNWAYLENGTH
+AIRPORT cityServed CITYSERVED runwayLength RUNWAYLENGTH cityServed Lake_Placid_,_New_York
+AIRPORT cityServed CITYSERVED runwayLength RUNWAYLENGTH cityServed Lake_Placid_,_New_York
+AIRPORT cityServed CITYSERVED runwayLength RUNWAYLENGTH cityServed Lake_Placid_,_New_York
+LOCATION country COUNTRY isPartOf ISPARTOF AIRPORT location
+LOCATION country COUNTRY isPartOf ISPARTOF AIRPORT location
+AIRPORT ICAO_Location_Identifier ICAO_LOCATION_IDENTIFIER operatingOrganisation OPERATINGORGANISATION location LOCATION
+AIRPORT ICAO_Location_Identifier ICAO_LOCATION_IDENTIFIER operatingOrganisation OPERATINGORGANISATION location LOCATION
+AIRPORT ICAO_Location_Identifier ICAO_LOCATION_IDENTIFIER operatingOrganisation OPERATINGORGANISATION location LOCATION
+AIRPORT operatingOrganisation OPERATINGORGANISATION location LOCATION runwayLength RUNWAYLENGTH
+AIRPORT operatingOrganisation OPERATINGORGANISATION location LOCATION runwayLength RUNWAYLENGTH
+AIRPORT operatingOrganisation OPERATINGORGANISATION location LOCATION runwayLength RUNWAYLENGTH
+OPERATINGORGANISATION aircraftFighter AIRCRAFTFIGHTER battles BATTLES AIRPORT operatingOrganisation
+OPERATINGORGANISATION aircraftFighter AIRCRAFTFIGHTER battles BATTLES AIRPORT operatingOrganisation
+OPERATINGORGANISATION aircraftFighter AIRCRAFTFIGHTER battles BATTLES AIRPORT operatingOrganisation
+OPERATINGORGANISATION aircraftFighter AIRCRAFTFIGHTER battles BATTLES AIRPORT operatingOrganisation
+AIRPORT cityServed CITYSERVED 1st_runway_SurfaceType 1ST_RUNWAY_SURFACETYPE runwayLength RUNWAYLENGTH
+LOCATION_Civil_Aviation_Authority headquarter HEADQUARTER AIRPORT operatingOrganisation location LOCATION
+LOCATION_Civil_Aviation_Authority headquarter HEADQUARTER AIRPORT operatingOrganisation location LOCATION
+LOCATION_Civil_Aviation_Authority headquarter HEADQUARTER AIRPORT operatingOrganisation location LOCATION
+AIRPORT runwayName RUNWAYNAME location LOCATION runwayLength RUNWAYLENGTH
+AIRPORT runwayName RUNWAYNAME location LOCATION runwayLength RUNWAYLENGTH
+AIRPORT runwayName RUNWAYNAME location LOCATION runwayLength RUNWAYLENGTH
+LOCATION country COUNTRY AIRPORT elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) location
+LOCATION country COUNTRY AIRPORT elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) location
+LOCATION country COUNTRY AIRPORT elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) location
+AIRPORT elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) location LOCATION runwayLength RUNWAYLENGTH
+AIRPORT elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) location LOCATION runwayLength RUNWAYLENGTH
+AIRPORT elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) location LOCATION runwayLength RUNWAYLENGTH
+AIRPORT elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) location LOCATION runwayLength RUNWAYLENGTH
+AIRPORT elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) location LOCATION runwayLength RUNWAYLENGTH
+AIRPORT elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) location LOCATION runwayLength RUNWAYLENGTH
+LOCATION language LANGUAGE capital CAPITAL AIRPORT location
+LOCATION language LANGUAGE capital CAPITAL AIRPORT location
+LOCATION demonym DEMONYM country COUNTRY AIRPORT location
+LOCATION demonym DEMONYM country COUNTRY AIRPORT location
+LOCATION demonym DEMONYM country COUNTRY AIRPORT location
+CITYSERVED country COUNTRY language LANGUAGE AIRPORT cityServed
+CITYSERVED country COUNTRY language LANGUAGE AIRPORT cityServed
+CITYSERVED country COUNTRY language LANGUAGE AIRPORT cityServed
+LOCATION country COUNTRY isPartOf ISPARTOF AIRPORT location
+LOCATION country COUNTRY isPartOf ISPARTOF AIRPORT location
+OPERATINGORGANISATION headquarter HEADQUARTER regionServed REGIONSERVED AIRPORT operatingOrganisation
+OPERATINGORGANISATION headquarter HEADQUARTER regionServed REGIONSERVED AIRPORT operatingOrganisation
+OPERATINGORGANISATION headquarter HEADQUARTER regionServed REGIONSERVED AIRPORT operatingOrganisation
+LOCATION country COUNTRY AIRPORT runwayLength RUNWAYLENGTH location
+LOCATION country COUNTRY AIRPORT runwayLength RUNWAYLENGTH location
+LOCATION country COUNTRY AIRPORT runwayLength RUNWAYLENGTH location
+CITYSERVED country COUNTRY leaderName LEADERNAME AIRPORT cityServed
+CITYSERVED country COUNTRY leaderName LEADERNAME AIRPORT cityServed
+AIRPORT location LOCATION leaderParty LEADERPARTY isPartOf ISPARTOF
+AIRPORT location LOCATION leaderParty LEADERPARTY isPartOf ISPARTOF
+AIRPORT location LOCATION country COUNTRY leaderParty LEADERPARTY
+AIRPORT location LOCATION country COUNTRY leaderParty LEADERPARTY
+AIRPORT location LOCATION country COUNTRY leaderParty LEADERPARTY
+AIRPORT location LOCATION country COUNTRY leaderParty People_'_s_Party_(_COUNTRY_)
+AIRPORT location LOCATION country COUNTRY leaderParty People_'_s_Party_(_COUNTRY_)
+AIRPORT location LOCATION country COUNTRY leaderParty People_'_s_Party_(_COUNTRY_)
+MONUMENT country COUNTRY location LOCATION has_to_its_southeast HAS_TO_ITS_SOUTHEAST
+MONUMENT municipality MUNICIPALITY location LOCATION has_to_its_southeast HAS_TO_ITS_SOUTHEAST
+MONUMENT municipality MUNICIPALITY location LOCATION has_to_its_southeast HAS_TO_ITS_SOUTHEAST
+MONUMENT location LOCATION nativeName NATIVENAME capital CAPITAL
+MONUMENT location LOCATION legislature LEGISLATURE leader LEADER
+MONUMENT location LOCATION legislature LEGISLATURE leader LEADER
+MONUMENT location LOCATION legislature LEGISLATURE leader LEADER
+MONUMENT location LOCATION capital CAPITAL leaderName LEADERNAME
+MONUMENT location LOCATION capital CAPITAL leaderName LEADERNAME
+MONUMENT location LOCATION capital CAPITAL leaderName LEADERNAME
+FOOD ingredient INGREDIENT country COUNTRY region REGION
+FOOD ingredient INGREDIENT country COUNTRY region REGION
+FOOD ingredient INGREDIENT country COUNTRY region REGION
+FOOD ingredient INGREDIENT region REGION mainIngredients MAININGREDIENTS
+FOOD ingredient INGREDIENT region REGION mainIngredients MAININGREDIENTS
+FOOD ingredient INGREDIENT division DIVISION family FAMILY
+FOOD ingredient INGREDIENT division DIVISION family FAMILY
+FOOD ingredient INGREDIENT division DIVISION family FAMILY
+FOOD ingredient INGREDIENT country COUNTRY region REGION
+FOOD ingredient INGREDIENT country COUNTRY region REGION
+FOOD ingredient INGREDIENT country COUNTRY region REGION
+FOOD ingredient INGREDIENT country COUNTRY region REGION
+FOOD ingredient INGREDIENT country COUNTRY region REGION
+FOOD country COUNTRY mainIngredients MAININGREDIENTS region REGION
+FOOD country COUNTRY mainIngredients MAININGREDIENTS region REGION
+FOOD country COUNTRY mainIngredients MAININGREDIENTS region REGION
+FOOD country COUNTRY leaderName LEADERNAME capital CAPITAL
+FOOD country COUNTRY leaderName LEADERNAME capital CAPITAL
+FOOD country COUNTRY leaderName LEADERNAME capital CAPITAL
+FOOD country COUNTRY region REGION ethnicGroup ETHNICGROUP
+FOOD country COUNTRY region REGION ethnicGroup ETHNICGROUP
+DISHVARIATION ingredient INGREDIENT dishVariation Club_sandwich FOOD dishVariation
+DISHVARIATION ingredient INGREDIENT dishVariation Club_sandwich FOOD dishVariation
+FOOD country COUNTRY ethnicGroup ETHNICGROUP leaderName LEADERNAME
+FOOD country COUNTRY ethnicGroup ETHNICGROUP leaderName LEADERNAME
+FOOD country COUNTRY capital CAPITAL leaderName LEADERNAME
+BLT dishVariation DISHVARIATION FOOD dishVariation ingredient INGREDIENT
+BLT dishVariation DISHVARIATION FOOD dishVariation ingredient INGREDIENT
+BLT dishVariation DISHVARIATION FOOD dishVariation ingredient INGREDIENT
+FOOD ingredient INGREDIENT country COUNTRY region REGION
+FOOD ingredient INGREDIENT country COUNTRY region REGION
+FOOD ingredient INGREDIENT country COUNTRY region REGION
+FOOD country COUNTRY currency CURRENCY leaderName LEADERNAME
+FOOD country COUNTRY currency CURRENCY leaderName LEADERNAME
+FOOD ingredient INGREDIENT country COUNTRY region REGION
+FOOD ingredient INGREDIENT country COUNTRY region REGION
+FOOD ingredient INGREDIENT country COUNTRY region REGION
+COURSE dishVariation DISHVARIATION FOOD course ingredient INGREDIENT
+COURSE dishVariation DISHVARIATION FOOD course ingredient INGREDIENT
+COURSE dishVariation DISHVARIATION FOOD course ingredient INGREDIENT
+FOOD course COURSE region REGION mainIngredients MAININGREDIENTS
+FOOD course COURSE region REGION mainIngredients MAININGREDIENTS
+FOOD course COURSE region REGION mainIngredients MAININGREDIENTS
+FOOD dishVariation DISHVARIATION region REGION mainIngredients MAININGREDIENTS
+FOOD dishVariation DISHVARIATION region REGION mainIngredients MAININGREDIENTS
+FOOD dishVariation DISHVARIATION region REGION mainIngredients MAININGREDIENTS
+FOOD ingredient INGREDIENT region COUNTRY country
+FOOD ingredient INGREDIENT region COUNTRY country
+FOOD ingredient INGREDIENT region COUNTRY country
+FOOD ingredient INGREDIENT country COUNTRY region REGION
+FOOD ingredient INGREDIENT country COUNTRY region REGION
+FOOD ingredient INGREDIENT country COUNTRY region REGION
+FOOD ingredient INGREDIENT country COUNTRY region REGION
+FOOD ingredient INGREDIENT country COUNTRY region REGION
+FOOD ingredient INGREDIENT country COUNTRY region REGION
+FOOD country COUNTRY leaderName Claude_Bartolone leaderName LEADERNAME
+FOOD country COUNTRY leaderName Claude_Bartolone leaderName LEADERNAME
+FOOD country COUNTRY leaderName Claude_Bartolone leaderName LEADERNAME
+FOOD ingredient INGREDIENT country COUNTRY mainIngredients MAININGREDIENTS
+FOOD ingredient INGREDIENT country COUNTRY mainIngredients MAININGREDIENTS
+FOOD ingredient INGREDIENT country COUNTRY mainIngredients MAININGREDIENTS
+FOOD ingredient INGREDIENT country COUNTRY mainIngredients MAININGREDIENTS
+FOOD ingredient INGREDIENT country COUNTRY mainIngredients MAININGREDIENTS
+FOOD ingredient INGREDIENT country COUNTRY mainIngredients MAININGREDIENTS
+FOOD country COUNTRY region Nationwide_in_COUNTRY_and_Indonesia leaderName LEADERNAME
+FOOD country COUNTRY region Nationwide_in_COUNTRY_and_Indonesia leaderName LEADERNAME
+FOOD ingredient INGREDIENT country COUNTRY region REGION
+FOOD ingredient INGREDIENT country COUNTRY region REGION
+FOOD ingredient INGREDIENT country COUNTRY region REGION
+FOOD ingredient INGREDIENT country COUNTRY region REGION
+FOOD ingredient INGREDIENT country COUNTRY region REGION
+FOOD country COUNTRY currency CURRENCY leaderName LEADERNAME
+COURSE dishVariation DISHVARIATION FOOD course ingredient INGREDIENT
+COURSE dishVariation DISHVARIATION FOOD course ingredient INGREDIENT
+COURSE dishVariation DISHVARIATION FOOD course ingredient INGREDIENT
+COURSE dishVariation DISHVARIATION FOOD course ingredient INGREDIENT
+COURSE dishVariation DISHVARIATION FOOD course ingredient INGREDIENT
+COURSE dishVariation DISHVARIATION FOOD course ingredient INGREDIENT
+COURSE dishVariation DISHVARIATION FOOD course ingredient INGREDIENT
+COURSE dishVariation DISHVARIATION FOOD course ingredient INGREDIENT
+COURSE dishVariation DISHVARIATION FOOD course ingredient INGREDIENT
+FOOD ingredient INGREDIENT mainIngredients MAININGREDIENTS order ORDER
+FOOD ingredient INGREDIENT mainIngredients MAININGREDIENTS order ORDER
+FOOD ingredient INGREDIENT mainIngredients MAININGREDIENTS order ORDER
+FOOD course COURSE ingredient INGREDIENT country COUNTRY
+FOOD course COURSE ingredient INGREDIENT country COUNTRY
+FOOD ingredient INGREDIENT country COUNTRY region REGION
+FOOD ingredient INGREDIENT country COUNTRY region REGION
+FOOD ingredient INGREDIENT country COUNTRY region REGION
+FOOD country COUNTRY currency CURRENCY leaderName LEADERNAME
+FOOD country COUNTRY currency CURRENCY leaderName LEADERNAME
+FOOD country COUNTRY currency CURRENCY leaderName LEADERNAME
+FOOD country COUNTRY leaderName LEADERNAME capital CAPITAL
+FOOD country COUNTRY leaderName LEADERNAME capital CAPITAL
+FOOD country COUNTRY language LANGUAGE ethnicGroup ETHNICGROUP
+FOOD country COUNTRY language LANGUAGE ethnicGroup ETHNICGROUP
+FOOD country COUNTRY language LANGUAGE ethnicGroup ETHNICGROUP
+FOOD country COUNTRY language LANGUAGE leaderName LEADERNAME
+FOOD country COUNTRY language LANGUAGE leaderName LEADERNAME
+FOOD country COUNTRY language LANGUAGE leaderName LEADERNAME
+INGREDIENT order ORDER family FAMILY FOOD ingredient
+INGREDIENT order ORDER family FAMILY FOOD ingredient
+INGREDIENT order ORDER family FAMILY FOOD ingredient
+UNIVERSITY state STATE academicStaffSize ACADEMICSTAFFSIZE country COUNTRY
+UNIVERSITY state STATE academicStaffSize ACADEMICSTAFFSIZE country COUNTRY
+UNIVERSITY state STATE academicStaffSize ACADEMICSTAFFSIZE country COUNTRY
+UNIVERSITY city CITY affiliation AFFILIATION numberOfPostgraduateStudents NUMBEROFPOSTGRADUATESTUDENTS
+UNIVERSITY city CITY affiliation AFFILIATION numberOfPostgraduateStudents NUMBEROFPOSTGRADUATESTUDENTS
+UNIVERSITY state STATE leaderName LEADERNAME has_to_its_northwest HAS_TO_ITS_NORTHWEST
+UNIVERSITY state STATE leaderName LEADERNAME has_to_its_northwest HAS_TO_ITS_NORTHWEST
+UNIVERSITY state STATE leaderName LEADERNAME has_to_its_northwest HAS_TO_ITS_NORTHWEST
+UNIVERSITY country COUNTRY ethnicGroup Germans_of_COUNTRY anthem ANTHEM
+UNIVERSITY country COUNTRY ethnicGroup Germans_of_COUNTRY anthem ANTHEM
+UNIVERSITY country COUNTRY ethnicGroup Germans_of_COUNTRY anthem ANTHEM
+UNIVERSITY country COUNTRY leaderName LEADERNAME ethnicGroup Germans_of_COUNTRY
+UNIVERSITY country COUNTRY leaderName LEADERNAME ethnicGroup Germans_of_COUNTRY
+UNIVERSITY established ESTABLISHED affiliation AFFILIATION headquarters HEADQUARTERS
+UNIVERSITY established ESTABLISHED affiliation AFFILIATION headquarters HEADQUARTERS
+UNIVERSITY city CITY established ESTABLISHED country COUNTRY
+UNIVERSITY city CITY established ESTABLISHED country COUNTRY
+COMICSCHARACTER creator CREATOR creator René_Goscinny nationality NATIONALITY
+COMICSCHARACTER creator CREATOR creator René_Goscinny nationality NATIONALITY
+COMICSCHARACTER creator CREATOR creator René_Goscinny nationality NATIONALITY
+COMICSCHARACTER lastAired LASTAIRED broadcastedBy BROADCASTEDBY starring STARRING
+COMICSCHARACTER lastAired LASTAIRED broadcastedBy BROADCASTEDBY starring STARRING
+COMICSCHARACTER lastAired LASTAIRED broadcastedBy BROADCASTEDBY starring STARRING
+COMICSCHARACTER firstAppearanceInFilm FIRSTAPPEARANCEINFILM distributor DISTRIBUTOR starring STARRING
+COMICSCHARACTER firstAppearanceInFilm FIRSTAPPEARANCEINFILM distributor DISTRIBUTOR starring STARRING
+COMICSCHARACTER firstAppearanceInFilm FIRSTAPPEARANCEINFILM distributor DISTRIBUTOR starring STARRING
+COMICSCHARACTER series SERIES distributor DISTRIBUTOR starring STARRING
+COMICSCHARACTER series SERIES distributor DISTRIBUTOR starring STARRING
+COMICSCHARACTER series SERIES distributor DISTRIBUTOR starring STARRING
+COMICSCHARACTER series SERIES distributor DISTRIBUTOR starring STARRING
+COMICSCHARACTER series SERIES distributor DISTRIBUTOR starring STARRING
+COMICSCHARACTER series SERIES distributor DISTRIBUTOR starring STARRING
+COMICSCHARACTER creator CREATOR alternativeName ALTERNATIVENAME creator Gardner_Fox
+COMICSCHARACTER creator CREATOR alternativeName ALTERNATIVENAME creator Gardner_Fox
+COMICSCHARACTER creator CREATOR alternativeName ALTERNATIVENAME creator Dan_Mishkin
+COMICSCHARACTER creator CREATOR alternativeName ALTERNATIVENAME creator Dan_Mishkin
+COMICSCHARACTER creator CREATOR alternativeName ALTERNATIVENAME creator Dan_Mishkin
+COMICSCHARACTER creator CREATOR alternativeName ALTERNATIVENAME creator Ernie_Colón
+COMICSCHARACTER creator CREATOR alternativeName ALTERNATIVENAME creator Ernie_Colón
+COMICSCHARACTER creator CREATOR alternativeName ALTERNATIVENAME creator Ernie_Colón
+BUILDING floorCount FLOORCOUNT buildingStartDate BUILDINGSTARTDATE location LOCATION completionDate COMPLETIONDATE
+BUILDING location LOCATION ethnicGroup Asian_South_Africans ethnicGroup ETHNICGROUP capital CAPITAL
+BUILDING location LOCATION country COUNTRY governingBody GOVERNINGBODY isPartOf ISPARTOF
+BUILDING location LOCATION country COUNTRY governingBody GOVERNINGBODY isPartOf ISPARTOF
+BUILDING floorCount FLOORCOUNT floorArea FLOORAREA location LOCATION cost COST
+BUILDING floorCount FLOORCOUNT floorArea FLOORAREA location LOCATION cost COST
+BUILDING location LOCATION country COUNTRY leaderName LEADERNAME isPartOf ISPARTOF
+BUILDING location LOCATION country COUNTRY leaderName LEADERNAME isPartOf ISPARTOF
+BUILDING location LOCATION country COUNTRY leaderName LEADERNAME isPartOf ISPARTOF
+BUILDING floorCount FLOORCOUNT floorArea FLOORAREA location LOCATION completionDate COMPLETIONDATE
+BUILDING floorCount FLOORCOUNT floorArea FLOORAREA location LOCATION completionDate COMPLETIONDATE
+BUILDING floorCount FLOORCOUNT floorArea FLOORAREA location LOCATION completionDate COMPLETIONDATE
+BUILDING owner OWNER location LOCATION isPartOf Republic_of_Ireland isPartOf ISPARTOF
+BUILDING owner OWNER location LOCATION isPartOf Republic_of_Ireland isPartOf ISPARTOF
+BUILDING floorCount FLOORCOUNT tenant TENANT architect ARCHITECT location LOCATION
+BUILDING floorCount FLOORCOUNT tenant TENANT architect ARCHITECT location LOCATION
+BUILDING location Adare location LOCATION governmentType GOVERNMENTTYPE isPartOf ISPARTOF
+BUILDING location Adare location LOCATION governmentType GOVERNMENTTYPE isPartOf ISPARTOF
+BUILDING location Adare location LOCATION governmentType GOVERNMENTTYPE isPartOf ISPARTOF
+BUILDING country COUNTRY location LOCATION ethnicGroup Brazilians_in_COUNTRY isPartOf ISPARTOF
+BUILDING country COUNTRY location LOCATION ethnicGroup Brazilians_in_COUNTRY isPartOf ISPARTOF
+BUILDING country COUNTRY location LOCATION ethnicGroup Brazilians_in_COUNTRY isPartOf ISPARTOF
+BUILDING country COUNTRY location LOCATION ethnicGroup Filipinos_in_COUNTRY isPartOf ISPARTOF
+BUILDING country COUNTRY location LOCATION ethnicGroup Filipinos_in_COUNTRY isPartOf ISPARTOF
+BUILDING country COUNTRY location LOCATION ethnicGroup Filipinos_in_COUNTRY isPartOf ISPARTOF
+BUILDING location Akita_Prefecture country COUNTRY location LOCATION ethnicGroup Vietnamese_people_in_COUNTRY
+BUILDING location Akita_Prefecture country COUNTRY location LOCATION ethnicGroup Vietnamese_people_in_COUNTRY
+BUILDING location Akita_Prefecture country COUNTRY location LOCATION ethnicGroup Vietnamese_people_in_COUNTRY
+BUILDING location Akita_Prefecture country COUNTRY location LOCATION ethnicGroup Brazilians_in_COUNTRY
+BUILDING location Akita_Prefecture country COUNTRY location LOCATION ethnicGroup Brazilians_in_COUNTRY
+BUILDING address ADDRESS owner OWNER location LOCATION completionDate COMPLETIONDATE
+BUILDING address ADDRESS owner OWNER location LOCATION completionDate COMPLETIONDATE
+BUILDING address ADDRESS owner OWNER location LOCATION completionDate COMPLETIONDATE
+BUILDING country COUNTRY location LOCATION leaderName Narendra_Modi leaderName LEADERNAME
+BUILDING country COUNTRY location LOCATION leaderName Narendra_Modi leaderName LEADERNAME
+BUILDING ReferenceNumber_in_the_National_Register_of_Historic_Places REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES yearOfConstruction YEAROFCONSTRUCTION location LOCATION added_to_the_National_Register_of_Historic_Places ADDED_TO_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES
+BUILDING ReferenceNumber_in_the_National_Register_of_Historic_Places REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES yearOfConstruction YEAROFCONSTRUCTION location LOCATION added_to_the_National_Register_of_Historic_Places ADDED_TO_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES
+BUILDING ReferenceNumber_in_the_National_Register_of_Historic_Places REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES yearOfConstruction YEAROFCONSTRUCTION location LOCATION added_to_the_National_Register_of_Historic_Places ADDED_TO_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES
+BUILDING ReferenceNumber_in_the_National_Register_of_Historic_Places REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES location LOCATION added_to_the_National_Register_of_Historic_Places ADDED_TO_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES yearOfConstruction YEAROFCONSTRUCTION
+BUILDING ReferenceNumber_in_the_National_Register_of_Historic_Places REFERENCENUMBER_IN_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES location LOCATION added_to_the_National_Register_of_Historic_Places ADDED_TO_THE_NATIONAL_REGISTER_OF_HISTORIC_PLACES yearOfConstruction YEAROFCONSTRUCTION
+Manhattan leaderName LEADERNAME BUILDING location LOCATION isPartOf isPartOf ISPARTOF
+Manhattan leaderName LEADERNAME BUILDING location LOCATION isPartOf isPartOf ISPARTOF
+Manhattan leaderName LEADERNAME BUILDING location LOCATION isPartOf isPartOf ISPARTOF
+BUILDING location LOCATION country COUNTRY isPartOf ISPARTOF leaderName LEADERNAME
+BUILDING location LOCATION country COUNTRY isPartOf ISPARTOF leaderName LEADERNAME
+ARCHITECT birthPlace BIRTHPLACE postalCode POSTALCODE leaderName LEADERNAME BUILDING architect
+ARCHITECT birthPlace BIRTHPLACE postalCode POSTALCODE leaderName LEADERNAME BUILDING architect
+ARCHITECT birthPlace BIRTHPLACE postalCode POSTALCODE leaderName LEADERNAME BUILDING architect
+ARCHITECT birthPlace BIRTHPLACE postalCode POSTALCODE leaderName LEADERNAME BUILDING architect
+BUILDING country COUNTRY location LOCATION leaderName LEADERNAME leaderName Anandiben_Patel
+BUILDING country COUNTRY location LOCATION leaderName LEADERNAME leaderName Anandiben_Patel
+BUILDING country COUNTRY location LOCATION leaderName T_._S_._Thakur leaderName LEADERNAME
+BUILDING country COUNTRY location LOCATION leaderName T_._S_._Thakur leaderName LEADERNAME
+Akita_Prefecture country COUNTRY ethnicGroup Brazilians_in_COUNTRY BUILDING location location LOCATION
+Akita_Prefecture country COUNTRY ethnicGroup Brazilians_in_COUNTRY BUILDING location location LOCATION
+Akita_Prefecture country COUNTRY ethnicGroup Brazilians_in_COUNTRY BUILDING location location LOCATION
+BUILDING location LOCATION CAPITAL leaderTitle LEADERTITLE leaderName LEADERNAME capital
+BUILDING location LOCATION CAPITAL leaderTitle LEADERTITLE leaderName LEADERNAME capital
+BUILDING location LOCATION CAPITAL leaderTitle LEADERTITLE leaderName LEADERNAME capital
+BUILDING location LOCATION language LANGUAGE leaderName LEADERNAME leaderTitle LEADERTITLE
+BUILDING location LOCATION language LANGUAGE leaderName LEADERNAME leaderTitle LEADERTITLE
+MONUMENT established ESTABLISHED state STATE country COUNTRY category CATEGORY
+MONUMENT established ESTABLISHED state STATE country COUNTRY category CATEGORY
+MONUMENT established ESTABLISHED state STATE country COUNTRY category CATEGORY
+MONUMENT location LOCATION leaderName LEADERNAME leaderTitle LEADERTITLE capital CAPITAL
+MONUMENT location LOCATION leaderName LEADERNAME leaderTitle LEADERTITLE capital CAPITAL
+MONUMENT location LOCATION leaderName LEADERNAME leaderTitle LEADERTITLE capital CAPITAL
+MONUMENT dedicatedTo Ottoman_Army_soldiers_killed_in_the_Battle_of_CAPITAL location LOCATION nativeName NATIVENAME capital CAPITAL
+MONUMENT dedicatedTo Ottoman_Army_soldiers_killed_in_the_Battle_of_CAPITAL location LOCATION nativeName NATIVENAME capital CAPITAL
+DISTRICT nearestCity NEARESTCITY location LOCATION MONUMENT established ESTABLISHED district
+DISTRICT nearestCity NEARESTCITY location LOCATION MONUMENT established ESTABLISHED district
+MONUMENT material MATERIAL location LOCATION capital CAPITAL leaderName LEADERNAME
+MONUMENT material MATERIAL location LOCATION capital CAPITAL leaderName LEADERNAME
+MONUMENT material MATERIAL location LOCATION capital CAPITAL leaderName LEADERNAME
+MONUMENT designer DESIGNER location LOCATION inaugurationDate INAUGURATIONDATE leaderTitle LEADERTITLE
+MONUMENT designer DESIGNER location LOCATION inaugurationDate INAUGURATIONDATE leaderTitle LEADERTITLE
+MONUMENT designer DESIGNER location LOCATION inaugurationDate INAUGURATIONDATE leaderTitle LEADERTITLE
+CITY country COUNTRY isPartOf ISPARTOF language LANGUAGE ethnicGroup Native_Americans_in_the_COUNTRY
+CITY country COUNTRY isPartOf ISPARTOF language LANGUAGE ethnicGroup Native_Americans_in_the_COUNTRY
+CITY country COUNTRY isPartOf ISPARTOF language LANGUAGE ethnicGroup Native_Americans_in_the_COUNTRY
+CITY areaCode AREACODE areaTotal AREATOTAL populationDensity POPULATIONDENSITY areaOfLand AREAOFLAND
+CITY areaCode AREACODE areaTotal AREATOTAL populationDensity POPULATIONDENSITY areaOfLand AREAOFLAND
+CITY country COUNTRY isPartOf Georgia_(_U_._S_._state_) isPartOf ISPARTOF countySeat COUNTYSEAT
+CITY country COUNTRY isPartOf Georgia_(_U_._S_._state_) isPartOf ISPARTOF countySeat COUNTYSEAT
+CITY isPartOf ISPARTOF COUNTRY ethnicGroup ETHNICGROUP capital CAPITAL country
+CITY isPartOf ISPARTOF COUNTRY ethnicGroup ETHNICGROUP capital CAPITAL country
+CITY isPartOf ISPARTOF COUNTRY ethnicGroup ETHNICGROUP capital CAPITAL country
+STATE capital CITY Amarillo_,_STATE country COUNTRY isPartOf ISPARTOF state
+STATE capital CITY Amarillo_,_STATE country COUNTRY isPartOf ISPARTOF state
+CITY leaderTitle ISPARTOF_State_Assembly isPartOf ISPARTOF location ISPARTOF_State_Capitol language LANGUAGE
+CITY leaderTitle ISPARTOF_State_Assembly isPartOf ISPARTOF location ISPARTOF_State_Capitol language LANGUAGE
+CITY leaderTitle ISPARTOF_State_Assembly isPartOf ISPARTOF location ISPARTOF_State_Capitol language LANGUAGE
+CITY areaTotal AREATOTAL isPartOf ISPARTOF populationDensity POPULATIONDENSITY elevationAboveTheSeaLevel ELEVATIONABOVETHESEALEVEL
+CITY areaTotal AREATOTAL isPartOf ISPARTOF populationDensity POPULATIONDENSITY elevationAboveTheSeaLevel ELEVATIONABOVETHESEALEVEL
+CITY areaTotal AREATOTAL isPartOf ISPARTOF populationDensity POPULATIONDENSITY elevationAboveTheSeaLevel ELEVATIONABOVETHESEALEVEL
+CITY areaTotal AREATOTAL isPartOf Pleasant_Township_,_Steuben_County_,_ISPARTOF country COUNTRY isPartOf ISPARTOF
+CITY areaTotal AREATOTAL isPartOf Pleasant_Township_,_Steuben_County_,_ISPARTOF country COUNTRY isPartOf ISPARTOF
+CITY areaTotal AREATOTAL isPartOf Pleasant_Township_,_Steuben_County_,_ISPARTOF country COUNTRY isPartOf ISPARTOF
+CITY UTCOffset UTCOFFSET areaCode AREACODE areaTotal AREATOTAL populationTotal POPULATIONTOTAL
+CITY UTCOffset UTCOFFSET areaCode AREACODE areaTotal AREATOTAL populationTotal POPULATIONTOTAL
+CITY UTCOffset UTCOFFSET areaCode AREACODE areaTotal AREATOTAL populationTotal POPULATIONTOTAL
+CITY areaCode AREACODE areaTotal AREATOTAL leaderTitle Mayors_of_CITY populationDensity POPULATIONDENSITY
+CITY areaCode AREACODE areaTotal AREATOTAL leaderTitle Mayors_of_CITY populationDensity POPULATIONDENSITY
+CITY areaCode AREACODE areaTotal AREATOTAL leaderTitle Mayors_of_CITY populationDensity POPULATIONDENSITY
+CITY country COUNTRY isPartOf ISPARTOF ethnicGroup ETHNICGROUP state STATE
+CITY country COUNTRY isPartOf ISPARTOF ethnicGroup ETHNICGROUP state STATE
+CITY country COUNTRY isPartOf ISPARTOF ethnicGroup ETHNICGROUP state STATE
+CITY isPartOf ISPARTOF COUNTRY ethnicGroup ETHNICGROUP state STATE country
+CITY isPartOf ISPARTOF COUNTRY ethnicGroup ETHNICGROUP state STATE country
+CITY isPartOf ISPARTOF COUNTRY ethnicGroup ETHNICGROUP state STATE country
+CITY isPartOf Pierce_County_,_Washington isPartOf ISPARTOF country COUNTRY capital CAPITAL
+CITY isPartOf Pierce_County_,_Washington isPartOf ISPARTOF country COUNTRY capital CAPITAL
+CITY country COUNTRY isPartOf Washington_(_state_) isPartOf ISPARTOF capital CAPITAL
+CITY country COUNTRY isPartOf Washington_(_state_) isPartOf ISPARTOF capital CAPITAL
+CITY country COUNTRY isPartOf Washington_(_state_) isPartOf ISPARTOF capital CAPITAL
+CITY isPartOf Texas isPartOf ISPARTOF largestCity LARGESTCITY countySeat COUNTYSEAT
+CITY isPartOf Texas isPartOf ISPARTOF largestCity LARGESTCITY countySeat COUNTYSEAT
+CITY isPartOf Texas isPartOf ISPARTOF largestCity LARGESTCITY countySeat COUNTYSEAT
+CITY leaderTitle ISPARTOF_State_Assembly isPartOf ISPARTOF location ISPARTOF_State_Capitol language LANGUAGE
+CITY leaderTitle ISPARTOF_State_Assembly isPartOf ISPARTOF location ISPARTOF_State_Capitol language LANGUAGE
+CITY isPartOf Georgia_(_U_._S_._state_) isPartOf ISPARTOF countySeat COUNTYSEAT country COUNTRY
+CITY isPartOf Georgia_(_U_._S_._state_) isPartOf ISPARTOF countySeat COUNTYSEAT country COUNTRY
+CITY isPartOf Georgia_(_U_._S_._state_) isPartOf ISPARTOF countySeat COUNTYSEAT country COUNTRY
+CITY isPartOf Lafayette_Township_,_Madison_County_,_ISPARTOF isPartOf ISPARTOF country COUNTRY capital CAPITAL
+CITY isPartOf Lafayette_Township_,_Madison_County_,_ISPARTOF isPartOf ISPARTOF country COUNTRY capital CAPITAL
+CITY isPartOf Lafayette_Township_,_Madison_County_,_ISPARTOF isPartOf ISPARTOF country COUNTRY capital CAPITAL
+CITY isPartOf ISPARTOF language LANGUAGE largestCity LARGESTCITY country COUNTRY
+CITY isPartOf ISPARTOF language LANGUAGE largestCity LARGESTCITY country COUNTRY
+CITY country COUNTRY isPartOf ISPARTOF ethnicGroup ETHNICGROUP capital CAPITAL
+CITY country COUNTRY isPartOf ISPARTOF ethnicGroup ETHNICGROUP capital CAPITAL
+CITY country COUNTRY isPartOf ISPARTOF ethnicGroup ETHNICGROUP capital CAPITAL
+CITY isPartOf ISPARTOF COUNTRY largestCity LARGESTCITY capital CAPITAL country
+CITY isPartOf ISPARTOF COUNTRY largestCity LARGESTCITY capital CAPITAL country
+CITY isPartOf ISPARTOF COUNTRY largestCity LARGESTCITY capital CAPITAL country
+CITY country COUNTRY leaderTitle President_of_the_COUNTRY leader LEADER ethnicGroup ETHNICGROUP
+CITY country COUNTRY leaderTitle President_of_the_COUNTRY leader LEADER ethnicGroup ETHNICGROUP
+CITY country COUNTRY leaderTitle LEADERTITLE ethnicGroup ETHNICGROUP leader LEADER
+CITY country COUNTRY leaderTitle LEADERTITLE ethnicGroup ETHNICGROUP leader LEADER
+CITY country COUNTRY leaderTitle LEADERTITLE ethnicGroup ETHNICGROUP leader LEADER
+CITY country COUNTRY isPartOf ISPARTOF capital CAPITAL ethnicGroup ETHNICGROUP
+CITY country COUNTRY isPartOf ISPARTOF capital CAPITAL ethnicGroup ETHNICGROUP
+CITY country COUNTRY isPartOf ISPARTOF capital CAPITAL ethnicGroup ETHNICGROUP
+CITY country COUNTRY leaderTitle LEADERTITLE ethnicGroup Native_Americans_in_the_COUNTRY leader LEADER
+CITY country COUNTRY isPartOf language LANGUAGE ethnicGroup Native_Americans_in_the_COUNTRY
+CITY country COUNTRY isPartOf language LANGUAGE ethnicGroup Native_Americans_in_the_COUNTRY
+CITY country COUNTRY isPartOf language LANGUAGE ethnicGroup Native_Americans_in_the_COUNTRY
+CITY country COUNTRY isPartOf ISPARTOF language LANGUAGE ethnicGroup ETHNICGROUP
+CITY country COUNTRY isPartOf ISPARTOF language LANGUAGE ethnicGroup ETHNICGROUP
+CITY country COUNTRY isPartOf ISPARTOF language LANGUAGE ethnicGroup ETHNICGROUP
+CITY country COUNTRY isPartOf ISPARTOF language LANGUAGE ethnicGroup ETHNICGROUP
+CITY country COUNTRY isPartOf ISPARTOF language LANGUAGE ethnicGroup ETHNICGROUP
+CITY country COUNTRY isPartOf ISPARTOF language LANGUAGE ethnicGroup ETHNICGROUP
+MANAGER club 1_._FC_Union_Berlin club SV_Babelsberg_03 club CLUB SPORTSTEAM manager
+MANAGER club F_._C_._Bari_1908 placeOfBirth PLACEOFBIRTH club CLUB SPORTSTEAM manager
+MANAGER club F_._C_._Bari_1908 placeOfBirth PLACEOFBIRTH club CLUB SPORTSTEAM manager
+MANAGER club F_._C_._Bari_1908 placeOfBirth PLACEOFBIRTH club CLUB SPORTSTEAM manager
+MANAGER placeOfBirth PLACEOFBIRTH club Torino_F_._C_. club CLUB SPORTSTEAM manager
+MANAGER placeOfBirth PLACEOFBIRTH club Torino_F_._C_. club CLUB SPORTSTEAM manager
+MANAGER placeOfBirth PLACEOFBIRTH club Torino_F_._C_. club CLUB SPORTSTEAM manager
+SPORTSTEAM league LEAGUE numberOfMembers NUMBEROFMEMBERS ground GROUND chairman CHAIRMAN
+SPORTSTEAM league LEAGUE numberOfMembers NUMBEROFMEMBERS ground GROUND chairman CHAIRMAN
+MANAGER club CLUB GROUND leader LEADER SPORTSTEAM manager ground
+MANAGER club CLUB GROUND leader LEADER SPORTSTEAM manager ground
+MANAGER club CLUB GROUND leader LEADER SPORTSTEAM manager ground
+MANAGER club CLUB GROUND leader LEADER SPORTSTEAM manager ground
+MANAGER club CLUB GROUND leader LEADER SPORTSTEAM manager ground
+SPORTSTEAM season SEASON numberOfMembers NUMBEROFMEMBERS ground GROUND fullname FULLNAME
+SPORTSTEAM season SEASON numberOfMembers NUMBEROFMEMBERS ground GROUND fullname FULLNAME
+SPORTSTEAM season SEASON numberOfMembers NUMBEROFMEMBERS ground GROUND fullname FULLNAME
+SPORTSTEAM season SEASON numberOfMembers NUMBEROFMEMBERS ground GROUND fullname FULLNAME
+SPORTSTEAM season SEASON numberOfMembers NUMBEROFMEMBERS ground GROUND fullname FULLNAME
+MANAGER club CLUB club Juventus_F_._C_. club Maccabi_Tel_Aviv_F_._C_. SPORTSTEAM manager
+MANAGER club CLUB club Juventus_F_._C_. club Maccabi_Tel_Aviv_F_._C_. SPORTSTEAM manager
+MANAGER club CLUB club Juventus_F_._C_. club Maccabi_Tel_Aviv_F_._C_. SPORTSTEAM manager
+SPORTSTEAM league Superleague_GROUND season SEASON numberOfMembers NUMBEROFMEMBERS ground GROUND
+SPORTSTEAM league Superleague_GROUND season SEASON numberOfMembers NUMBEROFMEMBERS ground GROUND
+GROUND owner OPERATOR_N_._V_. tenant TENANT operator OPERATOR SPORTSTEAM ground
+GROUND owner OPERATOR_N_._V_. tenant TENANT operator OPERATOR SPORTSTEAM ground
+GROUND owner OPERATOR_N_._V_. tenant TENANT operator OPERATOR SPORTSTEAM ground
+SPORTSTEAM fullname FULLNAME nickname NICKNAME numberOfMembers NUMBEROFMEMBERS season SEASON
+SPORTSTEAM fullname FULLNAME nickname NICKNAME numberOfMembers NUMBEROFMEMBERS season SEASON
+SPORTSTEAM fullname FULLNAME nickname NICKNAME numberOfMembers NUMBEROFMEMBERS season SEASON
+MANAGER club AFC_Ajax club Vitesse_Arnhem club CLUB SPORTSTEAM manager
+MANAGER club AFC_Ajax club Vitesse_Arnhem club CLUB SPORTSTEAM manager
+MANAGER club AFC_Ajax club Vitesse_Arnhem club CLUB SPORTSTEAM manager
+LEAGUE champions CHAMPIONS GROUND location LOCATION SPORTSTEAM league ground
+GROUND location LOCATION LEAGUE country COUNTRY SPORTSTEAM league ground
+GROUND location LOCATION LEAGUE country COUNTRY SPORTSTEAM league ground
+GROUND location LOCATION LEAGUE country COUNTRY SPORTSTEAM league ground
+GROUND location LOCATION LEAGUE country COUNTRY SPORTSTEAM league ground
+GROUND location LOCATION LEAGUE country COUNTRY SPORTSTEAM league ground
+CITY isPartOf ISPARTOF GROUND city country COUNTRY SPORTSTEAM ground
+CITY isPartOf ISPARTOF GROUND city country COUNTRY SPORTSTEAM ground
+CITY isPartOf ISPARTOF GROUND city country COUNTRY SPORTSTEAM ground
+SPORTSTEAM ground GROUND leader Pietro_Grasso leader LEADER capital CAPITAL
+SPORTSTEAM ground GROUND leader Pietro_Grasso leader LEADER capital CAPITAL
+MANAGER club FC_Admira_Wacker_Mödling club CLUB club SK_Vorwärts_Steyr SPORTSTEAM manager
+MANAGER club FC_Admira_Wacker_Mödling club CLUB club SK_Vorwärts_Steyr SPORTSTEAM manager
+AIRPORT cityServed CITYSERVED elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) runwayLength RUNWAYLENGTH runwayName RUNWAYNAME
+AIRPORT cityServed CITYSERVED elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) runwayLength RUNWAYLENGTH runwayName RUNWAYNAME
+AIRPORT cityServed CITYSERVED elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) runwayLength RUNWAYLENGTH runwayName RUNWAYNAME
+AIRPORT cityServed CITYSERVED elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) runwayLength RUNWAYLENGTH cityServed Lake_Placid_,_New_York
+AIRPORT cityServed CITYSERVED elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) runwayLength RUNWAYLENGTH cityServed Lake_Placid_,_New_York
+AIRPORT cityServed CITYSERVED elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) runwayLength RUNWAYLENGTH cityServed Lake_Placid_,_New_York
+AIRPORT runwayName RUNWAYNAME operatingOrganisation OPERATINGORGANISATION runwayLength RUNWAYLENGTH location LOCATION
+AIRPORT runwayName RUNWAYNAME operatingOrganisation OPERATINGORGANISATION runwayLength RUNWAYLENGTH location LOCATION
+AIRPORT runwayName RUNWAYNAME operatingOrganisation OPERATINGORGANISATION runwayLength RUNWAYLENGTH location LOCATION
+AIRPORT ICAO_Location_Identifier ICAO_LOCATION_IDENTIFIER operatingOrganisation OPERATINGORGANISATION location LOCATION IATA_Location_Identifier IATA_LOCATION_IDENTIFIER
+AIRPORT ICAO_Location_Identifier ICAO_LOCATION_IDENTIFIER operatingOrganisation OPERATINGORGANISATION location LOCATION IATA_Location_Identifier IATA_LOCATION_IDENTIFIER
+AIRPORT ICAO_Location_Identifier ICAO_LOCATION_IDENTIFIER operatingOrganisation OPERATINGORGANISATION location LOCATION IATA_Location_Identifier IATA_LOCATION_IDENTIFIER
+AIRPORT runwayName RUNWAYNAME operatingOrganisation OPERATINGORGANISATION location LOCATION runwayLength RUNWAYLENGTH
+AIRPORT runwayName RUNWAYNAME operatingOrganisation OPERATINGORGANISATION location LOCATION runwayLength RUNWAYLENGTH
+AIRPORT runwayName RUNWAYNAME operatingOrganisation OPERATINGORGANISATION location LOCATION runwayLength RUNWAYLENGTH
+AIRPORT runwayName RUNWAYNAME operatingOrganisation OPERATINGORGANISATION runwayLength RUNWAYLENGTH location LOCATION
+AIRPORT runwayName RUNWAYNAME operatingOrganisation OPERATINGORGANISATION runwayLength RUNWAYLENGTH location LOCATION
+OPERATINGORGANISATION aircraftFighter AIRCRAFTFIGHTER battles BATTLES attackAircraft ATTACKAIRCRAFT AIRPORT operatingOrganisation
+OPERATINGORGANISATION aircraftFighter AIRCRAFTFIGHTER battles BATTLES attackAircraft ATTACKAIRCRAFT AIRPORT operatingOrganisation
+OPERATINGORGANISATION aircraftFighter AIRCRAFTFIGHTER battles BATTLES attackAircraft ATTACKAIRCRAFT AIRPORT operatingOrganisation
+AIRPORT cityServed CITYSERVED operatingOrganisation LOCATION_Civil_Aviation_Authority location LOCATION runwayLength RUNWAYLENGTH
+AIRPORT cityServed CITYSERVED operatingOrganisation LOCATION_Civil_Aviation_Authority location LOCATION runwayLength RUNWAYLENGTH
+AIRPORT cityServed CITYSERVED operatingOrganisation LOCATION_Civil_Aviation_Authority location LOCATION runwayLength RUNWAYLENGTH
+AIRPORT cityServed CITYSERVED elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) runwayLength RUNWAYLENGTH runwayName RUNWAYNAME
+AIRPORT cityServed CITYSERVED elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) runwayLength RUNWAYLENGTH runwayName RUNWAYNAME
+AIRPORT cityServed CITYSERVED elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) runwayLength RUNWAYLENGTH runwayName RUNWAYNAME
+AIRPORT cityServed CITYSERVED elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) runwayLength RUNWAYLENGTH runwayName RUNWAYNAME
+AIRPORT cityServed CITYSERVED elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) runwayLength RUNWAYLENGTH runwayName RUNWAYNAME
+AIRPORT cityServed CITYSERVED elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) location LOCATION runwayLength RUNWAYLENGTH
+AIRPORT cityServed CITYSERVED elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) location LOCATION runwayLength RUNWAYLENGTH
+LOCATION demonym DEMONYM country COUNTRY capital CAPITAL AIRPORT location
+LOCATION demonym DEMONYM country COUNTRY capital CAPITAL AIRPORT location
+LOCATION language LANGUAGE country COUNTRY capital CAPITAL AIRPORT location
+LOCATION language LANGUAGE country COUNTRY capital CAPITAL AIRPORT location
+LOCATION language LANGUAGE country COUNTRY capital CAPITAL AIRPORT location
+LOCATION isPartOf CITYSERVED_Province country COUNTRY AIRPORT cityServed CITYSERVED location
+LOCATION isPartOf CITYSERVED_Province country COUNTRY AIRPORT cityServed CITYSERVED location
+LOCATION isPartOf CITYSERVED_Province country COUNTRY AIRPORT cityServed CITYSERVED location
+AIRPORT elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) owner OWNER operatingOrganisation OPERATINGORGANISATION runwayLength RUNWAYLENGTH
+AIRPORT elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) owner OWNER operatingOrganisation OPERATINGORGANISATION runwayLength RUNWAYLENGTH
+AIRPORT elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) owner OWNER operatingOrganisation OPERATINGORGANISATION runwayLength RUNWAYLENGTH
+OPERATINGORGANISATION hubAirport HUBAIRPORT headquarter HEADQUARTER headquarter Turkmenistan AIRPORT operatingOrganisation
+OPERATINGORGANISATION hubAirport HUBAIRPORT headquarter HEADQUARTER headquarter Turkmenistan AIRPORT operatingOrganisation
+AIRPORT cityServed CITYSERVED elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) location LOCATION runwayLength RUNWAYLENGTH
+AIRPORT cityServed CITYSERVED elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) location LOCATION runwayLength RUNWAYLENGTH
+AIRPORT cityServed CITYSERVED elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) location LOCATION runwayLength RUNWAYLENGTH
+CITYSERVED leaderName LEADERNAME LOCATION country COUNTRY AIRPORT cityServed location
+CITYSERVED leaderName LEADERNAME LOCATION country COUNTRY AIRPORT cityServed location
+CITYSERVED leaderName LEADERNAME LOCATION country COUNTRY AIRPORT cityServed location
+OWNER leaderName LEADERNAME LOCATION country COUNTRY AIRPORT owner location
+OWNER leaderName LEADERNAME LOCATION country COUNTRY AIRPORT owner location
+OWNER leaderName LEADERNAME LOCATION country COUNTRY AIRPORT owner location
+CITYSERVED country COUNTRY language LANGUAGE leaderName LEADERNAME AIRPORT cityServed
+CITYSERVED country COUNTRY language LANGUAGE leaderName LEADERNAME AIRPORT cityServed
+CITYSERVED country COUNTRY language LANGUAGE leaderName LEADERNAME AIRPORT cityServed
+CITYSERVED country COUNTRY language LANGUAGE leaderName Philippe_of_COUNTRY AIRPORT cityServed
+CITYSERVED country COUNTRY language LANGUAGE leaderName Philippe_of_COUNTRY AIRPORT cityServed
+CITYSERVED country COUNTRY language LANGUAGE leaderName Philippe_of_COUNTRY AIRPORT cityServed
+CITYSERVED isPartOf Harrietstown_,_New_York isPartOf ISPARTOF AIRPORT cityServed country COUNTRY
+CITYSERVED isPartOf Harrietstown_,_New_York isPartOf ISPARTOF AIRPORT cityServed country COUNTRY
+CITYSERVED isPartOf Harrietstown_,_New_York isPartOf ISPARTOF AIRPORT cityServed country COUNTRY
+CITYSERVED country COUNTRY language LANGUAGE leaderName LEADERNAME AIRPORT cityServed
+CITYSERVED country COUNTRY language LANGUAGE leaderName LEADERNAME AIRPORT cityServed
+CITYSERVED country COUNTRY language LANGUAGE leaderName LEADERNAME AIRPORT cityServed
+CITYSERVED country COUNTRY language LANGUAGE leaderName LEADERNAME AIRPORT cityServed
+CITYSERVED country COUNTRY language LANGUAGE leaderName LEADERNAME AIRPORT cityServed
+Punjab_,_COUNTRY leaderName LEADERNAME CITYSERVED country COUNTRY AIRPORT location cityServed
+Punjab_,_COUNTRY leaderName LEADERNAME CITYSERVED country COUNTRY AIRPORT location cityServed
+Punjab_,_COUNTRY leaderName LEADERNAME CITYSERVED country COUNTRY AIRPORT location cityServed
+1ST_RUNWAY_SURFACETYPE division DIVISION order ORDER class CLASS AIRPORT 1st_runway_SurfaceType
+1ST_RUNWAY_SURFACETYPE division DIVISION order ORDER class CLASS AIRPORT 1st_runway_SurfaceType
+COMICSCHARACTER broadcastedBy BROADCASTEDBY keyPerson KEYPERSON locationCity LOCATIONCITY product BROADCASTEDBY_Radio
+COMICSCHARACTER broadcastedBy BROADCASTEDBY keyPerson KEYPERSON locationCity LOCATIONCITY product BROADCASTEDBY_Radio
+COMICSCHARACTER broadcastedBy BROADCASTEDBY keyPerson KEYPERSON locationCity LOCATIONCITY product BROADCASTEDBY_Radio
+COMICSCHARACTER creator CREATOR firstAired FIRSTAIRED starring STARRING broadcastedBy BROADCASTEDBY
+COMICSCHARACTER creator CREATOR firstAired FIRSTAIRED starring STARRING broadcastedBy BROADCASTEDBY
+COMICSCHARACTER creator CREATOR firstAired FIRSTAIRED starring STARRING broadcastedBy BROADCASTEDBY
+COMICSCHARACTER creator CREATOR series SERIES nationality NATIONALITY starring STARRING
+COMICSCHARACTER creator CREATOR series SERIES nationality NATIONALITY starring STARRING
+COMICSCHARACTER creator CREATOR alternativeName ALTERNATIVENAME creator Gary_Cohn_(_comics_) nationality NATIONALITY
+COMICSCHARACTER creator CREATOR alternativeName ALTERNATIVENAME creator Gary_Cohn_(_comics_) nationality NATIONALITY
+COMICSCHARACTER creator CREATOR alternativeName ALTERNATIVENAME creator Gary_Cohn_(_comics_) nationality NATIONALITY
+WRITTENWORK precededBy Grantville_Gazette_III precededBy PRECEDEDBY author AUTHOR birthPlace BIRTHPLACE
+WRITTENWORK precededBy Grantville_Gazette_III precededBy PRECEDEDBY author AUTHOR birthPlace BIRTHPLACE
+WRITTENWORK precededBy Grantville_Gazette_III precededBy PRECEDEDBY author AUTHOR birthPlace BIRTHPLACE
+WRITTENWORK ISBN_number ISBN_NUMBER numberOfPages NUMBEROFPAGES mediaType MEDIATYPE author AUTHOR
+WRITTENWORK ISBN_number ISBN_NUMBER numberOfPages NUMBEROFPAGES mediaType MEDIATYPE author AUTHOR
+WRITTENWORK ISBN_number ISBN_NUMBER numberOfPages NUMBEROFPAGES mediaType MEDIATYPE author AUTHOR
+WRITTENWORK publisher PUBLISHER country COUNTRY parentCompany PARENTCOMPANY leaderName LEADERNAME
+WRITTENWORK publisher PUBLISHER country COUNTRY parentCompany PARENTCOMPANY leaderName LEADERNAME
+WRITTENWORK publisher PUBLISHER country COUNTRY parentCompany PARENTCOMPANY leaderName LEADERNAME
+WRITTENWORK ISBN_number ISBN_NUMBER OCLC_number OCLC_NUMBER mediaType MEDIATYPE author AUTHOR
+WRITTENWORK ISBN_number ISBN_NUMBER OCLC_number OCLC_NUMBER mediaType MEDIATYPE author AUTHOR
+WRITTENWORK ISBN_number ISBN_NUMBER OCLC_number OCLC_NUMBER mediaType MEDIATYPE author AUTHOR
+WRITTENWORK ISBN_number ISBN_NUMBER OCLC_number OCLC_NUMBER mediaType MEDIATYPE author AUTHOR
+WRITTENWORK ISBN_number ISBN_NUMBER OCLC_number OCLC_NUMBER mediaType MEDIATYPE author AUTHOR
+WRITTENWORK ISBN_number ISBN_NUMBER OCLC_number OCLC_NUMBER mediaType MEDIATYPE author AUTHOR
+WRITTENWORK language LANGUAGE country COUNTRY spokenIn SPOKENIN ethnicGroup Native_Americans_in_the_COUNTRY
+WRITTENWORK language LANGUAGE country COUNTRY spokenIn SPOKENIN ethnicGroup Native_Americans_in_the_COUNTRY
+WRITTENWORK language LANGUAGE country COUNTRY spokenIn SPOKENIN ethnicGroup Native_Americans_in_the_COUNTRY
+WRITTENWORK publisher PUBLISHER country COUNTRY language LANGUAGE ethnicGroup ETHNICGROUP
+WRITTENWORK publisher PUBLISHER country COUNTRY language LANGUAGE ethnicGroup ETHNICGROUP
+WRITTENWORK publisher PUBLISHER country COUNTRY language LANGUAGE ethnicGroup ETHNICGROUP
+WRITTENWORK ISBN_number ISBN_NUMBER numberOfPages NUMBEROFPAGES mediaType MEDIATYPE author AUTHOR
+WRITTENWORK ISBN_number ISBN_NUMBER numberOfPages NUMBEROFPAGES mediaType MEDIATYPE author AUTHOR
+WRITTENWORK ISBN_number ISBN_NUMBER numberOfPages NUMBEROFPAGES mediaType MEDIATYPE author AUTHOR
+WRITTENWORK ISSN_number ISSN_NUMBER abbreviation ABBREVIATION LCCN_number LCCN_NUMBER academicDiscipline ACADEMICDISCIPLINE
+WRITTENWORK ISSN_number ISSN_NUMBER abbreviation ABBREVIATION LCCN_number LCCN_NUMBER academicDiscipline ACADEMICDISCIPLINE
+WRITTENWORK ISSN_number ISSN_NUMBER abbreviation ABBREVIATION LCCN_number LCCN_NUMBER academicDiscipline ACADEMICDISCIPLINE
+WRITTENWORK ISSN_number ISSN_NUMBER abbreviation ABBREVIATION LCCN_number LCCN_NUMBER academicDiscipline ACADEMICDISCIPLINE
+WRITTENWORK publisher PUBLISHER ISSN_number ISSN_NUMBER abbreviation ABBREVIATION LCCN_number LCCN_NUMBER
+WRITTENWORK publisher PUBLISHER ISSN_number ISSN_NUMBER abbreviation ABBREVIATION LCCN_number LCCN_NUMBER
+WRITTENWORK publisher PUBLISHER ISSN_number ISSN_NUMBER abbreviation ABBREVIATION LCCN_number LCCN_NUMBER
+WRITTENWORK publisher PUBLISHER affiliation Association_of_Public_and_Land_-_grant_Universities affiliation AFFILIATION state STATE
+WRITTENWORK publisher PUBLISHER affiliation Association_of_Public_and_Land_-_grant_Universities affiliation AFFILIATION state STATE
+WRITTENWORK publisher PUBLISHER affiliation Association_of_Public_and_Land_-_grant_Universities affiliation AFFILIATION state STATE
+WRITTENWORK publisher PUBLISHER city CITY state STATE affiliation AFFILIATION
+WRITTENWORK publisher PUBLISHER city CITY state STATE affiliation AFFILIATION
+WRITTENWORK publisher PUBLISHER city CITY state STATE affiliation AFFILIATION
+WRITTENWORK ISBN_number ISBN_NUMBER numberOfPages NUMBEROFPAGES mediaType MEDIATYPE author AUTHOR
+WRITTENWORK ISBN_number ISBN_NUMBER numberOfPages NUMBEROFPAGES mediaType MEDIATYPE author AUTHOR
+WRITTENWORK ISBN_number ISBN_NUMBER numberOfPages NUMBEROFPAGES mediaType MEDIATYPE author AUTHOR
+WRITTENWORK language LANGUAGE country COUNTRY spokenIn SPOKENIN ethnicGroup ETHNICGROUP
+WRITTENWORK language LANGUAGE country COUNTRY spokenIn SPOKENIN ethnicGroup ETHNICGROUP
+WRITTENWORK language LANGUAGE country COUNTRY spokenIn SPOKENIN ethnicGroup ETHNICGROUP
+WRITTENWORK firstPublicationYear FIRSTPUBLICATIONYEAR publisher PARENTCOMPANY_Press parentCompany PARENTCOMPANY country COUNTRY
+WRITTENWORK firstPublicationYear FIRSTPUBLICATIONYEAR publisher PARENTCOMPANY_Press parentCompany PARENTCOMPANY country COUNTRY
+WRITTENWORK firstPublicationYear FIRSTPUBLICATIONYEAR publisher PARENTCOMPANY_Press parentCompany PARENTCOMPANY country COUNTRY
+LANGUAGE spokenIn SPOKENIN WRITTENWORK country COUNTRY language ethnicGroup ETHNICGROUP
+LANGUAGE spokenIn SPOKENIN WRITTENWORK country COUNTRY language ethnicGroup ETHNICGROUP
+WRITTENWORK language LANGUAGE country COUNTRY spokenIn SPOKENIN leaderName LEADERNAME
+WRITTENWORK language LANGUAGE country COUNTRY spokenIn SPOKENIN leaderName LEADERNAME
+WRITTENWORK language LANGUAGE country COUNTRY spokenIn SPOKENIN leaderName LEADERNAME
+WRITTENWORK language LANGUAGE country COUNTRY ethnicGroup ETHNICGROUP leaderName LEADERNAME
+WRITTENWORK language LANGUAGE country COUNTRY ethnicGroup ETHNICGROUP leaderName LEADERNAME
+LANGUAGE spokenIn SPOKENIN WRITTENWORK country COUNTRY language leaderName LEADERNAME
+LANGUAGE spokenIn SPOKENIN WRITTENWORK country COUNTRY language leaderName LEADERNAME
+WRITTENWORK country COUNTRY language LANGUAGE ethnicGroup ETHNICGROUP leaderName LEADERNAME
+WRITTENWORK country COUNTRY language LANGUAGE ethnicGroup ETHNICGROUP leaderName LEADERNAME
+WRITTENWORK country COUNTRY language LANGUAGE ethnicGroup ETHNICGROUP leaderName LEADERNAME
+ASTRONAUT was_selected_by_NASA WAS_SELECTED_BY_NASA birthPlace BIRTHPLACE timeInSpace TIMEINSPACE nationality NATIONALITY
+ASTRONAUT awards AWARDS was_a_crew_member_of WAS_A_CREW_MEMBER_OF higher HIGHER operator OPERATOR
+BIRTHPLACE representative REPRESENTATIVE ASTRONAUT birthPlace was_a_crew_member_of WAS_A_CREW_MEMBER_OF crewMembers CREWMEMBERS
+BIRTHPLACE representative REPRESENTATIVE ASTRONAUT birthPlace was_a_crew_member_of WAS_A_CREW_MEMBER_OF crewMembers CREWMEMBERS
+ASTRONAUT birthPlace BIRTHPLACE almaMater ALMAMATER status STATUS was_a_crew_member_of WAS_A_CREW_MEMBER_OF
+ASTRONAUT birthPlace BIRTHPLACE almaMater ALMAMATER status STATUS was_a_crew_member_of WAS_A_CREW_MEMBER_OF
+ASTRONAUT birthPlace BIRTHPLACE almaMater ALMAMATER status STATUS was_a_crew_member_of WAS_A_CREW_MEMBER_OF
+ASTRONAUT was_selected_by_NASA WAS_SELECTED_BY_NASA birthPlace BIRTHPLACE occupation OCCUPATION was_a_crew_member_of WAS_A_CREW_MEMBER_OF
+ASTRONAUT was_selected_by_NASA WAS_SELECTED_BY_NASA birthPlace BIRTHPLACE occupation OCCUPATION was_a_crew_member_of WAS_A_CREW_MEMBER_OF
+ASTRONAUT was_selected_by_NASA WAS_SELECTED_BY_NASA birthPlace BIRTHPLACE occupation OCCUPATION was_a_crew_member_of WAS_A_CREW_MEMBER_OF
+ASTRONAUT birthName BIRTHNAME awards AWARDS was_a_crew_member_of WAS_A_CREW_MEMBER_OF operator OPERATOR
+ASTRONAUT birthPlace BIRTHPLACE awards AWARDS deathPlace DEATHPLACE higher HIGHER
+ASTRONAUT awards AWARDS deathPlace DEATHPLACE senators SENATORS higher HIGHER
+ASTRONAUT birthPlace BIRTHPLACE almaMater ALMAMATER nationality NATIONALITY deathPlace DEATHPLACE
+ASTRONAUT was_selected_by_OPERATOR WAS_SELECTED_BY_NASA occupation OCCUPATION was_a_crew_member_of WAS_A_CREW_MEMBER_OF operator OPERATOR
+UNIVERSITY city CITY established ESTABLISHED country COUNTRY river RIVER
+UNIVERSITY city CITY established ESTABLISHED country COUNTRY river RIVER
+UNIVERSITY country COUNTRY affiliation AFFILIATION campus CAMPUS city CITY
+UNIVERSITY country COUNTRY affiliation AFFILIATION campus CAMPUS city CITY
+UNIVERSITY country COUNTRY affiliation AFFILIATION campus CAMPUS city CITY
+UNIVERSITY city CITY affiliation AFFILIATION director DIRECTOR country COUNTRY
+UNIVERSITY city CITY affiliation AFFILIATION director DIRECTOR country COUNTRY
+UNIVERSITY city CITY affiliation AFFILIATION director DIRECTOR country COUNTRY
+UNIVERSITY was_given_the_'_Technical_Campus_'_status_by WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY sportsOffered SPORTSOFFERED sportsGoverningBody SPORTSGOVERNINGBODY location LOCATION
+UNIVERSITY was_given_the_'_Technical_Campus_'_status_by WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY sportsOffered SPORTSOFFERED sportsGoverningBody SPORTSGOVERNINGBODY location LOCATION
+CITY isPartOf ISPARTOF UNIVERSITY city country COUNTRY capital CAPITAL
+CITY isPartOf ISPARTOF UNIVERSITY city country COUNTRY capital CAPITAL
+UNIVERSITY city CITY country COUNTRY governmentType GOVERNMENTTYPE leaderName LEADERNAME
+UNIVERSITY city CITY country COUNTRY governmentType GOVERNMENTTYPE leaderName LEADERNAME
+UNIVERSITY city CITY state STATE academicStaffSize ACADEMICSTAFFSIZE leaderName LEADERNAME
+UNIVERSITY city CITY state STATE academicStaffSize ACADEMICSTAFFSIZE leaderName LEADERNAME
+UNIVERSITY city CITY state STATE academicStaffSize ACADEMICSTAFFSIZE leaderName LEADERNAME
+UNIVERSITY country COUNTRY capital CAPITAL ethnicGroup Germans_of_COUNTRY anthem ANTHEM
+CITY country COUNTRY UNIVERSITY city capital CAPITAL leaderName LEADERNAME
+CITY country COUNTRY UNIVERSITY city capital CAPITAL leaderName LEADERNAME
+CITY country COUNTRY UNIVERSITY city capital CAPITAL leaderName LEADERNAME
+FOOD ingredient INGREDIENT country COUNTRY region REGION mainIngredients MAININGREDIENTS
+FOOD ingredient INGREDIENT country COUNTRY region REGION mainIngredients MAININGREDIENTS
+FOOD ingredient INGREDIENT country COUNTRY region REGION mainIngredients MAININGREDIENTS
+FOOD country COUNTRY leaderName Pietro_Grasso leaderName LEADERNAME capital CAPITAL
+FOOD country COUNTRY leaderName Pietro_Grasso leaderName LEADERNAME capital CAPITAL
+FOOD country COUNTRY leaderName Pietro_Grasso leaderName LEADERNAME capital CAPITAL
+FOOD ingredient INGREDIENT country COUNTRY mainIngredients MAININGREDIENTS region REGION
+FOOD ingredient INGREDIENT country COUNTRY mainIngredients MAININGREDIENTS region REGION
+FOOD ingredient INGREDIENT country COUNTRY mainIngredients MAININGREDIENTS region REGION
+FOOD mainIngredients INGREDIENT_,_cuttlefish_or_squid_,_cephalopod_ink_,_cubanelle_peppers ingredient INGREDIENT country COUNTRY region REGION
+FOOD mainIngredients INGREDIENT_,_cuttlefish_or_squid_,_cephalopod_ink_,_cubanelle_peppers ingredient INGREDIENT country COUNTRY region REGION
+FOOD mainIngredients INGREDIENT_,_cuttlefish_or_squid_,_cephalopod_ink_,_cubanelle_peppers ingredient INGREDIENT country COUNTRY region REGION
+FOOD country COUNTRY region REGION ethnicGroup ETHNICGROUP leaderName LEADERNAME
+FOOD country COUNTRY region REGION ethnicGroup ETHNICGROUP leaderName LEADERNAME
+FOOD country COUNTRY region REGION ethnicGroup ETHNICGROUP leaderName LEADERNAME
+FOOD country COUNTRY region REGION ethnicGroup Malaysian_Malay ethnicGroup ETHNICGROUP
+FOOD country COUNTRY region REGION ethnicGroup Malaysian_Malay ethnicGroup ETHNICGROUP
+FOOD country COUNTRY region REGION ethnicGroup Malaysian_Malay ethnicGroup ETHNICGROUP
+FOOD country COUNTRY region REGION ethnicGroup Minangkabau_people ethnicGroup ETHNICGROUP
+FOOD country COUNTRY region REGION ethnicGroup Minangkabau_people ethnicGroup ETHNICGROUP
+FOOD country COUNTRY region REGION ethnicGroup Minangkabau_people ethnicGroup ETHNICGROUP
+FOOD country COUNTRY ethnicGroup ETHNICGROUP leaderName LEADERNAME capital CAPITAL
+FOOD country COUNTRY ethnicGroup ETHNICGROUP leaderName LEADERNAME capital CAPITAL
+FOOD country COUNTRY ethnicGroup ETHNICGROUP leaderName LEADERNAME capital CAPITAL
+FOOD country COUNTRY ethnicGroup ETHNICGROUP leaderName LEADERNAME capital CAPITAL
+FOOD country COUNTRY ethnicGroup ETHNICGROUP leaderName LEADERNAME capital CAPITAL
+FOOD ingredient INGREDIENT dishVariation DISHVARIATION country COUNTRY dishVariation Club_sandwich
+FOOD ingredient INGREDIENT dishVariation DISHVARIATION country COUNTRY dishVariation Club_sandwich
+FOOD ingredient INGREDIENT dishVariation DISHVARIATION country COUNTRY dishVariation Club_sandwich
+FOOD ingredient INGREDIENT alternativeName ALTERNATIVENAME country COUNTRY mainIngredients MAININGREDIENTS
+FOOD ingredient INGREDIENT alternativeName ALTERNATIVENAME country COUNTRY mainIngredients MAININGREDIENTS
+COURSE dishVariation DISHVARIATION FOOD course country COUNTRY ethnicGroup ETHNICGROUP
+COURSE dishVariation DISHVARIATION FOOD course country COUNTRY ethnicGroup ETHNICGROUP
+FOOD ingredient INGREDIENT country COUNTRY mainIngredients MAININGREDIENTS region REGION
+FOOD ingredient INGREDIENT country COUNTRY mainIngredients MAININGREDIENTS region REGION
+FOOD ingredient INGREDIENT country COUNTRY mainIngredients MAININGREDIENTS region REGION
+FOOD ingredient INGREDIENT mainIngredients INGREDIENT_,_ice_cream_,_sponge_cake_or_Christmas_pudding country COUNTRY region REGION
+FOOD ingredient INGREDIENT mainIngredients INGREDIENT_,_ice_cream_,_sponge_cake_or_Christmas_pudding country COUNTRY region REGION
+FOOD ingredient INGREDIENT country COUNTRY region REGION mainIngredients MAININGREDIENTS
+FOOD ingredient INGREDIENT country COUNTRY region REGION mainIngredients MAININGREDIENTS
+FOOD ingredient INGREDIENT country COUNTRY region REGION mainIngredients MAININGREDIENTS
+ISPARTOF_Dales isPartOf ISPARTOF FOOD region dishVariation DISHVARIATION ingredient INGREDIENT
+ISPARTOF_Dales isPartOf ISPARTOF FOOD region dishVariation DISHVARIATION ingredient INGREDIENT
+FOOD ingredient INGREDIENT country COUNTRY mainIngredients MAININGREDIENTS region Nationwide_in_COUNTRY_,_also_popular_in_neighboring_Southeast_Asian_countries
+FOOD ingredient INGREDIENT country COUNTRY mainIngredients MAININGREDIENTS region Nationwide_in_COUNTRY_,_also_popular_in_neighboring_Southeast_Asian_countries
+FOOD ingredient INGREDIENT country COUNTRY mainIngredients MAININGREDIENTS region Nationwide_in_COUNTRY_,_also_popular_in_neighboring_Southeast_Asian_countries
+FOOD ingredient INGREDIENT region COUNTRY country mainIngredients MAININGREDIENTS
+FOOD ingredient INGREDIENT region COUNTRY country mainIngredients MAININGREDIENTS
+FOOD ingredient INGREDIENT region COUNTRY country mainIngredients MAININGREDIENTS
+FOOD ingredient INGREDIENT country COUNTRY mainIngredients MAININGREDIENTS region REGION
+FOOD ingredient INGREDIENT country COUNTRY mainIngredients MAININGREDIENTS region REGION
+FOOD ingredient INGREDIENT country COUNTRY mainIngredients MAININGREDIENTS region REGION
+FOOD ingredient INGREDIENT country COUNTRY mainIngredients MAININGREDIENTS region REGION
+FOOD ingredient INGREDIENT country COUNTRY mainIngredients MAININGREDIENTS region REGION
+FOOD ingredient INGREDIENT country COUNTRY mainIngredients MAININGREDIENTS region REGION
+FOOD country COUNTRY language LANGUAGE leaderName Gérard_Larcher leaderName LEADERNAME
+FOOD country COUNTRY language LANGUAGE leaderName Gérard_Larcher leaderName LEADERNAME
+FOOD country COUNTRY language LANGUAGE leaderName Gérard_Larcher leaderName LEADERNAME
+Siomay dishVariation DISHVARIATION FOOD dishVariation country COUNTRY ingredient INGREDIENT
+Siomay dishVariation DISHVARIATION FOOD dishVariation country COUNTRY ingredient INGREDIENT
+Siomay dishVariation DISHVARIATION FOOD dishVariation country COUNTRY ingredient INGREDIENT
+FOOD ingredient INGREDIENT country COUNTRY mainIngredients MAININGREDIENTS region REGION
+FOOD ingredient INGREDIENT country COUNTRY mainIngredients MAININGREDIENTS region REGION
+FOOD course COURSE ingredient INGREDIENT country COUNTRY mainIngredients MAININGREDIENTS
+FOOD course COURSE ingredient INGREDIENT country COUNTRY mainIngredients MAININGREDIENTS
+FOOD course COURSE ingredient INGREDIENT country COUNTRY mainIngredients MAININGREDIENTS
+FOOD ingredient INGREDIENT country COUNTRY mainIngredients MAININGREDIENTS region Nationwide_in_COUNTRY_and_Indonesia
+FOOD ingredient INGREDIENT country COUNTRY mainIngredients MAININGREDIENTS region Nationwide_in_COUNTRY_and_Indonesia
+FOOD ingredient INGREDIENT country COUNTRY mainIngredients MAININGREDIENTS region Nationwide_in_COUNTRY_and_Indonesia
+FOOD country COUNTRY region REGION language LANGUAGE leaderName LEADERNAME
+FOOD country COUNTRY region REGION language LANGUAGE leaderName LEADERNAME
+FOOD ingredient INGREDIENT country COUNTRY region REGION mainIngredients MAININGREDIENTS
+FOOD ingredient INGREDIENT country COUNTRY region REGION mainIngredients MAININGREDIENTS
+FOOD ingredient INGREDIENT country COUNTRY region REGION mainIngredients MAININGREDIENTS
+FOOD ingredient INGREDIENT alternativeName ALTERNATIVENAME country COUNTRY region REGION
+FOOD ingredient INGREDIENT alternativeName ALTERNATIVENAME country COUNTRY region REGION
+FOOD ingredient INGREDIENT alternativeName ALTERNATIVENAME region REGION mainIngredients MAININGREDIENTS
+FOOD ingredient INGREDIENT alternativeName ALTERNATIVENAME region REGION mainIngredients MAININGREDIENTS
+FOOD ingredient INGREDIENT alternativeName ALTERNATIVENAME region REGION mainIngredients MAININGREDIENTS
+FOOD ingredient INGREDIENT mainIngredients MAININGREDIENTS division DIVISION order ORDER
+FOOD ingredient INGREDIENT mainIngredients MAININGREDIENTS division DIVISION order ORDER
+FOOD ingredient INGREDIENT country COUNTRY region REGION mainIngredients MAININGREDIENTS
+FOOD ingredient INGREDIENT country COUNTRY region REGION mainIngredients MAININGREDIENTS
+FOOD course COURSE ingredient INGREDIENT country COUNTRY region REGION
+FOOD course COURSE ingredient INGREDIENT country COUNTRY region REGION
+FOOD course COURSE ingredient INGREDIENT country COUNTRY region REGION
+FOOD ingredient INGREDIENT country COUNTRY mainIngredients MAININGREDIENTS region REGION
+FOOD ingredient INGREDIENT country COUNTRY mainIngredients MAININGREDIENTS region REGION
+FOOD ingredient INGREDIENT country COUNTRY mainIngredients MAININGREDIENTS region REGION
+COURSE dishVariation DISHVARIATION FOOD course country COUNTRY leaderName LEADERNAME
+COURSE dishVariation DISHVARIATION FOOD course country COUNTRY leaderName LEADERNAME
+COURSE dishVariation DISHVARIATION FOOD course country COUNTRY leaderName LEADERNAME
+FOOD ingredient INGREDIENT region COUNTRY country leaderName LEADERNAME
+FOOD ingredient INGREDIENT region COUNTRY country leaderName LEADERNAME
+FOOD ingredient INGREDIENT region COUNTRY country leaderName LEADERNAME
+FOOD country COUNTRY region REGION ethnicGroup ETHNICGROUP leaderName LEADERNAME
+FOOD country COUNTRY region REGION ethnicGroup ETHNICGROUP leaderName LEADERNAME
+FOOD country COUNTRY region REGION ethnicGroup ETHNICGROUP leaderName LEADERNAME
+COUNTRY language LANGUAGE ethnicGroup Ilocano_people ethnicGroup ETHNICGROUP FOOD country
+COUNTRY language LANGUAGE ethnicGroup Ilocano_people ethnicGroup ETHNICGROUP FOOD country
+FOOD country COUNTRY language LANGUAGE ethnicGroup ETHNICGROUP ethnicGroup Zamboangans
+FOOD country COUNTRY language LANGUAGE ethnicGroup ETHNICGROUP ethnicGroup Zamboangans
+FOOD country COUNTRY language LANGUAGE ethnicGroup ETHNICGROUP ethnicGroup Zamboangans
+COURSE dishVariation DISHVARIATION FOOD course country COUNTRY language LANGUAGE
+COURSE dishVariation DISHVARIATION FOOD course country COUNTRY language LANGUAGE
+COURSE dishVariation DISHVARIATION FOOD course country COUNTRY language LANGUAGE
+COURSE dishVariation DISHVARIATION FOOD course country COUNTRY language LANGUAGE
+COURSE dishVariation DISHVARIATION FOOD course country COUNTRY language LANGUAGE
+WRITTENWORK followedBy FOLLOWEDBY precededBy Grantville_Gazette_II author AUTHOR language LANGUAGE precededBy PRECEDEDBY
+WRITTENWORK publisher PUBLISHER city CITY affiliation Association_of_Public_and_Land_-_grant_Universities affiliation AFFILIATION president PRESIDENT
+WRITTENWORK publisher PUBLISHER city CITY affiliation Association_of_Public_and_Land_-_grant_Universities affiliation AFFILIATION president PRESIDENT
+WRITTENWORK publisher PUBLISHER city CITY affiliation Association_of_Public_and_Land_-_grant_Universities affiliation AFFILIATION president PRESIDENT
+WRITTENWORK publisher PUBLISHER country COUNTRY language LANGUAGE ethnicGroup ETHNICGROUP spokenIn SPOKENIN
+WRITTENWORK publisher PUBLISHER country COUNTRY language LANGUAGE ethnicGroup ETHNICGROUP spokenIn SPOKENIN
+WRITTENWORK publisher PUBLISHER country COUNTRY language LANGUAGE ethnicGroup ETHNICGROUP spokenIn SPOKENIN
+WRITTENWORK publisher PUBLISHER country COUNTRY language LANGUAGE ethnicGroup Native_Americans_in_the_COUNTRY spokenIn SPOKENIN
+WRITTENWORK publisher PUBLISHER country COUNTRY language LANGUAGE ethnicGroup Native_Americans_in_the_COUNTRY spokenIn SPOKENIN
+WRITTENWORK publisher PUBLISHER country COUNTRY language LANGUAGE ethnicGroup Native_Americans_in_the_COUNTRY spokenIn SPOKENIN
+WRITTENWORK publisher PUBLISHER COUNTRY language LANGUAGE ethnicGroup ETHNICGROUP spokenIn SPOKENIN country
+WRITTENWORK publisher PUBLISHER COUNTRY language LANGUAGE ethnicGroup ETHNICGROUP spokenIn SPOKENIN country
+WRITTENWORK country COUNTRY language LANGUAGE ethnicGroup Native_Americans_in_the_COUNTRY capital CAPITAL spokenIn SPOKENIN
+WRITTENWORK country COUNTRY language LANGUAGE ethnicGroup Native_Americans_in_the_COUNTRY capital CAPITAL spokenIn SPOKENIN
+WRITTENWORK country COUNTRY language LANGUAGE ethnicGroup Native_Americans_in_the_COUNTRY capital CAPITAL spokenIn SPOKENIN
+WRITTENWORK precededBy PRECEDEDBY FOLLOWEDBY followedBy The_Violet_Keystone country COUNTRY Above_the_Veil precededBy followedBy
+WRITTENWORK language LANGUAGE country COUNTRY ethnicGroup ETHNICGROUP leaderName LEADERNAME spokenIn SPOKENIN
+WRITTENWORK language LANGUAGE country COUNTRY ethnicGroup ETHNICGROUP leaderName LEADERNAME spokenIn SPOKENIN
+WRITTENWORK country COUNTRY language LANGUAGE ethnicGroup ETHNICGROUP leaderName LEADERNAME spokenIn SPOKENIN
+WRITTENWORK precededBy PRECEDEDBY country COUNTRY ethnicGroup ETHNICGROUP capital CAPITAL leaderName LEADERNAME
+WRITTENWORK precededBy PRECEDEDBY country COUNTRY ethnicGroup ETHNICGROUP capital CAPITAL leaderName LEADERNAME
+WRITTENWORK precededBy PRECEDEDBY country COUNTRY ethnicGroup ETHNICGROUP capital CAPITAL leaderName LEADERNAME
+WRITTENWORK country COUNTRY ethnicGroup African_DEMONYM demonym DEMONYM capital CAPITAL leaderName LEADERNAME
+WRITTENWORK country COUNTRY ethnicGroup African_DEMONYM demonym DEMONYM capital CAPITAL leaderName LEADERNAME
+WRITTENWORK country COUNTRY ethnicGroup African_DEMONYM demonym DEMONYM capital CAPITAL leaderName LEADERNAME
+WRITTENWORK country COUNTRY language LANGUAGE leaderTitle President_of_the_COUNTRY ethnicGroup ETHNICGROUP spokenIn SPOKENIN
+WRITTENWORK country COUNTRY language LANGUAGE leaderTitle President_of_the_COUNTRY ethnicGroup ETHNICGROUP spokenIn SPOKENIN
+CITY country COUNTRY isPartOf ISPARTOF demonym DEMONYM leaderTitle President_of_the_COUNTRY ethnicGroup Asian_DEMONYM
+CITY country COUNTRY isPartOf ISPARTOF demonym DEMONYM leaderTitle President_of_the_COUNTRY ethnicGroup Asian_DEMONYM
+CITY country COUNTRY isPartOf ISPARTOF demonym DEMONYM leaderTitle President_of_the_COUNTRY ethnicGroup Asian_DEMONYM
+CITY country COUNTRY isPartOf Georgia_(_U_._S_._state_) isPartOf ISPARTOF ethnicGroup Native_Americans_in_the_COUNTRY largestCity LARGESTCITY
+CITY country COUNTRY isPartOf Georgia_(_U_._S_._state_) isPartOf ISPARTOF ethnicGroup Native_Americans_in_the_COUNTRY largestCity LARGESTCITY
+CITY isPartOf ISPARTOF COUNTRY language LANGUAGE capital CAPITAL state STATE country
+CITY isPartOf ISPARTOF COUNTRY language LANGUAGE capital CAPITAL state STATE country
+CITY isPartOf ISPARTOF COUNTRY language LANGUAGE capital CAPITAL state STATE country
+Amarillo_,_STATE country COUNTRY isPartOf ISPARTOF state STATE language LANGUAGE capital CITY
+Amarillo_,_STATE country COUNTRY isPartOf ISPARTOF state STATE language LANGUAGE capital CITY
+Amarillo_,_STATE isPartOf ISPARTOF state STATE country COUNTRY language LANGUAGE capital CITY
+Amarillo_,_STATE isPartOf ISPARTOF state STATE country COUNTRY language LANGUAGE capital CITY
+Amarillo_,_STATE isPartOf ISPARTOF state STATE country COUNTRY language LANGUAGE capital CITY
+CITY areaTotal AREATOTAL populationDensity POPULATIONDENSITY isPartOf Fall_Creek_Township_,_Madison_County_,_Indiana isPartOf ISPARTOF country COUNTRY
+CITY areaTotal AREATOTAL populationDensity POPULATIONDENSITY isPartOf Fall_Creek_Township_,_Madison_County_,_Indiana isPartOf ISPARTOF country COUNTRY
+CITY areaTotal AREATOTAL populationDensity POPULATIONDENSITY isPartOf Fall_Creek_Township_,_Madison_County_,_Indiana isPartOf ISPARTOF country COUNTRY
+CITY isPartOf California isPartOf Contra_Costa_County_,_California leaderTitle LEADERTITLE isPartOf ISPARTOF language LANGUAGE
+CITY isPartOf California isPartOf Contra_Costa_County_,_California leaderTitle LEADERTITLE isPartOf ISPARTOF language LANGUAGE
+CITY isPartOf California isPartOf Contra_Costa_County_,_California leaderTitle LEADERTITLE isPartOf ISPARTOF language LANGUAGE
+CITY areaCode AREACODE areaTotal AREATOTAL isPartOf ISPARTOF populationDensity POPULATIONDENSITY areaOfLand AREAOFLAND
+CITY areaCode AREACODE areaTotal AREATOTAL isPartOf ISPARTOF populationDensity POPULATIONDENSITY areaOfLand AREAOFLAND
+CITY areaTotal AREATOTAL isPartOf United_States isPartOf ISPARTOF populationDensity POPULATIONDENSITY elevationAboveTheSeaLevel ELEVATIONABOVETHESEALEVEL
+CITY areaTotal AREATOTAL isPartOf United_States isPartOf ISPARTOF populationDensity POPULATIONDENSITY elevationAboveTheSeaLevel ELEVATIONABOVETHESEALEVEL
+CITY areaTotal AREATOTAL isPartOf United_States isPartOf ISPARTOF populationDensity POPULATIONDENSITY elevationAboveTheSeaLevel ELEVATIONABOVETHESEALEVEL
+CITY isPartOf ISPARTOF COUNTRY capital CAPITAL ethnicGroup ETHNICGROUP state STATE country
+CITY isPartOf ISPARTOF COUNTRY capital CAPITAL ethnicGroup ETHNICGROUP state STATE country
+CITY isPartOf ISPARTOF COUNTRY capital CAPITAL ethnicGroup ETHNICGROUP state STATE country
+CITY areaTotal AREATOTAL isPartOf Pierce_County_,_Washington country COUNTRY populationDensity POPULATIONDENSITY isPartOf ISPARTOF
+CITY areaTotal AREATOTAL isPartOf Pierce_County_,_Washington country COUNTRY populationDensity POPULATIONDENSITY isPartOf ISPARTOF
+CITY areaTotal AREATOTAL isPartOf Pierce_County_,_Washington country COUNTRY populationDensity POPULATIONDENSITY isPartOf ISPARTOF
+CITY isPartOf Texas isPartOf ISPARTOF countySeat COUNTYSEAT largestCity LARGESTCITY language LANGUAGE
+CITY isPartOf Texas isPartOf ISPARTOF countySeat COUNTYSEAT largestCity LARGESTCITY language LANGUAGE
+CITY isPartOf Texas isPartOf ISPARTOF countySeat COUNTYSEAT language LANGUAGE largestCity LARGESTCITY
+CITY isPartOf Texas isPartOf ISPARTOF countySeat COUNTYSEAT language LANGUAGE largestCity LARGESTCITY
+CITY isPartOf Texas isPartOf ISPARTOF countySeat COUNTYSEAT language LANGUAGE largestCity LARGESTCITY
+CITY isPartOf Texas isPartOf ISPARTOF countySeat COUNTYSEAT language LANGUAGE largestCity LARGESTCITY
+CITY isPartOf Texas isPartOf ISPARTOF countySeat COUNTYSEAT language LANGUAGE largestCity LARGESTCITY
+CITY isPartOf Indiana isPartOf ISPARTOF language LANGUAGE country COUNTRY capital CAPITAL
+CITY isPartOf Indiana isPartOf ISPARTOF language LANGUAGE country COUNTRY capital CAPITAL
+CITY isPartOf Indiana isPartOf ISPARTOF language LANGUAGE country COUNTRY capital CAPITAL
+CITY isPartOf Tarrant_County_,_ISPARTOF isPartOf ISPARTOF language LANGUAGE largestCity LARGESTCITY countySeat COUNTYSEAT
+CITY isPartOf Tarrant_County_,_ISPARTOF isPartOf ISPARTOF language LANGUAGE largestCity LARGESTCITY countySeat COUNTYSEAT
+CITY isPartOf Tarrant_County_,_ISPARTOF isPartOf ISPARTOF language LANGUAGE largestCity LARGESTCITY countySeat COUNTYSEAT
+CITY isPartOf Tarrant_County_,_ISPARTOF isPartOf ISPARTOF country COUNTRY capital CAPITAL largestCity Fort_Worth_,_ISPARTOF
+CITY isPartOf Tarrant_County_,_ISPARTOF isPartOf ISPARTOF country COUNTRY capital CAPITAL largestCity Fort_Worth_,_ISPARTOF
+CITY isPartOf ISPARTOF COUNTRY largestCity LARGESTCITY ethnicGroup ETHNICGROUP capital CAPITAL country
+CITY isPartOf ISPARTOF COUNTRY largestCity LARGESTCITY ethnicGroup ETHNICGROUP capital CAPITAL country
+CITY isPartOf ISPARTOF COUNTRY largestCity LARGESTCITY ethnicGroup ETHNICGROUP capital CAPITAL country
+CITY country COUNTRY isPartOf ISPARTOF demonym DEMONYM ethnicGroup Native_DEMONYM_in_the_COUNTRY capital CAPITAL
+CITY country COUNTRY isPartOf ISPARTOF demonym DEMONYM ethnicGroup Native_DEMONYM_in_the_COUNTRY capital CAPITAL
+CITY country COUNTRY isPartOf ISPARTOF demonym DEMONYM ethnicGroup Native_DEMONYM_in_the_COUNTRY capital CAPITAL
+CITY country COUNTRY isPartOf ISPARTOF demonym DEMONYM ethnicGroup Asian_DEMONYM capital CAPITAL
+CITY country COUNTRY isPartOf ISPARTOF demonym DEMONYM ethnicGroup Asian_DEMONYM capital CAPITAL
+CITY country COUNTRY isPartOf ISPARTOF demonym DEMONYM ethnicGroup Asian_DEMONYM capital CAPITAL
+CITY country COUNTRY isPartOf ISPARTOF ethnicGroup African_DEMONYM language LANGUAGE demonym DEMONYM
+CITY country COUNTRY isPartOf ISPARTOF ethnicGroup African_DEMONYM language LANGUAGE demonym DEMONYM
+CITY isPartOf ISPARTOF COUNTRY ethnicGroup Native_Americans_in_the_COUNTRY capital CAPITAL state STATE country
+CITY isPartOf ISPARTOF COUNTRY ethnicGroup Native_Americans_in_the_COUNTRY capital CAPITAL state STATE country
+CITY isPartOf ISPARTOF COUNTRY ethnicGroup Native_Americans_in_the_COUNTRY capital CAPITAL state STATE country
+CITY isPartOf Lee_County_,_ISPARTOF isPartOf ISPARTOF COUNTRY ethnicGroup Native_Americans_in_the_COUNTRY countySeat COUNTYSEAT country
+CITY isPartOf Lee_County_,_ISPARTOF isPartOf ISPARTOF COUNTRY ethnicGroup Native_Americans_in_the_COUNTRY countySeat COUNTYSEAT country
+CITY isPartOf Lee_County_,_ISPARTOF isPartOf ISPARTOF COUNTRY ethnicGroup Native_Americans_in_the_COUNTRY countySeat COUNTYSEAT country
+CITY isPartOf ISPARTOF COUNTRY ethnicGroup Native_Americans_in_the_COUNTRY largestCity Newark_,_ISPARTOF country capital CAPITAL
+CITY isPartOf ISPARTOF COUNTRY ethnicGroup Native_Americans_in_the_COUNTRY largestCity Newark_,_ISPARTOF country capital CAPITAL
+CITY isPartOf ISPARTOF COUNTRY ethnicGroup Native_Americans_in_the_COUNTRY largestCity Newark_,_ISPARTOF country capital CAPITAL
+CITY country COUNTRY isPartOf ISPARTOF language LANGUAGE leaderTitle President_of_the_COUNTRY leader LEADER
+CITY country COUNTRY isPartOf ISPARTOF language LANGUAGE leaderTitle President_of_the_COUNTRY leader LEADER
+CITY country COUNTRY isPartOf ISPARTOF language LANGUAGE demonym DEMONYM ethnicGroup Asian_DEMONYM
+CITY country COUNTRY isPartOf ISPARTOF language LANGUAGE demonym DEMONYM ethnicGroup Asian_DEMONYM
+CITY country COUNTRY isPartOf ISPARTOF language LANGUAGE demonym DEMONYM ethnicGroup Asian_DEMONYM
+CITY country COUNTRY isPartOf ISPARTOF capital CAPITAL leader LEADER ethnicGroup Native_Americans_in_the_COUNTRY
+CITY country COUNTRY isPartOf ISPARTOF capital CAPITAL leader LEADER ethnicGroup Native_Americans_in_the_COUNTRY
+CITY country COUNTRY isPartOf ethnicGroup African_DEMONYM demonym DEMONYM leaderTitle President_of_the_COUNTRY
+CITY country COUNTRY isPartOf ethnicGroup African_DEMONYM demonym DEMONYM leaderTitle President_of_the_COUNTRY
+CITY country COUNTRY isPartOf ethnicGroup African_DEMONYM demonym DEMONYM leaderTitle President_of_the_COUNTRY
+MONUMENT established ESTABLISHED country COUNTRY location LOCATION municipality MUNICIPALITY category CATEGORY
+MONUMENT established ESTABLISHED country COUNTRY location LOCATION municipality MUNICIPALITY category CATEGORY
+MONUMENT category CATEGORY location LOCATION has_to_its_southwest HAS_TO_ITS_SOUTHWEST has_to_its_north HAS_TO_ITS_NORTH has_to_its_southeast HAS_TO_ITS_SOUTHEAST
+MONUMENT category CATEGORY location LOCATION has_to_its_southwest HAS_TO_ITS_SOUTHWEST has_to_its_north HAS_TO_ITS_NORTH has_to_its_southeast HAS_TO_ITS_SOUTHEAST
+MONUMENT category CATEGORY location LOCATION has_to_its_southwest HAS_TO_ITS_SOUTHWEST has_to_its_north HAS_TO_ITS_NORTH has_to_its_southeast HAS_TO_ITS_SOUTHEAST
+MONUMENT dedicatedTo Ottoman_Army_soldiers_killed_in_the_Battle_of_CAPITAL location LOCATION leaderName LEADERNAME leaderTitle LEADERTITLE capital CAPITAL
+MONUMENT dedicatedTo Ottoman_Army_soldiers_killed_in_the_Battle_of_CAPITAL location LOCATION leaderName LEADERNAME leaderTitle LEADERTITLE capital CAPITAL
+MONUMENT dedicatedTo Ottoman_Army_soldiers_killed_in_the_Battle_of_CAPITAL location LOCATION leaderName LEADERNAME leaderTitle LEADERTITLE capital CAPITAL
+MONUMENT dedicatedTo Ottoman_Army_soldiers_killed_in_the_Battle_of_CAPITAL location LOCATION legislature LEGISLATURE leaderName LEADERNAME capital CAPITAL
+MONUMENT dedicatedTo Ottoman_Army_soldiers_killed_in_the_Battle_of_CAPITAL location LOCATION legislature LEGISLATURE leaderName LEADERNAME capital CAPITAL
+MONUMENT dedicatedTo Ottoman_Army_soldiers_killed_in_the_Battle_of_CAPITAL location LOCATION legislature LEGISLATURE leaderName LEADERNAME capital CAPITAL
+MONUMENT location LOCATION largestCity LARGESTCITY leader LEADER leaderTitle LEADERTITLE capital CAPITAL
+MONUMENT location LOCATION largestCity LARGESTCITY leader LEADER leaderTitle LEADERTITLE capital CAPITAL
+MONUMENT location LOCATION largestCity LARGESTCITY leader LEADER leaderTitle LEADERTITLE capital CAPITAL
+UNIVERSITY city CITY established ESTABLISHED state STATE academicStaffSize ACADEMICSTAFFSIZE has_to_its_northwest HAS_TO_ITS_NORTHWEST
+UNIVERSITY city CITY established ESTABLISHED state STATE academicStaffSize ACADEMICSTAFFSIZE has_to_its_northwest HAS_TO_ITS_NORTHWEST
+UNIVERSITY city CITY affiliation AFFILIATION director DIRECTOR numberOfPostgraduateStudents NUMBEROFPOSTGRADUATESTUDENTS campus CAMPUS
+UNIVERSITY city CITY affiliation AFFILIATION director DIRECTOR numberOfPostgraduateStudents NUMBEROFPOSTGRADUATESTUDENTS campus CAMPUS
+UNIVERSITY city CITY numberOfPostgraduateStudents NUMBEROFPOSTGRADUATESTUDENTS country COUNTRY president PRESIDENT affiliation AFFILIATION
+UNIVERSITY city CITY numberOfPostgraduateStudents NUMBEROFPOSTGRADUATESTUDENTS country COUNTRY president PRESIDENT affiliation AFFILIATION
+UNIVERSITY city CITY numberOfPostgraduateStudents NUMBEROFPOSTGRADUATESTUDENTS country COUNTRY president PRESIDENT affiliation AFFILIATION
+UNIVERSITY affiliation AFFILIATION country COUNTRY leaderName LEADERNAME leaderTitle Monarchy_of_COUNTRY headquarters HEADQUARTERS
+UNIVERSITY affiliation AFFILIATION country COUNTRY leaderName LEADERNAME leaderTitle Monarchy_of_COUNTRY headquarters HEADQUARTERS
+UNIVERSITY city CITY established ESTABLISHED academicStaffSize ACADEMICSTAFFSIZE country COUNTRY largestCity LARGESTCITY
+UNIVERSITY city CITY established ESTABLISHED academicStaffSize ACADEMICSTAFFSIZE country COUNTRY largestCity LARGESTCITY
+UNIVERSITY city CITY established ESTABLISHED academicStaffSize ACADEMICSTAFFSIZE country COUNTRY largestCity LARGESTCITY
+UNIVERSITY state STATE country COUNTRY largestCity LARGESTCITY river RIVER leaderName LEADERNAME
+UNIVERSITY city CITY established ESTABLISHED academicStaffSize ACADEMICSTAFFSIZE country COUNTRY leaderName LEADERNAME
+UNIVERSITY city CITY established ESTABLISHED academicStaffSize ACADEMICSTAFFSIZE country COUNTRY leaderName LEADERNAME
+UNIVERSITY city CITY affiliation AFFILIATION has_to_its_northeast HAS_TO_ITS_NORTHEAST governmentType GOVERNMENTTYPE headquarters HEADQUARTERS
+UNIVERSITY city CITY affiliation AFFILIATION has_to_its_northeast HAS_TO_ITS_NORTHEAST governmentType GOVERNMENTTYPE headquarters HEADQUARTERS
+UNIVERSITY city CITY affiliation AFFILIATION has_to_its_northeast HAS_TO_ITS_NORTHEAST governmentType GOVERNMENTTYPE headquarters HEADQUARTERS
+COMICSCHARACTER creator CREATOR creator Duncan_Rouleau series SERIES nationality NATIONALITY starring STARRING
+COMICSCHARACTER creator CREATOR creator Duncan_Rouleau series SERIES nationality NATIONALITY starring STARRING
+COMICSCHARACTER creator CREATOR creator Duncan_Rouleau series SERIES nationality NATIONALITY starring STARRING
+MANAGER club F_._C_._Bari_1908 club CLUB SPORTSTEAM manager ground GROUND leader LEADER
+MANAGER club F_._C_._Bari_1908 club CLUB SPORTSTEAM manager ground GROUND leader LEADER
+MANAGER club Chesterfield_F_._C_. club CLUB SPORTSTEAM manager ground GROUND leader LEADER
+SPORTSTEAM league LEAGUE ground GROUND champions CHAMPIONS language LANGUAGE leader LEADER
+SPORTSTEAM league LEAGUE ground GROUND champions CHAMPIONS language LANGUAGE leader LEADER
+MANAGER club CLUB club Real_Zaragoza SPORTSTEAM manager ground GROUND location LOCATION
+MANAGER club CLUB club Real_Zaragoza SPORTSTEAM manager ground GROUND location LOCATION
+SPORTSTEAM ground GROUND language LANGUAGE demonym DEMONYM capital CAPITAL leader LEADER
+SPORTSTEAM ground GROUND language LANGUAGE demonym DEMONYM capital CAPITAL leader LEADER
+SPORTSTEAM ground GROUND language LANGUAGE demonym DEMONYM capital CAPITAL leader LEADER
+SPORTSTEAM ground GROUND officialLanguage OFFICIALLANGUAGE demonym DEMONYM leader LEADER capital CAPITAL
+SPORTSTEAM ground GROUND officialLanguage OFFICIALLANGUAGE demonym DEMONYM leader LEADER capital CAPITAL
+SPORTSTEAM ground GROUND officialLanguage OFFICIALLANGUAGE demonym DEMONYM leader LEADER capital CAPITAL
+FOOD region Nationwide_in_COUNTRY_,_but_more_specific_to_Java country COUNTRY language LANGUAGE currency CURRENCY leaderName LEADERNAME
+FOOD region Nationwide_in_COUNTRY_,_but_more_specific_to_Java country COUNTRY language LANGUAGE currency CURRENCY leaderName LEADERNAME
+FOOD region Nationwide_in_COUNTRY_,_but_more_specific_to_Java country COUNTRY language LANGUAGE currency CURRENCY leaderName LEADERNAME
+FOOD country COUNTRY region REGION ethnicGroup Malaysian_Chinese capital CAPITAL ethnicGroup ETHNICGROUP
+FOOD country COUNTRY region REGION ethnicGroup Malaysian_Chinese capital CAPITAL ethnicGroup ETHNICGROUP
+FOOD country COUNTRY region REGION ethnicGroup Malaysian_Chinese capital CAPITAL ethnicGroup ETHNICGROUP
+FOOD country COUNTRY region REGION ethnicGroup Malaysian_Malay ethnicGroup ETHNICGROUP capital CAPITAL
+FOOD country COUNTRY region REGION ethnicGroup Malaysian_Malay ethnicGroup ETHNICGROUP capital CAPITAL
+FOOD country COUNTRY region REGION ethnicGroup Malaysian_Malay ethnicGroup ETHNICGROUP capital CAPITAL
+FOOD country COUNTRY region REGION ethnicGroup Malaysian_Malay ethnicGroup ETHNICGROUP capital CAPITAL
+FOOD country COUNTRY region REGION ethnicGroup Malaysian_Malay ethnicGroup ETHNICGROUP capital CAPITAL
+FOOD country COUNTRY region REGION ethnicGroup Malaysian_Malay ethnicGroup ETHNICGROUP capital CAPITAL
+FOOD country COUNTRY region REGION ethnicGroup Malaysian_Malay ethnicGroup ETHNICGROUP leaderName LEADERNAME
+FOOD country COUNTRY region REGION ethnicGroup Malaysian_Malay ethnicGroup ETHNICGROUP leaderName LEADERNAME
+FOOD country COUNTRY region REGION ethnicGroup Malaysian_Malay ethnicGroup ETHNICGROUP leaderName LEADERNAME
+FOOD mainIngredients MAININGREDIENTS mainIngredients INGREDIENT_,_sausage country COUNTRY ingredient INGREDIENT region REGION
+FOOD mainIngredients MAININGREDIENTS mainIngredients INGREDIENT_,_sausage country COUNTRY ingredient INGREDIENT region REGION
+FOOD mainIngredients MAININGREDIENTS mainIngredients INGREDIENT_,_sausage country COUNTRY ingredient INGREDIENT region REGION
+FOOD country COUNTRY language LANGUAGE leaderName LEADERNAME ethnicGroup ETHNICGROUP capital CAPITAL
+FOOD country COUNTRY language LANGUAGE leaderName LEADERNAME ethnicGroup ETHNICGROUP capital CAPITAL
+FOOD ingredient INGREDIENT dishVariation DISHVARIATION country COUNTRY mainIngredients MAININGREDIENTS alternativeName ALTERNATIVENAME
+FOOD ingredient INGREDIENT dishVariation DISHVARIATION country COUNTRY mainIngredients MAININGREDIENTS alternativeName ALTERNATIVENAME
+FOOD ingredient INGREDIENT dishVariation DISHVARIATION country COUNTRY mainIngredients MAININGREDIENTS alternativeName ALTERNATIVENAME
+FOOD country COUNTRY region REGION language LANGUAGE leaderName LEADERNAME leaderName Manuel_Valls
+FOOD country COUNTRY region REGION language LANGUAGE leaderName LEADERNAME leaderName Manuel_Valls
+FOOD country COUNTRY region REGION language LANGUAGE leaderName LEADERNAME leaderName Manuel_Valls
+FOOD ingredient INGREDIENT region REGION family FAMILY order ORDER country COUNTRY
+FOOD ingredient INGREDIENT region REGION family FAMILY order ORDER country COUNTRY
+FOOD ingredient INGREDIENT country COUNTRY language LANGUAGE leaderName Gérard_Larcher leaderName LEADERNAME
+FOOD ingredient INGREDIENT country COUNTRY language LANGUAGE leaderName Gérard_Larcher leaderName LEADERNAME
+FOOD ingredient INGREDIENT country COUNTRY language LANGUAGE leaderName Gérard_Larcher leaderName LEADERNAME
+FOOD dishVariation Siomay dishVariation DISHVARIATION country COUNTRY leaderName LEADERNAME ingredient INGREDIENT
+FOOD dishVariation Siomay dishVariation DISHVARIATION country COUNTRY leaderName LEADERNAME ingredient INGREDIENT
+FOOD dishVariation Siomay dishVariation DISHVARIATION country COUNTRY leaderName LEADERNAME ingredient INGREDIENT
+FOOD dishVariation Siomay country COUNTRY leaderName LEADERNAME dishVariation DISHVARIATION ingredient INGREDIENT
+FOOD dishVariation Siomay country COUNTRY leaderName LEADERNAME dishVariation DISHVARIATION ingredient INGREDIENT
+FOOD dishVariation DISHVARIATION country COUNTRY dishVariation Shumai leaderName LEADERNAME ingredient INGREDIENT
+FOOD dishVariation DISHVARIATION country COUNTRY dishVariation Shumai leaderName LEADERNAME ingredient INGREDIENT
+FOOD ingredient INGREDIENT alternativeName ALTERNATIVENAME country COUNTRY region REGION mainIngredients INGREDIENT_,_vegetables
+FOOD ingredient INGREDIENT alternativeName ALTERNATIVENAME country COUNTRY region REGION mainIngredients INGREDIENT_,_vegetables
+FOOD ingredient INGREDIENT alternativeName ALTERNATIVENAME country COUNTRY region REGION mainIngredients INGREDIENT_,_vegetables
+FOOD country COUNTRY region REGION leaderName T_._S_._Thakur demonym DEMONYM leaderName LEADERNAME
+FOOD country COUNTRY region REGION leaderName T_._S_._Thakur demonym DEMONYM leaderName LEADERNAME
+FOOD country COUNTRY region REGION leaderName T_._S_._Thakur demonym DEMONYM leaderName LEADERNAME
+FOOD course COURSE ingredient INGREDIENT country COUNTRY mainIngredients MAININGREDIENTS region REGION
+FOOD course COURSE ingredient INGREDIENT country COUNTRY mainIngredients MAININGREDIENTS region REGION
+FOOD course COURSE dishVariation DISHVARIATION country COUNTRY language LANGUAGE leaderName LEADERNAME
+FOOD course COURSE dishVariation DISHVARIATION country COUNTRY region REGION leaderName LEADERNAME
+FOOD course COURSE dishVariation DISHVARIATION country COUNTRY region REGION leaderName LEADERNAME
+FOOD course COURSE dishVariation DISHVARIATION country COUNTRY region REGION leaderName LEADERNAME
+FOOD country COUNTRY region REGION leaderName Felipe_VI_of_COUNTRY ethnicGroup ETHNICGROUP leaderName Carles_Puigdemont
+FOOD country COUNTRY region REGION leaderName Felipe_VI_of_COUNTRY ethnicGroup ETHNICGROUP leaderName Carles_Puigdemont
+FOOD country COUNTRY region REGION leaderName Felipe_VI_of_COUNTRY ethnicGroup ETHNICGROUP leaderName Carles_Puigdemont
+FOOD country COUNTRY language LANGUAGE leaderName Matteo_Renzi leaderName LEADERNAME capital CAPITAL
+FOOD country COUNTRY language LANGUAGE leaderName Matteo_Renzi leaderName LEADERNAME capital CAPITAL
+FOOD country COUNTRY leaderName LEADERNAME demonym DEMONYM leaderName Sergio_Mattarella capital CAPITAL
+FOOD country COUNTRY leaderName LEADERNAME demonym DEMONYM leaderName Sergio_Mattarella capital CAPITAL
+FOOD country COUNTRY leaderName Pietro_Grasso language LANGUAGE leaderName LEADERNAME capital CAPITAL
+FOOD country COUNTRY leaderName Pietro_Grasso language LANGUAGE leaderName LEADERNAME capital CAPITAL
+FOOD country COUNTRY leaderName Pietro_Grasso language LANGUAGE leaderName LEADERNAME capital CAPITAL
+FOOD ingredient INGREDIENT country COUNTRY region REGION ethnicGroup ETHNICGROUP mainIngredients MAININGREDIENTS
+FOOD country COUNTRY region REGION ethnicGroup ETHNICGROUP language LANGUAGE leaderName LEADERNAME
+FOOD country COUNTRY region REGION ethnicGroup ETHNICGROUP language LANGUAGE leaderName LEADERNAME
+FOOD country COUNTRY language LANGUAGE language Arabic ethnicGroup ETHNICGROUP ethnicGroup Zamboangans
+FOOD country COUNTRY language LANGUAGE language Arabic ethnicGroup ETHNICGROUP ethnicGroup Zamboangans
+FOOD country COUNTRY region REGION language LANGUAGE ethnicGroup ETHNICGROUP leaderName LEADERNAME
+FOOD country COUNTRY region REGION language LANGUAGE ethnicGroup ETHNICGROUP leaderName LEADERNAME
+FOOD country COUNTRY region REGION language LANGUAGE ethnicGroup ETHNICGROUP leaderName LEADERNAME
+FOOD country COUNTRY region REGION leaderName Felipe_VI_of_COUNTRY demonym DEMONYM leaderName LEADERNAME
+FOOD country COUNTRY region REGION leaderName Felipe_VI_of_COUNTRY demonym DEMONYM leaderName LEADERNAME
+ASTRONAUT was_selected_by_NASA WAS_SELECTED_BY_NASA birthPlace BIRTHPLACE occupation OCCUPATION status STATUS nationality NATIONALITY
+ASTRONAUT was_selected_by_NASA WAS_SELECTED_BY_NASA birthPlace BIRTHPLACE occupation OCCUPATION status STATUS nationality NATIONALITY
+ASTRONAUT was_selected_by_NASA WAS_SELECTED_BY_NASA birthPlace BIRTHPLACE occupation OCCUPATION status STATUS nationality NATIONALITY
+AWARDS higher HIGHER ASTRONAUT birthPlace BIRTHPLACE awards was_a_crew_member_of WAS_A_CREW_MEMBER_OF operator OPERATOR
+AWARDS higher HIGHER ASTRONAUT birthPlace BIRTHPLACE awards was_a_crew_member_of WAS_A_CREW_MEMBER_OF operator OPERATOR
+ASTRONAUT birthPlace BIRTHPLACE nationality NATIONALITY was_a_crew_member_of WAS_A_CREW_MEMBER_OF commander COMMANDER operator OPERATOR
+ASTRONAUT birthPlace BIRTHPLACE nationality NATIONALITY was_a_crew_member_of WAS_A_CREW_MEMBER_OF commander COMMANDER operator OPERATOR
+ASTRONAUT birthPlace BIRTHPLACE nationality NATIONALITY was_a_crew_member_of WAS_A_CREW_MEMBER_OF commander COMMANDER operator OPERATOR
+ASTRONAUT birthPlace BIRTHPLACE occupation OCCUPATION birthDate BIRTHDATE nationality NATIONALITY was_a_crew_member_of WAS_A_CREW_MEMBER_OF
+ASTRONAUT birthPlace BIRTHPLACE occupation OCCUPATION birthDate BIRTHDATE nationality NATIONALITY was_a_crew_member_of WAS_A_CREW_MEMBER_OF
+ASTRONAUT birthPlace BIRTHPLACE occupation OCCUPATION nationality NATIONALITY was_a_crew_member_of WAS_A_CREW_MEMBER_OF operator OPERATOR
+ASTRONAUT birthPlace BIRTHPLACE occupation OCCUPATION nationality NATIONALITY was_a_crew_member_of WAS_A_CREW_MEMBER_OF operator OPERATOR
+ASTRONAUT birthPlace BIRTHPLACE occupation OCCUPATION nationality NATIONALITY was_a_crew_member_of WAS_A_CREW_MEMBER_OF operator OPERATOR
+ASTRONAUT birthPlace BIRTHPLACE occupation OCCUPATION almaMater ALMAMATER status STATUS was_a_crew_member_of WAS_A_CREW_MEMBER_OF
+ASTRONAUT birthPlace BIRTHPLACE occupation OCCUPATION almaMater ALMAMATER status STATUS was_a_crew_member_of WAS_A_CREW_MEMBER_OF
+ASTRONAUT birthPlace BIRTHPLACE occupation OCCUPATION almaMater ALMAMATER status STATUS was_a_crew_member_of WAS_A_CREW_MEMBER_OF
+Buzz_Aldrin birthPlace BIRTHPLACE status STATUS was_a_crew_member_of WAS_A_CREW_MEMBER_OF backup_pilot ASTRONAUT operator OPERATOR
+Buzz_Aldrin birthPlace BIRTHPLACE status STATUS was_a_crew_member_of WAS_A_CREW_MEMBER_OF backup_pilot ASTRONAUT operator OPERATOR
+Buzz_Aldrin birthPlace BIRTHPLACE status STATUS was_a_crew_member_of WAS_A_CREW_MEMBER_OF backup_pilot ASTRONAUT operator OPERATOR
+Buzz_Aldrin birthDate BIRTHDATE status STATUS was_a_crew_member_of WAS_A_CREW_MEMBER_OF backup_pilot ASTRONAUT operator OPERATOR
+Buzz_Aldrin birthDate BIRTHDATE status STATUS was_a_crew_member_of WAS_A_CREW_MEMBER_OF backup_pilot ASTRONAUT operator OPERATOR
+DEATHPLACE senators SENATORS gemstone GEMSTONE ASTRONAUT deathPlace was_a_crew_member_of WAS_A_CREW_MEMBER_OF operator OPERATOR
+DEATHPLACE senators SENATORS gemstone GEMSTONE ASTRONAUT deathPlace was_a_crew_member_of WAS_A_CREW_MEMBER_OF operator OPERATOR
+AWARDS higher HIGHER ASTRONAUT birthPlace BIRTHPLACE awards nationality NATIONALITY deathPlace DEATHPLACE
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT birthPlace BIRTHPLACE occupation OCCUPATION nationality NATIONALITY was_a_crew_member_of WAS_A_CREW_MEMBER_OF
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT birthPlace BIRTHPLACE occupation OCCUPATION nationality NATIONALITY was_a_crew_member_of WAS_A_CREW_MEMBER_OF
+COUNTRY language LANGUAGE leaderName Margrethe_II_of_COUNTRY LOCATION country isPartOf Central_COUNTRY_Region AIRPORT location
+COUNTRY language LANGUAGE leaderName Margrethe_II_of_COUNTRY LOCATION country isPartOf Central_COUNTRY_Region AIRPORT location
+COUNTRY language LANGUAGE leaderName Margrethe_II_of_COUNTRY LOCATION country isPartOf Central_COUNTRY_Region AIRPORT location
+AIRPORT operatingOrganisation OPERATINGORGANISATION elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) runwayLength RUNWAYLENGTH runwayName RUNWAYNAME location LOCATION
+AIRPORT operatingOrganisation OPERATINGORGANISATION elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) runwayLength RUNWAYLENGTH runwayName RUNWAYNAME location LOCATION
+AIRPORT operatingOrganisation OPERATINGORGANISATION elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) runwayLength RUNWAYLENGTH runwayName RUNWAYNAME location LOCATION
+AIRPORT elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) ICAO_Location_Identifier ICAO_LOCATION_IDENTIFIER operatingOrganisation OPERATINGORGANISATION location LOCATION runwayLength RUNWAYLENGTH
+AIRPORT elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) ICAO_Location_Identifier ICAO_LOCATION_IDENTIFIER operatingOrganisation OPERATINGORGANISATION location LOCATION runwayLength RUNWAYLENGTH
+AIRPORT elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) ICAO_Location_Identifier ICAO_LOCATION_IDENTIFIER operatingOrganisation OPERATINGORGANISATION location LOCATION runwayLength RUNWAYLENGTH
+AIRPORT runwayName RUNWAYNAME ICAO_Location_Identifier ICAO_LOCATION_IDENTIFIER operatingOrganisation OPERATINGORGANISATION location LOCATION runwayLength RUNWAYLENGTH
+AIRPORT runwayName RUNWAYNAME ICAO_Location_Identifier ICAO_LOCATION_IDENTIFIER operatingOrganisation OPERATINGORGANISATION location LOCATION runwayLength RUNWAYLENGTH
+AIRPORT runwayName RUNWAYNAME ICAO_Location_Identifier ICAO_LOCATION_IDENTIFIER operatingOrganisation OPERATINGORGANISATION runwayLength RUNWAYLENGTH location LOCATION
+AIRPORT runwayName RUNWAYNAME ICAO_Location_Identifier ICAO_LOCATION_IDENTIFIER operatingOrganisation OPERATINGORGANISATION runwayLength RUNWAYLENGTH location LOCATION
+AIRPORT runwayName RUNWAYNAME ICAO_Location_Identifier ICAO_LOCATION_IDENTIFIER operatingOrganisation OPERATINGORGANISATION runwayLength RUNWAYLENGTH location LOCATION
+OPERATINGORGANISATION transportAircraft TRANSPORTAIRCRAFT aircraftFighter AIRCRAFTFIGHTER battles BATTLES attackAircraft ATTACKAIRCRAFT AIRPORT operatingOrganisation
+OPERATINGORGANISATION transportAircraft TRANSPORTAIRCRAFT aircraftFighter AIRCRAFTFIGHTER battles BATTLES attackAircraft ATTACKAIRCRAFT AIRPORT operatingOrganisation
+OPERATINGORGANISATION transportAircraft TRANSPORTAIRCRAFT aircraftFighter AIRCRAFTFIGHTER battles BATTLES attackAircraft ATTACKAIRCRAFT AIRPORT operatingOrganisation
+OPERATINGORGANISATION transportAircraft TRANSPORTAIRCRAFT battles BATTLES attackAircraft ATTACKAIRCRAFT battles Invasion_of_Grenada AIRPORT operatingOrganisation
+OPERATINGORGANISATION transportAircraft TRANSPORTAIRCRAFT battles BATTLES attackAircraft ATTACKAIRCRAFT battles Invasion_of_Grenada AIRPORT operatingOrganisation
+AIRPORT cityServed CITYSERVED elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) 1st_runway_SurfaceType 1ST_RUNWAY_SURFACETYPE runwayName RUNWAYNAME runwayLength RUNWAYLENGTH
+AIRPORT cityServed CITYSERVED elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) 1st_runway_SurfaceType 1ST_RUNWAY_SURFACETYPE runwayName RUNWAYNAME runwayLength RUNWAYLENGTH
+AIRPORT cityServed CITYSERVED operatingOrganisation LOCATION_Civil_Aviation_Authority runwayName RUNWAYNAME location LOCATION runwayLength RUNWAYLENGTH
+AIRPORT cityServed CITYSERVED operatingOrganisation LOCATION_Civil_Aviation_Authority runwayName RUNWAYNAME location LOCATION runwayLength RUNWAYLENGTH
+AIRPORT cityServed CITYSERVED operatingOrganisation LOCATION_Civil_Aviation_Authority runwayName RUNWAYNAME location LOCATION runwayLength RUNWAYLENGTH
+AIRPORT cityServed CITYSERVED operatingOrganisation OPERATINGORGANISATION location LOCATION runwayName RUNWAYNAME runwayLength RUNWAYLENGTH
+AIRPORT cityServed CITYSERVED operatingOrganisation OPERATINGORGANISATION location LOCATION runwayName RUNWAYNAME runwayLength RUNWAYLENGTH
+AIRPORT cityServed CITYSERVED operatingOrganisation OPERATINGORGANISATION location LOCATION runwayName RUNWAYNAME runwayLength RUNWAYLENGTH
+LOCATION country COUNTRY AIRPORT cityServed CITYSERVED elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) runwayLength RUNWAYLENGTH location
+LOCATION country COUNTRY AIRPORT cityServed CITYSERVED elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) runwayLength RUNWAYLENGTH location
+LOCATION country COUNTRY AIRPORT cityServed CITYSERVED elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) runwayLength RUNWAYLENGTH location
+AIRPORT cityServed CITYSERVED elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) location LOCATION runwayName RUNWAYNAME runwayLength RUNWAYLENGTH
+AIRPORT cityServed CITYSERVED elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) location LOCATION runwayName RUNWAYNAME runwayLength RUNWAYLENGTH
+AIRPORT cityServed CITYSERVED elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) location LOCATION runwayName RUNWAYNAME runwayLength RUNWAYLENGTH
+AIRPORT cityServed CITYSERVED elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) location LOCATION runwayName RUNWAYNAME runwayLength RUNWAYLENGTH
+AIRPORT cityServed CITYSERVED elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) location LOCATION runwayLength RUNWAYLENGTH country COUNTRY
+AIRPORT cityServed CITYSERVED elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) location LOCATION runwayLength RUNWAYLENGTH country COUNTRY
+AIRPORT cityServed CITYSERVED elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) location LOCATION runwayLength RUNWAYLENGTH country COUNTRY
+AIRPORT cityServed CITYSERVED runwayLength RUNWAYLENGTH elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) location LOCATION runwayName RUNWAYNAME
+AIRPORT cityServed CITYSERVED runwayLength RUNWAYLENGTH elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) location LOCATION runwayName RUNWAYNAME
+AIRPORT cityServed CITYSERVED runwayLength RUNWAYLENGTH elevationAboveTheSeaLevel_(_in_metres_) ELEVATIONABOVETHESEALEVEL_(IN_METRES) location LOCATION runwayName RUNWAYNAME
+CITYSERVED country COUNTRY language LANGUAGE leaderName Alexis_Tsipras leaderName LEADERNAME AIRPORT cityServed
+CITYSERVED country COUNTRY language LANGUAGE leaderName Alexis_Tsipras leaderName LEADERNAME AIRPORT cityServed
+CITYSERVED country COUNTRY language LANGUAGE leaderName Alexis_Tsipras leaderName LEADERNAME AIRPORT cityServed
+CITYSERVED country COUNTRY language LANGUAGE leaderName Alexis_Tsipras leaderName LEADERNAME AIRPORT cityServed
+CITYSERVED country COUNTRY language LANGUAGE leaderName Alexis_Tsipras leaderName LEADERNAME AIRPORT cityServed
+CITYSERVED leaderName LEADERNAME Egg_Harbor_Township_,_ISPARTOF country COUNTRY isPartOf ISPARTOF AIRPORT cityServed location
+CITYSERVED leaderName LEADERNAME Egg_Harbor_Township_,_ISPARTOF country COUNTRY isPartOf ISPARTOF AIRPORT cityServed location
+CITYSERVED leaderName LEADERNAME Egg_Harbor_Township_,_ISPARTOF country COUNTRY isPartOf ISPARTOF AIRPORT cityServed location
+CITYSERVED country COUNTRY leaderName Philippe_of_COUNTRY capital CAPITAL leaderName LEADERNAME AIRPORT cityServed
+CITYSERVED country COUNTRY leaderName Philippe_of_COUNTRY capital CAPITAL leaderName LEADERNAME AIRPORT cityServed
+LOCATION isPartOf New_Jersey country COUNTRY isPartOf ISPARTOF AIRPORT ICAO_Location_Identifier ICAO_LOCATION_IDENTIFIER location
+LOCATION isPartOf New_Jersey country COUNTRY isPartOf ISPARTOF AIRPORT ICAO_Location_Identifier ICAO_LOCATION_IDENTIFIER location
+CITYSERVED isPartOf Harrietstown_,_ISPARTOF country COUNTRY Lake_Placid_,_ISPARTOF isPartOf ISPARTOF AIRPORT cityServed cityServed
+CITYSERVED isPartOf Harrietstown_,_ISPARTOF country COUNTRY Lake_Placid_,_ISPARTOF isPartOf ISPARTOF AIRPORT cityServed cityServed
+CITYSERVED isPartOf Harrietstown_,_New_York isPartOf ISPARTOF country COUNTRY AIRPORT cityServed cityServed Lake_Placid_,_New_York
+CITYSERVED isPartOf Harrietstown_,_New_York isPartOf ISPARTOF country COUNTRY AIRPORT cityServed cityServed Lake_Placid_,_New_York
+CITYSERVED isPartOf Harrietstown_,_New_York isPartOf ISPARTOF country COUNTRY AIRPORT cityServed cityServed Lake_Placid_,_New_York
+OPERATINGORGANISATION aircraftHelicopter AIRCRAFTHELICOPTER LOCATION isPartOf Awadh isPartOf ISPARTOF AIRPORT operatingOrganisation location
+OPERATINGORGANISATION aircraftHelicopter AIRCRAFTHELICOPTER LOCATION isPartOf Awadh isPartOf ISPARTOF AIRPORT operatingOrganisation location
+OPERATINGORGANISATION aircraftHelicopter AIRCRAFTHELICOPTER LOCATION leaderName LEADERNAME isPartOf ISPARTOF AIRPORT operatingOrganisation location
+OPERATINGORGANISATION aircraftHelicopter AIRCRAFTHELICOPTER LOCATION leaderName LEADERNAME isPartOf ISPARTOF AIRPORT operatingOrganisation location
+OPERATINGORGANISATION aircraftHelicopter AIRCRAFTHELICOPTER LOCATION leaderName LEADERNAME isPartOf ISPARTOF AIRPORT operatingOrganisation location
+CITYSERVED country COUNTRY language LANGUAGE leaderName Haider_al_-_Abadi leaderName LEADERNAME AIRPORT cityServed
+CITYSERVED country COUNTRY language LANGUAGE leaderName Haider_al_-_Abadi leaderName LEADERNAME AIRPORT cityServed
+CITYSERVED country COUNTRY language LANGUAGE leaderName Haider_al_-_Abadi leaderName LEADERNAME AIRPORT cityServed
+BUILDING location LOCATION completionDate COMPLETIONDATE country COUNTRY isPartOf Cuyahoga_County_,_ISPARTOF isPartOf ISPARTOF
+BUILDING location LOCATION completionDate COMPLETIONDATE country COUNTRY isPartOf Cuyahoga_County_,_ISPARTOF isPartOf ISPARTOF
+BUILDING location LOCATION completionDate COMPLETIONDATE country COUNTRY isPartOf Cuyahoga_County_,_ISPARTOF isPartOf ISPARTOF
+BUILDING floorCount FLOORCOUNT floorArea FLOORAREA architecturalStyle ARCHITECTURALSTYLE location LOCATION buildingStartDate BUILDINGSTARTDATE
+BUILDING location LOCATION country COUNTRY leaderName LEADERNAME isPartOf ISPARTOF capital CAPITAL
+BUILDING location LOCATION country COUNTRY leaderName LEADERNAME isPartOf ISPARTOF capital CAPITAL
+BUILDING location LOCATION country COUNTRY leaderName LEADERNAME isPartOf ISPARTOF capital CAPITAL
+TENANT foundationPlace FOUNDATIONPLACE BUILDING tenant location LOCATION language LANGUAGE leaderName LEADERNAME
+TENANT foundationPlace FOUNDATIONPLACE BUILDING tenant location LOCATION language LANGUAGE leaderName LEADERNAME
+TENANT keyPerson KEYPERSON foundationPlace FOUNDATIONPLACE BUILDING tenant location LOCATION language LANGUAGE
+TENANT keyPerson KEYPERSON foundationPlace FOUNDATIONPLACE BUILDING tenant location LOCATION language LANGUAGE
+TENANT foundationPlace FOUNDATIONPLACE BUILDING tenant location LOCATION language LANGUAGE leaderName LEADERNAME
+TENANT foundationPlace FOUNDATIONPLACE BUILDING tenant location LOCATION language LANGUAGE leaderName LEADERNAME
+BUILDING architect ARCHITECT country COUNTRY leaderName LEADERNAME significantBuilding SIGNIFICANTBUILDING birthPlace BIRTHPLACE
+BUILDING architect ARCHITECT country COUNTRY leaderName LEADERNAME significantBuilding SIGNIFICANTBUILDING birthPlace BIRTHPLACE
+BUILDING architect ARCHITECT country COUNTRY leaderName LEADERNAME significantBuilding SIGNIFICANTBUILDING birthPlace BIRTHPLACE
+BUILDING height HEIGHT currentTenants CURRENTTENANTS buildingStartDate BUILDINGSTARTDATE floorArea FLOORAREA completionDate COMPLETIONDATE
+BUILDING height HEIGHT currentTenants CURRENTTENANTS buildingStartDate BUILDINGSTARTDATE floorArea FLOORAREA completionDate COMPLETIONDATE
+BUILDING height HEIGHT currentTenants CURRENTTENANTS buildingStartDate BUILDINGSTARTDATE floorArea FLOORAREA completionDate COMPLETIONDATE
+BUILDING floorCount FLOORCOUNT country COUNTRY location LOCATION location Akita_,_Akita address ADDRESS
+BUILDING floorCount FLOORCOUNT country COUNTRY location LOCATION location Akita_,_Akita address ADDRESS
+BUILDING floorCount FLOORCOUNT country COUNTRY location LOCATION location Akita_,_Akita address ADDRESS
+BUILDING country COUNTRY location LOCATION leaderName LEADERNAME ethnicGroup Chinese_people_in_COUNTRY isPartOf ISPARTOF
+BUILDING country COUNTRY location LOCATION leaderName LEADERNAME ethnicGroup Chinese_people_in_COUNTRY isPartOf ISPARTOF
+BUILDING country COUNTRY location LOCATION leaderName LEADERNAME ethnicGroup Chinese_people_in_COUNTRY isPartOf ISPARTOF
+CURRENTTENANTS country COUNTRY BUILDING currentTenants owner OWNER architect ARCHITECT location LOCATION
+CURRENTTENANTS country COUNTRY BUILDING currentTenants owner OWNER architect ARCHITECT location LOCATION
+BUILDING location Ahmedabad location LOCATION COUNTRY leaderName LEADERNAME leaderTitle LEADERTITLE country
+BUILDING location Ahmedabad location LOCATION COUNTRY leaderName LEADERNAME leaderTitle LEADERTITLE country
+BUILDING location Ahmedabad location LOCATION COUNTRY leaderName LEADERNAME leaderTitle LEADERTITLE country
+BUILDING state Eastern_Province_,_COUNTRY country COUNTRY region REGION leaderName Ranil_Wickremesinghe leaderName LEADERNAME
+BUILDING state Eastern_Province_,_COUNTRY country COUNTRY region REGION leaderName Ranil_Wickremesinghe leaderName LEADERNAME
+BUILDING state Eastern_Province_,_COUNTRY country COUNTRY region REGION leaderName Ranil_Wickremesinghe leaderName LEADERNAME
+BUILDING state Eastern_Province_,_COUNTRY country COUNTRY capital CAPITAL leaderName LEADERNAME governingBody GOVERNINGBODY
+BUILDING state Eastern_Province_,_COUNTRY country COUNTRY capital CAPITAL leaderName LEADERNAME governingBody GOVERNINGBODY
+BUILDING state Eastern_Province_,_COUNTRY country COUNTRY capital CAPITAL leaderName LEADERNAME governingBody GOVERNINGBODY
+BUILDING architect ARCHITECT significantBuilding SIGNIFICANTBUILDING birthPlace BIRTHPLACE significantProject SIGNIFICANTPROJECT significantBuilding Los_Angeles_Herald_-_Examiner
+BUILDING architect ARCHITECT significantBuilding SIGNIFICANTBUILDING birthPlace BIRTHPLACE significantBuilding Riverside_Art_Museum significantProject SIGNIFICANTPROJECT
+BUILDING architect ARCHITECT significantBuilding SIGNIFICANTBUILDING birthPlace BIRTHPLACE significantBuilding Riverside_Art_Museum significantProject SIGNIFICANTPROJECT
+BUILDING architect ARCHITECT significantBuilding SIGNIFICANTBUILDING birthPlace BIRTHPLACE significantBuilding Riverside_Art_Museum significantProject SIGNIFICANTPROJECT
+BUILDING location LOCATION isPartOf Manhattan country COUNTRY isPartOf ISPARTOF leaderName LEADERNAME
+BUILDING location LOCATION isPartOf Manhattan country COUNTRY isPartOf ISPARTOF leaderName LEADERNAME
+BUILDING location LOCATION isPartOf Manhattan country COUNTRY isPartOf ISPARTOF leaderName LEADERNAME
+BIRTHPLACE governingBody BIRTHPLACE_City_Council postalCode POSTALCODE leaderName LEADERNAME BUILDING architect ARCHITECT birthPlace
+BIRTHPLACE governingBody BIRTHPLACE_City_Council postalCode POSTALCODE leaderName LEADERNAME BUILDING architect ARCHITECT birthPlace
+BIRTHPLACE governingBody BIRTHPLACE_City_Council postalCode POSTALCODE leaderName LEADERNAME BUILDING architect ARCHITECT birthPlace
+BUILDING location LOCATION leaderName LEADERNAME leaderName John_Roberts leaderTitle LEADERTITLE capital CAPITAL
+BUILDING location LOCATION leaderName LEADERNAME leaderName John_Roberts leaderTitle LEADERTITLE capital CAPITAL
+MONUMENT established ESTABLISHED location Seminary_Ridge country COUNTRY location LOCATION category CATEGORY state STATE
+MONUMENT established ESTABLISHED location Seminary_Ridge country COUNTRY location LOCATION category CATEGORY state STATE
+MONUMENT established ESTABLISHED location Seminary_Ridge country COUNTRY location LOCATION category CATEGORY state STATE
+MONUMENT category CATEGORY location LOCATION has_to_its_west HAS_TO_ITS_WEST has_to_its_southwest HAS_TO_ITS_SOUTHWEST has_to_its_north HAS_TO_ITS_NORTH has_to_its_southeast HAS_TO_ITS_SOUTHEAST
+MONUMENT category CATEGORY location LOCATION has_to_its_west HAS_TO_ITS_WEST has_to_its_southwest HAS_TO_ITS_SOUTHWEST has_to_its_north HAS_TO_ITS_NORTH has_to_its_southeast HAS_TO_ITS_SOUTHEAST
+MONUMENT designer DESIGNER material MATERIAL dedicatedTo Ottoman_Army_soldiers_killed_in_the_Battle_of_CAPITAL location LOCATION capital CAPITAL leader LEADER
+MONUMENT designer DESIGNER material MATERIAL dedicatedTo Ottoman_Army_soldiers_killed_in_the_Battle_of_CAPITAL location LOCATION capital CAPITAL leader LEADER
+MONUMENT designer DESIGNER material MATERIAL dedicatedTo Ottoman_Army_soldiers_killed_in_the_Battle_of_CAPITAL location LOCATION capital CAPITAL leader LEADER
+MONUMENT dedicatedTo DEDICATEDTO designer DESIGNER material MATERIAL location LOCATION nativeName NATIVENAME leaderName LEADERNAME
+MONUMENT dedicatedTo DEDICATEDTO designer DESIGNER material MATERIAL location LOCATION nativeName NATIVENAME leaderName LEADERNAME
+DISTRICT location LOCATION MONUMENT established ESTABLISHED district country COUNTRY state STATE category CATEGORY
+DISTRICT location LOCATION MONUMENT established ESTABLISHED district country COUNTRY state STATE category CATEGORY
+DISTRICT location LOCATION MONUMENT established ESTABLISHED district country COUNTRY state STATE category CATEGORY
+ASTRONAUT birthPlace BIRTHPLACE occupation OCCUPATION nationality NATIONALITY timeInSpace TIMEINSPACE birthDate BIRTHDATE status STATUS
+ASTRONAUT birthPlace BIRTHPLACE occupation OCCUPATION nationality NATIONALITY timeInSpace TIMEINSPACE birthDate BIRTHDATE status STATUS
+ASTRONAUT birthPlace BIRTHPLACE occupation OCCUPATION nationality NATIONALITY timeInSpace TIMEINSPACE birthDate BIRTHDATE status STATUS
+AWARDS higher HIGHER ASTRONAUT birthPlace BIRTHPLACE deathPlace DEATHPLACE awards was_a_crew_member_of WAS_A_CREW_MEMBER_OF operator OPERATOR
+AWARDS higher HIGHER ASTRONAUT birthPlace BIRTHPLACE deathPlace DEATHPLACE awards was_a_crew_member_of WAS_A_CREW_MEMBER_OF operator OPERATOR
+AWARDS higher HIGHER ASTRONAUT birthPlace BIRTHPLACE deathPlace DEATHPLACE awards was_a_crew_member_of WAS_A_CREW_MEMBER_OF operator OPERATOR
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT birthName BIRTHNAME was_a_crew_member_of WAS_A_CREW_MEMBER_OF backup_pilot BACKUP_PILOT operator OPERATOR commander COMMANDER
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT birthName BIRTHNAME was_a_crew_member_of WAS_A_CREW_MEMBER_OF backup_pilot BACKUP_PILOT operator OPERATOR commander COMMANDER
+ASTRONAUT birthPlace BIRTHPLACE occupation OCCUPATION almaMater ALMAMATER nationality NATIONALITY was_selected_by_NASA WAS_SELECTED_BY_NASA was_a_crew_member_of WAS_A_CREW_MEMBER_OF
+ASTRONAUT birthPlace BIRTHPLACE occupation OCCUPATION almaMater ALMAMATER nationality NATIONALITY was_selected_by_NASA WAS_SELECTED_BY_NASA was_a_crew_member_of WAS_A_CREW_MEMBER_OF
+ASTRONAUT birthPlace BIRTHPLACE occupation OCCUPATION almaMater ALMAMATER nationality NATIONALITY was_selected_by_NASA WAS_SELECTED_BY_NASA was_a_crew_member_of WAS_A_CREW_MEMBER_OF
+Buzz_Aldrin birthPlace BIRTHPLACE birthDate BIRTHDATE almaMater ALMAMATER was_a_crew_member_of WAS_A_CREW_MEMBER_OF backup_pilot ASTRONAUT operator OPERATOR
+Buzz_Aldrin birthPlace BIRTHPLACE birthDate BIRTHDATE almaMater ALMAMATER was_a_crew_member_of WAS_A_CREW_MEMBER_OF backup_pilot ASTRONAUT operator OPERATOR
+Buzz_Aldrin birthPlace BIRTHPLACE occupation OCCUPATION nationality NATIONALITY was_a_crew_member_of WAS_A_CREW_MEMBER_OF backup_pilot ASTRONAUT operator OPERATOR
+Buzz_Aldrin birthPlace BIRTHPLACE occupation OCCUPATION nationality NATIONALITY was_a_crew_member_of WAS_A_CREW_MEMBER_OF backup_pilot ASTRONAUT operator OPERATOR
+ASTRONAUT birthPlace BIRTHPLACE occupation OCCUPATION almaMater ALMAMATER was_selected_by_NASA WAS_SELECTED_BY_NASA birthDate BIRTHDATE was_a_crew_member_of WAS_A_CREW_MEMBER_OF
+AWARDS higher HIGHER DEATHPLACE senators SENATORS fossil FOSSIL gemstone GEMSTONE ASTRONAUT awards deathPlace
+AWARDS higher HIGHER DEATHPLACE senators SENATORS fossil FOSSIL gemstone GEMSTONE ASTRONAUT awards deathPlace
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT birthPlace BIRTHPLACE occupation OCCUPATION almaMater ALMAMATER nationality NATIONALITY was_a_crew_member_of WAS_A_CREW_MEMBER_OF
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT birthPlace BIRTHPLACE occupation OCCUPATION almaMater ALMAMATER nationality NATIONALITY was_a_crew_member_of WAS_A_CREW_MEMBER_OF
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT birthPlace BIRTHPLACE occupation OCCUPATION almaMater ALMAMATER nationality NATIONALITY was_a_crew_member_of WAS_A_CREW_MEMBER_OF
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT birthPlace BIRTHPLACE was_a_crew_member_of WAS_A_CREW_MEMBER_OF crewMembers CREWMEMBERS backup_pilot BACKUP_PILOT operator OPERATOR
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT birthPlace BIRTHPLACE was_a_crew_member_of WAS_A_CREW_MEMBER_OF crewMembers CREWMEMBERS backup_pilot BACKUP_PILOT operator OPERATOR
+ASTRONAUT almaMater ALMAMATER status STATUS was_a_crew_member_of WAS_A_CREW_MEMBER_OF crewMembers CREWMEMBERS backup_pilot BACKUP_PILOT operator OPERATOR
+ASTRONAUT almaMater ALMAMATER status STATUS was_a_crew_member_of WAS_A_CREW_MEMBER_OF crewMembers CREWMEMBERS backup_pilot BACKUP_PILOT operator OPERATOR
+UNIVERSITY city CITY established ESTABLISHED academicStaffSize ACADEMICSTAFFSIZE country COUNTRY location LOCATION dean DEAN
+UNIVERSITY city CITY established ESTABLISHED academicStaffSize ACADEMICSTAFFSIZE country COUNTRY location LOCATION dean DEAN
+UNIVERSITY city CITY established ESTABLISHED academicStaffSize ACADEMICSTAFFSIZE country COUNTRY location LOCATION dean DEAN
+UNIVERSITY city CITY country COUNTRY affiliation AFFILIATION state STATE numberOfPostgraduateStudents NUMBEROFPOSTGRADUATESTUDENTS campus CAMPUS
+UNIVERSITY city CITY country COUNTRY affiliation AFFILIATION state STATE numberOfPostgraduateStudents NUMBEROFPOSTGRADUATESTUDENTS campus CAMPUS
+UNIVERSITY city CITY country COUNTRY affiliation AFFILIATION state STATE numberOfPostgraduateStudents NUMBEROFPOSTGRADUATESTUDENTS campus CAMPUS
+UNIVERSITY city CITY established ESTABLISHED country COUNTRY president PRESIDENT affiliation AFFILIATION campus CAMPUS
+UNIVERSITY city CITY established ESTABLISHED country COUNTRY president PRESIDENT affiliation AFFILIATION campus CAMPUS
+UNIVERSITY affiliation AFFILIATION country COUNTRY religion Church_of_COUNTRY leaderName LEADERNAME leaderTitle Monarchy_of_COUNTRY headquarters HEADQUARTERS
+UNIVERSITY city CITY country COUNTRY dean DEAN affiliation AFFILIATION leaderName LEADERNAME headquarters HEADQUARTERS
+UNIVERSITY city CITY country COUNTRY dean DEAN affiliation AFFILIATION leaderName LEADERNAME headquarters HEADQUARTERS
+UNIVERSITY established ESTABLISHED state STATE country COUNTRY largestCity LARGESTCITY river RIVER leaderName LEADERNAME
+UNIVERSITY established ESTABLISHED state STATE country COUNTRY largestCity LARGESTCITY river RIVER leaderName LEADERNAME
+UNIVERSITY established ESTABLISHED state STATE country COUNTRY largestCity LARGESTCITY river RIVER leaderName LEADERNAME
+UNIVERSITY country COUNTRY patronSaint PATRONSAINT anthem ANTHEM leaderName LEADERNAME ethnicGroup Germans_of_COUNTRY capital CAPITAL
+UNIVERSITY country COUNTRY patronSaint PATRONSAINT anthem ANTHEM leaderName LEADERNAME ethnicGroup Germans_of_COUNTRY capital CAPITAL
+UNIVERSITY country COUNTRY patronSaint PATRONSAINT anthem ANTHEM leaderName LEADERNAME ethnicGroup Germans_of_COUNTRY capital CAPITAL
+UNIVERSITY city CITY established ESTABLISHED academicStaffSize ACADEMICSTAFFSIZE country COUNTRY numberOfStudents NUMBEROFSTUDENTS leaderName LEADERNAME
+UNIVERSITY city CITY established ESTABLISHED academicStaffSize ACADEMICSTAFFSIZE country COUNTRY numberOfStudents NUMBEROFSTUDENTS leaderName LEADERNAME
+UNIVERSITY city CITY established ESTABLISHED academicStaffSize ACADEMICSTAFFSIZE country COUNTRY numberOfStudents NUMBEROFSTUDENTS leaderName LEADERNAME
+MONUMENT material MATERIAL location LOCATION inaugurationDate INAUGURATIONDATE largestCity LARGESTCITY capital CAPITAL leaderName LEADERNAME currency CURRENCY
+MONUMENT material MATERIAL location LOCATION inaugurationDate INAUGURATIONDATE largestCity LARGESTCITY capital CAPITAL leaderName LEADERNAME currency CURRENCY
+MONUMENT material MATERIAL location LOCATION inaugurationDate INAUGURATIONDATE largestCity LARGESTCITY capital CAPITAL leaderName LEADERNAME currency CURRENCY
+MONUMENT designer DESIGNER material MATERIAL location LOCATION inaugurationDate INAUGURATIONDATE leader LEADER leaderTitle LEADERTITLE capital CAPITAL
+MONUMENT designer DESIGNER material MATERIAL location LOCATION inaugurationDate INAUGURATIONDATE leader LEADER leaderTitle LEADERTITLE capital CAPITAL
+MONUMENT designer DESIGNER material MATERIAL location LOCATION inaugurationDate INAUGURATIONDATE leader LEADER leaderTitle LEADERTITLE capital CAPITAL
+MONUMENT location LOCATION inaugurationDate INAUGURATIONDATE largestCity LARGESTCITY currency CURRENCY leaderName LEADERNAME leaderTitle LEADERTITLE capital CAPITAL
+MONUMENT location LOCATION inaugurationDate INAUGURATIONDATE largestCity LARGESTCITY currency CURRENCY leaderName LEADERNAME leaderTitle LEADERTITLE capital CAPITAL
+MONUMENT location LOCATION inaugurationDate INAUGURATIONDATE largestCity LARGESTCITY currency CURRENCY leaderName LEADERNAME leaderTitle LEADERTITLE capital CAPITAL
+UNIVERSITY city CITY established ESTABLISHED academicStaffSize ACADEMICSTAFFSIZE country COUNTRY numberOfStudents NUMBEROFSTUDENTS dean DEAN leaderTitle Federal_Chancellor_of_COUNTRY
+UNIVERSITY city CITY established ESTABLISHED academicStaffSize ACADEMICSTAFFSIZE country COUNTRY numberOfStudents NUMBEROFSTUDENTS dean DEAN leaderTitle Federal_Chancellor_of_COUNTRY
+UNIVERSITY city CITY established ESTABLISHED academicStaffSize ACADEMICSTAFFSIZE country COUNTRY numberOfStudents NUMBEROFSTUDENTS dean DEAN leaderTitle Federal_Chancellor_of_COUNTRY
+UNIVERSITY city CITY established ESTABLISHED director DIRECTOR country COUNTRY president PRESIDENT state STATE motto MOTTO
+UNIVERSITY city CITY established ESTABLISHED director DIRECTOR country COUNTRY president PRESIDENT state STATE motto MOTTO
+UNIVERSITY state STATE was_given_the_'_Technical_Campus_'_status_by WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY sportsOffered SPORTSOFFERED sportsGoverningBody SPORTSGOVERNINGBODY has_to_its_northeast HAS_TO_ITS_NORTHEAST has_to_its_west HAS_TO_ITS_WEST location LOCATION
+UNIVERSITY state STATE was_given_the_'_Technical_Campus_'_status_by WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY sportsOffered SPORTSOFFERED sportsGoverningBody SPORTSGOVERNINGBODY has_to_its_northeast HAS_TO_ITS_NORTHEAST has_to_its_west HAS_TO_ITS_WEST location LOCATION
+UNIVERSITY state STATE was_given_the_'_Technical_Campus_'_status_by WAS_GIVEN_THE_'TECHNICAL_CAMPUS'_STATUS_BY sportsOffered SPORTSOFFERED sportsGoverningBody SPORTSGOVERNINGBODY has_to_its_northeast HAS_TO_ITS_NORTHEAST has_to_its_west HAS_TO_ITS_WEST location LOCATION
+CITY country COUNTRY UNIVERSITY city leaderTitle Prime_Minister_of_COUNTRY anthem ANTHEM leaderName LEADERNAME ethnicGroup Germans_of_COUNTRY capital CAPITAL
+CITY country COUNTRY UNIVERSITY city leaderTitle Prime_Minister_of_COUNTRY anthem ANTHEM leaderName LEADERNAME ethnicGroup Germans_of_COUNTRY capital CAPITAL
+UNIVERSITY city CITY established ESTABLISHED academicStaffSize ACADEMICSTAFFSIZE country COUNTRY affiliation AFFILIATION dean DEAN leaderName LEADERNAME
+UNIVERSITY city CITY established ESTABLISHED academicStaffSize ACADEMICSTAFFSIZE country COUNTRY affiliation AFFILIATION dean DEAN leaderName LEADERNAME
+UNIVERSITY city CITY affiliation AFFILIATION country COUNTRY governmentType GOVERNMENTTYPE leaderName LEADERNAME leaderTitle Monarchy_of_COUNTRY headquarters HEADQUARTERS
+UNIVERSITY city CITY affiliation AFFILIATION country COUNTRY governmentType GOVERNMENTTYPE leaderName LEADERNAME leaderTitle Monarchy_of_COUNTRY headquarters HEADQUARTERS
+UNIVERSITY city CITY affiliation AFFILIATION country COUNTRY governmentType GOVERNMENTTYPE leaderName LEADERNAME leaderTitle Monarchy_of_COUNTRY headquarters HEADQUARTERS
+UNIVERSITY city CITY established ESTABLISHED country COUNTRY numberOfStudents NUMBEROFSTUDENTS latinName LATINNAME affiliation AFFILIATION dean DEAN
+ASTRONAUT birthPlace BIRTHPLACE occupation OCCUPATION almaMater ALMAMATER nationality NATIONALITY birthDate BIRTHDATE status STATUS was_a_crew_member_of WAS_A_CREW_MEMBER_OF
+ASTRONAUT birthPlace BIRTHPLACE occupation OCCUPATION almaMater ALMAMATER nationality NATIONALITY birthDate BIRTHDATE status STATUS was_a_crew_member_of WAS_A_CREW_MEMBER_OF
+ASTRONAUT birthPlace BIRTHPLACE occupation OCCUPATION almaMater ALMAMATER deathPlace DEATHPLACE was_selected_by_NASA WAS_SELECTED_BY_NASA birthDate BIRTHDATE status STATUS
+ASTRONAUT birthPlace BIRTHPLACE occupation OCCUPATION almaMater ALMAMATER deathPlace DEATHPLACE was_selected_by_NASA WAS_SELECTED_BY_NASA birthDate BIRTHDATE status STATUS
+ASTRONAUT birthPlace BIRTHPLACE occupation OCCUPATION almaMater ALMAMATER deathPlace DEATHPLACE was_selected_by_NASA WAS_SELECTED_BY_NASA birthDate BIRTHDATE status STATUS
+ASTRONAUT birthPlace BIRTHPLACE occupation OCCUPATION nationality NATIONALITY was_a_crew_member_of WAS_A_CREW_MEMBER_OF backup_pilot BACKUP_PILOT operator OPERATOR commander COMMANDER
+ASTRONAUT birthPlace BIRTHPLACE occupation OCCUPATION nationality NATIONALITY was_a_crew_member_of WAS_A_CREW_MEMBER_OF backup_pilot BACKUP_PILOT operator OPERATOR commander COMMANDER
+ASTRONAUT birthPlace BIRTHPLACE occupation OCCUPATION nationality NATIONALITY was_a_crew_member_of WAS_A_CREW_MEMBER_OF backup_pilot BACKUP_PILOT operator OPERATOR commander COMMANDER
+ASTRONAUT birthPlace BIRTHPLACE occupation OCCUPATION almaMater ALMAMATER was_selected_by_NASA WAS_SELECTED_BY_NASA birthDate BIRTHDATE alternativeNames ALTERNATIVENAMES was_a_crew_member_of WAS_A_CREW_MEMBER_OF
+ASTRONAUT birthPlace BIRTHPLACE occupation OCCUPATION almaMater ALMAMATER was_selected_by_NASA WAS_SELECTED_BY_NASA birthDate BIRTHDATE alternativeNames ALTERNATIVENAMES was_a_crew_member_of WAS_A_CREW_MEMBER_OF
+ASTRONAUT birthPlace BIRTHPLACE occupation OCCUPATION almaMater ALMAMATER was_selected_by_NASA WAS_SELECTED_BY_NASA birthDate BIRTHDATE alternativeNames ALTERNATIVENAMES was_a_crew_member_of WAS_A_CREW_MEMBER_OF
+ASTRONAUT birthPlace BIRTHPLACE occupation OCCUPATION almaMater ALMAMATER nationality NATIONALITY timeInSpace TIMEINSPACE birthDate BIRTHDATE was_a_crew_member_of WAS_A_CREW_MEMBER_OF
+ASTRONAUT birthPlace BIRTHPLACE occupation OCCUPATION almaMater ALMAMATER nationality NATIONALITY timeInSpace TIMEINSPACE birthDate BIRTHDATE was_a_crew_member_of WAS_A_CREW_MEMBER_OF
+ASTRONAUT birthPlace BIRTHPLACE occupation OCCUPATION almaMater ALMAMATER nationality NATIONALITY timeInSpace TIMEINSPACE birthDate BIRTHDATE was_a_crew_member_of WAS_A_CREW_MEMBER_OF
+ASTRONAUT birthPlace BIRTHPLACE almaMater ALMAMATER nationality NATIONALITY birthDate 1930_-_01_-_AWARDS was_a_crew_member_of WAS_A_CREW_MEMBER_OF status STATUS awards AWARDS
+ASTRONAUT birthPlace BIRTHPLACE almaMater ALMAMATER nationality NATIONALITY birthDate 1930_-_01_-_AWARDS was_a_crew_member_of WAS_A_CREW_MEMBER_OF status STATUS awards AWARDS
+ASTRONAUT birthPlace BIRTHPLACE nationality NATIONALITY was_selected_by_OPERATOR WAS_SELECTED_BY_NASA birthDate BIRTHDATE status STATUS was_a_crew_member_of WAS_A_CREW_MEMBER_OF operator OPERATOR
+ASTRONAUT birthPlace BIRTHPLACE nationality NATIONALITY was_selected_by_OPERATOR WAS_SELECTED_BY_NASA birthDate BIRTHDATE status STATUS was_a_crew_member_of WAS_A_CREW_MEMBER_OF operator OPERATOR
+Buzz_Aldrin birthPlace BIRTHPLACE almaMater ALMAMATER nationality NATIONALITY status STATUS was_a_crew_member_of WAS_A_CREW_MEMBER_OF backup_pilot ASTRONAUT operator OPERATOR
+Buzz_Aldrin birthPlace BIRTHPLACE almaMater ALMAMATER nationality NATIONALITY status STATUS was_a_crew_member_of WAS_A_CREW_MEMBER_OF backup_pilot ASTRONAUT operator OPERATOR
+Buzz_Aldrin birthPlace BIRTHPLACE almaMater ALMAMATER nationality NATIONALITY status STATUS was_a_crew_member_of WAS_A_CREW_MEMBER_OF backup_pilot ASTRONAUT operator OPERATOR
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT birthPlace BIRTHPLACE occupation OCCUPATION nationality NATIONALITY birthDate BIRTHDATE status STATUS was_a_crew_member_of WAS_A_CREW_MEMBER_OF
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT birthPlace BIRTHPLACE occupation OCCUPATION nationality NATIONALITY birthDate BIRTHDATE status STATUS was_a_crew_member_of WAS_A_CREW_MEMBER_OF
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT birthPlace BIRTHPLACE occupation OCCUPATION nationality NATIONALITY birthDate BIRTHDATE status STATUS was_a_crew_member_of WAS_A_CREW_MEMBER_OF
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT birthPlace BIRTHPLACE nationality NATIONALITY was_a_crew_member_of WAS_A_CREW_MEMBER_OF crewMembers CREWMEMBERS backup_pilot BACKUP_PILOT operator OPERATOR
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT birthPlace BIRTHPLACE nationality NATIONALITY was_a_crew_member_of WAS_A_CREW_MEMBER_OF crewMembers CREWMEMBERS backup_pilot BACKUP_PILOT operator OPERATOR
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT birthPlace BIRTHPLACE nationality NATIONALITY was_a_crew_member_of WAS_A_CREW_MEMBER_OF crewMembers CREWMEMBERS backup_pilot BACKUP_PILOT operator OPERATOR
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT birthPlace BIRTHPLACE occupation OCCUPATION was_selected_by_NASA WAS_SELECTED_BY_NASA timeInSpace TIMEINSPACE birthDate BIRTHDATE was_a_crew_member_of WAS_A_CREW_MEMBER_OF
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT birthPlace BIRTHPLACE occupation OCCUPATION was_selected_by_NASA WAS_SELECTED_BY_NASA timeInSpace TIMEINSPACE birthDate BIRTHDATE was_a_crew_member_of WAS_A_CREW_MEMBER_OF
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT birthPlace BIRTHPLACE occupation OCCUPATION was_selected_by_NASA WAS_SELECTED_BY_NASA timeInSpace TIMEINSPACE birthDate BIRTHDATE was_a_crew_member_of WAS_A_CREW_MEMBER_OF
