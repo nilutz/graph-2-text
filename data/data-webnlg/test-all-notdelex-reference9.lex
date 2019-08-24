@@ -268,7 +268,7 @@
 
 
 
-the ship aidastella had her maiden voyage on march 17th 2003 .
+The ship AIDAstella had her maiden voyage on March 17th 2003 .
 
 
 

@@ -12,7 +12,7 @@
 
 
 
-11th mississippi infantry monument was established in 2000 .
+11th Mississippi Infantry Monument was established in 2000 .
 
 
 
@@ -268,8 +268,8 @@
 
 
 
-alan bean was born on the 15th of march of 1932 . he is currently retired .
-alan bean was american .
+Alan Bean was born on the 15th of March of 1932 . He is currently retired .
+Alan Bean was American .
 
 
 
@@ -518,7 +518,7 @@ alan bean was american .
 
 
 
-azerbaijan ' s leader is the prime minister of azerbaijan .
+Azerbaijan ' s leader is the Prime Minister of Azerbaijan .
 
 
 
@@ -560,9 +560,9 @@ azerbaijan ' s leader is the prime minister of azerbaijan .
 
 
 
-baku turkish martyrs ' memorial ' s native name is türk şehitleri anıtı and is dedicated to ottoman army soldiers killed in the battle of baku .
+Baku Turkish Martyrs ' Memorial ' s native name is Türk Şehitleri Anıtı and is dedicated to Ottoman Army soldiers killed in the Battle of Baku .
 
-the baku turkish martyrs ' memorial is known locally as türk şehitleri anıtı .
+The Baku Turkish Martyrs ' Memorial is known locally as Türk Şehitleri Anıtı .
 
 
 
@@ -669,9 +669,9 @@ the baku turkish martyrs ' memorial is known locally as türk şehitleri anıtı
 
 
 
-buzz aldrin graduated from massachusetts institute of technology , sc . d . 1963 .
+Buzz Aldrin graduated from Massachusetts Institute of Technology , Sc . D . 1963 .
 
-buzz aldrin was born on january 20th , 1930 in the community of glen ridge , new jersey .
+Buzz Aldrin was born on January 20th , 1930 in the community of Glen Ridge , New Jersey .
 
 
 
@@ -688,12 +688,12 @@ buzz aldrin was born on january 20th , 1930 in the community of glen ridge , new
 
 
 
-buzz aldrin ( from the united states ) went to massachusetts institute of technology , sc . d . 1963 and was selected by nasa in 1963 .
+Buzz Aldrin ( from the United States ) went to Massachusetts Institute of Technology , Sc . D . 1963 and was selected by NASA in 1963 .
 
 
 
-buzz aldrin was hired by nasa in 1963 .
-benitoite is a gemstone found in california .
+Buzz Aldrin was hired by NASA in 1963 .
+Benitoite is a gemstone found in California .
 
 
 
@@ -719,11 +719,11 @@ benitoite is a gemstone found in california .
 
 
 
-elliot see ( born in dallas , united states ) attended the university of texas at austin .
+Elliot See ( born in Dallas , United States ) attended the University of Texas at Austin .
 
 
 
-elliot see died in 1966 - 02 - 28 .
+Elliot See died in 1966 - 02 - 28 .
 
 
 
@@ -864,8 +864,8 @@ elliot see died in 1966 - 02 - 28 .
 
 
 
-the dean of the school of business and social sciences at the aarhus university is thomas pallesen .
-there are 16000 students in the aarhus university school of business and social sciences .
+The dean of the School of Business and Social Sciences at the Aarhus University is Thomas Pallesen .
+There are 16000 students in the Aarhus University School of Business and Social Sciences .
 
 
 
@@ -959,7 +959,7 @@ there are 16000 students in the aarhus university school of business and social 
 
 
 
-william anders ( born in british hong kong ) was a crew member of apollo 8 .
+William Anders ( born in British Hong Kong ) was a crew member of Apollo 8 .
 
 
 

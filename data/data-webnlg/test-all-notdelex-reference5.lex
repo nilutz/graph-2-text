@@ -12,7 +12,7 @@
 
 
 
-the 11th mississippi infantry monument was completed in 2000 .
+The 11th Mississippi Infantry Monument was completed in 2000 .
 
 
 
@@ -562,7 +562,7 @@ the 11th mississippi infantry monument was completed in 2000 .
 
 
 
-the baku turkish martyrs ' memorial is known in turkish as turk sehitleri aniti .
+The Baku Turkish Martyrs ' Memorial is known in Turkish as Turk Sehitleri Aniti .
 
 
 
@@ -671,7 +671,7 @@ the baku turkish martyrs ' memorial is known in turkish as turk sehitleri aniti 
 
 
 
-buzz aldrin was born on 1930 - 01 - 20 in glen ridge , new jersey .
+Buzz Aldrin was born on 1930 - 01 - 20 in Glen Ridge , New Jersey .
 
 
 
@@ -723,7 +723,7 @@ buzz aldrin was born on 1930 - 01 - 20 in glen ridge , new jersey .
 
 
 
-elliot see died on february 28 , 1966 .
+Elliot See died on February 28 , 1966 .
 
 
 
@@ -865,7 +865,7 @@ elliot see died on february 28 , 1966 .
 
 
 
-the number of students in school of business and social sciences at the aarhus university is 16000 .
+The number of students in School of Business and Social Sciences at the Aarhus University is 16000 .
 
 
 

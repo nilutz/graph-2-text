@@ -106,7 +106,7 @@ For post processing follow step 2 and 3 of WebNLG scripts.
 For evaluation follow the instruction of the WebNLG challenge [baseline](http://webnlg.loria.fr/pages/baseline.html) or run 
 
     cd data/data-webnlg/
-    ../../webnlg_eval_scripts/calculate_bleu_dev.sh .
+    ../../webnlg_eval_scripts/calculate_bleu_dev.sh 
 For the SR11 task, scripts for the 3 metrics are the same as used for WebNLG [see](https://www.aclweb.org/anthology/W11-2832).
 
 ### WebNLG scripts ###

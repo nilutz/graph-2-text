@@ -12,7 +12,7 @@
 
 
 
-11th mississippi infantry monument has been established in 2000 .
+11th Mississippi Infantry Monument has been established in 2000 .
 
 
 
@@ -269,7 +269,7 @@
 
 
 
-alan bean is a us national .
+Alan Bean is a US national .
 
 
 
@@ -560,9 +560,9 @@ alan bean is a us national .
 
 
 
-the baku turkish martyrs ' memorial ( native name : türk şehitleri anıtı ) is dedicated to the ottoman army soldiers killed in the battle of baku .
+The Baku Turkish Martyrs ' Memorial ( native name : Türk Şehitleri Anıtı ) is dedicated to the Ottoman Army soldiers killed in the Battle of Baku .
 
-baku turkish martyrs ' memorial is called turk sehitleri aniti .
+Baku Turkish Martyrs ' Memorial is called Turk Sehitleri Aniti .
 
 
 
@@ -669,9 +669,9 @@ baku turkish martyrs ' memorial is called turk sehitleri aniti .
 
 
 
-buzz aldrin graduated from massachusetts institute of technology in 1963 with a doctorate in science .
+Buzz Aldrin graduated from Massachusetts Institute of Technology in 1963 with a doctorate in Science .
 
-buzz aldrin was born on 1930 - 01 - 20 in glen ridge new jersey .
+Buzz Aldrin was born on 1930 - 01 - 20 in Glen Ridge New Jersey .
 
 
 
@@ -723,7 +723,7 @@ buzz aldrin was born on 1930 - 01 - 20 in glen ridge new jersey .
 
 
 
-elliot see lived until the 28th of february 1966 .
+Elliot See lived until the 28th of February 1966 .
 
 
 
@@ -865,7 +865,7 @@ elliot see lived until the 28th of february 1966 .
 
 
 
-aarhus university school of business and social sciences has 16000 students .
+Aarhus University School of Business and Social Sciences has 16000 students .
 
 
 

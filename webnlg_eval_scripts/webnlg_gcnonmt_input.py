@@ -167,6 +167,7 @@ def create_source_target(b, options, dataset, delex=True, relex=False, doCategor
         tripleset = entr.modifiedtripleset
         lexics = entr.lexs
         category = entr.category
+
         if doCategory and not category in doCategory:
         #if not category in UNSEEN_CATEGORIES:
             continue

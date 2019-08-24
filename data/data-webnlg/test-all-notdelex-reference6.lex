@@ -671,7 +671,7 @@
 
 
 
-buzz aldrin was born on 1930 - 01 - 20 , in glen ridge , new jersey .
+Buzz Aldrin was born on 1930 - 01 - 20 , in Glen Ridge , New Jersey .
 
 
 
@@ -865,7 +865,7 @@ buzz aldrin was born on 1930 - 01 - 20 , in glen ridge , new jersey .
 
 
 
-the number of students at the school of business and social sciences at the aarhus university is 16000 .
+The number of students at the School of Business and Social Sciences at the Aarhus University is 16000 .
 
 
 

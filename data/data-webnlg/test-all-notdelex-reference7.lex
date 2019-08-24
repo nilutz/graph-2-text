@@ -865,7 +865,7 @@
 
 
 
-the school of business and social sciences at the aarhus university has 16000 students .
+The School of Business and Social Sciences at the Aarhus University has 16000 students .
 
 
 
