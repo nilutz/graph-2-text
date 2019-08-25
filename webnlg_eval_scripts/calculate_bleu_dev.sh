@@ -2,9 +2,9 @@
 
 # compute BLEU
 
-export TEST_TARGETS_REF0=dev-all-notdelex-reference0.lex
-export TEST_TARGETS_REF1=dev-all-notdelex-reference1.lex
-export TEST_TARGETS_REF2=dev-all-notdelex-reference2.lex
+export TEST_TARGETS_REF0=test-all-notdelex-reference0.lex
+export TEST_TARGETS_REF1=test-all-notdelex-reference1.lex
+export TEST_TARGETS_REF2=test-all-notdelex-reference2.lex
 # export TEST_TARGETS_REF3=../data/webnlg/all-notdelex-reference3.lex
 # export TEST_TARGETS_REF4=../data/webnlg/all-notdelex-reference4.lex
 # export TEST_TARGETS_REF5=../data/webnlg/all-notdelex-reference5.lex
