@@ -3,7 +3,7 @@ glove/
 # repo-specific stuff
 pred.txt
 multi-bleu.perl
-*.pt
+# *.pt
 \#*#
 .idea
 *.sublime-*
