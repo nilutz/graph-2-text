@@ -6,24 +6,27 @@ import csv
 import numpy as np
 import os
 import random
+import re
 
-def draw(DG):
+# import matplotlib.pyplot as plt
 
-    pos = nx.spring_layout(DG, scale=0.5)
+# def draw(DG):
 
-    node_labels = dict((n,n) for n,d in DG.nodes(data=True))
-    edge_labels = dict(((u,v),list(d.values())[0]) for u,v,d in DG.edges(data=True))
+#     pos = nx.spring_layout(DG, scale=0.5)
 
-    nx.draw(DG, pos=pos, alpha=0.8, arrows=False, node_color='lightgrey', node_size=400,
-            labels=node_labels, 
-            font_color='black', font_size=8, font_weight='bold',
-           )
-    nx.draw_networkx_edge_labels(DG, pos, edge_labels = edge_labels, font_size=8)
-    plt.show()
+#     node_labels = dict((n,n) for n,d in DG.nodes(data=True))
+#     edge_labels = dict(((u,v),list(d.values())[0]) for u,v,d in DG.edges(data=True))
+
+#     nx.draw(DG, pos=pos, alpha=0.8, arrows=False, node_color='lightgrey', node_size=400,
+#             labels=node_labels, 
+#             font_color='black', font_size=8, font_weight='bold',
+#            )
+#     nx.draw_networkx_edge_labels(DG, pos, edge_labels = edge_labels, font_size=8)
+#     plt.show()
 
 
 def genMultiGraph(DG, verbose=False):
-    #In this paper we adopt the parametrization proposed by Marcheggiani and Titov (2017) where edge labels and directions are explicitly modeled.
+    #In here we adopt the parametrization proposed by Marcheggiani and Titov (2017) where edge labels and directions are explicitly modeled.
     #https://arxiv.org/pdf/1703.04826.pdf
     #SUBJ(AO) -> rel -> (A1)obj
 
@@ -101,7 +104,7 @@ def genMultiGraph(DG, verbose=False):
 
 #@TODO: in delex the triples must be delex aswell !!!!
     
-def preprocess_triples(df, options, classtype = '', ctx = False):
+def preprocess_triples(df, options, classtype = '', ctx = True):
     '''
     reads in the texts and triples in different options
     and transforms into the parametrization proposed by Marcheggiani and Titov
@@ -118,36 +121,25 @@ def preprocess_triples(df, options, classtype = '', ctx = False):
     
     for i in range(0, len(df)):
 
-        if 'delex' in options:
-            try:
-                triples = df.at[i,'delex_triples']
-                if type(triples) is float:
-                    continue
-            except:
-                #print('some error')
+       
+        try:
+            triples = df.at[i,'triples']
+            if type(triples) is float:
                 continue
-        else:
-            try:
-                triples = df.at[i,'triples']
-                if type(triples) is float:
-                    continue
-            except:
-                #print('some error')
-                continue
+        except:
+            #print('some error')
+            continue
         #no empty triples !!!
         if triples is None or len(triples)==0:
             continue
         
-        if options == 'text':
-            text = df.at[i,'text']
-        elif options == 'lower':
+        text = df.at[i,'text']
+        if options['lower'] and options['notdelex']:
             text = df.at[i,'text'].lower()
-        elif options == 'delex':
-            text = df.at[i,'delex']
-        elif options == 'delex_lower':
+        elif options['lower'] and options['notdelex'] == False:
             lower = []
             try:
-                for word in df.at[i,'delex'].split():
+                for word in df.at[i,'text'].split():
                     if word.isupper():
                         lower.append(word)
                     else:
@@ -155,24 +147,29 @@ def preprocess_triples(df, options, classtype = '', ctx = False):
                 text = ' '.join(lower)
             except:
                 continue
-        else:
-            print('No options specified')
+        #else:
+        #    print('No options specified')
 
-
-
-        viz = False
 
         if type(text) is float:
             continue
 
         DG = nx.MultiDiGraph()
 
+        print(triples)
+        
+        tripleSep = ""
+        triplesString = ''
         for triple in triples:
             
-            if options =='lower' or options == 'delex_lower':
+            if options['lower']:
                 DG.add_edge(triple[0].lower(),triple[2].lower(), label = triple[1].lower())
+                triplesString += tripleSep + triple[0].lower() + '|' + triple[1].lower() + '|' + triple[2].lower() + ' '
+
             else:
                 DG.add_edge(triple[0],triple[2], label = triple[1])
+                triplesString += tripleSep + triple[0] + '|' + triple[1] + '|' + triple[2] + ' '
+            tripleSep = "<TSP>"
 
         source_nodes, source_edges = genMultiGraph(DG)
         
@@ -181,10 +178,13 @@ def preprocess_triples(df, options, classtype = '', ctx = False):
         source_edges_out_node1.append(source_edges[1])
         source_edges_out_node2.append(source_edges[2])
         target_out.append(text)
+        out_src = ' '.join(re.split('(\W)', triplesString))
+        source_out.append(' '.join(out_src.split()))
 
         if ctx:
             context.append(df.at[i,'class'])
 
+    print(context)
     concat = list(zip(source_nodes_out, source_edges_out_labels, source_edges_out_node1, source_edges_out_node2, target_out, context))
 
     random.shuffle(concat)
@@ -194,8 +194,17 @@ def preprocess_triples(df, options, classtype = '', ctx = False):
     split_1 = int(0.8 * len(source_nodes_out))
     split_2 = int(0.9 * len(source_nodes_out))
         
-    dataset='football'
-    p = '../data/'+ dataset +'/'+options+'_'+classtype
+    dataset='data-football'
+    optionals = ''
+    for key,val in options.items():
+        if key == 'notdelex' and val == True:
+            optionals+= 'notdelex'
+        elif key =='notdelex' and val ==False:
+            optionals += "delex"
+
+        if val == True and key != "notdelex":
+            optionals += '_'+key
+    p = '../data/' + dataset +'/'+optionals+'_'+classtype
 
     for split in ('train', 'dev', 'test', 'test_fake'):
 
@@ -205,6 +214,7 @@ def preprocess_triples(df, options, classtype = '', ctx = False):
             edges_node1 = source_edges_out_node1[:split_1]
             edges_node2 = source_edges_out_node2[:split_1]
             tgt_out = target_out[:split_1]
+            src_out = source_out[:split_1]
             if ctx:
                 context_out = context[:split_1]
 
@@ -214,6 +224,8 @@ def preprocess_triples(df, options, classtype = '', ctx = False):
             edges_node1 = source_edges_out_node1[split_1:split_2]
             edges_node2 = source_edges_out_node2[split_1:split_2]
             tgt_out = target_out[split_1:split_2]
+            src_out = source_out[split_1:split_2]
+
             if ctx:
                 context_out = context[split_1:split_2]
         elif split == 'test':
@@ -222,6 +234,7 @@ def preprocess_triples(df, options, classtype = '', ctx = False):
             edges_node1 = source_edges_out_node1[split_2:]
             edges_node2 = source_edges_out_node2[split_2:]
             tgt_out = target_out[split_2:]
+            src_out = source_out[split_2:]
             if ctx:
                 context_out = context[split_2:]
                 
@@ -245,23 +258,27 @@ def preprocess_triples(df, options, classtype = '', ctx = False):
 
         if not os.path.exists(p):
             os.makedirs(p)
-        with open(p+'/' + split + '-' +dataset + '-gcn-' + options + '-src-nodes.txt', 'w+', encoding='utf8') as f:
+
+        with open(p+'/' + split + '-' +dataset + '-gcn-' + optionals + '-src-nodes.txt', 'w+', encoding='utf8') as f:
             f.write('\n'.join(src))
             
-        with open(p+'/' + split + '-' +dataset + '-gcn-' + options + '-src-labels.txt', 'w+', encoding='utf8') as f:
+        with open(p+'/' + split + '-' +dataset + '-gcn-' + optionals + '-src-labels.txt', 'w+', encoding='utf8') as f:
             f.write('\n'.join(edges_labels))
         
-        with open(p+'/' + split + '-' +dataset + '-gcn-' + options + '-src-node1.txt', 'w+', encoding='utf8') as f:
+        with open(p+'/' + split + '-' +dataset + '-gcn-' + optionals + '-src-node1.txt', 'w+', encoding='utf8') as f:
             f.write('\n'.join(edges_node1))
         
-        with open(p+'/' + split + '-' +dataset + '-gcn-' + options + '-src-node2.txt', 'w+', encoding='utf8') as f:
+        with open(p+'/' + split + '-' +dataset + '-gcn-' + optionals + '-src-node2.txt', 'w+', encoding='utf8') as f:
             f.write('\n'.join(edges_node2))
         
-        with open(p+'/' + split + '-' +dataset + '-gcn-' + options + '-tgt.txt', 'w+', encoding='utf8') as f:
+        with open(p+'/' + split + '-' +dataset + '-gcn-' + optionals + '-tgt.txt', 'w+', encoding='utf8') as f:
             f.write('\n'.join(tgt_out)) 
+
+        with open(p+'/' + split + '-' +dataset + '-gcn-' + optionals + '.triple', 'w+', encoding='utf8') as f:
+            f.write('\n'.join(src_out))
         
         if ctx:
-            with open(p+'/' + split + '-' +dataset + '-gcn-' + options + '-context.txt', 'w+', encoding='utf8') as f:
+            with open(p+'/' + split + '-' +dataset + '-gcn-' + optionals + '-context.txt', 'w+', encoding='utf8') as f:
                 f.write('\n'.join(context_out))     
         
         assert len(tgt_out) == len(edges_node1)
@@ -271,12 +288,12 @@ def preprocess_triples(df, options, classtype = '', ctx = False):
         if ctx:
             assert len(src) == len(context_out)
 
-    print('processed in process triple', len(target_out) ,len(source_nodes_out),len(source_edges_out_node1), len(source_edges_out_node2),len(source_edges_out_labels),'texts with',options)
+    print('processed in process triple', len(target_out) ,len(source_nodes_out),len(source_edges_out_node1), len(source_edges_out_node2),len(source_edges_out_labels),'texts with',optionals)
 
-    options = options
-    return p, options, dataset
+    optionals = optionals
+    return p, optionals, dataset
 
-def split_to_csv(p, dataset = 'football', options = 'text', ctx = False):
+def split_to_csv(p, dataset = 'football', options='', ctx = False):
     '''
     makes a train / test / val split in a  0.8 / 0.1 / 0.1 ratio
     
@@ -311,11 +328,31 @@ def split_to_csv(p, dataset = 'football', options = 'text', ctx = False):
 
 @plac.annotations(
     path = ("path to df for preprocessing", "option", "p", Path),
-    options=("option", "option", "o", str),
     ctx = ('Also process context',"flag", 'c' ),
     full = ('Full df or split by class', "flag", "f"),
 )
-def main(path = "../data/data-football/sentences_full.pkl", options = 'text', ctx=False, full = False):
+def main(path = "../data/data-football/sentences_full_notdelex.pkl", ctx=False, full = False):
+
+    #we inspect the path to find out what options we have here
+    parts = path.parts[-1].split('_')
+    options = {
+        'notdelex': False, #notdelex
+        'lower': False,
+        'head':False,
+        'lemma':False,
+    }
+    for p in parts:
+        if 'notdelex' in p:
+            options['notdelex'] = True
+        if 'lower' in p:
+            options['lower'] = True
+        if 'head' in p:
+            options['head'] = True
+        if 'lemma' in p:
+            options['lemma'] = True    
+
+    print(options)
+
     
     #df = pd.read.csv(path)
     df = pd.read_pickle(path)
