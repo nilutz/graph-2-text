@@ -124,7 +124,7 @@ def preprocess_triples(df, options, classtype = '', ctx = True):
     target_out = []
     context = []
 
-    
+    count = 0
     for i in range(0, len(df)):
 
        
@@ -138,6 +138,7 @@ def preprocess_triples(df, options, classtype = '', ctx = True):
         #no empty triples !!!
         if triples is None or len(triples)==0:
             continue
+        count += 1
         
         text = df.at[i,'text']
         if options['lower'] and options['notdelex']:
@@ -292,7 +293,7 @@ def preprocess_triples(df, options, classtype = '', ctx = True):
         if ctx:
             assert len(src) == len(context_out)
 
-    print('processed in process triple', len(target_out) ,len(source_nodes_out),len(source_edges_out_node1), len(source_edges_out_node2),len(source_edges_out_labels),'texts with',optionals)
+    print('processed in process triple', len(df), count, len(target_out) ,len(source_nodes_out),len(source_edges_out_node1), len(source_edges_out_node2),len(source_edges_out_labels),'texts with',optionals)
 
     optionals = optionals
     return p, optionals, dataset
