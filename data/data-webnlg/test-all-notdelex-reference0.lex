@@ -1,4 +1,4 @@
-Jens Hartel currently plays for SV Germania Schoneiche , his first club was FC Lokomotive Leipzig and he has managed 1 FC Magdeburg .
+eJens Hartel currently plays for SV Germania Schoneiche , his first club was FC Lokomotive Leipzig and he has managed 1 FC Magdeburg .
 Jens Härtel has been the manager of 1 FC Magdeburg , part of SV Babelsberg 03 club and 1 FC Union Berlin . He is also attched to FSV Zwickau .
 FC Magedburg has 27250 members and was in Regionalliga in 2014 .
 The Uab is the nickname of the 1 1918 Decembrie University in the state of Alba .

@@ -4,6 +4,7 @@ glove/
 pred.txt
 multi-bleu.perl
 # *.pt
+.vscode
 \#*#
 .idea
 *.sublime-*
