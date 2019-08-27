@@ -103,6 +103,12 @@ def genMultiGraph(DG, verbose=False):
 
 
 #@TODO: in delex the triples must be delex aswell !!!!
+
+def check_upper(s):
+    if not s.isupper():
+        return s.lower()
+    else:
+        return s
     
 def preprocess_triples(df, options, classtype = '', ctx = True):
     '''
@@ -155,16 +161,15 @@ def preprocess_triples(df, options, classtype = '', ctx = True):
             continue
 
         DG = nx.MultiDiGraph()
-
-        print(triples)
         
         tripleSep = ""
         triplesString = ''
         for triple in triples:
             
             if options['lower']:
-                DG.add_edge(triple[0].lower(),triple[2].lower(), label = triple[1].lower())
-                triplesString += tripleSep + triple[0].lower() + '|' + triple[1].lower() + '|' + triple[2].lower() + ' '
+
+                DG.add_edge(check_upper(triple[0]),check_upper(triple[2]), label = check_upper(triple[1]))
+                triplesString += tripleSep + check_upper(triple[0]) + '|' + check_upper(triple[1]) + '|' + check_upper(triple[2]) + ' '
 
             else:
                 DG.add_edge(triple[0],triple[2], label = triple[1])
@@ -184,12 +189,11 @@ def preprocess_triples(df, options, classtype = '', ctx = True):
         if ctx:
             context.append(df.at[i,'class'])
 
-    print(context)
-    concat = list(zip(source_nodes_out, source_edges_out_labels, source_edges_out_node1, source_edges_out_node2, target_out, context))
+    concat = list(zip(source_nodes_out, source_edges_out_labels, source_edges_out_node1, source_edges_out_node2, target_out, context, source_out))
 
     random.shuffle(concat)
 
-    source_nodes_out, source_edges_out_labels, source_edges_out_node1, source_edges_out_node2, target_out, context  = zip(*concat)
+    source_nodes_out, source_edges_out_labels, source_edges_out_node1, source_edges_out_node2, target_out, context, source_out  = zip(*concat)
 
     split_1 = int(0.8 * len(source_nodes_out))
     split_2 = int(0.9 * len(source_nodes_out))
