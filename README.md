@@ -90,9 +90,6 @@ make sure the data has a context field
 ## GENERATE
 Generate with obtained model
 
-	python3 translate.py -model data/exp_football__acc_55.09_ppl_12.18_e10.pt -data_type gcn -src data/football/text_/test-football-gcn-text-src-nodes.txt -tgt data/football/text_/test-football-gcn-text-tgt.txt -src_label data/football/text_/test-football-gcn-text-src-labels.txt -src_node1 data/football/text_/test-football-gcn-text-src-node1.txt -src_node2 data/football/text_/test-football-gcn-text-src-node2.txt -output data/football/delexicalized_predictions_test.txt -replace_unk -verbose -model_name text_
-
-
 #### with context
 
 	python3 translate.py -model data/football_delex_1_ctx*e30.pt -data_type gcn -src data/data-football/delex_/test-data-football-gcn-delex-src-nodes.txt -tgt data/data-football/delex_/test-data-football-gcn-delex-tgt.txt -src_label data/data-football/delex_/test-data-football-gcn-delex-src-labels.txt -src_node1 data/data-football/delex_/test-data-football-gcn-delex-src-node1.txt -src_node2 data/data-football/delex_/test-data-football-gcn-delex-src-node2.txt -output data/data-football/delex_/delexicalized_predictions_test.txt -replace_unk -verbose -report_bleu 
