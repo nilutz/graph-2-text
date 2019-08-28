@@ -74,12 +74,8 @@ Exchange delex_/not_delex_ for different versions
 	-valid_ctx data/data-football/delex_/dev-data-football-gcn-delex-context.txt \
 	-save_data data/football_delex_ctx_1 -src_vocab_size 5000 -tgt_vocab_size 5000 -data_type gcn 
 
-One can also run the original webnlg data with this repository just navigate to data/webnlg
-
 ## TRAIN
 Training procedure:
-
-	python3 train.py -data data/football_delex_1 -save_model data/football_delex_1 -rnn_size 256 -word_vec_size 256 -layers 1 -epochs 10 -optim adam -learning_rate 0.001 -encoder_type gcn -gcn_num_inputs 256 -gcn_num_units 256 -gcn_in_arcs -gcn_out_arcs -gcn_num_layers 1 -gcn_num_labels 5 -tensorboard -gpuid 0 -model_name text
 
 #### with context
 make sure the data has a context field
@@ -105,7 +101,21 @@ add the following to get more statistic
 	-report_bleu
 	-report_rouge
 	
-## EVAL
+# Postprocessing
+if you've trained with *delex* you need to relex the Entity Desriptions to effectivly compare to the reference
+
+	python relex.py 
+
+creates relexicalised_predictions_test.txt
+
+# EVAL
+to compare go into folder
+
+	cd data/data-football/delex_
+
+	../../../football_processing/calculate_bleu.sh
+
+and there you have the BLEU score.
 
 # Ideas / Todo
 * BPE
