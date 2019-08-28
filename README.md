@@ -72,7 +72,7 @@ Exchange delex_/not_delex_ for different versions
 	-valid_tgt data/data-football/delex_/dev-data-football-gcn-delex-tgt.txt \
 	-train_ctx data/data-football/delex_/train-data-football-gcn-delex-context.txt \
 	-valid_ctx data/data-football/delex_/dev-data-football-gcn-delex-context.txt \
-	-save_data data/football_delex_ctx_1 -src_vocab_size 5000 -tgt_vocab_size 5000 -data_type gcn 
+	-save_data data/football_delex_ctx_1 -src_vocab_size 5005 -tgt_vocab_size 5005 -data_type gcn 
 
 ## TRAIN
 Training procedure:
@@ -88,7 +88,7 @@ Generate with obtained model
 
 #### with context
 
-	python3 translate.py -model data/football_delex_1_ctx*e30.pt -data_type gcn -src data/data-football/delex_/test-data-football-gcn-delex-src-nodes.txt -tgt data/data-football/delex_/test-data-football-gcn-delex-tgt.txt -src_label data/data-football/delex_/test-data-football-gcn-delex-src-labels.txt -src_node1 data/data-football/delex_/test-data-football-gcn-delex-src-node1.txt -src_node2 data/data-football/delex_/test-data-football-gcn-delex-src-node2.txt -output data/data-football/delex_/delexicalized_predictions_test.txt -replace_unk -verbose -report_bleu 
+	python3 translate.py -model data/football_delex_1_ctx*e30.pt -data_type gcn -src data/data-football/delex_/test-data-football-gcn-delex-src-nodes.txt -tgt data/data-football/delex_/test-data-football-gcn-delex-tgt.txt -src_label data/data-football/delex_/test-data-football-gcn-delex-src-labels.txt -src_node1 data/data-football/delex_/test-data-football-gcn-delex-src-node1.txt -src_node2 data/data-football/delex_/test-data-football-gcn-delex-src-node2.txt -src_ctx data/data-football/delex_/test-data-football-gcn-delex-context.txt -output data/data-football/delex_/delexicalized_predictions_test1.txt -context -replace_unk -verbose -report_bleu 
 
 #### Also test with test_fake
 we just flip the classes here:
