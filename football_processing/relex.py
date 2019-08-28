@@ -8,7 +8,6 @@ import json
 )
 def main(topdir = '../data/data-football/delex_', predfile = 'delexicalized_predictions_test.txt', out = 'relex_predictions_test.txt'):
 
-    print(topdir / predfile)
     with open( str(topdir / predfile) , 'r') as f:
         predictions = [line for line in f]
 
@@ -19,18 +18,26 @@ def main(topdir = '../data/data-football/delex_', predfile = 'delexicalized_pred
     
     relex_sents = []
     
+
     for pred, rel in zip(predictions, relex):
-        
+
+        nexti = dict.fromkeys(rel.keys(),0)
+
         relex_sentence = []
         for token in pred.split(' '):
             if token.isupper() and token in rel.keys():
-                relex_sentence.append(rel[token][0])
+                if len(rel[token])>=1:
+                    i = nexti[token] % len(rel[token])
+                    relex_sentence.append(rel[token][i])
+                    nexti[token] += 1
+                else:
+                    relex_sentence.append(rel[token][0])
             else:
                 relex_sentence.append(token)
         
         relex_sents.append(' '.join(relex_sentence))
 
-    outfileName =   'relexicalised_predictions_'+parts[-1].split('.')[0]+'.txt'
+    outfileName = 'relexicalised_predictions_'+parts[-1].split('.')[0]+'.txt'
     with open( str(topdir / outfileName), 'w+', encoding='utf8') as f:
         f.write(''.join(relex_sents) ) 
 
