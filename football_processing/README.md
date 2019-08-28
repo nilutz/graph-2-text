@@ -8,3 +8,26 @@ Then run:
 	python preprocess.py -c -f -p ../data/data-football/sentences_full_delex.pkl
 
 those create folders in data/data-football folders for each type.
+
+
+# Training
+
+follow the commands
+
+
+# Postprocessing
+if you've trained with *delex* you need to relex the Entity Desriptions to effectivly compare to the reference
+
+	python relex.py 
+
+creates relexicalised_predictions_test.txt
+
+to compare go into folder
+
+	cd data/data-football/delex_
+
+	../../../football_processing/calculate_bleu.sh
+
+and there you have the BLEU score.
+
+

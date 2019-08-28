@@ -1,1370 +1,1370 @@
-{"ASSIST": ["Draxler"], "PLAYER": ["Farfan"]}
-{"ASSIST": ["Olic"], "EVENT": ["Konter"]}
-{"PLAYER": ["Volland"]}
-{"ASSIST": ["Wolf"], "EVENT": ["Flanke"], "PLAYER": ["Rebic"]}
-{"ASSIST": ["Kramaric"], "EVENT": ["Flanke"], "PLAYER": ["Szalai"]}
-{"PLAYER": ["Schmelzer"], "EVENT": ["Ball"]}
-{"EVENT": ["Flanke"], "PLAYER": ["M\u00f6lders"], "PER": ["Felipe Santana"]}
-{"PER": ["H\u00f6wedes"], "KEEPER": ["Kruse"]}
-{"ASSIST": ["Gentner"], "PLAYER": ["Misimovic"]}
-{"ASSIST": ["Niederlechner"], "PLAYER": ["Grifo"], "KEEPER": ["L\u00f6ssl"]}
-{"PLAYER": ["Sahin"], "KEEPER": ["Giefer"], "EVENT": ["Schuss"]}
-{"PLAYER": ["Kie\u00dfling"]}
-{"PLAYER": ["Mlapa"]}
-{}
-{"ASSIST": ["Ekici"], "PLAYER": ["Eigler"], "EVENT": ["Chance"]}
-{"PLAYER": ["Ilicevic"]}
-{"ASSIST": ["Salihovic"], "PLAYER": ["Volland"]}
-{"EVENT": ["Ball"], "PLAYER": ["Hochscheidt"]}
-{"PER": ["G\u00f6tze"], "EVENT": ["Pass"], "ASSIST": ["Dembel\u00e9"]}
-{"EVENT": ["Ball", "Leder"], "PLAYER": ["Hahn"]}
-{"PLAYER": ["Ramos"]}
-{"PLAYER": ["Robben"]}
-{"PLAYER": ["Hazard"], "EVENT": ["Flugball", "Ball"], "PER": ["Schwolow"], "ASSIST": ["Strobl"]}
-{"PER": ["Oczipka"], "ASSIST": ["Inui"]}
-{"PLAYER": ["Demichelis"], "EVENT": ["F\u00fchrung"]}
-{"PER": ["Torunarigha", "Kampl"], "EVENT": ["Eckball", "Leder"], "PLAYER": ["Bruma"]}
-{"PLAYER": ["Huszti"]}
-{"ASSIST": ["Ribery"], "PLAYER": ["Robben"], "EVENT": ["Ball"]}
-{"PLAYER": ["Reus"], "EVENT": ["Doppelpass", "Konter"], "ASSIST": ["Bobadilla"]}
-{"EVENT": ["Ecke"], "ASSIST": ["Diego"]}
-{"EVENT": ["Eckball"], "PER": ["Albornoz"], "PLAYER": ["G\u00f6tze"]}
-{"PLAYER": ["Schweinsteiger"], "EVENT": ["Spielger\u00e4t"]}
-{"ASSIST": ["Stindl"], "PER": ["Boka"]}
-{"ASSIST": ["Matmour"], "PLAYER": ["Lakic"]}
-{"PLAYER": ["Ebbers"]}
-{"PLAYER": ["Guerrero"], "KEEPER": ["Rensing"]}
-{"PLAYER": ["Reus"], "EVENT": ["Ball"], "PER": ["G\u00f6tze"], "ASSIST": ["Sch\u00fcrrle"]}
-{"ASSIST": ["Aogo"], "EVENT": ["Freisto\u00df", "Ball"], "PLAYER": ["Matip"]}
-{"PLAYER": ["Ramos"], "ASSIST": ["Pekarik"], "EVENT": ["Flanke", "F\u00fchrung"]}
-{"PLAYER": ["Kie\u00dfling"], "EVENT": ["Kopfball"]}
-{"EVENT": ["Ball"], "PLAYER": ["Ciss\u00e9"]}
-{"PER": ["Schieber-Ersatz"], "EVENT": ["Zuspiel", "Schuss"], "ASSIST": ["Mak"]}
-{"ASSIST": ["Kenia"]}
-{"PLAYER": ["Ivanschitz"], "EVENT": ["Strafsto\u00df"]}
-{"PER": ["Christensen"], "EVENT": ["R\u00fcckpass", "Ball"], "PLAYER": ["Embolo"]}
-{"PLAYER": ["Hrgota"]}
-{"PLAYER": ["Bartels"], "ASSIST": ["Kruse"]}
-{"ASSIST": ["Traor\u00e9"], "PER": ["Gentner"], "EVENT": ["Doppelpass"], "PLAYER": ["Maxim"]}
-{"PLAYER": ["Son"], "EVENT": ["Ball"]}
-{"PLAYER": ["Bruma"], "EVENT": ["Ecke", "Ball"]}
-{"PLAYER": ["H\u00f6wedes"], "EVENT": ["Ecke"]}
-{"PLAYER": ["Klaus"]}
 {"ASSIST": ["M\u00fcller"], "EVENT": ["Schuss"], "PER": ["Drobny"], "PLAYER": ["G\u00f6tze"]}
-{"KEEPER": ["Ulreich"]}
-{"PLAYER": ["Aubameyang"]}
-{"PLAYER": ["Gerhardt"]}
-{"PLAYER": ["Kramaric"], "EVENT": ["Ball"]}
-{"ASSIST": ["Niedermeier"], "PER": ["Hajnals"]}
+{"EVENT": ["Ecke"], "PER": ["De Bruynes"]}
 {"PLAYER": ["Lewandowski"]}
-{"PLAYER": ["Clemens"]}
-{"ASSIST": ["Huszti"], "PER": ["Chandler"], "PLAYER": ["Bittencourt"], "EVENT": ["Querpass"]}
-{"PER": ["Diekmeier"], "EVENT": ["F\u00fchrung", "Flanke"], "ASSIST": ["Hunt"]}
-{"ASSIST": ["Malli"]}
-{"PER": ["Kalou"], "ASSIST": ["Haraguchi"]}
-{"PER": ["Dante"], "EVENT": ["Ball"], "PLAYER": ["Hanke"], "ASSIST": ["Reus"]}
-{"PER": ["Spahic", "Boenisch", "Leno"], "EVENT": ["Flanke"], "PLAYER": ["Bartels"]}
-{"ASSIST": ["Schwegler"], "PER": ["Drobny"], "EVENT": ["Ball"]}
-{"EVENT": ["Flanke"], "PLAYER": ["Schieber"], "PER": ["Caldirola"]}
-{"PLAYER": ["G\u00f6tze"]}
-{"EVENT": ["Ball"], "PLAYER": ["Jung"], "PER": ["Oczipka", "Inui"]}
-{"ASSIST": ["Br\u00fcckner"], "PLAYER": ["Stoppelkamp"], "EVENT": ["Ball"]}
-{"PLAYER": ["Chicharito"], "KEEPER": ["Hitz"]}
-{"PLAYER": ["Petric"], "EVENT": ["Ball"]}
-{"PLAYER": ["Abdellaoue"], "EVENT": ["Ball"]}
-{"EVENT": ["Flanke"], "ASSIST": ["De Blasis"]}
-{"PLAYER": ["Pohjanpalo"]}
-{"PLAYER": ["Shaqiri"], "ASSIST": ["Ribery"]}
-{"ASSIST": ["Bittencourt"], "PLAYER": ["Osako"]}
-{"ASSIST": ["Uth"], "PLAYER": ["Vargas"]}
-{"PER": ["Boateng"], "EVENT": ["Hereingabe", "Ball"], "ASSIST": ["Carvajals"]}
-{"PLAYER": ["Mak"]}
-{"ASSIST": ["Rosenthal"], "PLAYER": ["Wagner"]}
-{"PLAYER": ["Schwaab"], "EVENT": ["Schuss", "Ball"], "PER": ["Albornoz"]}
-{"PLAYER": ["Raffael"], "EVENT": ["Flanke"], "ASSIST": ["Christensen"]}
-{"PER": ["Salihovic"], "ASSIST": ["Roberto Firmino"], "EVENT": ["Steilpass"]}
-{"PLAYER": ["Aubameyang"], "EVENT": ["Spielger\u00e4t"]}
-{"PLAYER": ["Kohr"], "EVENT": ["Pass"], "ASSIST": ["Wendell"]}
-{"ASSIST": ["Hazard"], "EVENT": ["Standard"], "PLAYER": ["Xhaka"]}
-{"ASSIST": ["Matip"], "PER": ["Bell"], "PLAYER": ["Huntelaar"]}
-{"PLAYER": ["Rodriguez"], "EVENT": ["Leder"]}
-{"PLAYER": ["Meier"], "EVENT": ["Ball"]}
-{"EVENT": ["Hereingabe"], "PLAYER": ["Ba"]}
-{"PER": ["Bauer"], "EVENT": ["Flanke"], "PLAYER": ["Junuzovic"]}
-{"PER": ["Lewandowski"], "EVENT": ["Ball"], "ASSIST": ["Piszczek"]}
-{"PLAYER": ["Modeste"]}
-{"ASSIST": ["Stocker"], "EVENT": ["Ball"], "PLAYER": ["Kalou"], "PER": ["Schwaab"]}
-{"PLAYER": ["Polanski"]}
-{"PLAYER": ["Bell"]}
-{"EVENT": ["Flanke"], "PLAYER": ["Huntelaar"]}
-{"PLAYER": ["Hummels"], "EVENT": ["Luftkampf"], "PER": ["Schweinsteiger"]}
-{"EVENT": ["R\u00fcckpass"], "KEEPER": ["Kruse"]}
-{"ASSIST": ["Di Santo"], "PLAYER": ["Petersen"]}
-{"ASSIST": ["Ibisevic"], "PLAYER": ["Sigurdsson"], "EVENT": ["Ball"]}
-{"PER": ["Plattenhardt"], "PLAYER": ["Briand"], "EVENT": ["Leder"]}
-{"PLAYER": ["Hahn"], "EVENT": ["Vorarbeit"], "ASSIST": ["Ostrzolek"]}
-{"PLAYER": ["Stindl"], "PER": ["Dahoud"], "EVENT": ["Pass"]}
-{"PLAYER": ["Ibisevic"], "EVENT": ["Ball"]}
-{"ASSIST": ["Klein"], "EVENT": ["Leder"], "PLAYER": ["Didavi"]}
-{"ASSIST": ["Holtby"], "PER": ["Veljkovic"], "PLAYER": ["Gregoritsch"]}
-{"ASSIST": ["Sakai"], "PLAYER": ["Sobiech"]}
-{"PER": ["Herrmann", "Hector"], "KEEPER": ["Horn"], "PLAYER": ["Raffael"], "EVENT": ["Abpraller"]}
-{"PLAYER": ["Gentner"]}
-{"ASSIST": ["Ivanschitz"], "PLAYER": ["Szalai"], "EVENT": ["Ball"]}
-{"PLAYER": ["Wagner"], "EVENT": ["Flanke"]}
-{"ASSIST": ["H\u00f6jbjerg"], "PLAYER": ["Shaqiri"]}
-{"ASSIST": ["Nordtveit"], "EVENT": ["Eckball"]}
-{"ASSIST": ["Castro"], "EVENT": ["Ball"], "PER": ["Fuchs"], "PLAYER": ["Kie\u00dfling"]}
-{"ASSIST": ["Kalou"], "EVENT": ["Ball"], "PLAYER": ["Ibisevic"]}
-{"EVENT": ["Ball"], "ASSIST": ["Kimmich"]}
-{"ASSIST": ["Lewandowski"], "EVENT": ["Ball"], "PER": ["Kjaer", "Stark"]}
-{"PER": ["Hofmann", "Aubameyang"]}
-{"PLAYER": ["Rodriguez"], "EVENT": ["Freisto\u00df"]}
-{"PLAYER": ["Boll"]}
-{"PLAYER": ["Christensen"], "PER": ["Jung"]}
-{"PLAYER": ["Lewandowski"]}
-{"PLAYER": ["Farfan"], "PER": ["Leno"]}
-{"ASSIST": ["Brandt"], "PLAYER": ["Bailey"]}
-{"KEEPER": ["Zieler"], "PLAYER": ["Son"]}
-{"PLAYER": ["Kalou"]}
-{"ASSIST": ["Aigner"], "PER": ["Draxler"]}
-{"PER": ["Vorsah"], "PLAYER": ["Harnik"], "EVENT": ["Hereingabe"]}
-{"PLAYER": ["Jovic"], "EVENT": ["Flachschuss"]}
-{"PLAYER": ["Pulisic"], "EVENT": ["R\u00fcckpass", "Leder"], "ASSIST": ["Durm"]}
-{"PLAYER": ["Reus"], "EVENT": ["Spielger\u00e4t"]}
-{"ASSIST": ["Lewandowski"], "EVENT": ["Ball", "Zuspiel"], "PER": ["Boatengs", "Noveski"], "PLAYER": ["Schweinsteiger"]}
-{"PLAYER": ["Modeste"], "PER": ["Javi Martinez", "Neuers"], "EVENT": ["Flanke"], "ASSIST": ["Risse"]}
-{"EVENT": ["Freisto\u00dfflanke"], "PLAYER": ["Bobadilla"], "PER": ["B\u00fcrki"]}
-{"PLAYER": ["Hubnik"], "EVENT": ["Ball"], "KEEPER": ["Baumann"]}
-{"PER": ["Xabi Alonso"], "ASSIST": ["Forsberg"], "PLAYER": ["Werner"], "EVENT": ["Elfmeter"]}
-{"PLAYER": ["Mandzukic"], "KEEPER": ["Stephan"]}
-{"ASSIST": ["Thiago"], "EVENT": ["Schnittstellenpass", "Ecke"], "PLAYER": ["Lewandowski"]}
-{"ASSIST": ["Tzavellas"], "EVENT": ["Ecke"], "PER": ["Rodnei"]}
-{"PER": ["Subotic"], "ASSIST": ["Hummels"]}
-{"ASSIST": ["Schwegler"], "EVENT": ["Ecke"], "PLAYER": ["Harnik"]}
-{"PER": ["Piszczek"]}
-{"ASSIST": ["Diego"], "PLAYER": ["Olic"]}
-{"PLAYER": ["Finnbogason"]}
-{"ASSIST": ["Mandzukic"], "PLAYER": ["Robben"]}
-{"ASSIST": ["Douglas Costa"], "PLAYER": ["M\u00fcller"]}
-{"ASSIST": ["Ilicevic"], "EVENT": ["Ecksto\u00df"], "PLAYER": ["Lasogga"], "PER": ["Nordtveit", "Brouwers"]}
-{"PER": ["Stamboulis", "Meyer"], "PLAYER": ["Haller"]}
-{"ASSIST": ["Caligiuri"], "EVENT": ["Freisto\u00df"]}
-{"PLAYER": ["Pohjanpalo"], "EVENT": ["Spielger\u00e4t"]}
-{"PLAYER": ["Niemeyer"], "EVENT": ["Ecke", "Kopfball", "Chance"], "ASSIST": ["Ebert"], "KEEPER": ["Sippel"]}
-{"ASSIST": ["Koo"], "EVENT": ["Ball"], "PLAYER": ["M\u00f6lders"]}
-{"EVENT": ["Kopfballduell"], "PLAYER": ["Esswein"]}
-{"ASSIST": ["Herrmann"], "PLAYER": ["Raffael"]}
-{"ASSIST": ["Ji"], "EVENT": ["Ball"]}
-{"ASSIST": ["Bilek"], "EVENT": ["Ecke"], "PER": ["Tiffert"]}
-{"PER": ["Junuzovic"], "ASSIST": ["Caldirola"], "PLAYER": ["Pr\u00f6dl"], "EVENT": ["Leder"]}
-{"PER": ["Demel"], "ASSIST": ["Petric"], "EVENT": ["weiterleitet", "Ball"], "PLAYER": ["Westermann"]}
-{"PER": ["B\u00fcrki"], "EVENT": ["Abschlag"], "PLAYER": ["Zoller"]}
-{"PLAYER": ["Lewandowski"], "EVENT": ["Ball"]}
-{"PLAYER": ["Daems"], "EVENT": ["Ecke"]}
-{"PLAYER": ["F\u00fcllkrug"]}
-{"PER": ["Kiyotake"], "ASSIST": ["Chandler"], "PLAYER": ["Feulner"]}
-{"EVENT": ["Bogenlampe", "weiterleitet"], "ASSIST": ["Werner"]}
-{"PLAYER": ["Ribery"], "EVENT": ["Einwurf", "Leder"], "PER": ["Diekmeier"]}
-{"PER": ["Sirigu", "Schmelzer"], "EVENT": ["Querpass"], "PLAYER": ["Pulisic"]}
-{"EVENT": ["Freisto\u00df"], "ASSIST": ["Brosinski"], "PLAYER": ["Balogun"], "PER": ["Maroh"]}
-{"PLAYER": ["James"]}
-{"PLAYER": ["Calhanoglu"], "EVENT": ["Ball"], "PER": ["Balitsch"]}
-{"PER": ["M\u00f6lders"], "PLAYER": ["Hain"]}
-{}
-{"PLAYER": ["Tzavellas"], "EVENT": ["Ball"], "PER": ["Gekas", "Neuer"]}
-{"EVENT": ["Flanke"], "ASSIST": ["Calhanoglu"]}
-{"PER": ["Maxim", "Polanski"], "EVENT": ["Ball"], "ASSIST": ["Volland"]}
-{"PER": ["Max"], "ASSIST": ["Finnbogason"], "PLAYER": ["Koo"]}
-{"PLAYER": ["Hunt"], "EVENT": ["Leder"]}
-{"EVENT": ["Ball"], "PER": ["Belhanda"], "ASSIST": ["Meyer"], "PLAYER": ["Sch\u00f6pf"]}
-{"ASSIST": ["Ostrzolek"], "EVENT": ["Zuspiel"], "PER": ["M\u00fcller"], "PLAYER": ["Wood"]}
-{"ASSIST": ["Malli"], "PLAYER": ["Cordoba"], "EVENT": ["Steilpass"], "PER": ["Javi Martinez"], "KEEPER": ["Neuer"]}
-{"PLAYER": ["Novakovic"], "EVENT": ["Ball", "Ecke"], "PER": ["Boateng"]}
-{"PER": ["Vrancic"], "ASSIST": ["Heinloth"]}
-{"ASSIST": ["Ujah"], "PER": ["Schulz"], "EVENT": ["Elfmeter"]}
-{"PER": ["Holtby", "Noveski"]}
-{"ASSIST": ["Rolfes"], "PLAYER": ["Kie\u00dfling"]}
-{"PLAYER": ["Reus"]}
-{"PER": ["Sulu"], "PLAYER": ["Cohens"], "EVENT": ["abstaubt"]}
-{"ASSIST": ["M\u00fcller"], "EVENT": ["Ball", "F\u00fchrung"], "PLAYER": ["Ivanschitz"], "KEEPER": ["Neuer"]}
-{"PLAYER": ["Brandt"], "EVENT": ["Doppelpass", "Ball"], "ASSIST": ["Alario"]}
-{"PLAYER": ["Kagawa"]}
-{"PER": ["Kostic"], "EVENT": ["Ball"], "ASSIST": ["Tashchy"]}
-{"ASSIST": ["Junuzovic"], "PER": ["Guilavogui"]}
-{"PER": ["Baumann", "Benders"], "EVENT": ["Distanzschuss", "Abpraller"], "ASSIST": ["Lewandowski"], "PLAYER": ["Reus"]}
-{"ASSIST": ["H\u00f6fler"], "EVENT": ["Flanke", "Vorlage"], "PER": ["Mehmedi"]}
-{"PLAYER": ["Son"]}
-{"PLAYER": ["Hinteregger"], "EVENT": ["Konter"]}
-{"ASSIST": ["Vogt"], "PLAYER": ["Hector"]}
-{"KEEPER": ["Horn"], "EVENT": ["Absto\u00df"], "PLAYER": ["Bittencourt"], "ASSIST": ["Cordoba"]}
-{"EVENT": ["Schuss"], "PER": ["Toprak"], "PLAYER": ["Choupo-Moting"]}
-{"ASSIST": ["M\u00fcller"], "EVENT": ["Ball", "Leder"], "PER": ["Bicakcic"], "PLAYER": ["Gomez"]}
-{"ASSIST": ["Jajalo"], "EVENT": ["Ball"], "PLAYER": ["Matuschyk"]}
-{"PLAYER": ["Pizarro"]}
-{"PER": ["Diego", "Judt"]}
-{"PER": ["Ginczek"], "PLAYER": ["Haller"]}
-{"PLAYER": ["M\u00fcller"], "EVENT": ["Abpraller", "Leder"]}
-{"ASSIST": ["Ivanschitz"], "PLAYER": ["Szalai"], "EVENT": ["Ball"]}
-{"PLAYER": ["Ginczek"]}
-{"PLAYER": ["Szalai"], "PER": ["Toprak/Wollscheid"]}
-{"PLAYER": ["Dembel\u00e9"]}
-{"ASSIST": ["G\u00f6tze"], "EVENT": ["Leder"], "PLAYER": ["Halfar"]}
-{"KEEPER": ["Neuer"], "EVENT": ["Leder"], "PLAYER": ["Hegeler"]}
-{"PLAYER": ["Kramaric"], "EVENT": ["Leder"], "PER": ["H\u00f6hn"]}
-{"ASSIST": ["Kadlec"], "EVENT": ["Freisto\u00df"]}
-{"ASSIST": ["Stindl"], "EVENT": ["Reflex"], "PLAYER": ["Raffael"]}
-{"EVENT": ["Ball", "F\u00fchrung"], "PLAYER": ["Gued\u00e9"]}
-{"PLAYER": ["Meier"]}
-{"PER": ["Bastians"], "EVENT": ["Leder"], "PLAYER": ["Helmes"]}
-{"PLAYER": ["Kalou"], "EVENT": ["Spielger\u00e4t"]}
-{"PLAYER": ["Jones"], "EVENT": ["Ball"]}
-{"PLAYER": ["Bartels"]}
-{"PLAYER": ["Aubameyang"]}
-{"PLAYER": ["Raffael"], "EVENT": ["Ball"]}
-{"KEEPER": ["Kruse"], "ASSIST": ["Sch\u00fcrrle"]}
-{"EVENT": ["Ball", "Leder"], "ASSIST": ["Kalou"], "PLAYER": ["Ibisevic"]}
-{"PER": ["Franz"], "ASSIST": ["Hegeler"], "PLAYER": ["Pekhart"], "EVENT": ["F\u00fchrung"]}
-{"PLAYER": ["Burgstaller"], "EVENT": ["Versuch"], "PER": ["Goretzka"]}
-{"PLAYER": ["Rebic"]}
-{"ASSIST": ["Malli"], "PLAYER": ["Origi"]}
-{}
-{"PLAYER": ["Belfodil"], "EVENT": ["Bogenlampe"]}
-{"ASSIST": ["Blaszczykowski"], "EVENT": ["Eckball"]}
-{"PLAYER": ["M\u00fcller"], "EVENT": ["Abpraller"]}
-{"PLAYER": ["Zimling"], "EVENT": ["Spielger\u00e4t"]}
-{"KEEPER": ["Kruse"], "EVENT": ["Ball"], "ASSIST": ["Herrmann"]}
-{"ASSIST": ["Parker"], "PLAYER": ["Matavz"], "EVENT": ["Ball"]}
-{"ASSIST": ["Schieber"], "PLAYER": ["Pinola"], "KEEPER": ["Ulreich"]}
-{"ASSIST": ["Pizarro"], "EVENT": ["Pass"], "PLAYER": ["Osako"]}
-{"PLAYER": ["van Nistelrooy"], "PER": ["Metzelder"]}
-{"ASSIST": ["Schuster"], "EVENT": ["Ball", "Freisto\u00df-Variante", "Mauer"], "PLAYER": ["Makiadi"]}
-{"PER": ["Arslan", "Harnik"], "EVENT": ["Steilpass"], "ASSIST": ["Jansen"], "PLAYER": ["Beister"]}
-{"PLAYER": ["de Jong"], "KEEPER": ["Ulreich"]}
-{"PER": ["Ito", "Hunt"], "EVENT": ["Flanke"], "PLAYER": ["Kostic"]}
-{"ASSIST": ["Calhanoglu"], "EVENT": ["Ecksto\u00df", "Spielger\u00e4t", "Kopfball"]}
-{"ASSIST": ["Sancho"]}
-{"EVENT": ["Freisto\u00dfflanke", "Hereingabe"], "PER": ["Sulu"]}
-{"PLAYER": ["Pizarro"]}
-{"PLAYER": ["Andreasen"]}
-{"ASSIST": ["Robben"], "PLAYER": ["Schweinsteiger"], "EVENT": ["Flachschuss"]}
-{"PLAYER": ["Stendera"], "PER": ["Schmiedebach"]}
-{"ASSIST": ["Clemens"], "EVENT": ["Hereingabe"], "PLAYER": ["Jairo"]}
-{"PLAYER": ["Meyer"], "PER": ["Subotic"], "ASSIST": ["Szalai"]}
-{"PLAYER": ["Ribery"], "KEEPER": ["Zieler"]}
-{"ASSIST": ["Ekdal"], "PLAYER": ["Holtby"]}
-{"ASSIST": ["Arango"], "EVENT": ["Ball", "Freisto\u00df"]}
-{"PLAYER": ["Reus"], "EVENT": ["Freisto\u00df", "Mauer"]}
-{"ASSIST": ["Arnold"], "PLAYER": ["De Bruyne"]}
-{"ASSIST": ["Weiser"], "PER": ["Bentaleb"], "PLAYER": ["Stocker"], "EVENT": ["Flachschuss"]}
-{"PLAYER": ["Nordtveit"], "EVENT": ["Distanzschuss"]}
-{"ASSIST": ["Rodriguez"], "EVENT": ["Ball"]}
-{"ASSIST": ["Malli"], "PLAYER": ["Okazaki"]}
-{"PER": ["Obasi"], "ASSIST": ["Draxler"], "EVENT": ["Zuspiel"], "PLAYER": ["Huntelaar"]}
-{"EVENT": ["Flanke"], "ASSIST": ["Braafheids"]}
-{"EVENT": ["Ball"], "ASSIST": ["Eggestein"], "PLAYER": ["Gebre Selassie"]}
-{"ASSIST": ["Forsberg"], "PLAYER": ["Sabitzer"]}
-{"PLAYER": ["Draxler"]}
-{"ASSIST": ["Lehmann"], "PLAYER": ["Risse"]}
-{"PLAYER": ["Caligiuri"], "EVENT": ["Ecke", "Flachschuss"]}
-{"PER": ["Hilbert"], "EVENT": ["Freisto\u00dfflanke"], "ASSIST": ["Havertz"], "PLAYER": ["Volland"]}
-{"PER": ["Pocognoli", "Baba"], "ASSIST": ["Diouf"]}
-{"ASSIST": ["Boulahrouz"], "PLAYER": ["Okazaki"]}
-{"PER": ["Kostic"], "EVENT": ["Abpraller", "Leder"], "PLAYER": ["Serey Di\u00e9"]}
-{"ASSIST": ["Son"], "PLAYER": ["Drmic"]}
-{"PLAYER": ["Bentaleb"]}
-{"ASSIST": ["Pocognoli"], "PLAYER": ["Rausch"], "EVENT": ["Ball"]}
-{"PLAYER": ["Abdellaoue"], "EVENT": ["Elfmeter"]}
-{"PER": ["Marcelo"], "ASSIST": ["Firmino"]}
-{"PLAYER": ["Dzeko"]}
-{"PLAYER": ["Toprak"], "KEEPER": ["Baumann"], "EVENT": ["Ball"]}
-{"ASSIST": ["H\u00f6jbjerg"]}
-{"EVENT": ["Ball"]}
-{"EVENT": ["Vorarbeit"], "PLAYER": ["Hunt"], "PER": ["Walace"]}
-{"ASSIST": ["Bartels"], "EVENT": ["Ball"]}
-{"PLAYER": ["Harnik"], "EVENT": ["Zuspiel"]}
-{"PLAYER": ["Lasogga"], "EVENT": ["Ball", "verl\u00e4ngern"]}
-{"PLAYER": ["Szalai"], "EVENT": ["Sportger\u00e4t"]}
-{"ASSIST": ["Pospech"], "EVENT": ["Ball"]}
-{"PLAYER": ["Jovic"], "EVENT": ["Ball"]}
-{"ASSIST": ["Azemi"], "KEEPER": ["Hildebrand"]}
-{"PER": ["Madlung", "Petit"], "EVENT": ["Pass"]}
-{"PLAYER": ["Hinteregger"]}
-{"ASSIST": ["Rodriguez"], "PLAYER": ["Olic"]}
-{"PLAYER": ["Kalou"]}
-{"PER": ["Leckie"], "PLAYER": ["Kalou"], "EVENT": ["Flanke"], "ASSIST": ["Plattenhardt"]}
-{"PLAYER": ["Olic"], "KEEPER": ["Mielitz"]}
-{"PER": ["Reus"], "ASSIST": ["Piszczek"], "EVENT": ["Querpass"], "PLAYER": ["Lewandowski"]}
-{"PLAYER": ["Dahoud"]}
-{"ASSIST": ["Dejagah"], "PLAYER": ["Helmes"]}
-{"ASSIST": ["G\u00f6tze"], "PLAYER": ["Pizarro"], "EVENT": ["Pass"]}
-{"ASSIST": ["M\u00fcller"], "EVENT": ["Parade"], "PLAYER": ["G\u00f6tze"], "KEEPER": ["Adler"], "PER": ["Robben"]}
-{"PLAYER": ["Brandt"], "EVENT": ["Kopfball", "F\u00fchrung"]}
-{"PER": ["Kirch", "Sokratis"], "EVENT": ["Ball"], "PLAYER": ["Gentner"]}
-{"PLAYER": ["Goretzka"]}
-{"PLAYER": ["Oliinyk"]}
-{"PER": ["Lahm"], "ASSIST": ["Ribery"]}
-{"PER": ["Ostrzolek"]}
-{"ASSIST": ["Flum"], "EVENT": ["Schuss"], "PLAYER": ["Meier"]}
-{"PLAYER": ["Langkamp"], "EVENT": ["Kopfball"]}
-{"PLAYER": ["Raffael"], "EVENT": ["Elfmeter"]}
-{"ASSIST": ["Grifo"], "PLAYER": ["Raffael"], "EVENT": ["Ball"]}
-{"KEEPER": ["Hitz"], "EVENT": ["Ecke"]}
-{"ASSIST": ["Garcia"], "PLAYER": ["Selke"]}
-{"PLAYER": ["Huntelaar"]}
-{"ASSIST": ["Forsberg"], "EVENT": ["Freisto\u00df", "verl\u00e4ngerte", "Ball"], "PLAYER": ["Kolasinac"]}
-{"ASSIST": ["Hasebe"], "PLAYER": ["Aigner"]}
-{"PLAYER": ["Schieber"]}
-{"EVENT": ["Zuspiel"], "ASSIST": ["Bas"]}
-{"PLAYER": ["Douglas Costa"], "EVENT": ["Ball"]}
-{"EVENT": ["Eckball"], "PLAYER": ["Schulz"]}
-{"ASSIST": ["Schieber"], "PER": ["Papadopoulos"], "PLAYER": ["Frantz"], "EVENT": ["Zuspiel"]}
-{"PLAYER": ["Meyer"]}
-{"PLAYER": ["Schwegler"], "EVENT": ["Ball"]}
-{"PLAYER": ["Reinartz"], "EVENT": ["Kopfball", "Ball"]}
-{"ASSIST": ["Huntelaar"], "PLAYER": ["Neust\u00e4dter"]}
-{"ASSIST": ["Kiyotake"], "PLAYER": ["San\u00e9"], "PER": ["Diekmeier"]}
-{"PER": ["Neust\u00e4dter"], "PLAYER": ["Ginter"]}
-{"PLAYER": ["Stocker"], "EVENT": ["Ball"]}
-{"PER": ["Pinola", "Pekhart"], "PLAYER": ["Kiyotake"], "ASSIST": ["Drmic"]}
-{"ASSIST": ["Rausch"], "EVENT": ["Standard", "Ball", "F\u00fchrung"], "PLAYER": ["Sulu"]}
-{"PLAYER": ["Aubameyang"]}
-{"ASSIST": ["Reus"], "EVENT": ["Ball"], "PLAYER": ["Aubameyang"]}
-{"PLAYER": ["Ibisevic"], "EVENT": ["Strafsto\u00df"]}
-{"PLAYER": ["Sahin"], "EVENT": ["Freisto\u00df"]}
-{"PLAYER": ["Shaqiri"], "EVENT": ["Eckball", "Ball"], "ASSIST": ["Ribery"]}
-{"PLAYER": ["Dzeko"], "EVENT": ["Ball"]}
-{"ASSIST": ["Modeste"], "EVENT": ["Konter"], "PER": ["Hlousek"], "PLAYER": ["Osako"]}
-{"PLAYER": ["F\u00fcllkrug"]}
-{"ASSIST": ["Sulu"], "PER": ["Hellers"], "PLAYER": ["Gondorf"], "EVENT": ["Vorlage"]}
-{"ASSIST": ["Haraguchi"], "PLAYER": ["Schieber"]}
-{"PLAYER": ["Caligiuri"], "EVENT": ["Elfmeter"]}
-{"ASSIST": ["Brandt"], "EVENT": ["Ball"]}
-{"PER": ["Westermann", "Drobny"], "EVENT": ["Ball"]}
-{"PER": ["Joselu"], "EVENT": ["Ball", "Flanke"], "ASSIST": ["Albornoz"]}
-{"PER": ["Goretzka"], "EVENT": ["Leder"], "ASSIST": ["Obasi"]}
-{"PER": ["Wendt"], "ASSIST": ["Stindl"]}
-{"ASSIST": ["De Bruyne"], "EVENT": ["Ball", "Spielger\u00e4t"], "PLAYER": ["Ekici"]}
-{"EVENT": ["Kopfball", "Leder"], "KEEPER": ["Wiese"], "PLAYER": ["Harnik"]}
-{"ASSIST": ["Marica"], "PLAYER": ["Gentner"], "PER": ["Balogun"]}
-{"ASSIST": ["Volland"], "EVENT": ["Pass"], "PLAYER": ["Chicharito"]}
-{"PLAYER": ["Verhaegh"]}
-{"PER": ["Halil Altintop"], "EVENT": ["Ball", "verl\u00e4ngert"], "ASSIST": ["Hahn"], "PLAYER": ["Werner"]}
-{"ASSIST": ["Oehrl"], "PLAYER": ["M\u00f6lders"]}
-{"EVENT": ["Hereingabe"], "ASSIST": ["Toprak"]}
-{"PLAYER": ["Ciss\u00e9"]}
-{"ASSIST": ["Gentner"], "KEEPER": ["Trapp"], "PLAYER": ["Werner"]}
-{"PLAYER": ["Jantschke"]}
-{"ASSIST": ["Quaison"], "PLAYER": ["De Blasis"]}
-{"ASSIST": ["Schlaudraff"], "PLAYER": ["Nikci"], "PER": ["Fuchs"]}
-{"ASSIST": ["Farfan"], "EVENT": ["Hereingabe"], "PER": ["M\u00fcller"], "PLAYER": ["H\u00f6wedes"]}
-{"PLAYER": ["Ibisevic"], "EVENT": ["Leder"]}
-{"PLAYER": ["Schmid"], "EVENT": ["Foul"], "PER": ["Baier"]}
-{"ASSIST": ["Malli"], "PLAYER": ["Latza"], "EVENT": ["Leder"]}
-{"ASSIST": ["Kimmich"]}
-{"ASSIST": ["Farfan"], "PLAYER": ["Huntelaar"]}
-{"PLAYER": ["Afellay"], "ASSIST": ["Holtby"], "PER": ["Benaglio"]}
-{"PLAYER": ["Maxim"], "PER": ["Vestergaard"]}
-{"PLAYER": ["Andreasen"], "EVENT": ["Ball"], "PER": ["Diego"]}
-{"PER": ["Donis"], "EVENT": ["Hereingabe", "Versuch"], "PLAYER": ["Akolo"]}
-{"PER": ["Blaszczykowski", "Drobny"], "ASSIST": ["Gro\u00dfkreutz"]}
-{"PLAYER": ["Geiger"]}
-{"ASSIST": ["Jung"]}
-{"EVENT": ["Eckball"], "PER": ["Benaglio"]}
-{"ASSIST": ["Lewandowski"]}
-{"PER": ["Bender"], "ASSIST": ["Rolfes"], "PLAYER": ["Renato Augusto"]}
-{"PLAYER": ["Renato Augusto"], "ASSIST": ["Derdiyok"]}
-{"PLAYER": ["Kiyotake"], "EVENT": ["F\u00fcnf-Mann-Mauer", "Mauer-Eck"]}
-{"PLAYER": ["Diouf"], "PER": ["Jantschke"]}
-{"PLAYER": ["Jairo"], "EVENT": ["Ball"]}
-{"EVENT": ["Freisto\u00dfflanke"], "PLAYER": ["Choupo-Moting"], "PER": ["Harnik"]}
-{"PER": ["R\u00fcdiger", "Wimmer"], "PLAYER": ["Ujah"]}
-{"ASSIST": ["H\u00fcbner"], "PLAYER": ["Kramaric"], "KEEPER": ["Hitz"], "EVENT": ["Kopfball"]}
-{"PLAYER": ["Farfan"], "EVENT": ["Flanke", "Kopfball"], "ASSIST": ["Fuchs"]}
-{"ASSIST": ["Herrmann"], "PLAYER": ["Nordtveit"]}
-{"PER": ["Matip"], "PLAYER": ["Sobiech"], "ASSIST": ["van der Vaarts"]}
-{"PLAYER": ["Abdellaoue"]}
-{"PLAYER": ["Allagui"], "EVENT": ["Ball"]}
-{"PLAYER": ["Petersen"]}
-{"PER": ["Demme"], "ASSIST": ["Burke"]}
-{"EVENT": ["Elfmeter"], "PLAYER": ["Podolski"]}
-{"PER": ["Robben", "Daems", "Arango"], "ASSIST": ["Hanke"]}
-{"PLAYER": ["De Jong"]}
-{"PLAYER": ["Huntelaar"]}
-{"PLAYER": ["Luiz Gustavo"], "EVENT": ["Leder"]}
-{"ASSIST": ["Chicharito"], "EVENT": ["Ball", "Abpraller"], "PLAYER": ["Bellarabi"]}
-{"PLAYER": ["Mkhitaryan"], "PER": ["Lukimya"]}
-{"PLAYER": ["Haggui"], "EVENT": ["Ecke", "Leder"], "PER": ["Oehrl"], "ASSIST": ["Pander"]}
-{"PER": ["Baumgartl", "Stenzel"], "ASSIST": ["\u00d6zcan"]}
-{"ASSIST": ["Lahm"]}
-{"ASSIST": ["Malli"], "EVENT": ["Ecke", "Leder"], "PLAYER": ["Bell"]}
-{"PER": ["Pekhart", "Sch\u00e4fers"], "EVENT": ["Abschlag"], "ASSIST": ["Esswein"]}
-{"PER": ["Nehrig", "Meier"], "EVENT": ["Ball"], "PLAYER": ["Djurdjic"]}
-{"EVENT": ["Kopfball"], "PLAYER": ["Aranguiz"]}
-{"EVENT": ["Hereingabe"], "PLAYER": ["Gunesch"]}
-{"ASSIST": ["M\u00fcller"], "PLAYER": ["Stieber"], "KEEPER": ["Trapp"]}
-{"PLAYER": ["Aubameyang"]}
-{"PER": ["Kirchhoff"], "EVENT": ["Ball", "R\u00fcckpass"], "PLAYER": ["Ramos"]}
-{"ASSIST": ["Beck"], "PER": ["Elyounoussi"], "EVENT": ["Schuss"]}
-{"ASSIST": ["Sch\u00fcrrle"], "EVENT": ["flanken"]}
-{"PLAYER": ["Cordoba"]}
-{"ASSIST": ["Hajnal"], "EVENT": ["Ecke"]}
-{"PLAYER": ["Kolasinac"]}
-{"ASSIST": ["Modeste"], "EVENT": ["Ball", "Abschlag"], "PLAYER": ["Clemens"]}
-{"ASSIST": ["Konoplyanka"], "EVENT": ["Ball"], "PLAYER": ["Sch\u00f6pf"]}
-{"KEEPER": ["Hitz"], "EVENT": ["Schuss"], "PLAYER": ["Forsberg"], "ASSIST": ["Sabitzer"]}
-{"ASSIST": ["\u00d6ztunali"], "EVENT": ["Ball"], "PLAYER": ["Junuzovic"]}
-{"ASSIST": ["Edu"], "EVENT": ["Freisto\u00df"], "PLAYER": ["Raul"]}
-{"ASSIST": ["Vrancic"], "EVENT": ["Freisto\u00df"]}
-{"ASSIST": ["Kainz"], "EVENT": ["Flanke"]}
-{"PLAYER": ["Forsberg"], "EVENT": ["Ecke"]}
-{"PER": ["Piszczek"], "EVENT": ["Ball"], "ASSIST": ["Pulisic"]}
-{"PLAYER": ["Robben"], "PER": ["M\u00fcller"], "EVENT": ["Flanke", "Ball"]}
-{"PLAYER": ["G\u00f6tze"]}
-{"KEEPER": ["Wolf"], "PLAYER": ["Pizarro"]}
-{"PLAYER": ["Reinartz"]}
-{"ASSIST": ["Luiz Gustavo"], "EVENT": ["Ball"]}
-{"PLAYER": ["Gnabry"], "EVENT": ["Ecke"], "ASSIST": ["Junuzovic"]}
-{"ASSIST": ["Ribery"]}
-{"PLAYER": ["Petersen"], "PER": ["Heintz"], "KEEPER": ["Horn"]}
-{"PLAYER": ["Huszti"]}
-{"PLAYER": ["Reus"]}
-{"ASSIST": ["Maxim"], "EVENT": ["Freisto\u00df"], "PLAYER": ["Werner"]}
-{"PLAYER": ["Brouwers"], "PER": ["Eggimann"]}
-{"PLAYER": ["H\u00f6wedes"], "EVENT": ["Ecke"]}
-{"ASSIST": ["M\u00fcller"], "PLAYER": ["Lewandowski"]}
-{"EVENT": ["Ball", "Schuss"], "ASSIST": ["Ilicevic"], "PLAYER": ["Lakic"]}
-{"ASSIST": ["Heinloth"], "EVENT": ["Flanke", "F\u00fchrung"], "PLAYER": ["Kachunga"]}
-{"PER": ["Badstuber"], "EVENT": ["Ball"], "PLAYER": ["Reus"]}
-{"PLAYER": ["Meier"]}
-{"PER": ["Zagadou"], "EVENT": ["Ball"], "ASSIST": ["Sahin"]}
-{"PLAYER": ["\u00d6zil"]}
-{"PLAYER": ["Lewandowski"], "PER": ["Baier"]}
-{"PLAYER": ["Schieber"], "EVENT": ["Leder"]}
-{"PLAYER": ["Farfan"], "EVENT": ["Elfmeter", "Flachschuss"]}
-{"PLAYER": ["M\u00fcller"], "EVENT": ["Ecke"], "ASSIST": ["Kimmich"]}
-{"PLAYER": ["Batshuayi"], "EVENT": ["Leder"]}
-{"PER": ["Ebert"], "EVENT": ["Eckball"], "ASSIST": ["Mijatovic"]}
-{"PLAYER": ["Heller"]}
-{"PLAYER": ["Rodriguez"], "EVENT": ["Elfmeter-Nachschuss"]}
-{"PLAYER": ["Brandt"], "PER": ["Korb"], "EVENT": ["volley"]}
-{"ASSIST": ["Kiyotake"], "PLAYER": ["Schulz"], "EVENT": ["Vorlage"]}
-{"ASSIST": ["Boenisch"], "EVENT": ["Eckball"], "PLAYER": ["Rolfes"]}
-{"PLAYER": ["Hazard"], "EVENT": ["Pass"], "ASSIST": ["Ginter"]}
-{"PLAYER": ["Fabian"]}
-{"PER": ["Ginter"]}
-{"PLAYER": ["Sahin"]}
-{"PLAYER": ["Kehrer"], "EVENT": ["Kopfball"]}
-{"PER": ["Neuer"]}
-{"PER": ["Hugo Almeida", "Luiz Gustavo"]}
-{"PLAYER": ["Pr\u00f6dl"]}
-{"PLAYER": ["Vidal"], "EVENT": ["Strafsto\u00df"]}
-{"PER": ["Idrissou"], "ASSIST": ["Bobadilla"], "EVENT": ["Chance"]}
-{"PLAYER": ["Mkhitaryan"]}
-{"PER": ["Jendrisek"], "PLAYER": ["Caligiuri"]}
-{"PLAYER": ["Podolski"]}
-{"PLAYER": ["Reus"], "EVENT": ["Leder"]}
-{"PER": ["Brosinski"], "ASSIST": ["\u00d6ztunali"]}
-{"ASSIST": ["Di Santo"], "PLAYER": ["Meyer"]}
-{"PLAYER": ["Aubameyang"], "PER": ["Baumann"]}
-{"ASSIST": ["Vogt"], "PLAYER": ["Zoller"]}
-{"ASSIST": ["Mkhitaryan"], "EVENT": ["Ball"]}
-{"PER": ["Sunjic"], "PLAYER": ["Lustenberger"], "EVENT": ["Ball", "volley"]}
-{"PLAYER": ["Kruse"], "EVENT": ["Elfmeter"]}
-{"ASSIST": ["Ibisevic"]}
-{"PER": ["S\u00fcle"], "EVENT": ["Ball"], "ASSIST": ["Matip"]}
-{"ASSIST": ["Castro"], "PLAYER": ["Aubameyang"]}
-{"PER": ["Volland"], "ASSIST": ["Firmino"]}
-{"PLAYER": ["Guilavogui"]}
-{"ASSIST": ["Didavi"], "EVENT": ["Ball", "Zweikampf"], "PLAYER": ["Gerhardt"], "PER": ["G\u00fcnter"]}
-{"ASSIST": ["Heller"]}
-{"PLAYER": ["Sakai"]}
-{"PLAYER": ["Heller"], "EVENT": ["volley"]}
-{"PLAYER": ["Seguin"], "EVENT": ["Zuspiel"], "ASSIST": ["Gerhardt"]}
-{"PLAYER": ["Reus"]}
-{"PER": ["Klaus"], "EVENT": ["Ball"], "ASSIST": ["Jonathas"]}
-{"ASSIST": ["Amiri"], "EVENT": ["Ball", "Zuspiel"], "PER": ["Max", "Baier"]}
-{"ASSIST": ["Raffael"], "PLAYER": ["Torun"]}
-{"ASSIST": ["Bobadilla"], "PLAYER": ["Esswein"]}
-{"PLAYER": ["Stajner"], "EVENT": ["Ball"]}
-{"ASSIST": ["Tr\u00e4sch"], "PLAYER": ["Polter"], "PER": ["Geromel"]}
-{"PLAYER": ["F\u00fcllkrug"], "EVENT": ["Ball", "Schuss"]}
-{"PER": ["Leitner"], "ASSIST": ["R\u00fcdiger"]}
-{"PLAYER": ["Anderson"], "EVENT": ["Ball"]}
-{"EVENT": ["Ball"], "PLAYER": ["Ginter"]}
-{"ASSIST": ["Robben"], "PLAYER": ["Gomez"], "PER": ["Mielitz"]}
-{"EVENT": ["Pass"], "PER": ["Mertesackers"], "ASSIST": ["Marin"]}
-{"ASSIST": ["Lell"], "EVENT": ["Hereingabe"]}
-{"ASSIST": ["Hasebe"], "EVENT": ["Freisto\u00df"], "PLAYER": ["Meier"], "PER": ["Naldo"]}
-{"ASSIST": ["Brosinski"], "EVENT": ["Freisto\u00df"], "PLAYER": ["Balogun"]}
-{"ASSIST": ["Perisic"], "PLAYER": ["Dost"]}
-{"PER": ["Bartels"], "ASSIST": ["Junuzovic"]}
-{"ASSIST": ["M\u00fcller"], "EVENT": ["Einwurf", "Schuss"], "PLAYER": ["Ribery"], "KEEPER": ["ter Stegen"]}
-{"EVENT": ["Ball"], "PLAYER": ["Reus"]}
-{"PLAYER": ["Aubameyang"], "EVENT": ["Flanke"]}
-{"PLAYER": ["Volland"]}
-{"EVENT": ["Flanke", "Leder"], "PLAYER": ["Bender"]}
-{"PER": ["Jung"], "ASSIST": ["Kruse"], "PLAYER": ["Kainz"]}
-{"PLAYER": ["Kruse"]}
-{"PLAYER": ["Gentner"]}
-{"PLAYER": ["Lewandowski"]}
-{"PLAYER": ["Kimmich"], "EVENT": ["Ball"]}
-{"PER": ["Maroh"], "ASSIST": ["Lewandowski"]}
-{"EVENT": ["Ball"], "PLAYER": ["Wagner"]}
-{"PLAYER": ["Callsen-Bracker"], "PER": ["Bruma"], "EVENT": ["Ball", "Spielger\u00e4t"]}
-{"ASSIST": ["Hunt"], "PLAYER": ["Petersen"], "EVENT": ["Chance"]}
-{"EVENT": ["Zuspiel"], "PLAYER": ["Brandt"]}
-{"PLAYER": ["Cha"], "KEEPER": ["Neuer"], "EVENT": ["Flachschuss"]}
-{"PLAYER": ["M\u00f6lders"]}
-{"ASSIST": ["Rafinha"], "PLAYER": ["Robben"]}
-{"PLAYER": ["Simons"], "PER": ["Baumann"], "EVENT": ["Flachschuss"]}
-{"PLAYER": ["M\u00fcller"], "EVENT": ["Ball"]}
-{"ASSIST": ["G\u00f6tze"], "EVENT": ["Ball", "Ecke"]}
-{"ASSIST": ["Simons"], "EVENT": ["Ball"], "PLAYER": ["Eigler"]}
-{"ASSIST": ["Sch\u00e4fer"], "PLAYER": ["Kjaer"]}
-{"PER": ["G\u00fcndogan"], "ASSIST": ["Reus"]}
-{"ASSIST": ["Guerreiro"], "EVENT": ["Ball", "Leder"]}
-{}
-{}
-{"ASSIST": ["Stindl"], "PLAYER": ["Traor\u00e9"], "EVENT": ["Ball"]}
-{"PLAYER": ["Mehmedi"]}
-{"ASSIST": ["Caligiuri"]}
-{"ASSIST": ["Bartels"], "PER": ["Bargfrede"], "PLAYER": ["Caldirola"]}
-{"KEEPER": ["Kruse"], "PER": ["Frantz"]}
-{"PLAYER": ["Malli"]}
-{"PLAYER": ["Toljan"], "PER": ["Hahn"], "EVENT": ["Ball"]}
-{"ASSIST": ["Wagner"]}
-{"ASSIST": ["Kachunga"], "PLAYER": ["Meha"]}
-{"PER": ["van Buytens", "Gomez"], "ASSIST": ["M\u00fcller"], "EVENT": ["Querpass"]}
-{"EVENT": ["Kopfball"]}
-{"ASSIST": ["Rausch"], "PLAYER": ["Modeste"], "EVENT": ["Hereingabe"]}
-{"EVENT": ["Ecke"], "PLAYER": ["Pitroipa"]}
-{"ASSIST": ["Luiz Gustavo"], "PER": ["Frings"], "PLAYER": ["Ibisevic"]}
-{}
-{"PLAYER": ["Hahn"], "EVENT": ["Ball"], "PER": ["Benatia"]}
-{"PLAYER": ["Sam"]}
-{"ASSIST": ["Kruse"], "PLAYER": ["Herrmann"]}
-{"ASSIST": ["Ribery"], "PLAYER": ["M\u00fcller"]}
-{"EVENT": ["Hereingabe", "Zuspiel"], "ASSIST": ["Arango"]}
-{"PLAYER": ["Rupp"], "EVENT": ["Leder"]}
-{"EVENT": ["Chance", "Schuss"]}
-{"PLAYER": ["Malli"], "EVENT": ["Leder"]}
-{"PLAYER": ["Gentner"], "KEEPER": ["Zieler"], "EVENT": ["Schuss"]}
-{"ASSIST": ["Ramos"], "PLAYER": ["Ben-Hatira"], "EVENT": ["Ball"]}
-{"EVENT": ["Ecke", "Konter"], "PLAYER": ["Karaman"]}
-{"PLAYER": ["Leckie"], "EVENT": ["Vorlage", "Ball"], "PER": ["Max"], "ASSIST": ["Gro\u00df"]}
-{"ASSIST": ["Sch\u00f6pf"], "EVENT": ["Freisto\u00df"]}
-{"PLAYER": ["Bell"], "EVENT": ["Freisto\u00df"], "ASSIST": ["Brosinski"], "PER": ["Abraham"]}
-{"ASSIST": ["Kagawa"]}
-{"ASSIST": ["Jansen"], "EVENT": ["Ball"]}
-{"EVENT": ["Flanke", "Ball"], "PLAYER": ["Rukavytsya"]}
-{"PER": ["Caligiuri"], "ASSIST": ["Konoplyanka"]}
-{"PLAYER": ["Haller"]}
-{"KEEPER": ["Leno"], "EVENT": ["Chance"]}
-{"PLAYER": ["Gondorf"], "EVENT": ["Freisto\u00df"], "ASSIST": ["Vrancic"]}
-{"PLAYER": ["Meier"], "EVENT": ["Chance", "Strafsto\u00df"]}
-{"PLAYER": ["Garcia"], "EVENT": ["Leder"]}
-{"ASSIST": ["Ginter"], "PER": ["Kagawas"], "PLAYER": ["Aubameyang"]}
-{"PER": ["Werner", "Ostrzolek"], "EVENT": ["Ball"]}
-{"ASSIST": ["Kenia"], "PLAYER": ["Kuranyi"], "PER": ["Sch\u00e4fer"]}
-{"PER": ["Vogt"], "EVENT": ["Ball"], "ASSIST": ["Schipplock"]}
-{"PLAYER": ["Drmic"]}
-{"PER": ["McKenna"], "EVENT": ["Ball"]}
-{"ASSIST": ["Schmid"], "PER": ["Ostrzolek"], "EVENT": ["Ball"]}
-{"EVENT": ["Ball"], "PER": ["Pinola"]}
-{"EVENT": ["Flanke", "Ball"], "PLAYER": ["Aigner"]}
-{"PLAYER": ["Lewandowski"], "EVENT": ["Ball"], "KEEPER": ["Sippel"]}
-{"PLAYER": ["Draxler"], "PER": ["Mielitz"], "EVENT": ["Chance"]}
-{"PER": ["Retsos"], "PLAYER": ["Bentaleb"], "EVENT": ["Strafsto\u00df"]}
-{"PLAYER": ["Rupp"], "EVENT": ["Einwurf"]}
-{"EVENT": ["Hereingabe", "Leder"], "PER": ["Schmelzer"], "PLAYER": ["Raffael"]}
-{"EVENT": ["Konter"]}
-{"ASSIST": ["Ya Konan"], "EVENT": ["Ball"]}
-{"ASSIST": ["De Blasis"], "EVENT": ["Eckball", "Kopfball"]}
-{"PER": ["Baier"]}
-{"PLAYER": ["Mandzukic"]}
-{"PLAYER": ["Bartra"]}
-{"PLAYER": ["Muto"], "EVENT": ["Flanke", "Abpraller"], "KEEPER": ["Zieler"]}
-{"PLAYER": ["Volland"]}
-{"PER": ["Jung"], "EVENT": ["Ball"], "ASSIST": ["Mkhitaryan"], "PLAYER": ["Aubameyang"]}
-{"ASSIST": ["Kainz"], "EVENT": ["Freisto\u00df"]}
-{"PLAYER": ["Meier"], "PER": ["Huszti"]}
-{"PER": ["Malli"], "EVENT": ["Leder"], "ASSIST": ["Didavi"]}
-{"ASSIST": ["Hegeler"], "PLAYER": ["Kie\u00dfling"]}
-{"ASSIST": ["Elvedi"], "PLAYER": ["Vestergaard"]}
-{"ASSIST": ["Kagawa"], "EVENT": ["Ecke"], "PLAYER": ["Hummels"]}
-{"PLAYER": ["Vogt"]}
-{"PLAYER": ["Arnold"], "EVENT": ["Schnittstellenpass"], "KEEPER": ["Zieler"]}
-{"PLAYER": ["Baier"], "EVENT": ["Ball"]}
-{"PER": ["Gouweleeuw"], "ASSIST": ["Caiuby"], "EVENT": ["Zuspiel"]}
-{"ASSIST": ["Hofmann"], "EVENT": ["Pass"], "PLAYER": ["Stindl"]}
-{}
-{"ASSIST": ["M\u00fcller"], "EVENT": ["Kopfballduell", "Freisto\u00df"], "PER": ["Lambertz"], "PLAYER": ["Luiz Gustavo"]}
-{"ASSIST": ["Gentner"], "EVENT": ["Hereingabe"]}
-{"ASSIST": ["Wendt"], "EVENT": ["Freisto\u00df", "Ball"], "PLAYER": ["Christensen"]}
-{"ASSIST": ["Mkhitaryan"], "PLAYER": ["Pulisic"]}
-{"PLAYER": ["Hanke"], "EVENT": ["Freisto\u00df"], "ASSIST": ["Arangos"]}
-{"ASSIST": ["Holzhauser"], "EVENT": ["Ball"], "PER": ["Ibisevics"]}
-{"PLAYER": ["Lahm"], "EVENT": ["Schuss", "Ecke"]}
-{}
-{"ASSIST": ["Blaszczykowski"]}
-{"PLAYER": ["Verhaegh"], "EVENT": ["Foulelfmeter", "Chance"], "PER": ["Moisander", "Knoche"]}
-{"ASSIST": ["Lewandowski"], "PLAYER": ["Ribery"], "KEEPER": ["Ulreich"]}
-{"ASSIST": ["Son"], "EVENT": ["Ball"], "KEEPER": ["Casteels"], "PLAYER": ["Aogo"]}
-{"ASSIST": ["Rausch"], "PER": ["Diekmeier"], "EVENT": ["Ball"]}
-{"ASSIST": ["Benatia"]}
-{"PER": ["Schwolow"], "EVENT": ["Ball"], "ASSIST": ["Quaison"]}
-{"PLAYER": ["Jonathas"]}
-{"ASSIST": ["Schlaudraff"], "PLAYER": ["Eggimann"], "EVENT": ["Kopfball"]}
-{"ASSIST": ["Delpierre"], "EVENT": ["Freisto\u00df"], "PLAYER": ["Cacau"]}
-{"ASSIST": ["Leckie"], "EVENT": ["Ball"], "PER": ["Bregerie"], "PLAYER": ["Gro\u00df"]}
-{"PLAYER": ["Hunt"]}
-{"EVENT": ["Hereingabe", "Kopfball"], "PLAYER": ["Aubameyang"]}
-{"ASSIST": ["Maxim"], "EVENT": ["Freisto\u00dfflanke"]}
-{"PLAYER": ["Robben"]}
-{"ASSIST": ["Podolski"], "PLAYER": ["Novakovic"]}
-{"ASSIST": ["Sch\u00fcrrle"], "EVENT": ["Ball"], "PER": ["Badstuber"]}
-{"ASSIST": ["Piszczek"], "EVENT": ["Leder"]}
-{"PLAYER": ["Didavi"], "ASSIST": ["Frantz"], "EVENT": ["Leihgabe"]}
-{"PLAYER": ["Harnik"], "EVENT": ["Spielger\u00e4t"]}
-{"ASSIST": ["Junior Diaz"]}
-{"PER": ["Geis"], "ASSIST": ["Svensson"], "EVENT": ["Ball"], "PLAYER": ["Choupo-Moting"]}
-{"EVENT": ["Querpass"], "PLAYER": ["Sam"]}
-{"ASSIST": ["Wolf"], "EVENT": ["Ball"]}
-{}
-{"PLAYER": ["Pander"], "EVENT": ["Abpraller", "Leder"]}
-{"ASSIST": ["Torun"], "PLAYER": ["Petric"], "PER": ["Ulreich"]}
-{"ASSIST": ["Badelj"], "EVENT": ["Ball"], "PER": ["de Jong"], "PLAYER": ["Rudnevs"]}
-{"PLAYER": ["Perisic"]}
-{"ASSIST": ["Augustin"], "EVENT": ["Leder"], "PLAYER": ["Werner"]}
-{"ASSIST": ["Diekmeier"], "PLAYER": ["Rudnevs"], "EVENT": ["Kopfball"]}
-{"PLAYER": ["Retsos"], "EVENT": ["Freisto\u00df"], "PER": ["Brandt"]}
-{"ASSIST": ["Hofmann"]}
-{"PLAYER": ["Pizarro"]}
-{"KEEPER": ["Jarstein"], "EVENT": ["Ball"], "ASSIST": ["Bartels"]}
-{"PLAYER": ["Harnik"], "ASSIST": ["Albornoz"], "EVENT": ["Hereingabe", "Ball"], "PER": ["Langkamp"]}
-{"EVENT": ["Ball", "Leder"], "PLAYER": ["Gruezo"]}
-{"PER": ["Hartherz"]}
-{"PLAYER": ["Bargfrede"], "EVENT": ["Ball"]}
-{"PLAYER": ["Kroos"], "EVENT": ["Leder"]}
-{"PER": ["Bellarabi"], "EVENT": ["Ball"], "ASSIST": ["Hilbert"]}
-{"ASSIST": ["Max"], "EVENT": ["flanken"], "PLAYER": ["Gregoritsch"], "PER": ["Delaney"]}
-{"PLAYER": ["Szalai"]}
-{"ASSIST": ["Calhanoglu"], "EVENT": ["Freisto\u00df"]}
-{"PLAYER": ["Kramaric"], "EVENT": ["Strafsto\u00df"]}
-{"PER": ["Naldo", "Dost"], "EVENT": ["Ball"], "ASSIST": ["Kahlenberg"]}
-{"ASSIST": ["Barnetta"], "PLAYER": ["Meyer"]}
-{"PLAYER": ["Lewandowski"], "EVENT": ["Pass"], "ASSIST": ["Rafinha"], "PER": ["Marcelo"]}
-{"ASSIST": ["Ya Konan"], "EVENT": ["Ball"], "PLAYER": ["Diouf"]}
-{"ASSIST": ["Hahn"], "PER": ["Alvaro Dominguez"]}
-{"PLAYER": ["Hochscheidt"]}
-{"PER": ["G\u00f6tze", "Thorandt"], "EVENT": ["Ball", "Flanke"], "PLAYER": ["Barrios"]}
-{"PLAYER": ["Malli"], "EVENT": ["Ball"]}
-{"PLAYER": ["Salihovic"], "KEEPER": ["Zieler"], "EVENT": ["Chance"]}
-{"PER": ["Hector"], "ASSIST": ["Havertz"], "PLAYER": ["Chicharito"]}
-{"PER": ["Hummels"], "PLAYER": ["Modeste"]}
-{"ASSIST": ["Arnold"], "PLAYER": ["Perisic"], "EVENT": ["Chance"], "PER": ["Wolf"]}
-{"PLAYER": ["Stafylidis"], "EVENT": ["Ball"]}
-{"ASSIST": ["Kie\u00dfling"], "PLAYER": ["Sam"]}
-{"KEEPER": ["B\u00fcrki"], "ASSIST": ["Rebic"], "PLAYER": ["Haller"], "EVENT": ["Elfmeter"]}
-{"PLAYER": ["Heller"], "PER": ["Ostrzolek"]}
-{"PLAYER": ["Donis"], "PER": ["Ulreich"]}
-{"PER": ["Wollscheid"], "EVENT": ["Ecke"], "PLAYER": ["Malli"]}
-{"PLAYER": ["Reus"], "EVENT": ["Zuspiel"]}
-{"ASSIST": ["Risse"], "EVENT": ["Ecke"], "PLAYER": ["Maroh"]}
-{"PER": ["Heitinga"]}
-{"PER": ["da Costa"], "ASSIST": ["Jovic"]}
-{"ASSIST": ["Russ"], "EVENT": ["Leder", "Fehlpass"], "PER": ["Gro\u00dfkreutz"], "PLAYER": ["Meier"], "KEEPER": ["Weidenfeller"]}
-{"PER": ["Schiebers"], "EVENT": ["Kopfballabwehr"], "PLAYER": ["Baier"]}
-{"KEEPER": ["Kruse", "Giefer"], "EVENT": ["Ecke"], "PLAYER": ["Krmas"]}
-{"PER": ["Wendell"], "EVENT": ["Ball"], "PLAYER": ["Cordoba"]}
-{"ASSIST": ["Dahoud"], "EVENT": ["Zuspiel"], "PLAYER": ["Johnson"]}
-{"KEEPER": ["Trapp"], "EVENT": ["Schuss"], "ASSIST": ["Schmitz"], "PLAYER": ["Rosenberg"]}
-{"PLAYER": ["Hector"], "EVENT": ["Leder"]}
-{"PLAYER": ["Holtby"], "ASSIST": ["Raul"]}
-{"ASSIST": ["Reus"], "EVENT": ["Freisto\u00df", "Ball"], "PLAYER": ["Piszczek"]}
-{"ASSIST": ["Bellarabi"], "EVENT": ["Ball"]}
-{"PLAYER": ["Reus"], "ASSIST": ["Bobadilla"]}
-{"PLAYER": ["Kachunga"]}
-{"ASSIST": ["Shaqiri"], "EVENT": ["Freisto\u00df"]}
-{"ASSIST": ["Kenia"]}
-{"PLAYER": ["Abdellaoue"]}
-{"PLAYER": ["Lahm"]}
-{"EVENT": ["Elfmeter"], "PLAYER": ["Lahm"]}
-{"ASSIST": ["Bittencourt"], "PLAYER": ["Ya Konan"]}
-{"ASSIST": ["Peszko"], "PLAYER": ["Risse"], "EVENT": ["Flachschuss"], "PER": ["Drobny"]}
-{"PLAYER": ["Ji"], "EVENT": ["Ball"]}
-{"PLAYER": ["Kehrer"], "PER": ["Grillitsch"]}
-{"ASSIST": ["Bender"], "EVENT": ["Pass"], "PLAYER": ["Castro"], "KEEPER": ["Mielitz"]}
-{"PLAYER": ["Lewandowski"], "EVENT": ["Freisto\u00df", "Mauer"]}
-{"PLAYER": ["Petersen"]}
-{"PER": ["Geis"], "ASSIST": ["M\u00fcller"], "PLAYER": ["Okazaki"], "EVENT": ["Querpass"]}
-{"PLAYER": ["Mkhitaryan"], "PER": ["Frei"]}
-{"ASSIST": ["Renato Augusto"], "PER": ["Jajalo"], "PLAYER": ["Bender"]}
-{"PER": ["Alaba"], "EVENT": ["Pass"], "ASSIST": ["Javi Martinez"]}
-{"PLAYER": ["Rudnevs"]}
-{"PLAYER": ["Boateng"], "EVENT": ["Flanke"], "ASSIST": ["Fuchs"]}
-{"ASSIST": ["Alvaro Dominguez"], "KEEPER": ["Zieler"]}
-{"PER": ["Ronny"], "ASSIST": ["Ramos"]}
-{"ASSIST": ["Kramaric"], "EVENT": ["Ball"], "PLAYER": ["Uth"]}
-{"ASSIST": ["Teber"], "EVENT": ["Kombination", "Flanke"]}
-{"ASSIST": ["Maxim"], "EVENT": ["Freisto\u00df"]}
-{"EVENT": ["Ecke"], "ASSIST": ["Didavi"]}
-{"PLAYER": ["Ciss\u00e9"], "EVENT": ["F\u00fchrung", "Flachschuss"]}
-{"PLAYER": ["Raffael"], "EVENT": ["Ball"], "PER": ["Park"]}
-{"ASSIST": ["Cigerci"], "PLAYER": ["Kalou"], "PER": ["Zambrano"]}
-{"PLAYER": ["M\u00fcller"]}
-{"PER": ["Boateng", "Drmic"]}
-{"PLAYER": ["Salihovic"], "EVENT": ["direkten Freisto\u00df"]}
-{"ASSIST": ["Hector"]}
-{"ASSIST": ["Compper"], "EVENT": ["Fehlpass", "Pass"], "PLAYER": ["Mlapa"], "KEEPER": ["Wiese"]}
-{"ASSIST": ["Ilicevic"], "PER": ["Yahia"], "EVENT": ["Ball"], "PLAYER": ["Jansen"]}
-{"PLAYER": ["Huntelaar"]}
-{"PLAYER": ["Ciss\u00e9"]}
-{"ASSIST": ["Demme"], "EVENT": ["Ball"], "PLAYER": ["Werner"]}
-{"PER": ["Castro"], "EVENT": ["Leder"], "ASSIST": ["Andreasen"]}
-{"ASSIST": ["De Bruyne"]}
-{"PLAYER": ["Meier"], "EVENT": ["Spielger\u00e4t"]}
-{"ASSIST": ["Prib"], "PER": ["Zambrano"], "PLAYER": ["Diouf"]}
-{"PLAYER": ["Lasogga"]}
-{"PLAYER": ["Hazard"], "EVENT": ["Ball"]}
-{"ASSIST": ["Ben-Hatira"], "EVENT": ["Ball"], "PLAYER": ["Beerens"]}
-{"ASSIST": ["Blaszczykowski"], "PLAYER": ["G\u00f6tze"]}
-{"PLAYER": ["Reus"], "EVENT": ["Schuss"]}
-{"ASSIST": ["Garcia"], "EVENT": ["Einwurf"]}
-{"PLAYER": ["Brosinski"], "EVENT": ["Ball"]}
-{"PLAYER": ["Pizarro"], "EVENT": ["Leder", "Ball"], "PER": ["Aogo"]}
-{"PLAYER": ["Lasogga"], "EVENT": ["Elfmeter"]}
-{"EVENT": ["Hereingabe", "Ball"], "PER": ["James", "Hummels"], "PLAYER": ["Vidal"], "ASSIST": ["S\u00fcle"]}
-{"PLAYER": ["Caiuby"], "PER": ["S\u00f6rensen"]}
-{"ASSIST": ["Ya Konan"], "EVENT": ["Ball", "F\u00fchrung"], "PER": ["Amedick"]}
-{"ASSIST": ["Ronny"], "PLAYER": ["Skjelbred"], "PER": ["G\u00fcnter"]}
-{"ASSIST": ["Harnik"], "PLAYER": ["Bebou"], "PER": ["Bartra"]}
-{"EVENT": ["Pass", "Abpraller", "Schuss"], "PER": ["Gro\u00dfkreutz", "Sch\u00e4fers"], "ASSIST": ["Kagawas"]}
-{"ASSIST": ["Lahm"]}
-{"PLAYER": ["Esswein"], "EVENT": ["Ball"]}
-{"ASSIST": ["Seferovic"], "EVENT": ["Pass", "Schuss"], "PLAYER": ["Aigner"], "KEEPER": ["Karius"]}
-{"PLAYER": ["Malli"], "EVENT": ["Versuch"]}
-{"ASSIST": ["Ballack"], "EVENT": ["Hereingabe", "Ball"], "PER": ["Kadlec"], "PLAYER": ["Reinartz"]}
-{"PLAYER": ["Kolasinac"], "EVENT": ["Ball"]}
-{"PLAYER": ["Lasogga"]}
-{"ASSIST": ["Risse"], "EVENT": ["Flanke"]}
-{"PLAYER": ["Kagawa"]}
-{"PLAYER": ["Castro"], "EVENT": ["Pass", "Ball"], "PER": ["Adler"]}
-{"PLAYER": ["Zidan"], "EVENT": ["Vorarbeit"], "ASSIST": ["M\u00fcller"]}
-{"ASSIST": ["Kostic"], "EVENT": ["Freisto\u00df"], "PLAYER": ["Harnik"]}
-{"PLAYER": ["Kohr"], "PER": ["Vieirinha"]}
-{"PLAYER": ["G\u00f6tze"], "PER": ["Wolf"]}
-{"PER": ["Son"], "ASSIST": ["van der Vaart"]}
-{"ASSIST": ["Plattenhardt"], "EVENT": ["Ecke"]}
-{"PLAYER": ["Zuber"]}
-{"ASSIST": ["Mandzukic"], "PLAYER": ["Helmes"]}
-{}
-{"ASSIST": ["Pizarro"], "PLAYER": ["Robben"]}
-{"ASSIST": ["Brosinski"], "PER": ["Garcia"], "PLAYER": ["Muto"]}
-{"ASSIST": ["Hofmann"], "PER": ["Pogatetz"], "PLAYER": ["Mkhitaryan"]}
-{"PER": ["Chandler"]}
-{"ASSIST": ["Plattenhardt"], "EVENT": ["Ball"]}
-{"ASSIST": ["Alaba"], "PLAYER": ["Mandzukic"]}
-{"PER": ["Polanski"], "EVENT": ["Konter"]}
-{"PLAYER": ["Schipplock"], "EVENT": ["Ball"]}
-{"EVENT": ["volley", "flankt"], "ASSIST": ["Hunt"], "PLAYER": ["Marin"]}
-{"EVENT": ["Flachschuss"]}
-{"ASSIST": ["Kagawa"], "EVENT": ["Ball"], "PLAYER": ["Ramos"]}
-{"EVENT": ["Ball"], "ASSIST": ["Sahin"], "PLAYER": ["Valdez"]}
-{"ASSIST": ["Bellarabi"]}
-{"ASSIST": ["Gnabry"], "EVENT": ["Ball"]}
-{"PLAYER": ["Allagui"]}
-{"PLAYER": ["Hanke"]}
-{"PLAYER": ["Ginter"]}
-{"ASSIST": ["Junuzovic"], "PLAYER": ["Gebre Selassie"], "EVENT": ["Ecke", "Kopfball"]}
-{"PLAYER": ["Sch\u00fcrrle"], "ASSIST": ["Kie\u00dfling"]}
-{"PLAYER": ["Malli"], "EVENT": ["Ball"], "PER": ["Kim"]}
-{"PLAYER": ["Karaman"]}
-{"EVENT": ["Flanke"], "ASSIST": ["Oczipka"]}
-{"ASSIST": ["Rudy"], "EVENT": ["Ecke"], "PLAYER": ["H\u00fcbner"]}
-{"ASSIST": ["Ostrzolek"], "PER": ["Theuerkauf"]}
-{"EVENT": ["Ball"], "PER": ["Ji"], "PLAYER": ["Gouweleeuw"]}
-{"PLAYER": ["Podolski"]}
-{"PER": ["Didavi"], "EVENT": ["Freisto\u00df"], "PLAYER": ["Kuzmanovic"]}
-{"PLAYER": ["Bruma"]}
-{"EVENT": ["Kombination"], "PER": ["Arango", "Daems"], "PLAYER": ["Bradley"]}
-{"ASSIST": ["Mkhitaryan"], "PLAYER": ["Sahin"]}
-{"ASSIST": ["Jojic"], "PER": ["Kl\u00fcnter"], "EVENT": ["Steilpass"]}
-{"ASSIST": ["Elvedi"], "PLAYER": ["Stindl"], "PER": ["Neuer"]}
-{"PLAYER": ["Ciss\u00e9"], "EVENT": ["Ball"], "KEEPER": ["Kessler"]}
-{"PLAYER": ["Seferovic"], "EVENT": ["Ball"]}
-{"EVENT": ["Schuss", "Ball"], "PLAYER": ["Christensen"]}
-{"EVENT": ["Konter"], "PLAYER": ["Kie\u00dfling"]}
-{"ASSIST": ["Sakai"]}
-{"ASSIST": ["Briand"], "PER": ["Albornoz", "Lukimya", "Gebre Selassie", "Vestergaard"], "PLAYER": ["Stindl"]}
-{"PLAYER": ["Bellinghausen"], "EVENT": ["Abschlag", "Aussetzer"], "PER": ["Zimmermann"]}
-{"ASSIST": ["Chandler"], "PLAYER": ["Gebhart"], "PER": ["Fagner"]}
-{"PLAYER": ["Kiyotake"], "PER": ["Rudy"], "EVENT": ["Ball", "Leder"]}
-{"ASSIST": ["Luiz Gustavo"], "PER": ["Frings"]}
-{"PLAYER": ["Pizarro"]}
-{"ASSIST": ["Naldo"], "EVENT": ["Ecke", "Luftkampf", "Spielger\u00e4t"]}
-{"ASSIST": ["Pizarro"], "PLAYER": ["Gebre Selassie"]}
-{"PLAYER": ["Thiago"], "EVENT": ["Sportger\u00e4t"], "KEEPER": ["Zieler"]}
-{"ASSIST": ["Johnson"], "PLAYER": ["Traor\u00e9"]}
-{"PER": ["Balogun", "Hrgotas"], "EVENT": ["Flanke", "Kopfball"], "PLAYER": ["Seferovic"]}
-{"PLAYER": ["Ekici"], "EVENT": ["Abpraller"]}
-{"PLAYER": ["Joselu"], "EVENT": ["Flanke"], "ASSIST": ["Jung"]}
-{"PER": ["Coman", "Kaderabek", "Tolisso"], "ASSIST": ["Kimmich"]}
-{"ASSIST": ["Pospech"], "EVENT": ["Flanke"], "PLAYER": ["Okazaki"]}
-{"PLAYER": ["Kuzmanovic"], "EVENT": ["Leder"]}
-{"PER": ["Sch\u00e4fer"], "PLAYER": ["Traor\u00e9s"]}
-{"EVENT": ["Ball"], "PLAYER": ["Ciss\u00e9"]}
-{"PLAYER": ["Seferovic"], "PER": ["M\u00fcller"], "KEEPER": ["Adler"]}
-{"ASSIST": ["Marica"], "PLAYER": ["Niedermeier"], "EVENT": ["Ball"]}
-{"PER": ["Jansen"], "EVENT": ["Flanke"], "PLAYER": ["Rudnevs"]}
-{}
-{"PER": ["Lewandowski"], "EVENT": ["Leder"]}
-{"PLAYER": ["Didavi"]}
-{"PLAYER": ["Ibisevic"], "KEEPER": ["Sommer"], "ASSIST": ["Weiser"], "EVENT": ["Ball", "Hereingabe"]}
-{"PLAYER": ["Hazard"], "EVENT": ["Ball"]}
-{"EVENT": ["Ball"], "PER": ["Piszczeks"], "PLAYER": ["Galvez"]}
-{"PER": ["Boateng"], "EVENT": ["Ball"], "ASSIST": ["M\u00fcller"], "PLAYER": ["Lewandowski"], "KEEPER": ["Horn"]}
-{"EVENT": ["Ball", "Chance"], "ASSIST": ["Kohr"]}
-{"PLAYER": ["Bentaleb"], "EVENT": ["Ball"]}
-{"PLAYER": ["Parker"], "KEEPER": ["ter Stegen"]}
-{"PLAYER": ["Malli"], "EVENT": ["Ball"]}
-{"ASSIST": ["Traor\u00e9"], "EVENT": ["Flanke"], "PER": ["Hoogland", "F\u00e4hrmann"]}
-{"PER": ["Fritz"], "EVENT": ["Schuss", "Mauer"], "PLAYER": ["Petric"], "KEEPER": ["Wiese"]}
-{"PLAYER": ["Vidal"], "EVENT": ["Flachschuss"]}
-{"KEEPER": ["Zieler"], "EVENT": ["Schuss", "Abpraller"], "PLAYER": ["Ribery"]}
-{"ASSIST": ["Plattenhardt"], "PLAYER": ["Wollscheid"], "PER": ["Tasci"]}
-{"ASSIST": ["Helmes"], "EVENT": ["Ball", "Flanke"]}
-{"PLAYER": ["Lewandowski"], "KEEPER": ["Pavlenka"]}
-{"ASSIST": ["Kostic"], "PLAYER": ["Waldschmidt"], "EVENT": ["Ball"]}
-{"PLAYER": ["Prib"], "EVENT": ["Flanke"], "ASSIST": ["Asamoahs"]}
-{"ASSIST": ["Kenia"], "PLAYER": ["Kuranyi"], "PER": ["Sch\u00e4fer"]}
-{"PLAYER": ["Calhanoglu"], "EVENT": ["Freisto\u00df"]}
-{"PLAYER": ["Huszti"]}
-{"PLAYER": ["Modeste"], "PER": ["Krmas"], "EVENT": ["Ball"]}
-{"PER": ["Djourou"], "ASSIST": ["Malli"], "EVENT": ["Pass"], "PLAYER": ["Okazaki"]}
-{"PLAYER": ["Kagawa"]}
-{"PLAYER": ["Schmid"], "EVENT": ["Foul", "Leder"], "PER": ["Baier"]}
-{"PLAYER": ["Ibisevic"], "EVENT": ["Hereingabe"], "PER": ["Svensson"]}
-{"PLAYER": ["Feulner"], "EVENT": ["Fehlpass"], "PER": ["Kroos"]}
-{"PER": ["Sakai"], "EVENT": ["Kopfballduell"], "PLAYER": ["Lewandowski"]}
-{"ASSIST": ["Kacar"], "EVENT": ["Ball"]}
-{"ASSIST": ["Fernandes"], "EVENT": ["Ball"], "PER": ["Stindl", "Hoffmann"], "PLAYER": ["Mehmedi"]}
-{"PLAYER": ["Raffael"]}
-{"EVENT": ["Hereingabe"], "PLAYER": ["Huszti"]}
-{"EVENT": ["Ball", "Zweikampf", "Leder"], "PLAYER": ["Robben"], "PER": ["Lewandowski", "Maroh"]}
-{"PER": ["Douglas Santos", "Kohr"], "EVENT": ["Ball", "Flanke", "Spielger\u00e4t"], "PLAYER": ["Bailey"], "KEEPER": ["Mathenia"]}
-{"PER": ["Owomoyela"], "PLAYER": ["Guerrero"]}
-{"PER": ["Koch", "Vrancic"], "EVENT": ["Pass"], "ASSIST": ["Reichel"]}
-{"PLAYER": ["Gomez"]}
-{"PLAYER": ["Uth"], "ASSIST": ["Kramarics"]}
-{"ASSIST": ["Djurdjic"], "EVENT": ["Ball", "Leder"]}
-{"PLAYER": ["Ben-Hatira"], "EVENT": ["Zuspiel"], "ASSIST": ["Z\u00e9 Roberto"]}
-{"PLAYER": ["Ekici"], "EVENT": ["Abpraller"]}
-{"PER": ["Bruma"], "EVENT": ["Ball", "Flanke"], "ASSIST": ["Simons"], "PLAYER": ["Didavi"]}
-{"PLAYER": ["Bargfrede"], "EVENT": ["Spielger\u00e4t"]}
-{"PLAYER": ["Gomez"]}
-{"PER": ["Bazoer"], "ASSIST": ["Gomez"], "PLAYER": ["Didavi"], "KEEPER": ["Hradecky"]}
-{"ASSIST": ["Fuchs"], "PER": ["Hain"]}
-{"ASSIST": ["Vieirinha"], "PLAYER": ["Arnold"], "PER": ["Cleber"], "EVENT": ["Ball"]}
-{"PLAYER": ["Salihovic"], "EVENT": ["Ball", "Ecke"]}
-{"ASSIST": ["Ribery"], "PLAYER": ["Rafinha"]}
-{"ASSIST": ["De Bruyne"]}
-{"PLAYER": ["Joselu"], "EVENT": ["Leder"]}
-{"PLAYER": ["Abraham"], "EVENT": ["Kopfball"]}
-{"PLAYER": ["Inui"], "EVENT": ["Ball"]}
-{"PLAYER": ["Sch\u00fcrrle"], "PER": ["Dick"]}
-{"KEEPER": ["Zieler"], "PLAYER": ["Mandzukic"]}
-{"PER": ["H\u00f6wedes"], "EVENT": ["Zuspiel"], "PLAYER": ["Bendtner"]}
-{"PLAYER": ["Huntelaar"]}
-{"PLAYER": ["Kalou"], "KEEPER": ["Zieler"]}
-{"PLAYER": ["Ibisevic"], "EVENT": ["Ball"]}
-{"PLAYER": ["Ibisevic"], "KEEPER": ["Kraft"], "EVENT": ["Ball"]}
-{"PLAYER": ["Malli"], "EVENT": ["Leder"]}
-{"ASSIST": ["Risse"], "EVENT": ["Ball"], "PER": ["Subotic"]}
-{"PLAYER": ["de Jong"], "PER": ["Werner"]}
-{"PLAYER": ["Kleindienst"], "PER": ["Cordova"]}
-{"PLAYER": ["G\u00f6tze"]}
-{"PLAYER": ["M\u00fcller"]}
-{"PLAYER": ["Rodriguez"], "EVENT": ["Freisto\u00df"]}
-{"ASSIST": ["Caligiuri"], "PER": ["S\u00f6rensen"], "PLAYER": ["Sch\u00f6pf"]}
-{"PER": ["Daems"], "EVENT": ["Ball"]}
-{"PLAYER": ["Huntelaar"]}
-{"PER": ["Haller", "Weiser"], "EVENT": ["Flanke", "Ball", "Leder"], "PLAYER": ["Boateng"]}
-{"ASSIST": ["Ibisevic"], "PLAYER": ["Harnik"], "EVENT": ["Flachschuss"]}
-{"PLAYER": ["Finnbogason"]}
-{"ASSIST": ["Schmid"], "EVENT": ["Leder"], "PLAYER": ["Mehmedi"], "KEEPER": ["ter Stegen"]}
-{"ASSIST": ["M\u00fcller"]}
-{"ASSIST": ["Meier"], "EVENT": ["Ball"], "PLAYER": ["Rebic"]}
-{"PLAYER": ["Huntelaar"]}
-{"PER": ["Vieirinha"], "ASSIST": ["Tr\u00e4sch"], "EVENT": ["Hereingabe"]}
-{"PLAYER": ["Haberer"]}
-{"PLAYER": ["Ciss\u00e9"]}
-{"ASSIST": ["Stindl"], "PLAYER": ["Bittencourt"]}
-{"ASSIST": ["Elia"], "PER": ["San\u00e9"]}
-{"ASSIST": ["Clemens"], "EVENT": ["Ball"]}
-{"PLAYER": ["Neust\u00e4dter"]}
-{"PLAYER": ["Alaba"], "EVENT": ["Freisto\u00df"]}
-{"PER": ["Abdellaoue", "Svensson"], "EVENT": ["Flanke"], "ASSIST": ["Schlaudraffs"]}
-{"PLAYER": ["Renato Augusto"], "EVENT": ["Ball"]}
-{"ASSIST": ["Geis"], "EVENT": ["Freisto\u00df"], "PLAYER": ["Junior Diaz"], "PER": ["Gued\u00e9"]}
-{"PLAYER": ["Sahin"], "EVENT": ["L\u00fccke"]}
-{"EVENT": ["Steilpass", "Ball"], "ASSIST": ["Robben"], "PER": ["Russ"]}
-{"EVENT": ["Flanke"], "PLAYER": ["Ibisevic"]}
-{"PER": ["Kalou"], "ASSIST": ["Plattenhardt"]}
-{"ASSIST": ["Junior Caicara"], "PLAYER": ["Sch\u00f6pf"], "EVENT": ["Konter", "Schuss"], "KEEPER": ["Benaglio"]}
-{"ASSIST": ["G\u00f6tze"], "PER": ["Oczipkas"]}
-{"PLAYER": ["M\u00fcller"], "PER": ["Drobny"]}
-{"PLAYER": ["Bartels"], "KEEPER": ["Kruse"]}
-{"PER": ["Osako"], "EVENT": ["Ball", "flankt"], "ASSIST": ["Bittencourt"], "PLAYER": ["Hector"]}
-{"PER": ["Robben"], "ASSIST": ["G\u00f6tze"]}
-{"PLAYER": ["Daems"], "EVENT": ["Strafsto\u00df"], "PER": ["Adler"]}
-{}
-{"PER": ["S\u00f6y\u00fcnc\u00fc"], "EVENT": ["Ball"], "ASSIST": ["M\u00fcller"], "PLAYER": ["Lewandowski"]}
-{"EVENT": ["Ball", "flanken"], "ASSIST": ["Schlaudraff"]}
-{"EVENT": ["Freisto\u00df", "F\u00fchrung"], "ASSIST": ["Baier"]}
-{"ASSIST": ["Bargfrede"], "EVENT": ["Ball"], "PLAYER": ["Bauer"]}
-{"KEEPER": ["Hradecky"], "PLAYER": ["Augustin"]}
-{"PLAYER": ["Naldo"], "EVENT": ["Freisto\u00df", "Mauer"]}
-{"PLAYER": ["Boateng"], "EVENT": ["Flanke", "Chance"], "ASSIST": ["Fuchs"], "PER": ["Mielitz"]}
-{"ASSIST": ["Aranguiz"], "PLAYER": ["Volland"]}
-{"PLAYER": ["Marica"], "EVENT": ["Flanke"], "ASSIST": ["Jones"]}
-{"ASSIST": ["Frei"], "PLAYER": ["Cordoba"]}
-{"PER": ["Shaqiri"], "ASSIST": ["Alaba"]}
-{"PLAYER": ["Caligiuri"], "EVENT": ["Pass"], "PER": ["G\u00fcndogan"]}
-{"ASSIST": ["Roger"], "EVENT": ["Ecke"], "PLAYER": ["Matip"], "PER": ["Gro\u00df"]}
-{"ASSIST": ["Philipp"], "EVENT": ["Ball"], "PLAYER": ["Sahin"]}
-{"ASSIST": ["Plattenhardt"]}
-{"ASSIST": ["Diego"], "PLAYER": ["Grafite"]}
-{"PLAYER": ["Ivanschitz"], "EVENT": ["Ball"]}
-{"KEEPER": ["Hitz"], "EVENT": ["Ball", "Freisto\u00df"], "ASSIST": ["Vidals"]}
-{"PLAYER": ["Galvez"], "EVENT": ["Leder", "Flanke", "volley"]}
-{"PER": ["Gro\u00df", "Abraham"], "EVENT": ["Ecke"], "ASSIST": ["Lezcano"]}
-{}
-{"PER": ["San\u00e9"], "EVENT": ["L\u00fccke"], "ASSIST": ["Darida"]}
-{"ASSIST": ["Farfan"], "PER": ["Ehret"]}
-{"PER": ["Burgstaller", "Meyer"], "ASSIST": ["Choupo-Moting"], "EVENT": ["Hereingabe"], "PLAYER": ["Caligiuri"]}
-{"ASSIST": ["Kie\u00dfling"], "EVENT": ["Ball", "Flanke", "Abpraller"], "PER": ["Brandt"], "PLAYER": ["Papadopoulos"]}
-{"ASSIST": ["Wagner"], "EVENT": ["Ball"], "KEEPER": ["Hradecky"]}
-{"ASSIST": ["Stark"], "EVENT": ["Ecke"], "PER": ["Plattenhardt"]}
-{"PLAYER": ["Wagner"]}
-{"PER": ["Dembel\u00e9-Ecke"], "ASSIST": ["Bartra"], "PLAYER": ["Piszczek"]}
-{"PLAYER": ["Szalai"], "EVENT": ["Leder"]}
-{"ASSIST": ["Schmitz"], "PER": ["Compper"], "EVENT": ["Ball"], "PLAYER": ["Arnautovic"]}
-{"PER": ["Hazard"], "ASSIST": ["Dahoud"]}
-{"PER": ["Oczipka"], "ASSIST": ["Chandler"]}
-{"ASSIST": ["Bellarabi"], "EVENT": ["Doppelpass"], "PER": ["Kampl"]}
-{"ASSIST": ["Lahm"], "PLAYER": ["Ribery"]}
-{"ASSIST": ["Vieirinha"], "PLAYER": ["Helmes"]}
-{"ASSIST": ["Dembel\u00e9"], "PLAYER": ["Aubameyang"], "PER": ["S\u00fcle"], "KEEPER": ["Baumann"]}
-{"PLAYER": ["Werner"], "EVENT": ["Leder"]}
-{"PLAYER": ["Kalou"]}
-{"PLAYER": ["Alaba"], "EVENT": ["Ball"]}
-{"EVENT": ["Kopfball"]}
-{"PLAYER": ["Aubameyang"]}
-{"PER": ["Ochs", "Volland"], "ASSIST": ["Vargas"]}
-{}
-{"ASSIST": ["Gebhart"], "PER": ["Diekmeier"], "PLAYER": ["Pekhart"], "EVENT": ["volley"]}
-{"PLAYER": ["M\u00fcller"], "KEEPER": ["Sommer"]}
-{"PLAYER": ["Ginter"], "PER": ["Khedira", "Gregoritsch"]}
-{"PER": ["Polak"], "EVENT": ["Ball"], "ASSIST": ["Dejagah"]}
-{"PLAYER": ["Malli"], "PER": ["Ginter"], "ASSIST": ["Gomez"]}
-{"PLAYER": ["Aranguiz"]}
-{"ASSIST": ["Rausch"], "PLAYER": ["Abdellaoue"]}
-{"PER": ["Eggestein", "Bruma"], "EVENT": ["Ball"], "ASSIST": ["Kruse"]}
-{"PLAYER": ["Gomez"], "PER": ["Haggui"]}
-{"EVENT": ["Ball"], "PLAYER": ["Darida"]}
-{"ASSIST": ["Mkhitaryan"], "EVENT": ["Ball"], "PER": ["Aogo"], "PLAYER": ["Aubameyang"]}
-{"PLAYER": ["Keita"]}
-{"ASSIST": ["Max"], "EVENT": ["Ecke", "Ball"], "KEEPER": ["Jarstein"]}
-{"PER": ["De Wit"], "EVENT": ["Konter"], "ASSIST": ["Fortounis"], "PLAYER": ["Wooten"], "KEEPER": ["Kraft"]}
-{"ASSIST": ["\u00d6zcan"], "PLAYER": ["Brekalo"]}
-{"ASSIST": ["Zabavnik"], "PLAYER": ["Choupo-Moting"]}
-{"ASSIST": ["G\u00f6tze"], "PLAYER": ["Kagawa"]}
-{"PER": ["Willems"], "PLAYER": ["Wolf"]}
-{"PER": ["G\u00f6tze"], "EVENT": ["Ball", "Spielger\u00e4t"]}
-{"PLAYER": ["Koo"]}
-{"ASSIST": ["Rodriguez"], "PLAYER": ["Dost"]}
-{"ASSIST": ["Robben"], "EVENT": ["Flanke"]}
-{"PER": ["Raffael", "Gebre Selassie"], "ASSIST": ["Herrmann"], "KEEPER": ["Kruse"]}
-{"ASSIST": ["Lazaro"], "EVENT": ["Ball"], "PLAYER": ["Kalou"]}
-{"ASSIST": ["M\u00f6lders"], "EVENT": ["Zuspiel"], "PLAYER": ["Brinkmann"]}
-{"PER": ["Gentner"], "ASSIST": ["Harnik"]}
-{"EVENT": ["Leder"], "PLAYER": ["Szalai"], "KEEPER": ["L\u00f6ssl"]}
-{"PER": ["Raffael"], "EVENT": ["Chance"], "PLAYER": ["Volland"]}
-{"EVENT": ["Flanke", "Kopfball"], "KEEPER": ["Karius"]}
-{"PER": ["Douglas Santos"], "EVENT": ["Ball"], "PLAYER": ["Bailey"]}
-{"PLAYER": ["Diouf"], "EVENT": ["Spielger\u00e4t"]}
-{"EVENT": ["Flanke"], "PLAYER": ["F\u00fcllkrug"]}
-{"KEEPER": ["Wiedwald"], "PLAYER": ["M\u00fcller"]}
-{"ASSIST": ["Goretzka"]}
-{"ASSIST": ["Piszczek"], "EVENT": ["Leder"], "PLAYER": ["Batshuayi"]}
-{"PER": ["Leno"], "EVENT": ["Freisto\u00dfflanke"], "PLAYER": ["Klein"]}
-{"PER": ["Gentner"], "ASSIST": ["Niedermeier"], "PLAYER": ["Ibisevic"], "EVENT": ["volley"]}
-{"PLAYER": ["Ribery"], "EVENT": ["Leder"]}
-{"ASSIST": ["Ibisevic"], "EVENT": ["Doppelpass"], "PLAYER": ["Maxim"]}
-{"PLAYER": ["Reus"]}
-{"ASSIST": ["Ribery"], "PLAYER": ["Kroos"], "EVENT": ["Schuss"]}
-{"PER": ["Thiago"], "ASSIST": ["M\u00fcller"]}
-{"ASSIST": ["M\u00fcller"], "PLAYER": ["Schweinsteiger"], "PER": ["Ulreich"]}
-{"PLAYER": ["Okazaki"], "EVENT": ["Flanke", "Abpraller", "F\u00fchrung"], "ASSIST": ["Harniks"], "PER": ["Cherundolo"]}
-{"ASSIST": ["Vrancic"], "EVENT": ["Hereingabe"], "PLAYER": ["Sulu"]}
-{"PLAYER": ["Meier"], "EVENT": ["Abpraller"]}
-{"ASSIST": ["Pizarro"], "PLAYER": ["Rosenberg"], "KEEPER": ["Zieler"], "EVENT": ["Ball"]}
-{"ASSIST": ["Boll"], "EVENT": ["Ecke"], "PER": ["Kruses"]}
-{"PLAYER": ["Bailey"]}
-{"EVENT": ["Flanke", "Vorlage"], "PER": ["Hinteregger"], "PLAYER": ["Reus"]}
-{"PER": ["Frings"], "EVENT": ["Freisto\u00df", "verl\u00e4ngert"], "ASSIST": ["Pr\u00f6dl"], "PLAYER": ["Mertesacker"]}
-{"ASSIST": ["Hazard"], "EVENT": ["Hereingabe"], "PLAYER": ["Herrmann"]}
-{"ASSIST": ["Diego"], "EVENT": ["Freisto\u00df"]}
-{"PLAYER": ["Huszti"], "EVENT": ["Ball"]}
-{"ASSIST": ["Sam"], "PER": ["ter Stegen"], "EVENT": ["Distanzschuss"]}
-{"ASSIST": ["Ntep"], "EVENT": ["Flanke"], "PLAYER": ["Origi"]}
-{"ASSIST": ["Lahm"], "PLAYER": ["Ribery"]}
-{"PLAYER": ["Colak"]}
-{"PER": ["Matip"], "EVENT": ["Zweikampf"], "ASSIST": ["Marx"]}
-{"PLAYER": ["Aubameyang"]}
-{"PLAYER": ["Grafite"], "PER": ["Tasci"]}
-{"PER": ["Reisinger"], "EVENT": ["Ball", "Flanke"], "PLAYER": ["Schahin"], "ASSIST": ["Balogun"]}
-{"EVENT": ["Schuss", "Vorlage", "Ball"], "PLAYER": ["Petersen"]}
-{"ASSIST": ["Castro"], "EVENT": ["Schuss", "Ball"]}
-{"PLAYER": ["Frantz"], "KEEPER": ["Hildebrand"]}
-{"PER": ["Choupo-Moting", "Schulz"], "EVENT": ["Ball"], "ASSIST": ["Draxler"]}
-{"PER": ["Castro", "Hummels"], "EVENT": ["Ball"], "ASSIST": ["Aubameyang"]}
-{"ASSIST": ["Podolski"], "EVENT": ["Freisto\u00df"], "PLAYER": ["Geromel"]}
-{"ASSIST": ["Volland"], "PLAYER": ["Modeste"], "EVENT": ["Steilpass"]}
-{"EVENT": ["Ball"], "PER": ["Robben"]}
-{"PLAYER": ["Pekhart"]}
-{"PLAYER": ["Lewandowski"], "EVENT": ["Ball"]}
-{"PLAYER": ["Mkhitaryan"]}
-{"ASSIST": ["Lazaro"], "EVENT": ["Leder", "Pass"], "PLAYER": ["Ibisevic"]}
-{"PLAYER": ["Luiz Gustavo"], "EVENT": ["R\u00fcckpass", "Leder"], "ASSIST": ["M\u00fcllers"], "PER": ["Mielitz"]}
-{"PLAYER": ["G\u00f6tze"]}
-{"PLAYER": ["Verhaegh"]}
-{"PER": ["Fritz"], "PLAYER": ["Ba"]}
-{"ASSIST": ["Kostic"], "EVENT": ["Ball"]}
-{"PER": ["Chandler"], "ASSIST": ["Aigner"]}
-{"ASSIST": ["Hector"], "EVENT": ["Ball"], "PLAYER": ["Zoller"]}
-{"ASSIST": ["Forsberg"], "PLAYER": ["Werner"], "KEEPER": ["Adler"]}
-{"PLAYER": ["Ujah"], "EVENT": ["Leder"]}
-{"ASSIST": ["Lewandowski"], "EVENT": ["Ball", "Pass"], "PLAYER": ["Aubameyang"]}
-{"ASSIST": ["Sahin"]}
-{"PLAYER": ["Vidal"]}
-{"ASSIST": ["Gacinovic"], "PLAYER": ["Wolf"], "EVENT": ["Ecke"]}
-{"ASSIST": ["Meier"], "PLAYER": ["Stendera"]}
-{"ASSIST": ["Garbuschewski"], "EVENT": ["Freisto\u00df", "Ball"]}
-{"PER": ["McKenna"], "EVENT": ["Ball"]}
-{"PER": ["San\u00e9", "Bell"], "ASSIST": ["Meyer"]}
-{"ASSIST": ["Robben"], "EVENT": ["Leder"], "PLAYER": ["Schweinsteiger"], "PER": ["Uchida"]}
-{"ASSIST": ["Schmelzer"], "EVENT": ["Freisto\u00dfflanke"]}
-{"PER": ["Sokratis"]}
-{"PER": ["Mavraj"], "EVENT": ["Ball"], "PLAYER": ["Aubameyang"]}
-{"PLAYER": ["Baku"], "KEEPER": ["Gulacsi"]}
-{"ASSIST": ["Modeste"], "PLAYER": ["Volland"]}
-{"PLAYER": ["Schieber"], "PER": ["Niedermeier"]}
-{"ASSIST": ["Lookman"], "PLAYER": ["Augustin"]}
-{"PER": ["Polter"], "ASSIST": ["Bell"], "EVENT": ["Hereingabe"]}
-{"PLAYER": ["Huntelaar"]}
-{"PLAYER": ["Ibisevic"]}
-{"EVENT": ["Ecke"], "PLAYER": ["Bungert"]}
-{"PER": ["Garcia"], "EVENT": ["Flanke"], "ASSIST": ["Oczipka"]}
-{"PLAYER": ["Perisic"], "PER": ["Rensing"], "EVENT": ["Ecke"]}
-{"PLAYER": ["Jojic"], "EVENT": ["Leder"]}
-{"PER": ["Vukcevic", "Daems"], "EVENT": ["Ball"], "ASSIST": ["Mlapa"]}
-{"ASSIST": ["Schmid"], "PLAYER": ["Frantz"]}
-{"KEEPER": ["L\u00f6ssl"], "EVENT": ["Flanke"], "PLAYER": ["Petersen"]}
-{"PLAYER": ["Mehmedi"]}
-{"ASSIST": ["Rudy"]}
-{"PLAYER": ["Toljan"], "EVENT": ["Leder", "Ecke"]}
-{"ASSIST": ["Jairo"], "PER": ["Gacinovic"]}
-{"PLAYER": ["De Blasis"]}
-{"KEEPER": ["Baumann"], "EVENT": ["Ecke"], "PER": ["Vargas"], "PLAYER": ["Volland"]}
-{"ASSIST": ["Rodriguez"], "EVENT": ["Ball"], "PLAYER": ["Diego"]}
-{"ASSIST": ["Werner"], "EVENT": ["Ball"], "PLAYER": ["Maxim"]}
-{"EVENT": ["L\u00fccke"], "PLAYER": ["Lewandowski"], "ASSIST": ["M\u00fcller"]}
-{"ASSIST": ["Dahoud"], "PLAYER": ["Herrmann"]}
-{"PLAYER": ["Westermann"], "EVENT": ["Ball"]}
-{"PLAYER": ["Robben"], "KEEPER": ["Leno"]}
-{"PLAYER": ["Barnetta"]}
-{"ASSIST": ["Jantschke"], "KEEPER": ["Mielitz"], "PLAYER": ["Raffael"], "PER": ["Pr\u00f6dl"], "EVENT": ["Ball"]}
-{"KEEPER": ["Zieler"], "EVENT": ["Ball"], "PLAYER": ["Hunt"]}
-{"PLAYER": ["Sabitzer"], "EVENT": ["Ball", "volley"], "ASSIST": ["Poulsen"]}
-{"PLAYER": ["Uth"], "ASSIST": ["Rudys"], "EVENT": ["Zuspiel"], "KEEPER": ["Gulacsi"]}
-{"ASSIST": ["Reus"]}
-{"PER": ["Butscher"], "EVENT": ["Ball"]}
-{"PER": ["Raffaels"], "PLAYER": ["Draxler"]}
-{"ASSIST": ["Soto"], "PLAYER": ["Choupo-Moting"]}
-{"ASSIST": ["Verhaegh"], "EVENT": ["Ball"], "PER": ["Delaney"]}
-{"ASSIST": ["De Bruyne"], "PER": ["Albornoz", "San\u00e9"], "PLAYER": ["Dost"]}
-{"PER": ["Elia"], "EVENT": ["Ball"], "ASSIST": ["Schmelzer"]}
-{"ASSIST": ["Blaszczykowski"]}
-{"PLAYER": ["Vidal"]}
-{"PLAYER": ["Klose"], "EVENT": ["Zuspiel"], "ASSIST": ["M\u00fcllers"]}
-{"PLAYER": ["Coke"]}
-{"EVENT": ["Ball"], "PLAYER": ["Nordtveit"], "ASSIST": ["Xhaka"]}
-{"PLAYER": ["Aigner"]}
-{"EVENT": ["Ecke", "Leder"], "ASSIST": ["Kampl"], "PLAYER": ["Upamecano"]}
-{"EVENT": ["Ball"], "PLAYER": ["Daems"]}
-{"PLAYER": ["Helmes"]}
-{"KEEPER": ["Manninger"], "ASSIST": ["Boateng"], "PLAYER": ["Huntelaar"]}
-{"EVENT": ["Ball"]}
-{"PLAYER": ["Keita"], "PER": ["Kempf", "Poulsen"], "EVENT": ["Ball"]}
-{"PLAYER": ["Lookman"]}
-{"PLAYER": ["Meier"], "EVENT": ["Schuss"]}
-{"PLAYER": ["Borowski"], "ASSIST": ["Marin"], "PER": ["Friedrich"]}
-{"PER": ["Fuchs"], "ASSIST": ["Pukki"], "EVENT": ["R\u00fcckpass"]}
-{"PER": ["Sakai", "Albornoz"], "EVENT": ["Querpass", "Chance"], "PLAYER": ["Kalou"], "KEEPER": ["Zieler"]}
-{"PER": ["Brosinski"], "EVENT": ["Pass"]}
-{"PLAYER": ["Ibisevic"], "EVENT": ["Ball"]}
-{"ASSIST": ["Ekici"], "PLAYER": ["Eigler"]}
-{"PLAYER": ["Alaba"], "EVENT": ["Ball", "Ecke"], "KEEPER": ["Trapp"]}
-{"PLAYER": ["Stafylidis"], "EVENT": ["Ball"]}
-{"PLAYER": ["Rasmussen"], "EVENT": ["Ball", "Leder"]}
-{"ASSIST": ["Guerrero"], "EVENT": ["Flanke", "Kopfball"], "PER": ["Noveski"]}
-{"PER": ["Volland"], "ASSIST": ["Schipplock"], "PLAYER": ["Roberto Firmino"]}
-{"PLAYER": ["M\u00fcller"]}
-{"EVENT": ["Freisto\u00df", "Konter"], "ASSIST": ["Alaba"]}
-{"ASSIST": ["Gentner"], "PER": ["Kostics"]}
-{"ASSIST": ["Prib"], "PER": ["Zambrano"], "PLAYER": ["Diouf"]}
-{"ASSIST": ["Jansen"], "PLAYER": ["Lasogga"]}
-{"PLAYER": ["Lakic"], "EVENT": ["Vorlage"], "ASSIST": ["Aigner"]}
-{"ASSIST": ["Farfan"], "PLAYER": ["Pukki"], "EVENT": ["Ball", "Chance"], "KEEPER": ["Zieler"]}
-{"ASSIST": ["Pledl"], "EVENT": ["Ball"], "PLAYER": ["Djurdjic"], "KEEPER": ["Adler"]}
-{"ASSIST": ["Roberto Firmino"], "EVENT": ["Ball", "Leder"], "PLAYER": ["Volland"]}
-{"PLAYER": ["Didavi"], "EVENT": ["Freisto\u00df", "Sechs-Mann-Mauer"]}
-{"PLAYER": ["Aigner"], "EVENT": ["Ball"]}
-{"PLAYER": ["Didavi"]}
-{"ASSIST": ["Grifo"], "PLAYER": ["Haberer"]}
-{"PLAYER": ["Hahn"], "EVENT": ["Ecke"]}
-{"PER": ["Wagner", "Kramaric"], "EVENT": ["Dribbling"]}
-{"PER": ["Marcelo"], "EVENT": ["Steilpass", "weiterleitet", "Ball"], "ASSIST": ["Pospech"], "PLAYER": ["M\u00fcller"]}
-{"PER": ["Sahin"], "PLAYER": ["Bartels"]}
-{"ASSIST": ["Brandt"], "PLAYER": ["Havertz"]}
-{"PLAYER": ["Ibisevic"]}
-{"ASSIST": ["Ibisevic"]}
-{"EVENT": ["Ball"], "PLAYER": ["Hasebe"], "PER": ["Caldirola"]}
-{"PLAYER": ["Huntelaar"], "EVENT": ["Freisto\u00df", "Leder"]}
-{"ASSIST": ["Beck"], "EVENT": ["Spielger\u00e4t", "Vorlage"]}
-{"ASSIST": ["Ginczek"], "PER": ["Abraham"]}
-{"PLAYER": ["Clemens"]}
-{"EVENT": ["Ball", "Freisto\u00df"], "PER": ["Barnetta"], "PLAYER": ["Flum"], "KEEPER": ["Hildebrand"]}
-{"ASSIST": ["Hyypi\u00e4"], "PLAYER": ["Rolfes"]}
-{"EVENT": ["Ball"], "PLAYER": ["Lasogga"]}
-{"ASSIST": ["Stieber"], "EVENT": ["Ball"]}
-{"PER": ["Kehl", "Benaglio"], "ASSIST": ["Gro\u00dfkreutz"], "EVENT": ["Schuss"]}
-{"PLAYER": ["Jonathas"]}
-{"PLAYER": ["Harnik"], "EVENT": ["Zuspiel"], "ASSIST": ["Pogrebnyak"]}
-{"PER": ["Seferovic"], "EVENT": ["Ball", "Freisto\u00df"]}
-{"ASSIST": ["Calhanoglu"], "EVENT": ["Ball", "Leder"], "PER": ["Strobl"]}
-{"PLAYER": ["Hinteregger"]}
-{"ASSIST": ["Camoranesi"], "EVENT": ["Ecke"], "PLAYER": ["Niedermeier"]}
-{"PLAYER": ["Naldo"]}
-{"ASSIST": ["Dahoud"], "PLAYER": ["Raffael"]}
-{"PER": ["Brosinski"], "ASSIST": ["Baumgartlinger"], "PLAYER": ["Cordoba"]}
-{"PLAYER": ["Westermann"]}
-{"ASSIST": ["Sorg"], "EVENT": ["Einwurf"], "PLAYER": ["Schmid"]}
-{"PER": ["Keita"], "ASSIST": ["Werner"], "PLAYER": ["Lookman"]}
-{"PER": ["Brosinski"], "EVENT": ["Leder"], "ASSIST": ["Bussmann"]}
-{"EVENT": ["Flanke"], "ASSIST": ["Bastians"]}
-{"ASSIST": ["Cacau"], "PLAYER": ["Gentner"], "EVENT": ["Ball"]}
-{"ASSIST": ["Gebhart"]}
-{"PLAYER": ["Castro"]}
-{"ASSIST": ["Max"]}
-{"ASSIST": ["Calhanoglu"], "EVENT": ["Ecke"]}
-{"PLAYER": ["Werner"]}
-{"ASSIST": ["Johnson"], "EVENT": ["Ball"], "PLAYER": ["Volland"]}
-{"ASSIST": ["Rodriguez"], "EVENT": ["Flanke"]}
-{"PER": ["Matip"], "PLAYER": ["van Nistelrooy"], "EVENT": ["Ball"]}
-{"EVENT": ["Freisto\u00df", "Querpass", "Mauer"], "PLAYER": ["Yahia"]}
-{"EVENT": ["Abpraller"], "PLAYER": ["Guerrero"], "PER": ["Geromel"]}
-{"PLAYER": ["Brandt"]}
-{"ASSIST": ["Walace"], "EVENT": ["Flanke", "Ball"], "PLAYER": ["M\u00fcller"]}
-{"ASSIST": ["Luiz Gustavo"], "PER": ["Frings"]}
-{"ASSIST": ["Rivic"], "PLAYER": ["Ilicevic"]}
-{"PLAYER": ["Konoplyanka"], "PER": ["Jorge Mer\u00e9"], "KEEPER": ["Horn"], "EVENT": ["Chance"]}
-{"PLAYER": ["Harnik"]}
-{"PER": ["Herrmann", "Wemmer"], "PLAYER": ["Raffael"]}
-{"ASSIST": ["Vidal"]}
-{"PLAYER": ["Olic"]}
-{"PER": ["Hummels"], "EVENT": ["Ball"]}
-{"PLAYER": ["Didavi"], "EVENT": ["Ball"]}
-{"PER": ["Finnbogason"], "ASSIST": ["Max"]}
-{"ASSIST": ["Holzhauser"], "EVENT": ["Freisto\u00dfflanke"], "PLAYER": ["Callsen-Bracker"]}
-{"ASSIST": ["Kie\u00dfling"], "EVENT": ["Abpraller"]}
-{"PLAYER": ["Kainz"]}
-{"PER": ["Wendt", "Ginter", "Kramer"], "ASSIST": ["Heller"], "EVENT": ["flanken", "Leder"], "PLAYER": ["Cordova"]}
-{"PER": ["Brooks", "Skjelbred"], "KEEPER": ["Jarstein"], "ASSIST": ["Poulsen"]}
-{"PLAYER": ["Hunt"], "EVENT": ["Spielger\u00e4t"]}
-{"ASSIST": ["Rudnevs"], "PLAYER": ["Jojic"]}
-{"PLAYER": ["McKenna"]}
-{"PER": ["Busch"], "ASSIST": ["Petersen"], "EVENT": ["Ball"], "PLAYER": ["Pr\u00f6dl"]}
-{"PLAYER": ["Lasogga"]}
-{"ASSIST": ["Schweinsteiger"]}
-{"PLAYER": ["Ronny"]}
-{"PER": ["Sahin"], "ASSIST": ["G\u00f6tze"], "PLAYER": ["Barrios"]}
-{"ASSIST": ["H\u00fcbner"], "EVENT": ["Ball"], "PLAYER": ["Uth"]}
-{"ASSIST": ["Bebou"], "EVENT": ["Ball"], "PLAYER": ["Jonathas"]}
-{"ASSIST": ["Keita"]}
-{"EVENT": ["Ball"], "PLAYER": ["Reus"]}
-{"EVENT": ["Schuss"]}
-{"EVENT": ["Fehler", "F\u00fchrung"], "PLAYER": ["Junuzovic"]}
-{"PER": ["Beck"], "ASSIST": ["Babel"]}
-{"PER": ["Douglas Costa"], "ASSIST": ["Robben"]}
-{"EVENT": ["Ball", "Leder"], "PLAYER": ["Gentner"]}
-{"ASSIST": ["Ribery"], "EVENT": ["Doppelpass", "Leder"], "PER": ["Lewandowski"], "PLAYER": ["M\u00fcller"]}
-{"PLAYER": ["Stindl"], "EVENT": ["Hereingabe"]}
-{"ASSIST": ["Elabdellaoui"], "EVENT": ["Flanke"]}
-{"PLAYER": ["Sam"]}
-{"KEEPER": ["Sch\u00e4fer"], "EVENT": ["Ball"]}
-{"ASSIST": ["Skjelbred"], "EVENT": ["Freisto\u00df"], "PLAYER": ["Ramos"]}
-{"PER": ["Robben"], "EVENT": ["Ball"], "ASSIST": ["M\u00fcller"]}
-{"PLAYER": ["Alaba"]}
-{"EVENT": ["Pass"], "PLAYER": ["Meier"]}
-{"ASSIST": ["Nordtveit"], "EVENT": ["Ball", "volley"]}
-{"PLAYER": ["Aubameyang"]}
-{"ASSIST": ["Olic"], "PLAYER": ["M\u00fcller"], "EVENT": ["Ball"]}
-{"PER": ["Gomez"], "PLAYER": ["Tymoshchuk"], "ASSIST": ["Ribery"], "EVENT": ["Ball"]}
-{"EVENT": ["Freisto\u00dfflanke", "Kopfball"], "ASSIST": ["Uth"], "PLAYER": ["Wagner"]}
-{"PER": ["S\u00fcle"], "EVENT": ["Pass"], "ASSIST": ["M\u00fcller"]}
-{"PLAYER": ["Grafite"], "PER": ["Tasci"]}
-{"ASSIST": ["Vrancic"], "EVENT": ["Pass"], "PLAYER": ["H\u00fcnemeier"], "KEEPER": ["Wiedwald"]}
-{"PER": ["Bauer"], "EVENT": ["Flanke"], "PLAYER": ["Junuzovic"]}
-{"EVENT": ["Konter", "Ecke"], "PER": ["Salihovic"], "ASSIST": ["Roberto Firmino"], "PLAYER": ["Schipplock"]}
-{"ASSIST": ["Barnetta"], "PER": ["Madlung"], "EVENT": ["Ball"]}
-{"EVENT": ["Spielger\u00e4t", "Seitfallzieher"], "ASSIST": ["Schwegler-Meier-Kopfballstafette"], "PLAYER": ["Madlung"]}
-{"PLAYER": ["Gro\u00df"], "EVENT": ["Ball"], "ASSIST": ["Leckie"]}
-{"PLAYER": ["Reus"]}
-{"ASSIST": ["Brandt"], "EVENT": ["Ball"], "PLAYER": ["Mehmedi"]}
-{"ASSIST": ["Kie\u00dfling"], "PLAYER": ["Sam"], "PER": ["Hosogai"]}
-{"ASSIST": ["Prib"], "PLAYER": ["Joselu"], "PER": ["Fuchs"]}
-{"ASSIST": ["Raffael"], "PER": ["Klose"]}
-{"PLAYER": ["van Buyten"], "EVENT": ["Freisto\u00df", "eink\u00f6pfen"], "ASSIST": ["Robben"]}
-{"EVENT": ["Ball"], "PLAYER": ["Burgstaller"]}
-{"PLAYER": ["Verhaegh"]}
-{"ASSIST": ["H\u00f6ger"], "PLAYER": ["Modeste"]}
-{"PER": ["Yarmolenko", "Gulde"], "PLAYER": ["Toljan"]}
-{"PLAYER": ["Mintal"], "EVENT": ["Abpraller"]}
-{"PLAYER": ["Amiri"], "EVENT": ["Ball"]}
-{"PLAYER": ["Olic"], "EVENT": ["Ball"]}
-{"ASSIST": ["Sam"], "PER": ["Mijatovic"], "PLAYER": ["Derdiyok"]}
-{"EVENT": ["Leder", "Versuch"], "PLAYER": ["Rode"]}
-{"PER": ["H\u00f6hn"], "PLAYER": ["Schuster"], "EVENT": ["Leder"]}
-{"PLAYER": ["Kaiser"], "EVENT": ["Fehler", "Leder"], "PER": ["Baumann"]}
-{"PLAYER": ["M\u00fcller"]}
-{"PER": ["Aogo"], "EVENT": ["Freisto\u00df"], "PLAYER": ["Schahin"]}
-{}
-{"PLAYER": ["M\u00f6lders"]}
-{"PLAYER": ["Szalai"], "ASSIST": ["Terrazzino"], "EVENT": ["Ball"]}
-{"ASSIST": ["Schuster"], "EVENT": ["Steilpass"]}
-{"PER": ["Hrgota"]}
-{"PLAYER": ["Kroos"], "EVENT": ["Vorlage"], "ASSIST": ["Ribery"]}
-{"PLAYER": ["Rudnevs"], "EVENT": ["Ecke"]}
-{"KEEPER": ["Kruse"], "EVENT": ["k\u00f6pfen"]}
-{"PLAYER": ["Alaba"], "EVENT": ["Freisto\u00df"]}
-{"ASSIST": ["Schmitz"], "PLAYER": ["Raul"]}
-{"PER": ["Gomez"], "ASSIST": ["Arnold"]}
-{"REFEREE": ["Unparteiische"], "EVENT": ["Strafsto\u00df", "F\u00fchrung"]}
-{"PLAYER": ["Valdez"], "PER": ["Lehmann"], "EVENT": ["Chance", "Schuss"]}
-{"ASSIST": ["Luiz Gustavo"], "PER": ["Frings"]}
-{"ASSIST": ["Kramaric"], "PLAYER": ["Gnabry"]}
-{"ASSIST": ["Gacinovic"], "EVENT": ["Leder"], "PLAYER": ["Mascarell"]}
-{"PER": ["Bicakcic", "Sobiech"], "PLAYER": ["Kiyotake"]}
-{"PER": ["Schmiedebach"], "ASSIST": ["Kiyotake"]}
-{"ASSIST": ["Tr\u00e4sch"], "EVENT": ["flanken"], "PLAYER": ["Dost"]}
-{"EVENT": ["Pass"], "ASSIST": ["Sahin"], "PLAYER": ["Kagawa"]}
-{"ASSIST": ["Delaney"], "PER": ["Latza"], "EVENT": ["Ball"], "PLAYER": ["Bargfrede"]}
-{"ASSIST": ["Rodriguez"], "EVENT": ["Ecke"], "PLAYER": ["Gomez"]}
-{"PER": ["Khedira", "Kainz"], "EVENT": ["Ball", "Konter"], "ASSIST": ["Caiuby"]}
-{"PER": ["H\u00f6wedes"], "EVENT": ["Freisto\u00df"], "ASSIST": ["Michel Bastos"]}
-{"PER": ["Tr\u00e4sch"], "EVENT": ["Freisto\u00df"], "ASSIST": ["Mandzukic"]}
-{"ASSIST": ["Hazard"], "EVENT": ["Ecke"], "PER": ["S\u00f6rensen"]}
-{"PLAYER": ["Schahin"]}
-{"PER": ["Hajnal"], "EVENT": ["Ball"], "ASSIST": ["Boulahrouz"]}
-{"PLAYER": ["G\u00f6tze"], "EVENT": ["Leder"]}
-{"PER": ["Balogun"], "ASSIST": ["Sam"], "EVENT": ["Strafsto\u00df"], "PLAYER": ["Kie\u00dfling"]}
-{"PER": ["Huntelaar"], "PLAYER": ["H\u00f6ger"], "KEEPER": ["Weidenfeller"]}
-{"EVENT": ["Leder"]}
-{"PLAYER": ["Podolski"], "EVENT": ["Chance"]}
-{"PER": ["Mujdza", "Rosenthal"], "ASSIST": ["Schmid"]}
-{"PLAYER": ["Keita"], "PER": ["Niederlechner"], "EVENT": ["Leder"]}
-{"ASSIST": ["Teber"], "EVENT": ["Ecke", "Ball"], "PLAYER": ["Fenin"]}
-{"KEEPER": ["Trapp"], "EVENT": ["Schuss"]}
-{"EVENT": ["Ball"], "PLAYER": ["Rodriguez"]}
-{"EVENT": ["Ball"], "PER": ["Simons"], "PLAYER": ["Lewandowski"]}
-{"PLAYER": ["Pizarro"]}
-{"ASSIST": ["Diekmeier"], "PLAYER": ["Son"]}
-{"ASSIST": ["Bender"], "EVENT": ["Pass"], "PER": ["Sch\u00fcrrles"]}
-{"PLAYER": ["Ramos"]}
-{"ASSIST": ["Pospech"], "EVENT": ["Flanke"], "PLAYER": ["Okazaki"]}
-{"ASSIST": ["Ciss\u00e9"], "PLAYER": ["Jendrisek"], "EVENT": ["Querpass"]}
-{"PLAYER": ["Gregoritsch"]}
-{"ASSIST": ["Novakovic"], "EVENT": ["Ball"], "PLAYER": ["Podolski"], "KEEPER": ["Baumann"]}
-{"ASSIST": ["De Bruyne"], "PLAYER": ["Perisic"]}
-{"PER": ["Huntelaar"]}
-{"ASSIST": ["Caligiuri"]}
-{"ASSIST": ["M\u00fcller"], "PLAYER": ["Lewandowski"]}
-{"PER": ["Boka"], "ASSIST": ["Harnik"]}
-{"EVENT": ["Vorlage"], "ASSIST": ["Huntelaar"]}
-{"PLAYER": ["Leckie"], "EVENT": ["Vorarbeit"], "KEEPER": ["Hradecky"], "ASSIST": ["Kalou"]}
-{"PER": ["Schulz"], "PLAYER": ["Polter"], "EVENT": ["Leder"]}
-{"PLAYER": ["Coman"], "KEEPER": ["Adler"]}
-{"PLAYER": ["Badstuber"]}
-{"ASSIST": ["Lehmann"]}
-{"ASSIST": ["Rudy"], "EVENT": ["Ball", "Leder"], "PLAYER": ["Volland"]}
-{"ASSIST": ["Hector"]}
-{"PLAYER": ["Rosenthal"]}
-{"PLAYER": ["Pizarro"], "EVENT": ["Leder"]}
-{"PLAYER": ["Meyer"]}
-{"ASSIST": ["Peszko"], "PLAYER": ["Clemens"]}
-{"PLAYER": ["Elia"], "EVENT": ["Abpraller", "Leder"]}
-{"PLAYER": ["Wagner"], "EVENT": ["Ball"], "PER": ["Horn"]}
-{"EVENT": ["Flanke"], "PLAYER": ["M\u00f6lders"], "PER": ["Felipe Santana"]}
-{"EVENT": ["Steilpass"], "ASSIST": ["Xhakas"]}
-{"PER": ["Kampl"], "ASSIST": ["Sabitzer"], "PLAYER": ["Poulsen"]}
-{"PER": ["Heller"], "ASSIST": ["Max"], "EVENT": ["flanken", "Ball"]}
-{"ASSIST": ["Jansen"]}
+{"PLAYER": ["Hlousek"], "EVENT": ["Flanke", "F\u00fchrung"]}
+{"PER": ["Obasi"], "ASSIST": ["Huntelaar"]}
+{"ASSIST": ["Choupo-Moting"], "KEEPER": ["Leno"], "EVENT": ["Parade"]}
+{"ASSIST": ["Polanski"], "EVENT": ["Leder", "Konter", "L\u00fccke"], "PLAYER": ["Schmid"]}
+{"EVENT": ["Ball", "Flanke"], "PLAYER": ["Aogo"]}
+{"PER": ["Gentner"], "ASSIST": ["Ginczek"], "KEEPER": ["Zieler"]}
 {"PLAYER": ["Gro\u00dfkreutz"]}
-{"PLAYER": ["Yarmolenko"], "EVENT": ["Ball"]}
-{"PLAYER": ["Raffael"], "PER": ["Ulreich"]}
-{"PER": ["Schweinsteiger"], "ASSIST": ["Robben"], "PLAYER": ["Gomez"]}
-{"ASSIST": ["Meier"], "PLAYER": ["Gekas"]}
-{"ASSIST": ["Schmidtgal"], "EVENT": ["Leder"]}
-{"ASSIST": ["Usami"], "EVENT": ["Ball"], "PLAYER": ["Vukcevic"]}
-{"EVENT": ["Strafsto\u00df"], "PLAYER": ["Gentner"]}
-{"EVENT": ["F\u00fchrung", "Freisto\u00df"], "ASSIST": ["Ronny"], "PLAYER": ["Brooks"]}
-{"ASSIST": ["Hunt"], "EVENT": ["Ball"], "PLAYER": ["Petersen"]}
-{"ASSIST": ["Boenisch"]}
-{"EVENT": ["F\u00fchrung"], "PER": ["Beck"], "PLAYER": ["Guerrero"]}
-{"PLAYER": ["Kramaric"], "EVENT": ["Strafsto\u00df"]}
-{"EVENT": ["F\u00fchrung"], "ASSIST": ["Draxler"], "PLAYER": ["Bruma"]}
-{"PLAYER": ["Guerrero"], "PER": ["Geromel"], "EVENT": ["Ball"]}
-{"PLAYER": ["Langkamp"], "EVENT": ["Ball", "k\u00f6pft"], "PER": ["Benaglio"]}
-{"PLAYER": ["Nehrig"]}
-{"PLAYER": ["Cacau"]}
-{"KEEPER": ["Pavlenka"], "PLAYER": ["Konoplyanka"]}
-{"KEEPER": ["Kruse"], "EVENT": ["Flanke"], "PLAYER": ["Schahin"]}
-{"PLAYER": ["Mehmedi"], "KEEPER": ["Zieler"]}
-{"PER": ["Kalou"], "ASSIST": ["Weiser"], "EVENT": ["Hereingabe"], "PLAYER": ["Ibisevic"]}
-{"PER": ["Bellarabi", "Chicharito"], "ASSIST": ["Hilbert"]}
+{"PLAYER": ["Bebou"]}
+{"PLAYER": ["Bartels"], "KEEPER": ["Kruse"]}
+{"ASSIST": ["Mak"], "EVENT": ["Hereingabe", "F\u00fchrung"], "PLAYER": ["Polter"]}
+{"PER": ["Olic"], "EVENT": ["Ball", "weiterleitet"], "ASSIST": ["Alaba"]}
+{"PER": ["Skjelbred"], "PLAYER": ["Meier"]}
+{"EVENT": ["Freisto\u00df"], "ASSIST": ["Kiyotake"]}
+{"PER": ["Thiago"], "ASSIST": ["M\u00fcller"]}
+{"ASSIST": ["Aogo"], "EVENT": ["Ball"]}
+{"ASSIST": ["Gentner"], "PLAYER": ["Misimovic"], "EVENT": ["Spielger\u00e4t"]}
+{"PER": ["Bauer"], "EVENT": ["Flanke"], "PLAYER": ["Junuzovic"]}
+{"ASSIST": ["Harnik"], "EVENT": ["Leder"], "PLAYER": ["Gentner"]}
+{"PLAYER": ["Wolf"], "KEEPER": ["Kessler"]}
+{"ASSIST": ["Mehmedi"], "PLAYER": ["Bellarabi"]}
+{"PLAYER": ["Schulz"], "EVENT": ["Ball"]}
+{"PLAYER": ["Ujah"]}
+{"EVENT": ["Ball"], "PLAYER": ["Koo"]}
+{"PER": ["Mavraj"], "EVENT": ["Ball"], "PLAYER": ["Aubameyang"]}
+{"PLAYER": ["Keita"], "EVENT": ["Leder"]}
+{"PLAYER": ["Naldo"], "EVENT": ["Freisto\u00df", "Mauer"]}
+{"ASSIST": ["Schulz"], "EVENT": ["Pass"], "PLAYER": ["Stindl"]}
+{"ASSIST": ["Plattenhardt"], "EVENT": ["Flanke"], "PLAYER": ["Langkamp"]}
+{"PLAYER": ["Ben-Hatira"], "KEEPER": ["Mielitz"]}
+{"ASSIST": ["Meier"], "EVENT": ["Flanke"], "PLAYER": ["Stendera"], "PER": ["Chandler"]}
+{"PLAYER": ["Gomez"]}
+{"PER": ["Dante"], "EVENT": ["Ball"], "PLAYER": ["Chicharito"]}
+{"PLAYER": ["Marica"], "EVENT": ["Flanke"], "ASSIST": ["Fuchs"]}
+{"ASSIST": ["Salihovic"], "PLAYER": ["Mlapa"], "EVENT": ["Steilpass"]}
+{"PER": ["G\u00fcnter"], "EVENT": ["Ball"], "PLAYER": ["Herrmann"]}
+{"ASSIST": ["San\u00e9"], "EVENT": ["Steilpass"], "PER": ["Matip"], "PLAYER": ["Meyer"]}
+{"ASSIST": ["Risse"], "PLAYER": ["Choupo-Moting"], "KEEPER": ["Baumann"]}
+{"ASSIST": ["Bittencourt"], "PER": ["Holland"]}
+{"PLAYER": ["Aubameyang"]}
+{"ASSIST": ["Farfan"], "EVENT": ["Eckball"], "PLAYER": ["Rafinha"]}
+{"PLAYER": ["Gomez"]}
+{"EVENT": ["Ecke"], "PLAYER": ["Sobiech"]}
+{"PLAYER": ["Hunt"]}
+{"ASSIST": ["Traor\u00e9"], "PLAYER": ["Ibisevic"], "EVENT": ["Flanke"]}
+{"ASSIST": ["M\u00fcller"], "EVENT": ["Querpass", "Abpraller"], "PLAYER": ["Mandzukic"]}
+{}
+{"ASSIST": ["Novakovic"], "PER": ["Niedermeier"]}
+{"EVENT": ["Hereingabe"], "PLAYER": ["Kuranyi"]}
 {"PLAYER": ["Kachunga"]}
-{"EVENT": ["Querpass"], "PLAYER": ["Didavi"]}
-{"PER": ["Bernardo"], "PLAYER": ["Bittencourt"]}
-{"PLAYER": ["Wagner"]}
-{"PLAYER": ["da Costa"], "PER": ["Harnik"]}
-{"PLAYER": ["Robben"], "EVENT": ["Doppelpass", "Ball"], "PER": ["Schulz"]}
-{"PLAYER": ["Gnabry"]}
-{"PLAYER": ["Uth"]}
-{"EVENT": ["R\u00fcckpass"], "ASSIST": ["Hanke"], "KEEPER": ["Kessler"]}
+{"PLAYER": ["Mandzukic"], "EVENT": ["Ball"]}
+{"ASSIST": ["De Bruyne"], "EVENT": ["Abschlag"], "PER": ["Benaglios"], "PLAYER": ["Sch\u00fcrrle"]}
+{"PLAYER": ["Asamoah"]}
+{"PLAYER": ["Campana"], "EVENT": ["Leder"]}
+{"ASSIST": ["Junuzovic"]}
+{"PER": ["Lukimya"], "PLAYER": ["Rudnevs"], "EVENT": ["Leder"]}
+{"ASSIST": ["Pizarro"], "PLAYER": ["Rosenberg"], "KEEPER": ["Zieler"], "EVENT": ["Ball"]}
+{"ASSIST": ["Bellarabi"], "PER": ["Calhanoglu"], "EVENT": ["Ball", "Leder"], "PLAYER": ["Brandt"], "KEEPER": ["Horn"]}
+{"PLAYER": ["Aubameyang"]}
+{"PER": ["Schmelzer"], "EVENT": ["Ball"], "PLAYER": ["Kadlec"]}
+{"PER": ["Kramer"], "PLAYER": ["Hahn"], "KEEPER": ["F\u00e4hrmann"]}
+{"PLAYER": ["Kadlec"]}
+{"ASSIST": ["Shaqiri"], "EVENT": ["Freisto\u00df"]}
+{"ASSIST": ["Sorg"], "EVENT": ["Doppelpass"], "PER": ["Darida"]}
+{"PLAYER": ["Arnold"], "EVENT": ["Schnittstellenpass"], "KEEPER": ["Zieler"]}
+{"ASSIST": ["Kenia"], "PLAYER": ["Kuranyi"], "PER": ["Sch\u00e4fer"]}
+{"ASSIST": ["Pander"], "EVENT": ["Ecke"]}
+{"PLAYER": ["M\u00fcller"], "EVENT": ["Abpraller", "Leder"]}
+{"PLAYER": ["Joselu"], "EVENT": ["Ball", "Spielger\u00e4t"], "PER": ["Stindl", "Bittencourt"], "ASSIST": ["Albornoz"]}
+{"PER": ["Kl\u00fcnter"], "PLAYER": ["Bittencourt"]}
+{"ASSIST": ["Rudy"], "EVENT": ["Ecke"], "PLAYER": ["Vukcevic"]}
+{"KEEPER": ["Benaglio"], "EVENT": ["Ball", "Freisto\u00df"], "ASSIST": ["Petits"]}
+{"PLAYER": ["Harnik"], "EVENT": ["Ball"]}
+{"PER": ["Diego", "Judt"]}
+{"PER": ["Beck"], "ASSIST": ["Babel"]}
+{"ASSIST": ["Ilicevic"], "PLAYER": ["M\u00fcller"]}
+{"PER": ["Pogatetz"], "ASSIST": ["Freis"], "EVENT": ["Hereingabe"]}
+{"ASSIST": ["Feulner"], "PLAYER": ["Chandler"]}
+{"PLAYER": ["Szalai"], "EVENT": ["Sportger\u00e4t"]}
+{"ASSIST": ["Piszczek"], "PER": ["Hlousek"], "PLAYER": ["Kehl"]}
+{"EVENT": ["Spielger\u00e4t", "F\u00fchrung"], "PLAYER": ["Darida"]}
+{"PER": ["Fuchs"], "PLAYER": ["Mandzukic"]}
+{"PLAYER": ["Frings"]}
+{"PER": ["Sakai"], "EVENT": ["Flanke"], "ASSIST": ["Karaman"]}
+{"PLAYER": ["Derdiyok"], "PER": ["Daems"]}
+{"PLAYER": ["Lewandowski"], "EVENT": ["Ball"]}
+{"PLAYER": ["Lasoggas"]}
+{"PLAYER": ["Clemens"], "EVENT": ["Eckball", "Ecke"]}
+{"EVENT": ["Freisto\u00df"], "PLAYER": ["Brekalo"]}
+{"ASSIST": ["Rudy"], "EVENT": ["Freisto\u00df"]}
+{"EVENT": ["Ecke", "Ball"], "PLAYER": ["Stranzl"], "PER": ["Wollscheid"]}
+{"PLAYER": ["Kagawa"]}
+{"PLAYER": ["Reus"]}
+{"PER": ["Frei"], "KEEPER": ["Zieler"]}
+{"ASSIST": ["Rodriguez"]}
+{"PLAYER": ["Arango"], "EVENT": ["Ball"]}
+{"PLAYER": ["Cacau"]}
+{"PER": ["Stendera"], "ASSIST": ["Willems"], "EVENT": ["Ball"]}
+{"ASSIST": ["Gentner"], "EVENT": ["Ecke"], "PER": ["Maxims"]}
+{"ASSIST": ["Amiri"], "EVENT": ["Flanke"]}
+{"ASSIST": ["Charisteas"], "KEEPER": ["Neuer"]}
+{"ASSIST": ["Harit"]}
+{"ASSIST": ["Durm"], "PLAYER": ["Aubameyang"]}
+{"PLAYER": ["Heller"], "PER": ["Albornoz"]}
+{"PLAYER": ["Diouf"]}
+{"EVENT": ["Distanzschuss"], "PER": ["Jarolim"], "PLAYER": ["Ilicevic"]}
+{"ASSIST": ["Abraham"], "EVENT": ["Pass"], "PLAYER": ["Hrgota"]}
+{"PLAYER": ["Grafite"], "EVENT": ["Ball"]}
+{"PLAYER": ["Heller"], "PER": ["Ostrzolek"]}
+{"PLAYER": ["Kagawa"]}
+{"PLAYER": ["Alaba"], "EVENT": ["Ball"]}
+{"PLAYER": ["Schmid"], "EVENT": ["Doppelpass", "Chance", "Flachschuss"], "KEEPER": ["Manninger"]}
+{"REFEREE": ["Aytekin"], "PLAYER": ["Pizarro"]}
+{"ASSIST": ["Neuville"], "PLAYER": ["Matmour"]}
+{"PER": ["Krmas"], "EVENT": ["Ball"], "PLAYER": ["Barnetta"]}
+{"EVENT": ["Ball"], "ASSIST": ["Boateng"]}
+{"EVENT": ["Ball"]}
+{"ASSIST": ["Hajnal"], "EVENT": ["Zuspiel"], "PER": ["Cacau"]}
+{"PLAYER": ["Finnbogason"]}
+{"PER": ["Lewandowski"], "EVENT": ["Steilpass"], "ASSIST": ["Hofmann"], "PLAYER": ["Schieber"]}
+{"PLAYER": ["Wendell"], "ASSIST": ["Havertz"], "EVENT": ["Schr\u00e4gschuss", "Doppelpass"]}
+{"EVENT": ["Kopfball", "Vorlage"], "PLAYER": ["Schipplock"], "PER": ["Leno"]}
+{"ASSIST": ["Traor\u00e9"], "PLAYER": ["Elvedi"], "EVENT": ["Konter", "Zuspiel"]}
+{"ASSIST": ["Polak"]}
+{"PLAYER": ["Raffael"]}
+{"EVENT": ["Freisto\u00dfflanke"], "PLAYER": ["Ginter"]}
+{"ASSIST": ["Boateng"]}
+{"EVENT": ["Abpraller", "F\u00fchrung"], "PLAYER": ["Balitsch"]}
+{"PLAYER": ["Kalou"], "EVENT": ["Ball"]}
+{"EVENT": ["Kopfballduell"], "PLAYER": ["Esswein"]}
+{"ASSIST": ["Modeste"], "EVENT": ["Zuspiel", "Spielger\u00e4t", "Ecke"]}
+{"PLAYER": ["Schlaudraff"]}
+{"EVENT": ["Flanke"], "ASSIST": ["G\u00fcndogan"], "PLAYER": ["Kagawa"]}
+{"PLAYER": ["Hunt"], "EVENT": ["Leder"]}
+{"ASSIST": ["Ribery"]}
+{"ASSIST": ["Reinartz"], "EVENT": ["Ball"]}
+{"ASSIST": ["Molinaro"], "PLAYER": ["Harnik"]}
+{"ASSIST": ["Douglas Santos"], "PLAYER": ["Akpoguma"], "EVENT": ["Hereingabe"]}
+{"ASSIST": ["Mkhitaryan"], "PLAYER": ["Aubameyang"]}
+{"PLAYER": ["Castro"], "ASSIST": ["Pulisic"]}
+{"PLAYER": ["Reisinger"], "PER": ["Adler"], "EVENT": ["Schuss"]}
+{"PLAYER": ["Salihovic"], "EVENT": ["direkten Freisto\u00df"]}
+{"PLAYER": ["Joselu"]}
+{"PER": ["Akpoguma"], "EVENT": ["Flanke", "Ball"], "ASSIST": ["Gentner"], "PLAYER": ["Gomez"]}
+{"PER": ["Olic"], "ASSIST": ["Rodriguez"]}
+{"PLAYER": ["Jojic"]}
+{"ASSIST": ["Rakitic"], "EVENT": ["Freisto\u00df"]}
+{"PLAYER": ["Lasogga"]}
+{"EVENT": ["Einwurf"], "ASSIST": ["Di Santo"], "PLAYER": ["Draxler"], "PER": ["Garics"]}
+{"ASSIST": ["T\u00f6re"], "EVENT": ["Schuss", "Doppelpass", "Leder"], "PLAYER": ["Ilicevic"]}
+{"ASSIST": ["Schieber"], "EVENT": ["Ball"], "KEEPER": ["Rost"]}
+{"ASSIST": ["Huntelaar"], "PLAYER": ["Raul"]}
+{"ASSIST": ["De Bruyne"], "PLAYER": ["Perisic"]}
+{"PER": ["Bentaleb", "Toprak"], "EVENT": ["Steilpass"], "ASSIST": ["Goretzka"], "PLAYER": ["Burgstaller"]}
+{"PLAYER": ["Lewandowski"], "ASSIST": ["James"]}
+{"ASSIST": ["Salihovic"], "EVENT": ["Ecke", "Ball"], "PLAYER": ["Vorsah"]}
+{"ASSIST": ["Aogo"], "PLAYER": ["Beister"], "PER": ["Sobiech"]}
+{"ASSIST": ["Junuzovic"], "PLAYER": ["Naldo"]}
+{"PER": ["Westermann"], "EVENT": ["Ball", "Abschlag", "Leder"], "ASSIST": ["Lenos"], "PLAYER": ["Kie\u00dfling"], "KEEPER": ["Adler"]}
+{"ASSIST": ["Mandzukic"], "PLAYER": ["Helmes"]}
+{"ASSIST": ["Castro"], "EVENT": ["Ecke"], "PLAYER": ["Son"]}
+{"PER": ["Gondorf", "Klavan"], "ASSIST": ["Jungwirth"]}
+{"PER": ["Sahin"], "PLAYER": ["Bartels"]}
+{"EVENT": ["Ecke"], "ASSIST": ["Rodriguez"], "PLAYER": ["Knoche"]}
+{"PLAYER": ["Rudy"], "EVENT": ["Ball"]}
+{"PLAYER": ["Halil Altintop"]}
+{"ASSIST": ["van der Vaart"], "PLAYER": ["Son"]}
+{"PLAYER": ["Lewandowski"], "EVENT": ["Steilpass"]}
+{"PER": ["Mohamad"]}
+{"PER": ["Baier"], "ASSIST": ["Verhaegh"], "EVENT": ["Ball"]}
+{"ASSIST": ["Juan Bernat"]}
+{"ASSIST": ["Koch"], "EVENT": ["Hereingabe"], "PLAYER": ["H\u00f6ler"]}
+{"PLAYER": ["Lewandowski"], "EVENT": ["Pass"], "ASSIST": ["G\u00f6tzes"]}
+{"PER": ["Westermann"], "EVENT": ["Einwurf"], "ASSIST": ["Stieber"]}
+{"PLAYER": ["Hunt"]}
+{"ASSIST": ["Feulner"], "PLAYER": ["Wollscheid"], "EVENT": ["Eckball"]}
+{"PER": ["De Wit"], "EVENT": ["Konter"], "ASSIST": ["Fortounis"], "PLAYER": ["Wooten"], "KEEPER": ["Kraft"]}
+{"PER": ["F\u00fcrstner"], "PLAYER": ["Meier"], "EVENT": ["Spielger\u00e4t", "Schr\u00e4gschuss"]}
+{"EVENT": ["Ecke"], "PLAYER": ["Dzeko"]}
+{"EVENT": ["Ablage"], "PLAYER": ["Pukki"]}
+{"PER": ["Butscher"], "EVENT": ["Ball"]}
+{"PER": ["Strobl"], "PLAYER": ["Piszczek"]}
+{"PER": ["Junuzovic"], "ASSIST": ["Djilobodji"], "EVENT": ["Ablage"]}
+{"PLAYER": ["Schieber"]}
+{"PER": ["Ya Konan"], "ASSIST": ["Stindl"]}
+{"ASSIST": ["Caiuby"], "EVENT": ["Absto\u00df"], "PER": ["Sorg", "Hitz"]}
+{"ASSIST": ["Oczipka"], "EVENT": ["Einwurf", "flanken"]}
+{"ASSIST": ["Gbamin"], "PLAYER": ["Quaison"], "PER": ["Stark"]}
+{"ASSIST": ["Johnson"]}
+{"ASSIST": ["Leitner"], "EVENT": ["Ball", "Leder"], "PLAYER": ["G\u00f6tze"], "PER": ["Beck"]}
+{"ASSIST": ["Boka"], "EVENT": ["Freisto\u00dfflanke", "Ball", "volley", "F\u00fchrung"], "PLAYER": ["Harnik"], "KEEPER": ["Neuer"]}
+{"PER": ["Adler"], "EVENT": ["Ball"]}
+{"PER": ["Heller"], "EVENT": ["Leder"], "PLAYER": ["Gondorf"], "ASSIST": ["Sulu"]}
+{"EVENT": ["Doppelpass"]}
+{"PLAYER": ["Jojic"]}
+{"ASSIST": ["H\u00f6fler"], "EVENT": ["Ecke"], "PER": ["Schuster"]}
+{"PLAYER": ["Sigurdsson"]}
+{"PLAYER": ["Rolfes"], "KEEPER": ["Ulreich"]}
+{"PLAYER": ["M\u00f6lders"], "EVENT": ["Leder"]}
+{"PLAYER": ["Junuzovic"]}
+{"ASSIST": ["Raffael"], "EVENT": ["Freisto\u00df"], "PLAYER": ["Xhaka"]}
+{"PLAYER": ["Selke"]}
+{"ASSIST": ["Kehl"], "PLAYER": ["Hummels"]}
+{"PLAYER": ["Volland"], "PER": ["Schmelzer"]}
+{"PLAYER": ["Harnik"]}
+{"ASSIST": ["H\u00fcbner"], "PLAYER": ["Kramaric"], "KEEPER": ["Hitz"], "EVENT": ["Kopfball"]}
+{"PER": ["Kirch", "Sokratis"], "EVENT": ["Ball"], "PLAYER": ["Gentner"]}
+{"PLAYER": ["Leckie"]}
+{"EVENT": ["Ball"], "ASSIST": ["Hofmann"], "PER": ["Pr\u00f6dl"]}
+{"PER": ["De Bruyne"], "ASSIST": ["Perisic"], "EVENT": ["Ball"]}
+{"PLAYER": ["Lewandowski"], "EVENT": ["Flanke"], "PER": ["Piszczek"]}
+{"PER": ["Pogatetz"], "PLAYER": ["Kie\u00dfling"], "EVENT": ["Ball"]}
+{"ASSIST": ["Kroos"], "EVENT": ["Freisto\u00df", "Foul"], "PER": ["Schulz"], "PLAYER": ["Dante"]}
+{"PLAYER": ["Philipp"], "EVENT": ["Einwurf"]}
+{"ASSIST": ["Zakaria"]}
+{"PLAYER": ["G\u00fcndogan"], "EVENT": ["Ball"]}
+{"PLAYER": ["Bellarabi"], "EVENT": ["Sportger\u00e4t"]}
+{"PLAYER": ["Gomez"], "EVENT": ["Schuss"]}
+{"PLAYER": ["Felipe Santana"], "EVENT": ["Abpraller", "Flachschuss"]}
+{"PLAYER": ["Novakovic"], "EVENT": ["Freisto\u00df"]}
+{"PER": ["Diagne"], "EVENT": ["Fehlpass"], "PLAYER": ["Didavi"]}
+{"PLAYER": ["Mehmedi"], "PER": ["Lukimya"]}
+{"PLAYER": ["Dahoud"]}
 {"ASSIST": ["Raffael"]}
-{"ASSIST": ["Dahoud"], "PLAYER": ["Raffael"], "KEEPER": ["Hradecky"]}
-{"EVENT": ["Ball"], "PLAYER": ["Allagui"]}
-{"ASSIST": ["Dost"], "EVENT": ["Ball", "Flachschuss"], "PLAYER": ["Madlung"]}
-{"ASSIST": ["Ribery"], "KEEPER": ["Nikolov"], "PLAYER": ["Gomez"]}
-{"PLAYER": ["Petersen"], "EVENT": ["Ball", "Ecke"]}
-{"PLAYER": ["Bobadilla"]}
+{"PLAYER": ["Matmour"]}
+{"PER": ["Djourou"], "ASSIST": ["Malli"], "EVENT": ["Pass"], "PLAYER": ["Okazaki"]}
+{"ASSIST": ["Goretzka"], "PLAYER": ["San\u00e9"]}
+{"EVENT": ["Einwurf"], "ASSIST": ["Stendera"]}
+{"ASSIST": ["Lahm"], "EVENT": ["Ball", "Steilpass"], "PER": ["Bellinghausen"]}
+{"ASSIST": ["Haraguchi"], "EVENT": ["Flanke"], "PLAYER": ["Schieber"]}
+{"ASSIST": ["Reus"], "EVENT": ["Freisto\u00df", "Leder"], "PLAYER": ["Subotic"]}
+{"PLAYER": ["Ibisevic"], "EVENT": ["Hereingabe"], "PER": ["Svensson"]}
+{"PER": ["Bruma"], "PLAYER": ["Gnabry"], "EVENT": ["Ball"]}
+{"PLAYER": ["Thiago"], "EVENT": ["F\u00fchrung"]}
+{"PER": ["Heintz"], "PLAYER": ["Kie\u00dfling"]}
+{"PER": ["Kruse"], "EVENT": ["Strafsto\u00df"], "PLAYER": ["Lahm"]}
+{"PLAYER": ["Ciss\u00e9"], "KEEPER": ["Ulreich"]}
+{"EVENT": ["Flanke", "volley"], "ASSIST": ["Choupo-Moting"], "PER": ["H\u00f6ger"], "PLAYER": ["Meyer"]}
+{"EVENT": ["Pass", "Doppelpass"], "ASSIST": ["Kittel"], "PLAYER": ["Lezcano"]}
+{"ASSIST": ["Baumgartlinger"]}
+{"KEEPER": ["Leno"], "PLAYER": ["G\u00fclselam"]}
+{"ASSIST": ["Westermann"]}
+{"ASSIST": ["Halstenberg"], "EVENT": ["Freisto\u00df"]}
+{"PLAYER": ["Joselu"]}
+{"ASSIST": ["Sukuta-Pasu"]}
+{"PLAYER": ["Banc\u00e9"], "PER": ["Drobny"]}
+{"PER": ["Sabitzer"], "ASSIST": ["Forsberg"], "PLAYER": ["Poulsen"]}
+{"ASSIST": ["Mehmedi"], "PLAYER": ["Klaus"], "PER": ["Madlung"], "KEEPER": ["Trapp"]}
+{"PER": ["Pr\u00f6dl"], "PLAYER": ["Niedermeier"], "EVENT": ["k\u00f6pfen"]}
+{"PLAYER": ["Badeljs"]}
+{"EVENT": ["Zuspiel", "Leder"], "PLAYER": ["Herrmann"]}
+{"PER": ["Coman"], "EVENT": ["Kopfball"], "ASSIST": ["Lewandowski"]}
+{"EVENT": ["Ball", "Kopfballduell"], "PER": ["Zabavnik", "Rukavytsya"], "PLAYER": ["Choupo-Moting"]}
+{"PLAYER": ["Robben"]}
+{"EVENT": ["Ball"], "PER": ["Piszczeks"], "PLAYER": ["Galvez"]}
+{"ASSIST": ["Bender"], "EVENT": ["Ball"], "PLAYER": ["Sam"]}
+{"ASSIST": ["Olic"], "EVENT": ["Pass"], "PLAYER": ["Diego"]}
+{"PER": ["Farfan"], "ASSIST": ["Jones"], "EVENT": ["Freisto\u00df"]}
+{"ASSIST": ["Werner"], "EVENT": ["Ecke"]}
+{"PLAYER": ["Gentner"], "KEEPER": ["Zieler"], "EVENT": ["Schuss"]}
+{"PLAYER": ["Thommy"], "EVENT": ["Spielger\u00e4t"]}
+{"PER": ["Rudnevs"], "ASSIST": ["Bittencourt"]}
+{"PLAYER": ["Joselu"]}
+{"ASSIST": ["Gro\u00dfkreutz"], "PLAYER": ["Mkhitaryan"]}
+{"ASSIST": ["Kehl"], "PER": ["Kvist"], "PLAYER": ["Kagawa"]}
+{"PLAYER": ["Bender"]}
+{"PER": ["Son"], "EVENT": ["Pass", "Flanke"], "ASSIST": ["Boenisch"], "PLAYER": ["Schwaab"]}
+{"PER": ["Hosogai"], "EVENT": ["Ball"], "ASSIST": ["Sch\u00fcrrle"]}
+{"ASSIST": ["Volland"], "PLAYER": ["Joselu"], "PER": ["Gr\u00fcn"]}
+{"ASSIST": ["Pulisic"], "EVENT": ["Ball"], "PER": ["Aubameyangs"], "PLAYER": ["Reus"]}
+{"PLAYER": ["Brooks"]}
+{"PER": ["Fritz"], "PLAYER": ["Ba"]}
+{"EVENT": ["Freisto\u00dfflanke", "Kopfball"], "ASSIST": ["Uth"], "PLAYER": ["Wagner"]}
+{"PLAYER": ["Makiadi"]}
+{"PLAYER": ["Gacinovic"], "PER": ["Jung"]}
+{"PER": ["Kempf"], "KEEPER": ["Kruse"], "EVENT": ["Distanzschuss", "F\u00fchrung"]}
+{"PLAYER": ["Clemens"], "ASSIST": ["Eichners"]}
+{"ASSIST": ["Castro"], "EVENT": ["Eckball", "volley"], "PLAYER": ["Kie\u00dfling"]}
+{"ASSIST": ["Gentner"], "PLAYER": ["Misimovic"]}
+{"PLAYER": ["Risse"]}
+{"PER": ["Kagawa"], "ASSIST": ["Ginter"], "PLAYER": ["Aubameyang"]}
+{"ASSIST": ["Stocker"], "PER": ["Jung"], "EVENT": ["Querpass"]}
+{"KEEPER": ["Weidenfeller"], "EVENT": ["Ball", "Leder"], "PLAYER": ["Demel"]}
+{"ASSIST": ["Forsberg"], "PLAYER": ["Poulsen"]}
+{"PLAYER": ["Arango"], "EVENT": ["Freisto\u00df"]}
+{"PLAYER": ["G\u00f6tze"]}
+{"PLAYER": ["Malli"]}
+{"ASSIST": ["Hector"], "EVENT": ["Ecke"], "PLAYER": ["Jorge Mer\u00e9"]}
+{"PER": ["Sam", "Molinaro"]}
+{"PLAYER": ["Lasogga"], "EVENT": ["Ball", "verl\u00e4ngern"]}
+{"EVENT": ["Ecke", "Ball"], "PLAYER": ["Kacar"]}
+{"EVENT": ["Leder"], "PLAYER": ["Sch\u00f6pf"], "PER": ["Junuzovic"]}
+{"PER": ["Coman"], "EVENT": ["Flanke"], "ASSIST": ["Vidal"], "PLAYER": ["M\u00fcller"]}
+{"PER": ["Mkhitaryan"], "ASSIST": ["Januzaj"]}
+{"PLAYER": ["Meier"], "EVENT": ["Ball"]}
+{"EVENT": ["Konter"]}
+{"PLAYER": ["Arp"]}
+{"ASSIST": ["Johnson"], "PLAYER": ["Wendt"]}
+{"ASSIST": ["Ribery"], "EVENT": ["Ball", "Leder"]}
+{"ASSIST": ["Didavi"], "PLAYER": ["Pekhart"]}
+{"ASSIST": ["Schuster"], "EVENT": ["Ball", "Freisto\u00df-Variante", "Mauer"], "PLAYER": ["Makiadi"]}
+{"ASSIST": ["Sch\u00fcrrle"], "PER": ["Allaguis"], "EVENT": ["Vorarbeit"], "PLAYER": ["Ivanschitz"], "KEEPER": ["Adler"]}
+{"KEEPER": ["Adler"], "PLAYER": ["Wood"], "PER": ["Matip"]}
+{"ASSIST": ["Piszczek"], "PLAYER": ["G\u00f6tze"], "EVENT": ["Ball"]}
+{"ASSIST": ["Medojevic"], "PLAYER": ["Olic"]}
+{"ASSIST": ["Boateng"]}
+{"PER": ["Hummels"], "EVENT": ["Zweikampf"], "PLAYER": ["Lewandowski"]}
+{"ASSIST": ["Gebhart"], "PER": ["Diekmeier"], "PLAYER": ["Pekhart"], "EVENT": ["volley"]}
+{"EVENT": ["Querpass", "Flachschuss"], "PLAYER": ["Hahn"]}
+{"PLAYER": ["Calhanoglu"]}
+{"ASSIST": ["Ribery"]}
+{"EVENT": ["R\u00fcckpass"], "PLAYER": ["Weiser"]}
+{"PER": ["Hector"], "EVENT": ["Steilpass"], "ASSIST": ["Nagasawa"]}
+{"ASSIST": ["Kuzmanovic"], "EVENT": ["Flanke"], "PLAYER": ["Cacau"]}
+{"PER": ["Kessel"], "EVENT": ["abstaubt"], "PLAYER": ["Luiz Gustavo"]}
+{"EVENT": ["Ecke"], "ASSIST": ["Schmid"]}
 {"ASSIST": ["M\u00fcller"]}
-{"ASSIST": ["van der Vaart"], "EVENT": ["Schuss"]}
-{"ASSIST": ["Rausch"], "PER": ["van der Vaart"]}
-{"ASSIST": ["\u00d6ztunali"]}
-{"ASSIST": ["Schipplock"], "PER": ["Gregoritsch"]}
-{"PER": ["Sahin"], "ASSIST": ["Schmelzer"]}
+{"ASSIST": ["Vogt"], "EVENT": ["Ball"], "PLAYER": ["Zoller"]}
+{"PLAYER": ["Demichelis"], "EVENT": ["F\u00fchrung"]}
+{"PLAYER": ["Callsen-Bracker"], "PER": ["Bruma"], "EVENT": ["Ball", "Spielger\u00e4t"]}
+{"ASSIST": ["Prib"], "PER": ["Hummels"], "EVENT": ["Hereingabe"]}
+{"PLAYER": ["Schieber"], "EVENT": ["Freisto\u00df", "F\u00fchrung"]}
+{"ASSIST": ["Johannsson"], "KEEPER": ["Gulacsi"], "PLAYER": ["Kainz"], "EVENT": ["Abpraller"]}
+{"ASSIST": ["Schwegler"], "EVENT": ["Ecke", "Ball"], "PLAYER": ["San\u00e9"]}
+{"EVENT": ["Kopfballabwehr", "Abschlag", "Leder"], "PLAYER": ["Podolski"]}
+{"PLAYER": ["Jansen"], "PER": ["van der Vaart"]}
+{"PLAYER": ["Kittel"]}
+{"ASSIST": ["Rosenthal"], "PLAYER": ["Wagner"]}
+{"PLAYER": ["Goretzka"], "EVENT": ["Mauer", "Ball"]}
+{"PER": ["H\u00f6wedes"], "PLAYER": ["Gebre Selassies"]}
+{"PLAYER": ["Vidal"], "EVENT": ["Strafsto\u00df"]}
+{"PLAYER": ["Jairo"], "KEEPER": ["Gulacsi"], "EVENT": ["Ecke"]}
+{"EVENT": ["Ball"], "PER": ["Schmelzer", "Baumann"], "PLAYER": ["Kehl"]}
+{"PLAYER": ["Dzeko"], "ASSIST": ["Mandzukic"], "EVENT": ["Hereingabe"]}
+{"PLAYER": ["Bobadilla"]}
+{"PLAYER": ["Reus"]}
+{"PER": ["Reinartz"], "EVENT": ["Ball"], "PLAYER": ["Podolski"]}
+{"ASSIST": ["Meier"], "PLAYER": ["Kadlec"]}
+{"PLAYER": ["Uth"]}
+{"ASSIST": ["Kramer"], "PLAYER": ["Herrmann"]}
+{"PLAYER": ["Thiago"], "PER": ["M\u00fcller"]}
+{"PER": ["Haraguchi"], "ASSIST": ["Ibisevic"]}
+{"PLAYER": ["Olic"]}
+{"ASSIST": ["Lewandowski"], "PLAYER": ["Reus"]}
+{"PLAYER": ["Rosenthal"]}
+{"EVENT": ["Ball"], "PLAYER": ["Raul"], "PER": ["Daems", "Anderson"]}
+{"PER": ["Tasci"], "ASSIST": ["Bender"]}
+{"PLAYER": ["Reus"]}
+{"PER": ["Pinola", "Sch\u00e4fer"], "EVENT": ["Ball", "Eckball", "Schuss"], "PLAYER": ["Makiadi"]}
+{"PLAYER": ["Baku"], "KEEPER": ["Gulacsi"]}
+{"PLAYER": ["Malli"], "EVENT": ["Dribbling"]}
+{"PLAYER": ["Philipp"], "EVENT": ["Ball"], "ASSIST": ["Sancho"]}
+{"PER": ["Luiz Gustavo"], "EVENT": ["Flanke"], "ASSIST": ["Kehrer"], "PLAYER": ["Burgstaller"]}
+{"PLAYER": ["Frings"]}
+{"REFEREE": ["Unparteiische"], "EVENT": ["Strafsto\u00df"], "PLAYER": ["Podolski"]}
+{"PLAYER": ["Kie\u00dfling"]}
+{"ASSIST": ["Charisteas"], "KEEPER": ["Neuer"]}
+{"PLAYER": ["M\u00fcller"]}
+{"PLAYER": ["Wetklo"]}
+{"ASSIST": ["Reisinger"], "EVENT": ["Ball"], "PLAYER": ["Ciss\u00e9"]}
+{"PLAYER": ["Perisic"], "PER": ["Rensing"], "EVENT": ["Ecke"]}
+{"ASSIST": ["Luiz Gustavo"], "PER": ["Frings"]}
+{"PLAYER": ["Gnabry"], "EVENT": ["Ball"]}
+{"PLAYER": ["Lewandowski"], "PER": ["Horn"]}
+{"ASSIST": ["Corluka"], "EVENT": ["Abpraller"], "PLAYER": ["Bender"]}
+{"PER": ["Wiese"], "PLAYER": ["Arango"]}
+{"PLAYER": ["Ben-Hatira"], "EVENT": ["Freisto\u00df"]}
+{"PER": ["Davari", "Bicakcic"], "EVENT": ["Schuss"], "PLAYER": ["Allagui"]}
+{"PLAYER": ["Amiri"], "KEEPER": ["Sommer"]}
+{"PLAYER": ["Brooks"], "EVENT": ["Eckball"], "ASSIST": ["Darida"]}
+{"PLAYER": ["Verhaegh"], "EVENT": ["Ecke", "Strafsto\u00df"]}
+{"PLAYER": ["Elabdellaouis"], "EVENT": ["Querpass"]}
+{"EVENT": ["Ball"], "PLAYER": ["Szalai"]}
+{"PLAYER": ["Reus"]}
+{"PLAYER": ["Lakic"], "EVENT": ["Flanke"], "ASSIST": ["Tiffert"]}
+{"ASSIST": ["Koch"], "EVENT": ["Hereingabe"]}
+{"PLAYER": ["Schuster"]}
+{"ASSIST": ["Ribery"], "EVENT": ["Flanke"], "PER": ["Coman"], "PLAYER": ["Lewandowski"]}
+{"EVENT": ["Ball"]}
+{"PLAYER": ["Andreasen"], "PER": ["Ostrzolek"]}
+{"ASSIST": ["Ji"], "EVENT": ["Ball"]}
+{"ASSIST": ["Farfan"], "EVENT": ["Hereingabe"], "PER": ["M\u00fcller"], "PLAYER": ["H\u00f6wedes"]}
+{"ASSIST": ["San\u00e9"], "EVENT": ["Leder"]}
+{"PLAYER": ["Harnik"], "EVENT": ["Abpraller"], "PER": ["Drobny"]}
+{"PLAYER": ["Sakai"]}
+{"PLAYER": ["Robben"]}
+{"PLAYER": ["Modeste"], "EVENT": ["Ball"]}
+{"PLAYER": ["Christensen"]}
+{"EVENT": ["Schr\u00e4gschuss"], "ASSIST": ["Robbens"]}
+{"ASSIST": ["Schwaab"], "EVENT": ["Flanke"], "PER": ["Jansen"], "PLAYER": ["Gentner"], "KEEPER": ["Adler"]}
+{"EVENT": ["Strafsto\u00df"], "PLAYER": ["De Blasis"]}
+{"PLAYER": ["Barba"], "EVENT": ["Hereingabe"], "PER": ["Vestergaard"]}
+{"ASSIST": ["Ciss\u00e9"], "PLAYER": ["Jendrisek"]}
+{"PLAYER": ["Ribery"], "ASSIST": ["Lewandowski"], "PER": ["Westermann", "Drobny"], "EVENT": ["Flachschuss"]}
+{"PER": ["Schipplock"], "EVENT": ["Freisto\u00dfflanke"], "PLAYER": ["Sakai"]}
+{"PLAYER": ["Hinteregger"]}
+{"PLAYER": ["Harnik"], "EVENT": ["Schuss"]}
+{"PLAYER": ["Roberto Firmino"], "EVENT": ["Ball"]}
+{"ASSIST": ["Amanatidis"], "EVENT": ["Konter"], "PLAYER": ["Ochs"]}
+{"PER": ["Tesche", "Kie\u00dflings", "Westermanns"], "EVENT": ["Kopfball", "Leder"]}
+{"PLAYER": ["Huntelaar"]}
+{"PLAYER": ["Kostic"], "EVENT": ["Chance"], "KEEPER": ["Baumann"]}
+{"PLAYER": ["Sch\u00fcrrle"], "EVENT": ["Hereingabe"]}
+{"PLAYER": ["Kiyotake"], "EVENT": ["Freisto\u00df"], "PER": ["Joselu"]}
+{"PLAYER": ["Kagawa"], "EVENT": ["Leder"]}
+{"EVENT": ["Ball", "Schuss"], "ASSIST": ["Hegeler"], "PLAYER": ["Stocker"]}
+{"EVENT": ["R\u00fcckpass"], "KEEPER": ["Kruse"]}
+{"KEEPER": ["Kruse"], "ASSIST": ["Rosenthal"]}
+{"ASSIST": ["Jung"], "EVENT": ["Ball"]}
+{"PLAYER": ["Sahin"], "EVENT": ["Leder", "Mauer"]}
+{"PLAYER": ["Platte"], "PER": ["S\u00f6y\u00fcnc\u00fc", "Schwolow"]}
+{"EVENT": ["Querpass", "Ball"], "PER": ["Moritz"], "ASSIST": ["Farfan"]}
+{"ASSIST": ["Leckie"], "PLAYER": ["Lezcano"], "KEEPER": ["Neuer"]}
+{"ASSIST": ["M\u00fcller"], "EVENT": ["Ball"], "PLAYER": ["Gomez"], "PER": ["Drobny"]}
+{"ASSIST": ["Kiyotake"], "EVENT": ["Ecke"], "PLAYER": ["Simons"], "PER": ["Stranzl"]}
+{"ASSIST": ["M\u00fcller"], "EVENT": ["Querpass", "Abpraller"], "PLAYER": ["Mandzukic"]}
+{"PER": ["Reinartz"], "EVENT": ["Ball", "Leder"], "PLAYER": ["Podolski"]}
+{"PLAYER": ["Uth"], "EVENT": ["Vorlage"], "ASSIST": ["Elyounoussi"]}
+{"KEEPER": ["Sobiech"]}
+{"ASSIST": ["Caiuby"], "PER": ["Max"]}
+{"PER": ["Kl\u00fcnter"], "EVENT": ["Ball"]}
+{"ASSIST": ["Polanski"], "EVENT": ["Pass"], "PLAYER": ["Sch\u00fcrrle"]}
+{"PLAYER": ["M\u00fcller"]}
+{"ASSIST": ["Hahn"], "PER": ["Vogt"]}
+{"ASSIST": ["Malli"], "PLAYER": ["Okazaki"]}
+{"PLAYER": ["Bittencourt"]}
+{"ASSIST": ["Stendera"], "PLAYER": ["Madlung"], "EVENT": ["Freisto\u00dfflanke"]}
+{"PER": ["Knoche"], "PLAYER": ["Lookman"]}
+{"PLAYER": ["Rolfes"], "EVENT": ["Versuch"], "ASSIST": ["Kie\u00dfling"]}
+{"PLAYER": ["Brandt"], "PER": ["Korb"], "EVENT": ["volley"]}
+{"ASSIST": ["\u00d6zils"]}
+{"PER": ["Anton"], "EVENT": ["Leder", "Schuss"], "PLAYER": ["Lewandowski"]}
+{"EVENT": ["Kopfball"], "PLAYER": ["Abraham"]}
+{"ASSIST": ["Darida"], "PLAYER": ["Kalou"], "PER": ["Sulu"]}
+{"PLAYER": ["Reus"], "EVENT": ["Strafsto\u00df"]}
+{"EVENT": ["Freisto\u00df"], "PLAYER": ["Mohamad"]}
+{"PLAYER": ["Joselu"], "EVENT": ["Schuss"]}
+{"PER": ["Fritz"], "PLAYER": ["Ba"]}
+{"ASSIST": ["Fritz"], "PLAYER": ["Hunt"]}
+{"PER": ["Kjaer"], "PLAYER": ["Abdellaoue"], "EVENT": ["Leder"]}
+{"PLAYER": ["Caligiuri"], "EVENT": ["Vorarbeit"], "ASSIST": ["Kolasinac"]}
+{"PLAYER": ["Lewandowski"], "PER": ["Thiago"]}
+{"ASSIST": ["Boateng"], "PLAYER": ["Gomez"]}
+{"PER": ["Gulde", "Schwolow"], "EVENT": ["Chance", "Schuss"]}
+{"PLAYER": ["Schweinsteiger"], "EVENT": ["Flanke"], "ASSIST": ["Lahm"]}
+{"KEEPER": ["Weidenfeller"], "PLAYER": ["Lewandowski"]}
+{"ASSIST": ["Gentner"], "PLAYER": ["Ibisevic"]}
+{"EVENT": ["Konter"], "KEEPER": ["Kruse"], "PLAYER": ["Herrmann"]}
+{"ASSIST": ["Boland"], "PLAYER": ["Reichel"], "EVENT": ["Ball", "volley"]}
+{"EVENT": ["Ball"], "PER": ["Werner"], "PLAYER": ["Bobadilla"]}
+{}
+{"PLAYER": ["Lasogga"]}
+{"EVENT": ["Flanke"], "ASSIST": ["Badstuber"], "PLAYER": ["Olic"]}
+{"PLAYER": ["Verhaegh"], "EVENT": ["Strafsto\u00df", "Chance"], "KEEPER": ["Ulreich"]}
+{"PER": ["Kagawa"], "ASSIST": ["Ramos"]}
+{"ASSIST": ["Kiyotake"], "EVENT": ["Freisto\u00df"], "PLAYER": ["Nilsson"]}
+{"PER": ["Sorg"], "PLAYER": ["Anton"], "EVENT": ["Spielger\u00e4t"]}
+{"PER": ["Westermann", "Drobny"], "EVENT": ["Ball"]}
+{"PLAYER": ["Kruse"], "EVENT": ["Elfmeter"]}
+{"ASSIST": ["Prib"], "EVENT": ["Ecke"]}
+{"ASSIST": ["Lasogga"], "PLAYER": ["Ilicevic"], "EVENT": ["Ball"]}
+{"PLAYER": ["Raffael"]}
+{"PLAYER": ["Ribery"]}
+{"ASSIST": ["G\u00f6tze"], "PLAYER": ["Kagawa"]}
+{"PLAYER": ["Jones"], "EVENT": ["Ball"]}
+{"PLAYER": ["Freis"], "KEEPER": ["Casteels"]}
+{"PLAYER": ["Lakic"], "ASSIST": ["Tifferts"], "PER": ["Neuer"]}
+{"ASSIST": ["Klein"], "EVENT": ["Leder"], "PLAYER": ["Didavi"]}
+{"KEEPER": ["Wolf"], "EVENT": ["Freisto\u00df"], "PLAYER": ["Russ"]}
+{"EVENT": ["Ecke", "Leder"], "PER": ["Reus", "Vestergaard"], "ASSIST": ["Lewandowski"], "PLAYER": ["Aubameyang"]}
+{"PLAYER": ["Schweinsteiger"]}
+{"PLAYER": ["Roberto Firmino"], "EVENT": ["Ball"]}
+{"PER": ["Bentaleb"], "EVENT": ["Leder"], "ASSIST": ["Demirbay"]}
+{"ASSIST": ["Dost"], "EVENT": ["Ball"], "KEEPER": ["Wolf"]}
+{"PLAYER": ["Sahin"], "EVENT": ["Doppelpass"], "ASSIST": ["Kehl"]}
+{}
+{"ASSIST": ["Marin"]}
+{"PLAYER": ["Okazaki"]}
+{"ASSIST": ["Mandzukic"], "PLAYER": ["Helmes"]}
+{"ASSIST": ["Gro\u00df"], "PER": ["Moravek"], "EVENT": ["Ball"]}
+{"PLAYER": ["Hahn"]}
+{"PER": ["De Jong"], "EVENT": ["Ball"], "ASSIST": ["Stindl"]}
+{"PLAYER": ["Werner"], "EVENT": ["Freisto\u00df"]}
+{"ASSIST": ["Feulner"], "EVENT": ["Ball"]}
+{"ASSIST": ["Pospech"], "PLAYER": ["Parker"], "EVENT": ["Ball"]}
+{"PLAYER": ["Ivanschitz"], "EVENT": ["Ecke"]}
+{"PLAYER": ["Kolasinac"]}
+{"EVENT": ["Abpraller"], "PLAYER": ["Kie\u00dfling"]}
+{"PLAYER": ["Roberto Firmino"]}
+{"EVENT": ["Hereingabe"], "PLAYER": ["Aubameyang"]}
+{"EVENT": ["Flanke", "Vorlage"], "PER": ["Hinteregger"], "PLAYER": ["Reus"]}
+{"PLAYER": ["Moritz"], "EVENT": ["Chance"]}
+{"PLAYER": ["Kagawa"], "EVENT": ["F\u00fchrung"]}
+{"ASSIST": ["Lewandowski"], "PLAYER": ["Coman"]}
+{"PLAYER": ["Werner"]}
+{"ASSIST": ["Laimer"], "EVENT": ["Zuspiel"], "PER": ["Sabitzer"]}
+{"EVENT": ["Flanke", "Ecke"], "PLAYER": ["Naldo"]}
+{"ASSIST": ["Babel"], "PLAYER": ["Salihovic"], "EVENT": ["Ball"]}
+{"PER": ["M\u00fcller"], "ASSIST": ["Schweinsteiger"], "EVENT": ["weiterleitet"], "PLAYER": ["Gomez"]}
+{"ASSIST": ["Callsen-Bracker"], "EVENT": ["Zweikampf", "Pass"], "PLAYER": ["Werner"]}
+{"EVENT": ["F\u00fchrung", "Doppelpass"], "PLAYER": ["Rausch"], "ASSIST": ["Ya Konan"]}
+{"ASSIST": ["Ramos"], "PLAYER": ["Ben-Hatira"], "EVENT": ["Ball"]}
+{"ASSIST": ["Draxler"], "PLAYER": ["Farfan"]}
+{"PLAYER": ["James"], "EVENT": ["Ball", "volley"], "ASSIST": ["Tolissos"]}
+{"ASSIST": ["Ribery"], "EVENT": ["Ecke"]}
+{"PER": ["da Costa"], "ASSIST": ["Jovic"]}
+{"PLAYER": ["Ramos"]}
+{"ASSIST": ["Neust\u00e4dter"], "EVENT": ["Flanke", "Chance"], "PER": ["Clemens"], "PLAYER": ["Szalai"], "KEEPER": ["Zieler"]}
+{"ASSIST": ["Lazaro"], "EVENT": ["Doppelpass"], "PER": ["Duda"]}
+{"PER": ["Piszczek"], "PLAYER": ["Lewandowski"]}
+{"ASSIST": ["Pulisics"], "EVENT": ["Dribbling"], "PLAYER": ["Sancho"], "PER": ["Henrichs"]}
+{"PER": ["Vrancic"], "ASSIST": ["Gondorf"], "PLAYER": ["Platte"]}
+{"PLAYER": ["Hartmann"], "EVENT": ["Chance", "Ball"]}
+{"PLAYER": ["Stindl"]}
+{"PLAYER": ["Obasi"], "PER": ["Pospech"]}
+{}
+{"PER": ["Dante"], "EVENT": ["Kopfballduell", "Ecke"], "PLAYER": ["Arslan"]}
+{"PLAYER": ["Wagner"], "EVENT": ["Freisto\u00df"], "ASSIST": ["Leitner"]}
+{"PLAYER": ["Sch\u00fcrrle"]}
+{"PLAYER": ["Keita"], "PER": ["Kempf", "Poulsen"], "EVENT": ["Ball"]}
+{"ASSIST": ["Reus"], "EVENT": ["Ball"], "PLAYER": ["Lewandowski"]}
+{"PER": ["Bartels"], "EVENT": ["Abschlag"], "ASSIST": ["Marin"]}
+{"PLAYER": ["Hunt"], "EVENT": ["Vorarbeit"], "PER": ["Gr\u00fcn-Wei\u00dfen"]}
+{"ASSIST": ["Goretzka"], "EVENT": ["Flanke", "Seitfallzieher"], "PER": ["Embolo"]}
+{"EVENT": ["Freisto\u00dfflanke", "F\u00fchrung"], "PLAYER": ["Poulsen"]}
+{"ASSIST": ["Younes"]}
+{"PLAYER": ["Rolfes"]}
+{"ASSIST": ["M\u00fcller"], "PLAYER": ["Wood"], "EVENT": ["Ball"]}
+{"EVENT": ["Hereingabe"], "ASSIST": ["Rauschs"]}
+{"ASSIST": ["Aigner"], "PLAYER": ["Stendera"], "PER": ["Schmiedebach"]}
+{"ASSIST": ["Seferovic"], "PLAYER": ["Stendera"]}
+{"KEEPER": ["Manninger"], "ASSIST": ["Boateng"], "PLAYER": ["Huntelaar"]}
+{"PLAYER": ["Drmic"], "EVENT": ["Ball"]}
+{"PER": ["Mkhitaryan"], "ASSIST": ["Aubameyang"]}
+{"PER": ["San\u00e9"], "EVENT": ["Ball"], "ASSIST": ["Jonathas"], "PLAYER": ["F\u00fcllkrug"]}
+{"EVENT": ["Konter", "Ecke"], "PER": ["Salihovic"], "ASSIST": ["Roberto Firmino"], "PLAYER": ["Schipplock"]}
+{"ASSIST": ["Rudnevs"], "PER": ["van der Vaarts"], "EVENT": ["Ecke"], "PLAYER": ["Westermann"]}
+{"PLAYER": ["Schipplock"], "EVENT": ["Ball"]}
+{"EVENT": ["Pass"], "PER": ["Sokratis"], "ASSIST": ["Wendell"], "PLAYER": ["Volland"]}
+{"KEEPER": ["Wolf"], "ASSIST": ["da Costa"]}
+{"PLAYER": ["Podolski"], "EVENT": ["Ball"]}
+{"ASSIST": ["Hanke"], "EVENT": ["Ecke"], "PER": ["Nordtveits"], "PLAYER": ["Stranzl"]}
+{"ASSIST": ["Bender"], "EVENT": ["Ball"], "PLAYER": ["Sam"]}
+{}
+{"PER": ["Gomez", "Geromel", "Rensing"], "PLAYER": ["M\u00fcller"], "EVENT": ["Ball"]}
+{"ASSIST": ["Skjelbred"], "EVENT": ["Freisto\u00df"], "PLAYER": ["Ramos"]}
+{"ASSIST": ["Petric"], "EVENT": ["Ball", "Chance"], "PLAYER": ["van Nistelrooy"], "KEEPER": ["Ulreich"]}
+{"PLAYER": ["Kuzmanovic"], "EVENT": ["Freisto\u00df"]}
+{"PLAYER": ["Kleindienst"]}
+{"PER": ["Ribery"], "EVENT": ["Ecke", "verl\u00e4ngert"], "ASSIST": ["M\u00fcller"]}
+{"PLAYER": ["Vidal"], "EVENT": ["Elfmeter"]}
+{"EVENT": ["Pass"], "PLAYER": ["Firmino"], "ASSIST": ["Becks"], "PER": ["Schmitz"]}
+{"PLAYER": ["Ramos"], "PER": ["S\u00fcle"]}
+{"ASSIST": ["Jung"], "PLAYER": ["Sch\u00fcrrle"]}
+{"KEEPER": ["Baumann"], "ASSIST": ["Rajkovic"], "EVENT": ["Leder"], "PLAYER": ["Sulu"]}
+{"KEEPER": ["Hildebrand"], "EVENT": ["Reflex"], "PLAYER": ["Olic"]}
+{"PER": ["Wollscheid", "Frings", "Wolfs"], "EVENT": ["Freisto\u00dfflanke", "Leder"], "PLAYER": ["Pizarro"]}
+{"PLAYER": ["G\u00f6tze"]}
+{"PER": ["Durm"], "PLAYER": ["Harnik"]}
+{}
+{"EVENT": ["Schuss"], "PER": ["Bauers"]}
+{"PER": ["Sam"], "ASSIST": ["Sch\u00fcrrle"], "EVENT": ["Pass"]}
+{"ASSIST": ["Geis"]}
+{"ASSIST": ["Forsberg"], "PLAYER": ["Sabitzer"]}
+{"PLAYER": ["Kie\u00dfling"]}
+{"PLAYER": ["Azaouagh"], "EVENT": ["Leder", "Ball"]}
+{"PLAYER": ["K\u00f6hler"], "EVENT": ["Ball"]}
+{"ASSIST": ["Terrazzino"], "PLAYER": ["Szalai"]}
+{"PLAYER": ["Gregoritsch"]}
+{"PLAYER": ["Gekas"]}
+{"PLAYER": ["Finnbogason"]}
+{"ASSIST": ["Choupo-Moting"], "EVENT": ["Ball", "Konter"], "PLAYER": ["M\u00fcller"]}
+{"PLAYER": ["Bender"], "EVENT": ["Hereingabe"], "ASSIST": ["Hahn"]}
+{"PLAYER": ["Philipp"]}
+{"PER": ["Baumann"], "EVENT": ["Ecke", "Ball"], "ASSIST": ["Brumas"], "PLAYER": ["Son"]}
+{"PER": ["Manneh"], "ASSIST": ["Gued\u00e9"], "PLAYER": ["Grifo"], "EVENT": ["Elfmeter"]}
+{"EVENT": ["Ball"], "PLAYER": ["Castro"]}
+{"PLAYER": ["Dost"], "PER": ["Junior Diaz", "Rodriguez"]}
+{"PER": ["H\u00fcnemeier", "Meha"], "EVENT": ["Standard"], "PLAYER": ["Bakalorz"]}
+{"PLAYER": ["Reus"], "EVENT": ["Ball"], "PER": ["G\u00f6tze"], "ASSIST": ["Sch\u00fcrrle"]}
+{"ASSIST": ["De Blasis"], "EVENT": ["Eckball", "Kopfball"]}
+{"ASSIST": ["Plattenhardt"], "EVENT": ["Freisto\u00df"]}
+{"PER": ["Baumann"], "PLAYER": ["Herrmann"]}
+{"PLAYER": ["Vogt"]}
+{"ASSIST": ["Bellarabi"], "EVENT": ["Steilpass"], "PER": ["Henrichs"]}
+{"PLAYER": ["Robben"], "EVENT": ["Doppelpass"]}
+{"PLAYER": ["Kacar"]}
+{}
+{"KEEPER": ["Wiese"], "PLAYER": ["Kagawa"]}
+{"PLAYER": ["Djourou"], "EVENT": ["Leder"]}
+{"PLAYER": ["Onisiwo"]}
+{"PLAYER": ["Gomez"]}
+{"PLAYER": ["Rebic"], "EVENT": ["Ball"]}
+{"ASSIST": ["Guerreiro"], "EVENT": ["Ball", "Einwurf"], "PLAYER": ["Aubameyang"], "PER": ["Schmelzer"]}
+{"PER": ["Ribery"], "ASSIST": ["Kimmich"]}
+{"ASSIST": ["Gregoritsch"], "EVENT": ["Ball"], "PLAYER": ["Wood"], "PER": ["Leno"]}
+{"PLAYER": ["Tasci"], "EVENT": ["Freisto\u00df", "verl\u00e4ngerten"], "ASSIST": ["Hajnal"]}
+{"PLAYER": ["Rosenberg"], "PER": ["Badstuber"], "EVENT": ["Flachschuss"]}
+{"PLAYER": ["Ginczek"]}
+{"PER": ["Kruse"], "ASSIST": ["Bartels"], "EVENT": ["Ball"]}
+{"PLAYER": ["Jansen"], "EVENT": ["Ecke"]}
+{"PLAYER": ["Kroos"], "EVENT": ["Leder"]}
+{"ASSIST": ["Schmelzer"], "EVENT": ["Ecke"], "PLAYER": ["Perisic"]}
+{"PER": ["Boateng"], "EVENT": ["Ball"], "ASSIST": ["Haller"], "PLAYER": ["Jovic"]}
+{"PLAYER": ["Gondorf"], "EVENT": ["Freisto\u00df"], "ASSIST": ["Vrancic"]}
+{"ASSIST": ["Jung"], "EVENT": ["Ball"]}
+{"ASSIST": ["Ostrzolek"], "PLAYER": ["Werner"], "PER": ["R\u00fcdiger"]}
+{"PER": ["Kim"]}
+{"PLAYER": ["Kruses"]}
+{"PLAYER": ["Kie\u00dfling"]}
+{"PLAYER": ["Didavi"], "KEEPER": ["Sommer"]}
+{"ASSIST": ["Koo"], "KEEPER": ["Kraft"], "PLAYER": ["Okazaki"]}
+{"PER": ["Elia"], "EVENT": ["Doppelpass"], "ASSIST": ["Petersen"]}
+{"PER": ["Dragovic"], "EVENT": ["Ball", "Leder"], "PLAYER": ["Bell"]}
+{"PLAYER": ["Schlaudraff"]}
+{"ASSIST": ["Hosogai"], "EVENT": ["Ball", "verl\u00e4ngerten"], "PLAYER": ["Heitinga"]}
+{"PLAYER": ["Vorsah"], "EVENT": ["Eckball", "Kopfball", "Leder"], "ASSIST": ["Salihovic"]}
+{"ASSIST": ["Molinaro"], "PLAYER": ["Gentner"]}
+{"ASSIST": ["Carvajal"], "PER": ["Sokratis"], "KEEPER": ["Mielitz"]}
+{"ASSIST": ["Belfodil"], "PLAYER": ["Kruse"], "EVENT": ["Ball"]}
+{"PLAYER": ["Frings"]}
+{"PLAYER": ["Gnabry"], "EVENT": ["Ball"]}
+{"ASSIST": ["Arnold"], "PLAYER": ["Perisic"], "EVENT": ["Chance"], "PER": ["Wolf"]}
+{"ASSIST": ["Jessen"], "EVENT": ["Schuss"]}
+{"ASSIST": ["Castro"], "EVENT": ["Ball"]}
+{}
+{"PLAYER": ["Salihovic"], "EVENT": ["Ball"]}
+{"ASSIST": ["Ekici"], "EVENT": ["Ball"], "PLAYER": ["Pr\u00f6dl"]}
+{"PER": ["Fritz"], "PLAYER": ["Ba"]}
+{"ASSIST": ["J\u00f6nsson"], "PER": ["Fuchs"], "PLAYER": ["Mandzukic"]}
+{"PLAYER": ["Luiz Gustavo"], "EVENT": ["Ball"]}
+{"PER": ["Heller"], "ASSIST": ["Rausch"]}
+{"PER": ["Rupp", "Jung"], "EVENT": ["Ball", "Spielger\u00e4t"], "PLAYER": ["Demirbay"]}
+{"KEEPER": ["Kruse"], "PER": ["Xhaka"], "EVENT": ["Ball"]}
+{"PLAYER": ["M\u00fcller"], "KEEPER": ["Sommer"]}
+{"PLAYER": ["Barnetta"], "PER": ["Hummels"]}
+{"PLAYER": ["Bender"]}
+{"PLAYER": ["Robben"], "ASSIST": ["M\u00fcllers"], "PER": ["Bugera"], "EVENT": ["Ball"]}
+{"PLAYER": ["M\u00fcller"], "EVENT": ["Leder"]}
+{"EVENT": ["Ball", "Vorlage"], "ASSIST": ["Haggui"]}
+{"EVENT": ["Foulelfmeter"], "PLAYER": ["Kramaric"]}
+{"ASSIST": ["Kainz"], "EVENT": ["Kopfball", "Schnittstellenpass", "Ball"], "PER": ["H\u00f6ger", "Horn"], "PLAYER": ["Rashica"]}
+{"ASSIST": ["Maxim"], "EVENT": ["Freisto\u00df"], "PLAYER": ["Kostic"]}
+{"ASSIST": ["Herrmann"], "PLAYER": ["Reus"], "PER": ["Ulreich"]}
+{"PLAYER": ["Tolisso"], "EVENT": ["Querpass"], "ASSIST": ["Thiago"]}
+{"PLAYER": ["M\u00fcller"]}
+{"PLAYER": ["Gerhardt"], "PER": ["Matip"]}
+{"PLAYER": ["Olic"], "EVENT": ["Ball"], "PER": ["Tr\u00e4sch"], "ASSIST": ["Fagner"]}
+{"ASSIST": ["Diego"], "EVENT": ["Freisto\u00dfflanke"], "PLAYER": ["Grafite"], "PER": ["Schuster"]}
+{"PLAYER": ["Langkamp"], "EVENT": ["Ball", "k\u00f6pft"], "PER": ["Benaglio"]}
+{"PLAYER": ["Risse"]}
+{"ASSIST": ["Z\u00e9 Roberto"], "EVENT": ["Ecke"], "PLAYER": ["Mathijsen"]}
+{"EVENT": ["Leder"]}
+{"KEEPER": ["Trapp"], "EVENT": ["Schuss"], "ASSIST": ["Schmitz"], "PLAYER": ["Rosenberg"]}
+{"PER": ["Rausch"], "ASSIST": ["Schmiedebach"]}
+{"PLAYER": ["Kie\u00dfling"]}
+{}
+{"KEEPER": ["Adler"]}
+{"ASSIST": ["Pizarro"], "EVENT": ["Ball"]}
+{"ASSIST": ["Arslan"], "PLAYER": ["Lasogga"]}
+{"PLAYER": ["Lehmann"]}
+{"EVENT": ["Leder"]}
+{"PLAYER": ["Klein"]}
+{"ASSIST": ["Marin"], "EVENT": ["Freisto\u00df"]}
+{"PLAYER": ["Stindl"]}
+{"ASSIST": ["Konoplyanka"], "EVENT": ["Ball"], "PLAYER": ["Embolo"]}
+{"ASSIST": ["Robben"], "EVENT": ["Freisto\u00df"], "PLAYER": ["van Buyten"], "PER": ["Drobny"]}
+{"PLAYER": ["Lewandowski"], "EVENT": ["Leder"]}
+{"PLAYER": ["Reus"], "EVENT": ["Ball"]}
+{"ASSIST": ["Brandt"], "EVENT": ["Ball"]}
+{"ASSIST": ["Huszti"], "EVENT": ["flanken"]}
+{"ASSIST": ["Hahn"], "EVENT": ["Bogenlampe"], "PER": ["Ji", "Ignjovski"], "PLAYER": ["Werner"]}
+{"EVENT": ["Kopfball"]}
+{"PER": ["Didavi", "Kampl"], "EVENT": ["Freisto\u00df", "Foul", "Bogenlampe"], "PLAYER": ["Harnik"]}
+{"PLAYER": ["Bell"]}
+{"PLAYER": ["Lehmann"], "EVENT": ["Strafsto\u00df"]}
+{"EVENT": ["L\u00fccke", "Flachschuss"]}
+{"EVENT": ["Flachschuss"]}
+{"ASSIST": ["Russ"], "EVENT": ["Pass"], "PLAYER": ["Castaignos"], "KEEPER": ["Horn"]}
+{"PLAYER": ["Usami"]}
+{"PLAYER": ["F\u00fcllkrug"]}
+{"PLAYER": ["Lewandowski"], "PER": ["Aubameyang"]}
+{"EVENT": ["Ball", "Spielger\u00e4t"], "PLAYER": ["Robben"]}
+{"PER": ["Niedermeier"], "ASSIST": ["Modeste"]}
+{"ASSIST": ["Sam"], "PER": ["Kie\u00dfling"], "PLAYER": ["Derdiyok"]}
+{"PLAYER": ["Werner"], "PER": ["G\u00fcnter"]}
+{"PER": ["Barrios"], "ASSIST": ["G\u00f6tze"]}
+{"EVENT": ["Flanke"]}
+{"PLAYER": ["Hummels"]}
+{"ASSIST": ["Calhanoglu"], "PLAYER": ["Kie\u00dfling"], "PER": ["Choupo-Moting"]}
+{"PLAYER": ["Diego"], "PER": ["Brooks"]}
+{"PER": ["Sirigu", "Schmelzer"], "EVENT": ["Querpass"], "PLAYER": ["Pulisic"]}
+{"ASSIST": ["Muto"]}
+{"ASSIST": ["Steinh\u00f6fer"], "PLAYER": ["Schipplock"], "PER": ["Frantz"]}
+{"PER": ["Ulreich"], "PLAYER": ["Elyounoussi"], "EVENT": ["Versuch"]}
+{"ASSIST": ["Elvedi"], "PLAYER": ["Johnson"], "EVENT": ["Zuspiel", "Ball"]}
+{"ASSIST": ["Castro"], "PLAYER": ["Bellarabi"]}
+{"ASSIST": ["De Bruyne"], "PLAYER": ["Perisic"]}
+{"PLAYER": ["Bender"]}
+{"ASSIST": ["Mkhitaryan"], "EVENT": ["Ecke"], "PLAYER": ["Sokratis"]}
+{"ASSIST": ["Meier"], "PLAYER": ["Kadlec"]}
+{"ASSIST": ["Reus"]}
+{"PER": ["Khedira", "Kainz"], "EVENT": ["Ball", "Konter"], "ASSIST": ["Caiuby"]}
+{"ASSIST": ["Caligiuri"], "PLAYER": ["Rodriguez"], "EVENT": ["Strafsto\u00df"]}
+{"PLAYER": ["Raffael"], "EVENT": ["Ball"]}
+{"PER": ["Robben"], "EVENT": ["Ecke"], "ASSIST": ["Shaqiri"]}
+{"PER": ["Holtby"], "PLAYER": ["M\u00fcller"]}
+{"ASSIST": ["Holtby"], "PLAYER": ["Lasogga"]}
+{"EVENT": ["Ball", "Flanke"], "ASSIST": ["Traor\u00e9"], "PER": ["Wendts"]}
+{"PER": ["Pinola"], "EVENT": ["Kopfballduell", "Leder"], "PLAYER": ["Gekas"]}
+{"ASSIST": ["Vogt"], "PER": ["Oczipka"], "PLAYER": ["Risse"], "EVENT": ["Ecke"]}
+{"PLAYER": ["Abdellaoue"], "EVENT": ["Ball"], "PER": ["Sch\u00e4fer"]}
+{"PER": ["Johnson"], "PLAYER": ["Harnik"], "EVENT": ["Kopfball"]}
+{"EVENT": ["Flanke"], "PER": ["Rausch", "Abraham"], "PLAYER": ["Jojic"]}
+{"PLAYER": ["G\u00f6tze"]}
+{"ASSIST": ["Ribery"], "PLAYER": ["Robben"]}
+{"PLAYER": ["Usami"], "EVENT": ["Ball", "Dribbling"]}
+{"PLAYER": ["Pander"], "EVENT": ["Abpraller", "Leder"]}
+{"PLAYER": ["Maxim"], "KEEPER": ["Adler"]}
+{"PER": ["Embolo"], "ASSIST": ["Choupo-Moting"]}
+{"PLAYER": ["Aubameyang"], "ASSIST": ["Kagawa"], "EVENT": ["Doppelpass"]}
+{"EVENT": ["Ball", "Einwurf"], "ASSIST": ["Gentner"], "PLAYER": ["Maxim"]}
+{"ASSIST": ["Gro\u00df"], "PLAYER": ["Cohen"], "EVENT": ["eink\u00f6pfen"]}
+{"ASSIST": ["Oehrl"], "PLAYER": ["M\u00f6lders"]}
+{"ASSIST": ["Plattenhardt"], "EVENT": ["Ecke"], "PLAYER": ["Brooks"]}
+{"PER": ["Frei"], "EVENT": ["Querpass"], "KEEPER": ["Trapp"], "PLAYER": ["Clemens"]}
+{"PLAYER": ["Kuzmanovic"], "EVENT": ["Foulelfmeter"]}
+{"EVENT": ["Freisto\u00df-Flanke", "Foul"], "PER": ["Lahm"], "PLAYER": ["Mandzukic"]}
+{"EVENT": ["Ball", "Freisto\u00df"], "PER": ["Boland"], "PLAYER": ["Nielsen"]}
+{"PLAYER": ["Bell"], "EVENT": ["Freisto\u00df"], "ASSIST": ["Brosinski"], "PER": ["Abraham"]}
+{"PER": ["Borussia-Park"], "PLAYER": ["Nordtveit"], "EVENT": ["Freisto\u00df", "Mauer"]}
+{"ASSIST": ["Schwegler"], "EVENT": ["Flanke"]}
+{"PLAYER": ["Chicharito"], "EVENT": ["Spielger\u00e4t"], "KEEPER": ["L\u00f6ssl"]}
+{"EVENT": ["Ball"], "ASSIST": ["G\u00f6tze"]}
+{"ASSIST": ["Clemens"], "EVENT": ["Ball"]}
+{"PLAYER": ["Ginczek"], "KEEPER": ["Sippel"]}
+{"PLAYER": ["Meier"], "EVENT": ["Spielger\u00e4t"]}
+{"ASSIST": ["Ben-Hatira"], "PLAYER": ["Schieber"]}
+{"ASSIST": ["Calhanoglu"], "EVENT": ["Ball", "Leder"], "PER": ["Strobl"]}
+{"ASSIST": ["Diouf"], "EVENT": ["Ball"], "PER": ["Koo"], "PLAYER": ["Stindl"]}
+{"ASSIST": ["Brandt"], "PLAYER": ["Aranguiz"]}
+{"KEEPER": ["Sippel"], "EVENT": ["Ball", "abstaubt"], "PLAYER": ["Sigurdsson"]}
+{"EVENT": ["Flanke"], "PLAYER": ["Zuber"]}
+{"ASSIST": ["Schmid"]}
+{"PLAYER": ["Maxim"], "EVENT": ["Chance"]}
+{"ASSIST": ["Schipplock"], "PLAYER": ["Modeste"]}
+{"PLAYER": ["Ribery"]}
+{"PLAYER": ["Sam"], "EVENT": ["Elfmeter"]}
+{"PER": ["Akolo"], "EVENT": ["Hereingabe"], "PLAYER": ["Gomez"]}
+{"EVENT": ["Ball", "Ecke"], "PER": ["Gondorf", "Junuzovic"], "PLAYER": ["Gebre Selassie"], "ASSIST": ["Eggestein"]}
+{"ASSIST": ["Huntelaar"], "PER": ["Bicakcic"]}
+{"PLAYER": ["Jantschke"], "EVENT": ["Ball"], "PER": ["Rudy"]}
+{"ASSIST": ["Ils\u00f6s"], "KEEPER": ["Kruse", "Ulreich"]}
+{"PER": ["M\u00fcller"], "ASSIST": ["Kroos"]}
+{"ASSIST": ["Schlaudraff"], "PLAYER": ["Diouf"]}
+{"KEEPER": ["Kruse"], "PLAYER": ["Freis"], "PER": ["Wiese"]}
+{"ASSIST": ["M\u00fcller"], "PLAYER": ["G\u00f6tze"]}
+{"PLAYER": ["Raffael"]}
+{"PLAYER": ["Leckie"], "EVENT": ["Vorarbeit"], "KEEPER": ["Hradecky"], "ASSIST": ["Kalou"]}
+{"PLAYER": ["Holtby"], "EVENT": ["Pass"], "ASSIST": ["Fuchs"]}
+{"PLAYER": ["Barrios"], "EVENT": ["Ball"]}
+{"PER": ["Werner", "Ostrzolek"], "EVENT": ["Ball"]}
+{"PLAYER": ["Bittencourt"]}
+{"PLAYER": ["Subotic"]}
+{"ASSIST": ["Bartels"], "PER": ["Bargfrede"], "PLAYER": ["Caldirola"]}
+{"PER": ["Eggestein"], "EVENT": ["Ball"], "KEEPER": ["Kruse"]}
+{"PER": ["Douglas Costa"], "ASSIST": ["Robben"]}
+{"PLAYER": ["Cordoba"], "EVENT": ["Schuss"]}
+{"ASSIST": ["Lewandowski"], "PLAYER": ["Kagawa"], "KEEPER": ["ter Stegen"]}
+{"PER": ["Volland"], "ASSIST": ["Calhanoglu"]}
+{"PLAYER": ["Mkhitaryan"], "EVENT": ["Schuss"]}
+{"PER": ["Castro"], "EVENT": ["Leder"], "ASSIST": ["Andreasen"]}
+{"PER": ["Gomez"], "ASSIST": ["Arnold"]}
+{"PLAYER": ["Kruse"]}
+{"PLAYER": ["Gnabry"], "KEEPER": ["Gulacsi"]}
+{"PLAYER": ["de Camargo"], "EVENT": ["Vorlage"], "ASSIST": ["Herrmann"]}
+{"PLAYER": ["Rolfes"]}
+{"PLAYER": ["Caligiuri"], "EVENT": ["Ball"]}
+{"PLAYER": ["Schulz"], "EVENT": ["Ball"]}
+{"PER": ["Herrmann", "Ginter"], "ASSIST": ["Wendt"], "PLAYER": ["Raffael"], "EVENT": ["Querpass"]}
+{"PER": ["Kampl"], "ASSIST": ["Kie\u00dfling"], "PLAYER": ["Brandt"]}
+{"PLAYER": ["Sobiech"]}
+{"PLAYER": ["Grafite"], "PER": ["Tasci"]}
+{"PER": ["Kuzmanovic", "Tasci", "Barth"], "PLAYER": ["Harnik"]}
+{"ASSIST": ["Kadlec"], "PLAYER": ["Sch\u00fcrrle"], "EVENT": ["Schuss"]}
+{"ASSIST": ["Kirch"], "PER": ["Luiz Gustavo"]}
+{"ASSIST": ["Kadlec"], "EVENT": ["Freisto\u00df"], "PLAYER": ["Friedrich"], "PER": ["Mavraj"]}
+{"PLAYER": ["Clemens"], "EVENT": ["Kopfball"]}
+{"PER": ["Junuzovic"], "ASSIST": ["Arnautovic"], "EVENT": ["flankt"], "PLAYER": ["Petersen"]}
+{"ASSIST": ["Reinartz"], "PLAYER": ["Sch\u00fcrrle"]}
+{"EVENT": ["Ball", "Flachschuss"], "KEEPER": ["Gulacsi"]}
+{"ASSIST": ["Rudy"]}
+{"ASSIST": ["Lahm"], "PLAYER": ["Luiz Gustavo"], "EVENT": ["Knaller"]}
+{"EVENT": ["Freisto\u00df", "F\u00fchrung"], "PER": ["Darida"], "ASSIST": ["Kruse"], "PLAYER": ["Bartels"]}
+{"EVENT": ["Zuspiel", "Hereingabe", "Doppelpass", "Schuss"], "ASSIST": ["Ribery"], "PER": ["Douglas Costa"], "PLAYER": ["Xabi Alonso"]}
+{"EVENT": ["Leder"], "PLAYER": ["Olic"]}
+{"PER": ["Oczipka"]}
+{"EVENT": ["Ball"], "PLAYER": ["Klaus"]}
+{"PLAYER": ["Haberer"], "EVENT": ["Ecke", "Schuss", "Leder"], "ASSIST": ["G\u00fcnter"]}
+{"PLAYER": ["Petersen"], "PER": ["F\u00e4hrmann"], "EVENT": ["Abpraller"]}
+{"ASSIST": ["Harnik"], "EVENT": ["Ball", "Leder"], "PLAYER": ["Cacau"]}
+{"ASSIST": ["Huntelaar"], "KEEPER": ["Wiese"], "EVENT": ["Doppelpass"], "PLAYER": ["Draxler"]}
+{"PLAYER": ["Kaiser"], "EVENT": ["Flanke"], "ASSIST": ["Demme"]}
+{"ASSIST": ["Reinartz"], "EVENT": ["Chance"]}
+{"PER": ["Kolasinac", "Schulz"], "PLAYER": ["Obasi"], "EVENT": ["Leder"]}
+{"EVENT": ["Doppelpass"], "ASSIST": ["James"]}
+{"EVENT": ["Freisto\u00df"], "ASSIST": ["\u00d6zcan"]}
+{"KEEPER": ["Kruse"], "EVENT": ["Leder", "Ball"], "ASSIST": ["Kalou"], "PLAYER": ["Stocker"]}
+{"PER": ["M\u00f6lders"], "ASSIST": ["Werner"], "PLAYER": ["Hahn"]}
+{"PLAYER": ["Petersen"]}
+{"ASSIST": ["Michel Bastos"], "PLAYER": ["Matip"], "EVENT": ["Abpraller"]}
+{"PLAYER": ["Ribery"], "EVENT": ["Leder"]}
+{"ASSIST": ["Burgstaller"], "EVENT": ["Vorlage", "F\u00fchrung"], "PLAYER": ["Kehrer"]}
+{"ASSIST": ["Sam"], "PLAYER": ["Kie\u00dfling"], "PER": ["Adler"]}
+{"PLAYER": ["Leckie"], "EVENT": ["Vorlage", "Ball"], "PER": ["Max"], "ASSIST": ["Gro\u00df"]}
+{"ASSIST": ["Kie\u00dfling"], "EVENT": ["Steilpass"]}
+{"ASSIST": ["Bender"], "EVENT": ["Ball"], "PLAYER": ["Schmelzer"]}
+{"PLAYER": ["Son"]}
+{"PLAYER": ["Sch\u00f6pf"]}
+{"ASSIST": ["Keita"], "EVENT": ["Fehler", "Pass"], "PLAYER": ["Werner"]}
+{"ASSIST": ["Kruse"], "PLAYER": ["Kainz"]}
+{"ASSIST": ["Novakovic"], "EVENT": ["Ball"], "PLAYER": ["Podolski"], "KEEPER": ["Baumann"]}
+{"ASSIST": ["Junuzovic"], "EVENT": ["Konter"], "PER": ["Leno"]}
+{"PLAYER": ["Pizarro"], "EVENT": ["Leder", "Ball"], "PER": ["Aogo"]}
+{"PLAYER": ["Misimovic"], "EVENT": ["Hereingabe", "Kombination"], "ASSIST": ["Sch\u00e4fers"]}
+{"PER": ["Uchida", "Daems"], "EVENT": ["Pass"]}
+{"ASSIST": ["Schlaudraff"], "EVENT": ["Ball", "k\u00f6pft"], "PLAYER": ["Abdellaoue"]}
+{"PLAYER": ["Kagawa"], "EVENT": ["Ball"], "ASSIST": ["Piszczek"]}
+{"EVENT": ["Schuss", "Ball"], "PLAYER": ["Christensen"]}
+{"PLAYER": ["Rupp"], "EVENT": ["Leder"]}
+{"PLAYER": ["Hazard"], "EVENT": ["Ball"]}
+{"PLAYER": ["Gerhardt"], "PER": ["Matip", "Junior Caicara"]}
+{"PLAYER": ["Klose"], "EVENT": ["Zuspiel"], "ASSIST": ["M\u00fcllers"]}
+{"PLAYER": ["Falette"], "EVENT": ["Freisto\u00df"], "PER": ["Wolf"]}
+{"EVENT": ["Ball"], "ASSIST": ["Bech"]}
+{"PLAYER": ["Bittencourt"]}
+{"EVENT": ["Konter", "Ball", "Flachschuss"], "PLAYER": ["Bobadilla"]}
+{"PLAYER": ["Poulsen"], "PER": ["Abraham"]}
+{"ASSIST": ["Luiz Gustavo"], "PER": ["Frings"]}
+{"EVENT": ["Ball"], "PLAYER": ["Harnik"]}
+{"PER": ["Karaman"], "ASSIST": ["Erdinc"]}
+{"PER": ["Schmid"], "EVENT": ["Linksflanke", "Ball", "Leder"], "ASSIST": ["Traor\u00e9s"], "PLAYER": ["Hahn"]}
+{"PLAYER": ["Son"], "EVENT": ["Doppelpass"], "ASSIST": ["Brandt"], "KEEPER": ["Hitz"]}
+{"PER": ["Olic"]}
+{"EVENT": ["Ball", "Ecke", "Hereingabe"], "ASSIST": ["M\u00fcller"]}
+{}
+{"EVENT": ["Pass"], "ASSIST": ["Boka"]}
+{"ASSIST": ["Sakai"], "PLAYER": ["Gregoritsch"]}
+{"PER": ["Gomez"], "ASSIST": ["Piszczek"], "PLAYER": ["Bruma"], "EVENT": ["Leder"]}
+{"PLAYER": ["M\u00fcller"]}
+{"PLAYER": ["De Blasis"]}
+{"ASSIST": ["Hummels"], "EVENT": ["eink\u00f6pft"], "PLAYER": ["Mkhitaryan"]}
+{"PLAYER": ["Drmic"], "EVENT": ["Abpraller"]}
+{"PLAYER": ["Fritz"]}
+{"PLAYER": ["Lasogga"], "KEEPER": ["Weidenfeller"]}
+{"ASSIST": ["Ribery"], "EVENT": ["Freisto\u00df"]}
+{"PLAYER": ["Reus"], "EVENT": ["Ball", "Schuss"], "PER": ["ter Stegen"]}
+{"PLAYER": ["Cordoba"], "EVENT": ["F\u00fchrung"]}
+{"ASSIST": ["Sahin"], "PLAYER": ["Gro\u00dfkreutz"], "PER": ["Dick"], "EVENT": ["Ball"]}
+{"PER": ["Schmitz"], "PLAYER": ["Aigner"]}
+{"PER": ["Schwolow"], "EVENT": ["Schuss"], "ASSIST": ["Robben"]}
+{"PLAYER": ["Reus"], "PER": ["Benaglio"], "ASSIST": ["G\u00fcndogan"]}
+{"PLAYER": ["Arnautovic"], "EVENT": ["Flanke", "Spielger\u00e4t"], "ASSIST": ["Marins"]}
+{"ASSIST": ["Guerreiro"], "EVENT": ["Ball"]}
+{"EVENT": ["Ball"], "ASSIST": ["Hanke"], "PLAYER": ["Hrgota"]}
+{"PLAYER": ["Philipp"], "EVENT": ["Ball"]}
+{"EVENT": ["Flanke", "Leder"], "PLAYER": ["Bender"]}
+{"PLAYER": ["Aubameyang"], "EVENT": ["Hereingabe"], "ASSIST": ["Durm"]}
+{"PLAYER": ["Kobiashvili"], "EVENT": ["Chance"]}
+{"PLAYER": ["Ribery"]}
+{"KEEPER": ["Kruse"], "PLAYER": ["Vieirinha"]}
+{"PER": ["Vestergaard"], "ASSIST": ["Lewandowski"], "EVENT": ["Spielger\u00e4t"]}
+{"PER": ["Guilavogui"], "PLAYER": ["Selke"]}
+{"ASSIST": ["Gro\u00dfkreutz"], "PLAYER": ["G\u00f6tze"]}
+{"PER": ["Djourou", "Robben"], "EVENT": ["Ball"], "PLAYER": ["Coman"]}
+{"PLAYER": ["Meier"], "EVENT": ["Chance"]}
+{"PLAYER": ["Esswein"], "EVENT": ["Ball"]}
+{"PER": ["Bernardo"], "ASSIST": ["Forsberg"], "PLAYER": ["Sabitzer"], "EVENT": ["Ecke"]}
+{"PLAYER": ["Bellarabi"]}
+{"PLAYER": ["Sch\u00fcrrle"], "EVENT": ["Ball"], "ASSIST": ["Kie\u00dfling"]}
+{"ASSIST": ["Kenia"]}
+{"ASSIST": ["Sch\u00fcrrle"], "PLAYER": ["Kie\u00dfling"]}
+{"ASSIST": ["Schweinsteiger"], "EVENT": ["Ball", "Kopfball", "F\u00fchrung"], "PLAYER": ["Gomez"]}
+{"PLAYER": ["Lewandowski"], "EVENT": ["Schr\u00e4gschuss", "Ball"], "PER": ["Ulreich"]}
+{"ASSIST": ["Volland"], "EVENT": ["Pass"], "PLAYER": ["Chicharito"]}
+{"ASSIST": ["Rolfes"]}
+{"PLAYER": ["Haller"]}
+{"ASSIST": ["Bargfrede"]}
+{"ASSIST": ["Keita"]}
+{"PER": ["Oczipka", "Garbuschewskis"], "EVENT": ["Flanke"], "PLAYER": ["Bellinghausen"]}
+{"ASSIST": ["William"], "EVENT": ["Ball"], "PLAYER": ["Guilavogui"]}
+{"ASSIST": ["van der Vaart"], "EVENT": ["Knaller", "Ecke"]}
+{"PLAYER": ["Sulu"], "EVENT": ["Freisto\u00dfflanke"]}
+{"PLAYER": ["De Camargo"], "EVENT": ["Doppelschlag"]}
+{"PLAYER": ["Rosenberg"], "EVENT": ["Fehler", "Ball", "Leder"], "PER": ["Dantes"], "KEEPER": ["ter Stegen"]}
+{"PLAYER": ["Sch\u00fcrrle"], "EVENT": ["Ball"]}
+{"ASSIST": ["Kalou"], "EVENT": ["Sportger\u00e4t"]}
+{"ASSIST": ["Bastians"], "EVENT": ["Flanke"]}
+{"KEEPER": ["Sch\u00e4fer"], "PER": ["Klose"]}
+{"PER": ["Kampl"], "ASSIST": ["Brandt"]}
+{"ASSIST": ["Elvedi"], "PLAYER": ["Stindl"], "PER": ["Neuer"]}
+{"ASSIST": ["Harnik"], "EVENT": ["Ball", "Kopfball"], "PLAYER": ["Gentner"]}
+{"PER": ["Tr\u00e4sch"]}
+{"EVENT": ["Leder"], "PLAYER": ["Bartels"]}
+{"PLAYER": ["Raffael"]}
+{"PER": ["Lahm"], "ASSIST": ["Rafinha"]}
+{"ASSIST": ["Baumjohann"], "PLAYER": ["Allagui"]}
+{"ASSIST": ["Hrgota"], "PLAYER": ["Herrmann"]}
+{"ASSIST": ["Schulz"], "EVENT": ["Ball"]}
+{"ASSIST": ["G\u00f6tze"], "PLAYER": ["Vidal"]}
+{"PER": ["Pospech", "Hilberts"], "EVENT": ["Ball"], "ASSIST": ["Rolfes"]}
+{"KEEPER": ["Jarstein"], "PLAYER": ["Herrmann"]}
+{"ASSIST": ["Finnbogason"], "PLAYER": ["Gregoritsch"]}
+{"ASSIST": ["Rupp"], "EVENT": ["Ball"], "PER": ["Maroh"], "PLAYER": ["Uth"]}
+{"PLAYER": ["Lewandowski"], "KEEPER": ["Pavlenka"]}
+{"PLAYER": ["Rudnevs"], "EVENT": ["Ecke"]}
+{"PLAYER": ["Koo"]}
+{"PLAYER": ["Petersen"]}
+{"PLAYER": ["Goretzka"]}
+{"ASSIST": ["Sirigu"], "PER": ["Tasci"]}
+{"EVENT": ["Ecke"], "PLAYER": ["Pitroipa"]}
+{"ASSIST": ["Flum"], "EVENT": ["Ball"], "PLAYER": ["Freis"]}
+{"PLAYER": ["Kruse"], "ASSIST": ["Bartels"]}
+{"PLAYER": ["Didavi"], "EVENT": ["Freisto\u00df"]}
+{"PLAYER": ["Jojic"]}
+{"ASSIST": ["Stendera"], "PLAYER": ["Seferovic"]}
+{"PLAYER": ["Jairo"], "EVENT": ["Ball"]}
+{"EVENT": ["Flanke"]}
+{"EVENT": ["Hereingabe", "Leder"], "PER": ["Schmelzer"], "PLAYER": ["Raffael"]}
+{"PER": ["Kaderabek"], "ASSIST": ["Terrazzino"], "PLAYER": ["Kramaric"]}
+{"ASSIST": ["Luiz Gustavo"], "PER": ["Frings"], "PLAYER": ["Ibisevic"]}
+{"ASSIST": ["Cordoba"], "EVENT": ["Zuspiel"], "PER": ["Sunjic"]}
+{"PER": ["Bender"], "ASSIST": ["Castro"], "KEEPER": ["Adler"]}
+{"ASSIST": ["Harnik"]}
+{"PLAYER": ["Derdiyok"], "EVENT": ["Vorarbeit"], "ASSIST": ["Sam"]}
+{"ASSIST": ["Arnautovic"], "PLAYER": ["Akpala"]}
+{"PER": ["Balitsch"], "ASSIST": ["Hegeler"]}
+{"PLAYER": ["Meier"], "EVENT": ["Abpraller"]}
+{"ASSIST": ["Elvedi"], "PLAYER": ["Stindl"], "PER": ["Neuer"]}
+{"PER": ["Kvist"], "ASSIST": ["Gentner"]}
+{"PLAYER": ["Petersen"], "EVENT": ["Konter"], "ASSIST": ["Darida"]}
+{"ASSIST": ["Malli"], "EVENT": ["Ecke"]}
+{"PLAYER": ["Bellarabi"], "ASSIST": ["Aranguiz"]}
+{"PER": ["Gulde"]}
+{"PLAYER": ["Abraham"], "EVENT": ["Ecke"], "ASSIST": ["Fabian"]}
+{"ASSIST": ["Hunt"], "EVENT": ["flankte", "volley"], "PLAYER": ["Marin"]}
+{"ASSIST": ["Bittencourt"], "PLAYER": ["Modeste"], "EVENT": ["Kopfballduell"], "PER": ["Christensen"]}
+{"PLAYER": ["Gomez"], "PER": ["Schwolow"]}
+{"PLAYER": ["Choupo-Moting"], "PER": ["Traor\u00e9"]}
+{"PLAYER": ["Raffael"]}
+{"ASSIST": ["Chihi"], "PLAYER": ["Novakovic"], "EVENT": ["Ball"]}
+{"PLAYER": ["Diego"]}
+{"PLAYER": ["Elia"]}
+{"PLAYER": ["Okazaki"], "EVENT": ["Ball"], "PER": ["Davari"]}
+{"ASSIST": ["Hunt"], "PLAYER": ["Petersen"], "EVENT": ["Chance"]}
+{"PLAYER": ["Chicharito"]}
+{"ASSIST": ["Hunt"]}
+{"ASSIST": ["Olic"], "PLAYER": ["Perisic"]}
+{"PER": ["Schmelzer"], "EVENT": ["Ball"], "PLAYER": ["Lewandowski"]}
+{"PLAYER": ["Piszczek"]}
+{"EVENT": ["Spielger\u00e4t"], "PLAYER": ["Hahn"]}
+{"ASSIST": ["Tr\u00e4sch"], "PLAYER": ["Harnik"], "PER": ["Schmitz"]}
+{"PER": ["Djourou", "Adler"], "ASSIST": ["Mor"], "PLAYER": ["Aubameyang"]}
+{"PLAYER": ["Sokratis"], "EVENT": ["Abpraller", "Leder"]}
+{"ASSIST": ["Dembel\u00e9"], "EVENT": ["Leder", "Freisto\u00dfflanke"], "PLAYER": ["Piszczek"]}
+{"PLAYER": ["Vestergaard"]}
+{"PLAYER": ["Kaderabek"]}
+{"PER": ["Nordtveit"], "ASSIST": ["Jantschke"]}
+{"EVENT": ["Schuss"], "ASSIST": ["Ramos"]}
+{"ASSIST": ["Ekici"], "PLAYER": ["Eigler"]}
+{"PLAYER": ["Lewandowski"]}
+{"ASSIST": ["M\u00fcller"], "PLAYER": ["Lewandowski"], "EVENT": ["Ball"], "KEEPER": ["Adler"]}
+{"PLAYER": ["Stindl"]}
+{"PLAYER": ["Can"], "EVENT": ["Chance"]}
+{"ASSIST": ["Olic"], "PLAYER": ["Luiz Gustavo"]}
+{"ASSIST": ["Skjelbred"], "EVENT": ["Freisto\u00df"]}
+{"EVENT": ["Ecke"], "PLAYER": ["Bungert"]}
+{"ASSIST": ["Castro"], "EVENT": ["Ball", "volley"], "PLAYER": ["Kie\u00dfling"]}
+{"ASSIST": ["Bellarabi"], "EVENT": ["Ball"]}
+{"PLAYER": ["Diego"], "EVENT": ["Freisto\u00df", "Ball", "Mauer"]}
+{"PLAYER": ["Meyer"]}
+{"ASSIST": ["Ribery"], "EVENT": ["Ball"], "PLAYER": ["Robben"]}
+{"PLAYER": ["Mkhitaryan"], "EVENT": ["Flanke", "eink\u00f6pfen"], "ASSIST": ["Hummels"]}
+{"PLAYER": ["Mertesacker"], "EVENT": ["Leder"]}
+{"ASSIST": ["M\u00fcller"], "EVENT": ["Hereingabe"]}
+{"PLAYER": ["Simons"]}
+{"PER": ["Demirbay"], "EVENT": ["Freisto\u00df", "Kopfball"], "ASSIST": ["Wagner"], "KEEPER": ["Sommer"], "PLAYER": ["Szalai"]}
+{"ASSIST": ["Brosinski"], "EVENT": ["Freisto\u00df"], "PLAYER": ["Balogun"]}
+{"PER": ["Torunarigha", "Kampl"], "EVENT": ["Eckball", "Leder"], "PLAYER": ["Bruma"]}
+{"PLAYER": ["Aubameyang"]}
+{"EVENT": ["Ball"]}
+{"ASSIST": ["Sam"], "PLAYER": ["Sch\u00fcrrle"]}
+{"PER": ["Wolf"], "EVENT": ["Ecke"], "PLAYER": ["Verhaeghs"]}
+{"ASSIST": ["Meier"], "PLAYER": ["Amanatidis"], "EVENT": ["Ball", "Flanke"], "KEEPER": ["Wiese"], "PER": ["Ochs"]}
+{"PLAYER": ["Kie\u00dfling"], "EVENT": ["Chance"]}
+{"ASSIST": ["Didavi"], "EVENT": ["Ecksto\u00df"], "PLAYER": ["Mayoral"]}
+{"ASSIST": ["Arnautovic"], "KEEPER": ["Weidenfeller"], "PLAYER": ["Gebre Selassie"], "EVENT": ["Kopfball"]}
+{"PER": ["Frings"], "PLAYER": ["Klose"], "EVENT": ["Leder"]}
+{"ASSIST": ["Reichel"], "PLAYER": ["Kumbela"], "PER": ["Junior Diaz"]}
+{"ASSIST": ["Wendt"]}
+{"ASSIST": ["Malli"]}
+{"EVENT": ["Ball"], "ASSIST": ["Rosenberg"], "PLAYER": ["Marin"]}
+{"ASSIST": ["Klein"], "EVENT": ["Ball", "Leder"], "PLAYER": ["Didavi"]}
+{"ASSIST": ["Matip"], "PER": ["Bell"], "PLAYER": ["Huntelaar"]}
+{"PLAYER": ["M\u00fcller"], "ASSIST": ["Kimmich"]}
+{"ASSIST": ["Podolski"], "PER": ["Tymoshchuk"]}
+{"PER": ["Farfan", "Fuchs"], "ASSIST": ["Rakitic"], "PLAYER": ["Westermann"]}
+{"PLAYER": ["Arango"], "EVENT": ["Ball", "Freisto\u00df", "Mauer"]}
+{"ASSIST": ["Klaus"], "EVENT": ["Ball", "Einwurf"], "PLAYER": ["Darida"]}
+{"PLAYER": ["Raffael"], "EVENT": ["Ball"]}
+{"PLAYER": ["Tiffert"], "EVENT": ["Chance", "Elfmeter"]}
+{"PLAYER": ["Junuzovic"]}
+{"PLAYER": ["Brandt"]}
+{"PLAYER": ["Drmic"]}
+{"ASSIST": ["Pizarro"], "PLAYER": ["Robben"]}
+{"ASSIST": ["Junior Caicara"], "PLAYER": ["Sch\u00f6pf"], "EVENT": ["Konter", "Schuss"], "KEEPER": ["Benaglio"]}
+{"PER": ["Kramer"], "KEEPER": ["Kruse"], "EVENT": ["L\u00fccke", "Pass"], "PLAYER": ["Raffael"]}
+{"PER": ["Matip"], "EVENT": ["Fehlpass"], "ASSIST": ["Marx"], "KEEPER": ["Hildebrand"]}
+{"ASSIST": ["Didavi"]}
+{"EVENT": ["Spielger\u00e4t", "Eckball"], "PLAYER": ["Verhaegh"], "ASSIST": ["Brandt"]}
+{"PER": ["Mehmedi"], "ASSIST": ["Schmid"], "EVENT": ["Steilpass"], "PLAYER": ["Klaus"]}
+{"PLAYER": ["Cohen"], "EVENT": ["Leder"]}
+{"PLAYER": ["Ya Konan"], "EVENT": ["Querpass"], "ASSIST": ["Schlaudraff"], "KEEPER": ["Mielitz"]}
+{"ASSIST": ["James"], "EVENT": ["Leder"], "PLAYER": ["Vidal"]}
+{"ASSIST": ["Kimmich"]}
+{"PER": ["Frings"], "EVENT": ["Freisto\u00df", "verl\u00e4ngert"], "ASSIST": ["Pr\u00f6dl"], "PLAYER": ["Mertesacker"]}
+{"ASSIST": ["Drmic"], "EVENT": ["Ball"], "KEEPER": ["Horn"]}
+{"ASSIST": ["Barnetta"], "PLAYER": ["Holtby"]}
+{"PLAYER": ["Huszti"]}
+{"PLAYER": ["de Jong"], "KEEPER": ["Ulreich"]}
+{"PLAYER": ["Blaszczykowski"], "ASSIST": ["Piszczek"]}
+{"PLAYER": ["Wagner"], "PER": ["Schwolow"]}
+{"PER": ["Son"], "EVENT": ["Fehlpass", "Schuss", "Ball"], "PLAYER": ["Ya Konan"]}
+{"PLAYER": ["Werner"]}
+{"PER": ["Robben", "Daems", "Arango"], "ASSIST": ["Hanke"]}
+{"EVENT": ["Hereingabe", "Leder"]}
+{"PLAYER": ["M\u00fcller"]}
+{"KEEPER": ["Adler"], "EVENT": ["Ball"], "PLAYER": ["Perisic"]}
+{"ASSIST": ["De Blasis"], "EVENT": ["Ball"], "PLAYER": ["Malli"]}
+{"ASSIST": ["Lahm"], "EVENT": ["Ball"]}
+{"PLAYER": ["Drmic"]}
+{"PLAYER": ["Naldo"], "EVENT": ["Kopfball", "Ball"]}
+{"KEEPER": ["Kruse"], "EVENT": ["Ball"]}
+{"PLAYER": ["Sabitzer"]}
+{"PLAYER": ["Herrmann"]}
+{"PER": ["Blaszczykowski"], "ASSIST": ["Gro\u00dfkreutz"]}
+{"EVENT": ["Ball", "Ecke"], "PLAYER": ["Salihovic"], "KEEPER": ["Mielitz"]}
+{"ASSIST": ["Raffael"], "PER": ["Schmitz", "Ignjovski"], "EVENT": ["Flanke"], "PLAYER": ["Ramos"]}
+{"EVENT": ["Ball"], "PER": ["Feulner"], "PLAYER": ["Kumbela"]}
+{"EVENT": ["Vorlage"]}
+{"ASSIST": ["Stendera"], "EVENT": ["Freisto\u00df"]}
+{"ASSIST": ["Pander"], "PLAYER": ["Haggui"]}
+{"ASSIST": ["Stendera"], "EVENT": ["Freisto\u00df"]}
+{"PLAYER": ["Huntelaar"]}
+{"PLAYER": ["Ramos"], "ASSIST": ["Pekarik"], "EVENT": ["Flanke", "F\u00fchrung"]}
+{"PLAYER": ["Gentner"]}
+{"ASSIST": ["Bell"], "EVENT": ["Kopfball", "Ball"], "PLAYER": ["Muto"]}
+{"EVENT": ["R\u00fcckpass", "Ball"], "PLAYER": ["Ramos"], "PER": ["Kirchhoff"]}
+{"ASSIST": ["Pekhart"], "EVENT": ["Vorarbeit", "Ball"], "PER": ["Esswein"], "PLAYER": ["Frantz"]}
+{"ASSIST": ["Meier"], "PLAYER": ["Stendera"]}
+{"PER": ["Amiri", "Heintz"], "ASSIST": ["Toljan"], "EVENT": ["Hereingabe"], "PLAYER": ["Uth"]}
+{"PLAYER": ["Diego"], "PER": ["Mielitz"]}
+{"PLAYER": ["Russ"], "EVENT": ["Ball"]}
+{"ASSIST": ["Mlapa"], "PLAYER": ["Braafheid"], "EVENT": ["Querpass"]}
+{"PLAYER": ["Gebhart"]}
+{"EVENT": ["Ball"], "PLAYER": ["Shaqiri"]}
+{"PLAYER": ["Edu"], "EVENT": ["Ball", "Eckball", "volley"], "ASSIST": ["Jurado"]}
+{"PLAYER": ["Halstenberg"], "EVENT": ["Ball"]}
+{"PLAYER": ["Diouf"]}
+{"ASSIST": ["Firmino"], "PLAYER": ["Schipplock"]}
+{"ASSIST": ["Sam"], "PER": ["ter Stegen"], "EVENT": ["Distanzschuss"]}
+{"PER": ["Friedrich"], "ASSIST": ["Reinartz"], "EVENT": ["Ball"], "PLAYER": ["Vidal"]}
+{"ASSIST": ["Szalai"], "EVENT": ["Patzer", "Spielger\u00e4t"], "PLAYER": ["Zimling"], "PER": ["Benaglio"]}
+{"EVENT": ["Kombination"]}
+{"ASSIST": ["Tr\u00e4sch"], "EVENT": ["Distanzschuss"], "PER": ["Abrashi"], "PLAYER": ["Gomez"]}
+{"PER": ["Hasebe"], "KEEPER": ["Trapp"], "PLAYER": ["Lewandowski"]}
+{"PLAYER": ["Bartels"], "EVENT": ["Ball"]}
+{"EVENT": ["Flanke"]}
+{"PLAYER": ["Dost"], "EVENT": ["Ball"]}
+{"EVENT": ["F\u00fchrung", "Vorarbeit"], "PLAYER": ["Batshuayi"], "ASSIST": ["Sahin"]}
+{"EVENT": ["Freisto\u00df"], "ASSIST": ["Huszti"], "PLAYER": ["San\u00e9"]}
+{"PLAYER": ["Werner"], "EVENT": ["Ball"], "PER": ["Christensen", "Vestergaard"]}
+{"PLAYER": ["Hahn"], "KEEPER": ["Leno"]}
+{"PER": ["Kjaer"], "EVENT": ["Ball"], "ASSIST": ["Bobadilla"], "KEEPER": ["Benaglio"], "PLAYER": ["Reus"]}
+{"PLAYER": ["Kie\u00dfling"]}
+{"PLAYER": ["Makiadi"], "EVENT": ["Ball"]}
+{"EVENT": ["Ball"], "ASSIST": ["Keita"]}
+{"PLAYER": ["Caligiuri"]}
+{"PER": ["Krmas"], "ASSIST": ["Diouf"], "PLAYER": ["Rausch"]}
+{"ASSIST": ["Schwegler"], "EVENT": ["Leder"], "PLAYER": ["Meier"]}
+{"PLAYER": ["Salihovic"], "EVENT": ["Chance"]}
+{"PLAYER": ["Moisander"], "ASSIST": ["Kruse"]}
+{"ASSIST": ["Rekik"], "PLAYER": ["Kalou"]}
+{"PLAYER": ["Thiago"], "PER": ["Bell"], "EVENT": ["Flachschuss"]}
+{"PLAYER": ["Kuzmanovic"], "EVENT": ["Chance"]}
+{"KEEPER": ["Baumann"], "PLAYER": ["Son"]}
+{"EVENT": ["Fernschuss"], "PER": ["Bailly"]}
+{"ASSIST": ["Douglas Costa"], "PLAYER": ["Robben"], "EVENT": ["Ball"]}
+{"PLAYER": ["Ribery"], "EVENT": ["Abpraller"]}
+{"PLAYER": ["Berggreen"], "EVENT": ["Freisto\u00dfflanke"], "ASSIST": ["Brosinskis"], "PER": ["Baumann"]}
+{"PLAYER": ["Uth"]}
+{"PLAYER": ["Reus"], "EVENT": ["Doppelpass"]}
+{"PLAYER": ["Sch\u00fcrrle"]}
+{"ASSIST": ["T\u00f6re"], "PLAYER": ["Bruma"], "EVENT": ["Kopfball"], "PER": ["Kuzmanovic"], "KEEPER": ["Ulreich"]}
+{"ASSIST": ["Sch\u00fcrrle"], "PLAYER": ["Reus"], "KEEPER": ["L\u00f6ssl"]}
+{"EVENT": ["Ball", "Spielger\u00e4t"], "PER": ["Caiuby"], "PLAYER": ["Gregoritsch"]}
+{"PER": ["Fritz"], "PLAYER": ["Ba"]}
+{"PLAYER": ["Westermann"]}
+{"ASSIST": ["Gomez"], "PLAYER": ["Ribery"]}
+{"ASSIST": ["Diekmeier"], "PER": ["Kobiashvili"]}
+{"ASSIST": ["Hector"], "PLAYER": ["Bittencourt"]}
+{"PER": ["Vidal"], "ASSIST": ["Plattenhardt"], "PLAYER": ["Ibisevic"]}
+{"PER": ["Derdiyok"], "ASSIST": ["Kadlec"], "EVENT": ["Flanke"]}
+{"PLAYER": ["Niedermeier"]}
+{"PLAYER": ["Orban"], "EVENT": ["Ecke"], "ASSIST": ["Forsberg"]}
+{"PER": ["Schwolow"]}
+{"PLAYER": ["Reus"], "EVENT": ["Leder"]}
+{"PLAYER": ["Zuber"], "EVENT": ["Ecke"], "ASSIST": ["Amiri"]}
+{"PER": ["Bailey"], "EVENT": ["Eckball", "Spielger\u00e4t"], "ASSIST": ["Havertz"], "KEEPER": ["Sommer"]}
+{"PLAYER": ["Hunt"], "EVENT": ["Doppelpass", "Ball"], "ASSIST": ["Petersen"], "PER": ["Lustenberger"]}
+{"PLAYER": ["Coman"]}
+{"ASSIST": ["Herrmann"], "PER": ["Raffael", "Kramer"]}
+{"ASSIST": ["Mkhitaryan"], "PLAYER": ["Lewandowski"]}
+{"EVENT": ["Leder"], "ASSIST": ["Retsos"], "PLAYER": ["Bender"]}
+{"ASSIST": ["Dembel\u00e9"], "EVENT": ["Pass"], "PER": ["Sahins"]}
+{"PLAYER": ["Hazard"]}
+{"PLAYER": ["Marcelo"], "EVENT": ["Ecke", "Luftkampf", "F\u00fchrung"], "PER": ["Bauer", "H\u00fcbner"]}
+{"PLAYER": ["Szalai"]}
+{"ASSIST": ["Jairo"], "PER": ["Gacinovic"]}
+{"EVENT": ["Ball"]}
+{"EVENT": ["Ball"], "PLAYER": ["Matip"]}
+{"PER": ["Meyer", "Knoche"], "ASSIST": ["Choupo-Moting"], "EVENT": ["Hereingabe"], "PLAYER": ["Goretzka"]}
+{}
+{"ASSIST": ["Aubameyang"], "PLAYER": ["Mkhitaryan"]}
+{"PER": ["Zagadou"], "EVENT": ["Ball"], "ASSIST": ["Sahin"]}
+{"PLAYER": ["Caiuby"]}
+{"PLAYER": ["Ibisevic"], "EVENT": ["Ablage"], "ASSIST": ["Hajnal"]}
+{"PLAYER": ["Gomez"], "PER": ["Haggui"]}
+{"PER": ["Pr\u00f6dl"], "PLAYER": ["M\u00fcller"]}
+{"ASSIST": ["Heise"]}
+{"PLAYER": ["Raffael"], "EVENT": ["Elfmeter"]}
+{"ASSIST": ["Bellarabi"], "PLAYER": ["Chicharito"]}
+{"EVENT": ["Ball"], "PLAYER": ["Gomez"], "KEEPER": ["Sippel"]}
+{"ASSIST": ["Pander"]}
+{"PLAYER": ["Ibisevic"]}
+{"EVENT": ["Pass", "Abpraller"], "ASSIST": ["Moravek"], "PLAYER": ["Hlousek"]}
+{"PLAYER": ["Jojic"], "EVENT": ["Kopfball"]}
+{"EVENT": ["Versuch"], "PLAYER": ["Okazaki"]}
+{"PLAYER": ["Boll"]}
+{"EVENT": ["Ball", "Sportger\u00e4t"], "PLAYER": ["Raul"]}
+{"ASSIST": ["Origi"], "PLAYER": ["Malli"]}
+{"PLAYER": ["Uth"], "ASSIST": ["Kaderabek"]}
+{"PER": ["Hilbert"], "EVENT": ["Freisto\u00dfflanke"], "ASSIST": ["Havertz"], "PLAYER": ["Volland"]}
+{"EVENT": ["Freisto\u00dfflanke", "Hereingabe"], "PER": ["Sulu"]}
+{"EVENT": ["Abpraller"], "PLAYER": ["Chihi"]}
+{"PLAYER": ["M\u00fcller"], "EVENT": ["Abpraller", "Flachschuss"]}
+{"ASSIST": ["Bartra"], "EVENT": ["Kopfballduell"], "PLAYER": ["Aubameyang"]}
+{"ASSIST": ["Janker"], "EVENT": ["Freisto\u00dfflanke"]}
+{"PLAYER": ["Philipp"], "EVENT": ["Ball", "Fehlschuss"]}
+{"ASSIST": ["Sirigu"], "EVENT": ["Hereingabe"], "PLAYER": ["Wagner"]}
+{"PLAYER": ["Son"]}
+{"PLAYER": ["Schmid"], "EVENT": ["Abpraller"]}
+{"PER": ["Caligiuri"], "EVENT": ["Ball"], "PLAYER": ["Naldo"]}
+{"PLAYER": ["Nordtveit"], "EVENT": ["Freisto\u00df"]}
+{"PER": ["Sirigu", "S\u00f6y\u00fcnc\u00fc", "Schwolow"], "ASSIST": ["Heller"]}
+{"EVENT": ["Leder"]}
+{"PLAYER": ["Jojic"], "EVENT": ["Ball"], "KEEPER": ["Kraft"]}
+{"PLAYER": ["M\u00fcller"]}
+{"ASSIST": ["H\u00fcbner"], "EVENT": ["Ecke"], "PER": ["Hector"]}
+{"PER": ["Jojic"], "PLAYER": ["Gro\u00dfkreutz"]}
+{"EVENT": ["Ball"]}
+{"ASSIST": ["Kadlec"], "EVENT": ["Ball"]}
+{"ASSIST": ["Arango"], "EVENT": ["Konter", "volley"], "PLAYER": ["Reus"]}
+{"ASSIST": ["Risse"], "PLAYER": ["Modeste"]}
+{"PER": ["Schlaudraff"], "ASSIST": ["Huszti"]}
+{"PLAYER": ["Bellarabi"], "ASSIST": ["Drmic"]}
+{"PLAYER": ["Belfodil"], "EVENT": ["Bogenlampe"]}
+{"ASSIST": ["Ujah"], "PER": ["Risses", "Toprak", "Jedvaj"], "PLAYER": ["Finnes"]}
+{"PLAYER": ["Naldo"], "EVENT": ["Kopfball", "Leder", "Ecke"]}
+{"PER": ["Philipp"], "EVENT": ["Ball"], "PLAYER": ["Hazard"]}
+{"PLAYER": ["Huntelaar"], "EVENT": ["Elfmeter"]}
+{"EVENT": ["Flanke"], "PER": ["Matip", "Hadergjonaj"], "ASSIST": ["Bartels"]}
+{"PLAYER": ["De Blasis"]}
+{"PLAYER": ["Gro\u00dfkreutz"]}
+{"ASSIST": ["Pizarro"], "PLAYER": ["Ujah"], "EVENT": ["Ball"]}
+{"PLAYER": ["Hahn"], "EVENT": ["Ball"]}
+{"PLAYER": ["Rupp"], "EVENT": ["Einwurf"]}
+{"PLAYER": ["Weis"]}
+{"ASSIST": ["Bobadilla"], "EVENT": ["Querpass", "Schuss"], "PER": ["Idrissou"], "PLAYER": ["Bradley"], "KEEPER": ["Varvodic"]}
+{"EVENT": ["Kopfball"]}
+{"EVENT": ["Ecke"], "PLAYER": ["Stark"]}
+{"ASSIST": ["Lahm"], "PLAYER": ["Luiz Gustavo"], "EVENT": ["Knaller"]}
+{"PER": ["da Silva"], "EVENT": ["Freisto\u00df"], "ASSIST": ["G\u00f6tze"]}
+{"PLAYER": ["Draxler"], "ASSIST": ["Jones"]}
+{"PER": ["Oczipka"], "ASSIST": ["Chandler"]}
+{"PER": ["Pranjic"], "ASSIST": ["Reus"]}
+{"PLAYER": ["Abdellaoue"], "EVENT": ["Elfmeter"]}
+{"EVENT": ["Ecke", "Konter"], "ASSIST": ["Sirigu"]}
+{"PLAYER": ["Verhaegh"], "EVENT": ["Ecke"]}
+{"PER": ["Boateng", "Neuer"], "PLAYER": ["Ya Konan"]}
+{"PER": ["Ben-Hatira"], "EVENT": ["Ball"], "ASSIST": ["Ramos"]}
+{"ASSIST": ["Gnabry"], "EVENT": ["Zuspiel"], "PLAYER": ["Szalai"]}
+{"PLAYER": ["Quaison"], "EVENT": ["Dribbling"]}
+{"ASSIST": ["Wendell"], "EVENT": ["Ecke"]}
+{"PLAYER": ["Werner"], "PER": ["Subotic"]}
+{"PLAYER": ["Volland"], "EVENT": ["Abpraller"]}
+{"EVENT": ["Ball"], "PLAYER": ["Dost"]}
+{"ASSIST": ["Ronny"], "PLAYER": ["Skjelbred"], "PER": ["G\u00fcnter"]}
+{"EVENT": ["Ball"], "ASSIST": ["Schwegler"]}
+{"PLAYER": ["Ribery"], "PER": ["Reinhardt"]}
+{"PLAYER": ["Guerreiro"]}
+{"PLAYER": ["Finnbogason"], "ASSIST": ["Khedira"], "EVENT": ["Leder"]}
+{"PER": ["Christensen"], "EVENT": ["volley"]}
+{"ASSIST": ["Reus"], "EVENT": ["Eckball"]}
+{"EVENT": ["Ecke"], "ASSIST": ["Rudy"]}
+{"ASSIST": ["Rodriguez"], "EVENT": ["Ball"], "PLAYER": ["Diego"]}
+{"PLAYER": ["Podolski"], "EVENT": ["Freisto\u00df"], "PER": ["Lanig"]}
+{"PLAYER": ["Colak"], "ASSIST": ["Gondorf"]}
+{"PLAYER": ["Berggreen"]}
+{"PLAYER": ["Ibisevic"], "EVENT": ["Spielger\u00e4t", "Ball"], "PER": ["Plattenhardt"]}
+{"PLAYER": ["Caligiuri"], "EVENT": ["Ecke", "Flachschuss"]}
+{"PER": ["Bell"], "ASSIST": ["Gerhardt"], "PLAYER": ["Jojic"]}
+{"PER": ["Tah"], "EVENT": ["Patzer"], "PLAYER": ["Stindl"]}
+{"PLAYER": ["Hummels"], "EVENT": ["Ecke"], "ASSIST": ["Schmelzers"]}
+{"ASSIST": ["Thiagos"], "PLAYER": ["Lewandowski"]}
+{"PLAYER": ["Sobiech"], "KEEPER": ["Wiese"], "EVENT": ["Kopfball"]}
+{"ASSIST": ["Z\u00e9 Roberto"], "PLAYER": ["Jansen"], "EVENT": ["Doppelpass"], "PER": ["Petric", "Dick"], "KEEPER": ["Sippel"]}
+{"ASSIST": ["Chandler"]}
+{"PLAYER": ["Brandt"], "EVENT": ["F\u00fchrung"]}
+{"PLAYER": ["Langkamp"], "EVENT": ["Kopfball"], "PER": ["Wetklos"]}
+{"PLAYER": ["M\u00fcller"], "EVENT": ["Abpraller", "Leder"]}
+{"EVENT": ["Ball", "Leder"], "ASSIST": ["Kie\u00dfling"], "PER": ["Haggui", "Cherundolo"], "PLAYER": ["Vidal"]}
+{}
+{"PLAYER": ["Ba"], "EVENT": ["Freisto\u00df"], "PER": ["Haggui"], "ASSIST": ["Sigurdssons"]}
+{"EVENT": ["Flanke", "Kopfball"], "PLAYER": ["Joselu"]}
+{"EVENT": ["Ball"], "ASSIST": ["Haller"], "PLAYER": ["Rebic"]}
+{"PER": ["Jantschke", "Sankoh"], "EVENT": ["Kopfball-Verl\u00e4ngerung", "lupft", "Ball"], "PLAYER": ["Herrmann"]}
+{"PER": ["Forsberg"], "ASSIST": ["Werner"]}
+{"ASSIST": ["Raffael"], "PLAYER": ["Kramer"]}
+{"ASSIST": ["Matmour"], "EVENT": ["Pass", "Ball"], "PER": ["Idrissous", "Russ"], "PLAYER": ["de Camargo"]}
+{"PLAYER": ["Reisinger"], "PER": ["Kempf"], "KEEPER": ["Trapp"], "EVENT": ["Schuss"]}
+{"ASSIST": ["Sirigu"], "PLAYER": ["Wagner"], "EVENT": ["Flanke"]}
+{"PLAYER": ["Verhaegh"], "EVENT": ["Chance", "F\u00fchrung"]}
+{"PLAYER": ["Aubameyang"], "EVENT": ["Flanke"]}
+{"PLAYER": ["Kempf"]}
+{"PER": ["Brandt"], "ASSIST": ["Havertz"], "PLAYER": ["Pohjanpalo"]}
+{"ASSIST": ["Grifo"], "PLAYER": ["Philipp"]}
+{"ASSIST": ["Kroos"], "EVENT": ["Freisto\u00df"]}
+{"ASSIST": ["Douglas Costa"], "EVENT": ["Ball"], "PLAYER": ["Robben"]}
+{"PLAYER": ["Kobiashvili"]}
+{"PLAYER": ["Olic"]}
+{"PLAYER": ["Zidan"]}
+{"PLAYER": ["Bargfrede"]}
+{"PLAYER": ["Raffael"], "EVENT": ["Abpraller"]}
+{"PLAYER": ["Seferovic"]}
+{"PLAYER": ["Cacau"], "EVENT": ["Freisto\u00df-Flanke"], "ASSIST": ["Sakais"]}
+{"PLAYER": ["Hunt"]}
+{"EVENT": ["Ball"], "PLAYER": ["Hochscheidt"]}
+{"PLAYER": ["Herrmann"], "EVENT": ["Linksflanke"], "PER": ["Ignjovski"], "KEEPER": ["Wiese"]}
+{}
+{"ASSIST": ["Malli"]}
+{"PLAYER": ["Johnson"], "KEEPER": ["Neuer"]}
+{"ASSIST": ["Leitner"], "PLAYER": ["G\u00f6tze"], "EVENT": ["Ball"], "PER": ["Beck"]}
+{"ASSIST": ["Makiadis"]}
+{"ASSIST": ["Jantschke"], "KEEPER": ["Mielitz"], "PLAYER": ["Raffael"], "PER": ["Pr\u00f6dl"], "EVENT": ["Ball"]}
+{"PLAYER": ["Philipp"], "EVENT": ["Schuss"]}
+{"PER": ["Sulu"], "PLAYER": ["Cohens"], "EVENT": ["abstaubt"]}
+{"PLAYER": ["Luiz Gustavo"], "EVENT": ["F\u00fchrung"]}
+{"ASSIST": ["Gentner"], "PLAYER": ["Misimovic"], "EVENT": ["Spielger\u00e4t"]}
+{"PLAYER": ["Elia"], "EVENT": ["Abpraller", "Leder"]}
+{"PLAYER": ["Petersen"]}
+{"PLAYER": ["Okazaki"], "EVENT": ["Zuspiel"], "PER": ["Fuchs"]}
+{"PLAYER": ["Kadlec"], "KEEPER": ["Sch\u00e4fer"]}
+{"PLAYER": ["Jovic"], "EVENT": ["Flachschuss"]}
+{"ASSIST": ["Kagawa"], "EVENT": ["Flachschuss", "Zuspiel"], "PLAYER": ["Aubameyang"]}
+{"PLAYER": ["Novakovic"], "EVENT": ["Freisto\u00df", "Ball"], "ASSIST": ["Rudy"]}
+{"PLAYER": ["Kolasinac"]}
+{"PLAYER": ["Latza"], "PER": ["Onisiwos"], "EVENT": ["Versuch"]}
+{"ASSIST": ["Goretzka"], "PLAYER": ["Sch\u00f6pf"]}
+{"PLAYER": ["Kachunga"]}
+{"PLAYER": ["Lasogga"], "EVENT": ["Elfmeter"]}
+{"PLAYER": ["Salihovic"], "EVENT": ["Chance", "Strafsto\u00df"]}
+{"ASSIST": ["Heller"], "PLAYER": ["Gondorf"]}
+{"PLAYER": ["Robben"], "PER": ["Neuer"], "EVENT": ["Leder"]}
+{"PLAYER": ["Calhanoglu"]}
+{"ASSIST": ["Kaderabek"]}
+{"PLAYER": ["Lewandowski"]}
+{"PLAYER": ["Olic"], "EVENT": ["Einwurf", "Ball"], "PER": ["Badstuber"]}
+{"ASSIST": ["Shaqiri"], "PLAYER": ["Pizarro"], "PER": ["Strobl"]}
+{"PER": ["Gulde"], "ASSIST": ["Embolo"], "PLAYER": ["Caligiuri"], "EVENT": ["Strafsto\u00df"]}
+{"ASSIST": ["Ya Konan"], "EVENT": ["flanken"], "PLAYER": ["Hanke"]}
+{"ASSIST": ["G\u00fcndogan"], "PLAYER": ["Kagawa"]}
+{"EVENT": ["Ball", "flanken"], "ASSIST": ["Schlaudraff"]}
+{"PLAYER": ["Klose"], "EVENT": ["Ball"]}
+{"PLAYER": ["Belfodil"]}
+{"PLAYER": ["Reus"], "PER": ["Frei"], "KEEPER": ["Gulacsi"]}
+{"PLAYER": ["Lewandowski"], "ASSIST": ["Reus"]}
+{"PLAYER": ["Lahm"]}
+{"PLAYER": ["Nilsson"], "EVENT": ["Vorlage"]}
+{"ASSIST": ["Ibisevic"], "PLAYER": ["Leckie"], "EVENT": ["Leder"]}
+{"EVENT": ["L\u00fccke"], "PLAYER": ["Lewandowski"], "ASSIST": ["M\u00fcller"]}
+{"PLAYER": ["Dzeko"]}
+{"PLAYER": ["Chicharito"]}
+{"ASSIST": ["Gnabry"], "EVENT": ["Ball"]}
+{"ASSIST": ["Xhaka"], "PLAYER": ["Arango"], "EVENT": ["Spielger\u00e4t"]}
+{"ASSIST": ["Joselu"], "EVENT": ["Flanke"], "PLAYER": ["Stindl"]}
+{"PER": ["Hartmann"], "PLAYER": ["Diego"], "EVENT": ["Elfmeter"]}
+{"PLAYER": ["Obasi"]}
+{"PLAYER": ["Stajner"], "EVENT": ["Chance"]}
+{"ASSIST": ["Gentner"], "PLAYER": ["Misimovic"]}
+{"EVENT": ["Freisto\u00df"], "ASSIST": ["Rudy"]}
+{"ASSIST": ["De Bruyne"], "PLAYER": ["Knoche"]}
+{"PLAYER": ["Kohr"], "PER": ["Vieirinha"]}
+{"PLAYER": ["Castro"]}
+{"PLAYER": ["Edu"]}
+{"ASSIST": ["Coman"], "PER": ["Garcia"]}
+{"PLAYER": ["Mandzukic"]}
+{"ASSIST": ["De Wit"], "PLAYER": ["Kouemaha"]}
+{"PLAYER": ["Kostic"], "EVENT": ["Flanke"]}
+{"EVENT": ["Schuss", "volley"], "PLAYER": ["Drmic"]}
+{"PER": ["Nehrig", "Meier"], "EVENT": ["Ball"], "PLAYER": ["Djurdjic"]}
+{"EVENT": ["Leder", "Eckball"], "PLAYER": ["Hummels"]}
+{"PER": ["Reus"], "PLAYER": ["Lewandowski"]}
+{}
+{"PLAYER": ["Okazaki"]}
+{"PLAYER": ["De Camargo"]}
+{"PER": ["Forsberg"], "ASSIST": ["Schmitz"]}
+{"EVENT": ["Ball", "Abpraller"], "PLAYER": ["Werner"]}
+{"PER": ["Karhan", "Bungert"], "EVENT": ["L\u00fccke", "Leder", "volley"]}
+{"ASSIST": ["Onisiwo"], "PLAYER": ["Malli"]}
+{"PLAYER": ["Vucinovic"], "EVENT": ["Ball"]}
+{"PLAYER": ["Ramos"], "EVENT": ["Zuspiel", "Ball"]}
+{"PER": ["de Guzman", "Sabitzer"], "EVENT": ["Hereingabe", "Ball"], "ASSIST": ["Werner"]}
+{"ASSIST": ["Adler"], "EVENT": ["Ball"], "PLAYER": ["Rudnevs"]}
+{"PLAYER": ["Darida"]}
+{"PLAYER": ["Huntelaar"]}
+{}
+{"ASSIST": ["Junuzovic"], "PLAYER": ["Grillitsch"]}
+{"PLAYER": ["Podolski"]}
+{"ASSIST": ["Vogt"], "PLAYER": ["Hector"]}
+{"PLAYER": ["Robben"]}
+{"ASSIST": ["Vidal"], "PLAYER": ["Tolisso"], "KEEPER": ["Sommer"]}
+{"PLAYER": ["Kuzmanovic"], "EVENT": ["Leder"]}
+{"PER": ["F\u00e4hrmann"], "PLAYER": ["Olic"]}
+{"PER": ["Clemens", "Sam"]}
+{"PLAYER": ["Embolo"], "EVENT": ["Ball"]}
+{"ASSIST": ["Delpierre"], "EVENT": ["Ball"], "PLAYER": ["Cacau"], "PER": ["Helmes"]}
+{"PLAYER": ["Lookman"], "EVENT": ["Hereingabe"], "ASSIST": ["Ilsanker"], "PER": ["Eggestein", "Bargfrede"]}
+{"ASSIST": ["Guerreiro"], "EVENT": ["Ecke", "Kopfball"], "PLAYER": ["Piszczek"]}
+{"EVENT": ["Abpraller"], "PLAYER": ["Castro"]}
+{"PLAYER": ["Maroh"]}
+{"PLAYER": ["Modeste"]}
+{"PLAYER": ["Hahn"], "EVENT": ["Freisto\u00df"]}
+{"PER": ["Leno"], "PLAYER": ["Herrmann"]}
+{"PER": ["Ginter"], "EVENT": ["Ball"], "PLAYER": ["Petersen"]}
+{"ASSIST": ["Pander"], "EVENT": ["Ecke", "Leder", "Ball"], "PLAYER": ["Diouf"], "PER": ["Harnik"]}
+{"PLAYER": ["Bellarabi"]}
+{"ASSIST": ["Jojic"], "PLAYER": ["Osako"], "EVENT": ["Dribbling"]}
+{"PER": ["Simons"], "EVENT": ["Ball"], "PLAYER": ["Geis"]}
+{"EVENT": ["Leihgabe", "Leder"], "PLAYER": ["Junuzovic"]}
+{"ASSIST": ["Di Santo"], "PLAYER": ["Petersen"]}
+{"ASSIST": ["Kie\u00dfling"], "PLAYER": ["Sam"], "EVENT": ["Ball"]}
+{"PER": ["Weigl"], "EVENT": ["Ball"], "PLAYER": ["Ribery"]}
+{"PLAYER": ["Diouf"]}
+{"ASSIST": ["Goretzka"], "EVENT": ["Ball"], "PLAYER": ["Kehrer"]}
+{"ASSIST": ["Brosinski"], "EVENT": ["Freisto\u00df"], "KEEPER": ["Gulacsi"]}
+{"PLAYER": ["Mkhitaryan"]}
+{"ASSIST": ["Ben-Hatira"], "EVENT": ["Freisto\u00df"], "PLAYER": ["Niemeyer"]}

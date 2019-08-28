@@ -103,8 +103,6 @@ def genMultiGraph(DG, verbose=False):
     return " ".join(srcNodes), (" ".join(srcEdgesLabels), " ".join(srcEdgesNode1), " ".join(srcEdgesNode2))
 
 
-#@TODO: in delex the triples must be delex aswell !!!!
-
 def check_upper(s):
     if not s.isupper():
         return s.lower()
@@ -125,6 +123,7 @@ def preprocess_triples(df, options, classtype = '', ctx = True):
     target_out = []
     context = []
     relex = []
+    reference = []
 
     count = 0
     for i in range(0, len(df)):
@@ -188,21 +187,23 @@ def preprocess_triples(df, options, classtype = '', ctx = True):
         target_out.append(text)
         out_src = ' '.join(re.split('(\W)', triplesString))
         source_out.append(' '.join(out_src.split()))
+        
 
         if ctx:
             context.append(df.at[i,'class'])
 
         if options['notdelex'] == False:
             relex.append(json.dumps(df.at[i, 'relexDict']))
+            reference.append(df.at[i,'referenceText'])
 
     if options['notdelex'] == False:
-        concat = list(zip(source_nodes_out, source_edges_out_labels, source_edges_out_node1, source_edges_out_node2, target_out, context, source_out, relex))
-        random.shuffle(concat)
-        source_nodes_out, source_edges_out_labels, source_edges_out_node1, source_edges_out_node2, target_out, context, source_out, relex  = zip(*concat)
+        concat = list(zip(source_nodes_out, source_edges_out_labels, source_edges_out_node1, source_edges_out_node2, target_out, context, source_out, relex, reference))
+        random.Random(42).shuffle(concat)
+        source_nodes_out, source_edges_out_labels, source_edges_out_node1, source_edges_out_node2, target_out, context, source_out, relex, reference  = zip(*concat)
 
     else:  
         concat = list(zip(source_nodes_out, source_edges_out_labels, source_edges_out_node1, source_edges_out_node2, target_out, context, source_out))
-        random.shuffle(concat)
+        random.Random(42).shuffle(concat)
         source_nodes_out, source_edges_out_labels, source_edges_out_node1, source_edges_out_node2, target_out, context, source_out  = zip(*concat)
 
     split_1 = int(0.8 * len(source_nodes_out))
@@ -233,6 +234,7 @@ def preprocess_triples(df, options, classtype = '', ctx = True):
                 context_out = context[:split_1]
             if options['notdelex'] == False:
                 relex_out = relex[:split_1]
+                ref_out = reference[:split_1]
 
 
         elif split == 'dev':
@@ -247,6 +249,7 @@ def preprocess_triples(df, options, classtype = '', ctx = True):
                 context_out = context[split_1:split_2]
             if options['notdelex'] == False:
                 relex_out = relex[split_1:split_2]
+                ref_out = reference[split_1:split_2]
 
         elif split == 'test':
             src = source_nodes_out[split_2:]
@@ -259,6 +262,8 @@ def preprocess_triples(df, options, classtype = '', ctx = True):
                 context_out = context[split_2:]
             if options['notdelex'] == False:
                 relex_out = relex[split_2:]
+                ref_out = reference[split_2:]
+
                 
         #create fake test set by invering the context
         elif split == 'test_fake' and ctx:
@@ -306,6 +311,8 @@ def preprocess_triples(df, options, classtype = '', ctx = True):
         if options['notdelex'] == False:
             with open(p+'/' + split + '-' +dataset + '-gcn-' + optionals + '.relex', 'w+', encoding='utf8') as f:
                 f.write('\n'.join(relex_out)) 
+            with open(p+'/' + split + '-' +dataset + '-gcn-' + optionals + '.reference', 'w+', encoding='utf8') as f:
+                f.write('\n'.join(ref_out))
         
         assert len(tgt_out) == len(edges_node1)
         assert len(src) == len(edges_node1)
