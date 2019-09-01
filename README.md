@@ -117,6 +117,10 @@ to compare go into folder
 
 and there you have the BLEU score.
 
+# eval dep
+* https://www.cs.cmu.edu/~alavie/METEOR/README.html
+* http://www.cs.umd.edu/~snover/pub/amta06/ter_amta.pdf
+
 # Ideas / Todo
 * BPE
 * make context into logging

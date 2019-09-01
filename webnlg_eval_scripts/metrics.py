@@ -17,7 +17,7 @@ def prepare_files_ter(inputdir, predsFile, partition):
             pure_references.append([line])
 
     # create a file with only one reference for TER
-    with open(partition + '-all-notdelex-oneref-ter.txt', 'w+') as f:
+    with open(inputdir + partition + '-all-notdelex-oneref-ter.txt', 'w+') as f:
         for ref in references:
             f.write(''.join(ref))
 
@@ -31,23 +31,23 @@ def prepare_files_ter(inputdir, predsFile, partition):
                         references[i].append(line.strip() + ' (id' + str(i) + ')\n')
                         pure_references[i].append(line)
 
-    with open(partition + '-all-notdelex-refs-ter.txt', 'w+') as f:
+    with open(inputdir + partition + '-all-notdelex-refs-ter.txt', 'w+') as f:
         for ref in references:
             f.write(''.join(ref))
 
     # prepare generated hypotheses
     #with open('relexicalised_predictions.txt', 'r') as f:
-    with open(predsFile, 'r') as f:
+    with open(inputdir + predsFile, 'r') as f:
         geners = [line.strip() + ' (id' + str(i) + ')\n' for i, line in enumerate(f)]
     #with open('relexicalised_predictions-ter.txt', 'w+') as f:
-    with open(predsFile.replace('.txt','-ter.txt'), 'w+') as f:
+    with open(inputdir + predsFile.replace('.txt','-ter.txt'), 'w+') as f:
         f.write(''.join(geners))
 
     # data for meteor
     # For N references, it is assumed that the reference file will be N times the length of the test file,
     # containing sets of N references in order.
     # For example, if N=4, reference lines 1-4 will correspond to test line 1, 5-8 to line 2, etc.
-    with open(partition + '-all-notdelex-refs-meteor.txt', 'w+') as f:
+    with open(inputdir + partition + '-all-notdelex-refs-meteor.txt', 'w+') as f:
         for ref in pure_references:
             empty_lines = 8 - len(ref)  # calculate how many empty lines to add (8 max references)
             f.write(''.join(ref))

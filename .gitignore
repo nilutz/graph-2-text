@@ -1,4 +1,5 @@
 glove/
+eval_tools/
 
 # repo-specific stuff
 pred.txt
