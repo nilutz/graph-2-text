@@ -32,7 +32,7 @@ and run the commands
 # Football Data Experiment
 
 ## Prepare data
-Run [data-extractor]() and get a data_with_triples_full.pkl file and put it in data/data-football/, then for generating the input:
+Run [data-extractor]() and get a sentences_full_{not}delex.pkl file and put it in data/data-football/, then for generating the input:
 	
 	cd football_processing
 

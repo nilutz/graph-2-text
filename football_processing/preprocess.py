@@ -167,16 +167,19 @@ def preprocess_triples(df, options, classtype = '', ctx = True):
         tripleSep = ""
         triplesString = ''
         for triple in triples:
+            print(triple)
             
             if options['lower']:
 
-                DG.add_edge(check_upper(triple[0]),check_upper(triple[2]), label = check_upper(triple[1]))
+                DG.add_edge(check_upper(triple[0]), check_upper(triple[2]), label = check_upper(triple[1]))
                 triplesString += tripleSep + check_upper(triple[0]) + '|' + check_upper(triple[1]) + '|' + check_upper(triple[2]) + ' '
 
             else:
-                DG.add_edge(triple[0],triple[2], label = triple[1])
+                DG.add_edge(triple[0], triple[2], label = triple[1])
                 triplesString += tripleSep + triple[0] + '|' + triple[1] + '|' + triple[2] + ' '
             tripleSep = "<TSP>"
+        
+        print(i, text)
 
         source_nodes, source_edges = genMultiGraph(DG)
         
@@ -371,19 +374,12 @@ def main(path = "../data/data-football/sentences_full_notdelex.pkl", ctx=False, 
     options = {
         'notdelex': False, #notdelex
         'lower': False,
-        'head':False,
-        'lemma':False,
     }
     for p in parts:
         if 'notdelex' in p:
             options['notdelex'] = True
         if 'lower' in p:
             options['lower'] = True
-        if 'head' in p:
-            options['head'] = True
-        if 'lemma' in p:
-            options['lemma'] = True    
-
     print(options)
 
     
