@@ -167,7 +167,6 @@ def preprocess_triples(df, options, classtype = '', ctx = True):
         tripleSep = ""
         triplesString = ''
         for triple in triples:
-            print(triple)
             
             if options['lower']:
 
@@ -179,8 +178,6 @@ def preprocess_triples(df, options, classtype = '', ctx = True):
                 triplesString += tripleSep + triple[0] + '|' + triple[1] + '|' + triple[2] + ' '
             tripleSep = "<TSP>"
         
-        print(i, text)
-
         source_nodes, source_edges = genMultiGraph(DG)
         
         source_nodes_out.append(source_nodes)
