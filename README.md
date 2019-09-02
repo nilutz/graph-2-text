@@ -96,7 +96,7 @@ Training procedure:
 #### with context
 make sure the data has a context field
 
-	python3 train.py -data data/football_delex_ctx_1 -save_model data/football_delex_1_ctx -rnn_size 256 -word_vec_size 256 -layers 1 -epochs 30 -optim adam -learning_rate 0.001 -encoder_type gcn -gcn_num_inputs 256 -gcn_num_units 256 -gcn_in_arcs -gcn_out_arcs -gcn_num_layers 4 -gcn_num_labels 5 -context -tensorboard -gpuid 0 -model_name football_delex_1_ctx -gcn_residual residual -seed 43
+	python3 train.py -data data/football_{type}_ctx_1 -save_model data/football_delex_1_ctx -rnn_size 256 -word_vec_size 256 -layers 1 -epochs 30 -optim adam -learning_rate 0.001 -encoder_type gcn -gcn_num_inputs 256 -gcn_num_units 256 -gcn_in_arcs -gcn_out_arcs -gcn_num_layers 4 -gcn_num_labels 5 -context -tensorboard -gpuid 0 -model_name football_delex_1_ctx -gcn_residual residual -seed 43
 
 
 ## GENERATE

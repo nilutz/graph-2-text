@@ -1,7 +1,5 @@
 #!/bin/bash
 
-#num = $1
-
 for type in delex notdelex
 do
 for num in 1 2 3

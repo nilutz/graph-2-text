@@ -37,7 +37,7 @@ def main(topdir = '../data/data-football/delex_', predfile = 'delexicalized_pred
         
         relex_sents.append(' '.join(relex_sentence))
 
-    outfileName = 'relexicalised_predictions_'+parts[-1].split('.')[0]+'.txt'
+    outfileName = 'relexicalised_predictions_'+parts[-2]+parts[-1].split('.')[0]+'.txt'
     with open( str(topdir / outfileName), 'w+', encoding='utf8') as f:
         f.write(''.join(relex_sents) ) 
 
