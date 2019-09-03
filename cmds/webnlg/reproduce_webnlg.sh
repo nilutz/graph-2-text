@@ -8,21 +8,17 @@ python3 ../../train.py -data ../../data/webnlg_delex_1 -save_model ../../data/we
 #translate
 python3 ../../translate.py -model ../../data/webnlg_delex_${num}_notembd*e30.pt -data_type gcn -src ../../data/data-webnlg/test-webnlg-all-delex-src-nodes.txt -tgt ../../data/data-webnlg/test-webnlg-all-delex-tgt.txt -src_label ../../data/data-webnlg/test-webnlg-all-delex-src-labels.txt -src_node1 ../../data/data-webnlg/test-webnlg-all-delex-src-node1.txt -src_node2 ../../data/data-webnlg/test-webnlg-all-delex-src-node2.txt -output ../../data/data-webnlg/delexicalized_predictions_test_${num}.txt -replace_unk
 
-
 #relex
 python3 ../../webnlg_eval_scripts/webnlg_gcnonmt_relexicalise.py -i ../../data/data-webnlg/webnlg/ -f ../../data/data-webnlg/delexicalized_predictions_test_${num}.txt -c seen -p test -g _${num}
 
-#Bleu
+#BLEU
 ../../webnlg_eval_scripts/calculate_bleu_dev_input.sh relexicalised_predictions_${num}.txt
-
 
 #scripts for meteor and ter files
 python3 ../../webnlg_eval_scripts/metrics.py --td ../../data/data-webnlg/ --pred relexicalised_predictions_${num}.txt --p test
 
-#TER
+#TER produces files out_{num}.txt with TER data
 java -jar ../../eval_tools/tercom-master/tercom-0.10.0.jar -h ../../data/data-webnlg/relexicalised_predictions_${num}-ter.txt -r ../../data/data-webnlg/test-all-notdelex-refs-ter.txt > out_${num}.txt
-
-
 
 done
 
