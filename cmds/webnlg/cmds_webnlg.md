@@ -93,7 +93,16 @@ python3 train.py -data data/webnlg_delex_1 -save_model data/webnlg_delex_4_notem
 python3 translate.py -model data/webnlg_delex_4_notembd_gates*e30.pt -data_type gcn -src data/data-webnlg/test-webnlg-all-delex-src-nodes.txt -tgt data/data-webnlg/test-webnlg-all-delex-tgt.txt -src_label data/data-webnlg/test-webnlg-all-delex-src-labels.txt -src_node1 data/data-webnlg/test-webnlg-all-delex-src-node1.txt -src_node2 data/data-webnlg/test-webnlg-all-delex-src-node2.txt -output data/data-webnlg/delexicalized_predictions_test.txt -replace_unk -verbose -report_bleu 
 
 
-BLEU = 50.72, 82.4/61.7/47.8/37.9 (BP=0.921, ratio=0.924, hyp_len=19972, ref_len=21618)
+
+#BLEU
+
+(env) ➜  webnlg git:(master) ✗ ../../webnlg_eval_scripts/calculate_bleu_dev_input.sh relexicalised_predictions_1.txt
+BLEU = 51.71, 83.0/61.9/47.9/37.8 (BP=0.936, ratio=0.938, hyp_len=20110, ref_len=21439)
+(env) ➜  webnlg git:(master) ✗ ../../webnlg_eval_scripts/calculate_bleu_dev_input.sh relexicalised_predictions_2.txt
+BLEU = 51.41, 83.1/62.2/48.2/38.2 (BP=0.926, ratio=0.928, hyp_len=19469, ref_len=20972)
+(env) ➜  webnlg git:(master) ✗ ../../webnlg_eval_scripts/calculate_bleu_dev_input.sh relexicalised_predictions_3.txt
+BLEU = 51.64, 84.1/63.4/49.2/38.9 (BP=0.914, ratio=0.917, hyp_len=19544, ref_len=21306)
+
 
 
 # more metrics

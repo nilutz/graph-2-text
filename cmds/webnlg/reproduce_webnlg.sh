@@ -11,6 +11,10 @@ python3 ../../translate.py -model ../../data/webnlg_delex_${num}_notembd*e30.pt 
 
 #relex
 python3 ../../webnlg_eval_scripts/webnlg_gcnonmt_relexicalise.py -i ../../data/data-webnlg/webnlg/ -f ../../data/data-webnlg/delexicalized_predictions_test_${num}.txt -c seen -p test -g _${num}
+
+#Bleu
+../../webnlg_eval_scripts/calculate_bleu_dev_input.sh relexicalised_predictions_${num}.txt
+
 done
 
 #calculate Bleu and AVG with delexicalized_predictions_test_${num}.txt
