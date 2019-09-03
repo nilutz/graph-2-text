@@ -116,3 +116,12 @@ java -jar eval_tools/tercom-master/tercom-0.10.0.jar -h data/data-webnlg/relexic
 Total TER: 0.4431343687119099 (10392.0/23451.12619047618)
 Total TER: 0.448336677505487 (10514.0/23451.12619047618)
 Total TER: 0.43793205991833284 (10270.0/23451.12619047618)
+
+
+## METEOR
+
+java -Xmx2G -jar ../../eval_tools/meteor-master/meteor-1.6.jar relexicalised_predictions_${num}.txt ../../data/data-webnlg/test-all-notdelex-refs-meteor.txt -r 8 -l en
+
+Final score:            0.36117193517709545
+Final score:            0.3545615501024446
+Final score:            0.36009462333668324

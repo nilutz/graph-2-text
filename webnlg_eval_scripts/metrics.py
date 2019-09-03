@@ -1,7 +1,7 @@
 import os, argparse, sys
 
 
-def prepare_files_ter(inputdir, predsFile, partition):
+def prepare_files_ter(inputdir, l, partition):
     """
     Generate files for METEOR and TER input.
     :param inputdir: directory with bleu files
