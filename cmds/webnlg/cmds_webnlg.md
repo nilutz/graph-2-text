@@ -70,7 +70,7 @@ need to setup with dynamic_dict params
     ## results
 
         cd data/data-webnlg/
-        python3 ../../webnlg_eval_scripts/webnlg_gcnonmt_relexicalise.py -i ./webnlg/ -f ../data-webnlg/delexicalized_predictions_test.txt -c seen -p test
+        python3 ../../webnlg_eval_scripts/webnlg_gcnonmt_relexicalise.py -i ./webnlg/ -f ../data-webnlg/delexicalized_predictions_test_1.txt -c seen -p test -gpuid 1
 
         ../../webnlg_eval_scripts/calculate_bleu_dev.sh #!look it the script make sure you compare to test not dev
 
