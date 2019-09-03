@@ -37,7 +37,7 @@ def prepare_files_ter(inputdir, predsFile, partition):
 
     # prepare generated hypotheses
     #with open('relexicalised_predictions.txt', 'r') as f:
-    with open(inputdir + predsFile, 'r') as f:
+    with open( predsFile, 'r') as f:
         geners = [line.strip() + ' (id' + str(i) + ')\n' for i, line in enumerate(f)]
     #with open('relexicalised_predictions-ter.txt', 'w+') as f:
     with open(inputdir + predsFile.replace('.txt','-ter.txt'), 'w+') as f:

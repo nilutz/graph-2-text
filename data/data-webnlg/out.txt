@@ -1,7 +1,0 @@
-** IOError 
-** IOError 
-java.io.FileNotFoundException: hyp.txt (No such file or directory)
-"hyp.txt" was successfully parsed as Trans text
-java.io.FileNotFoundException: ref.txt (No such file or directory)
-"ref.txt" was successfully parsed as Trans text
-** Warning: XML ouput may not have correct doc id for Trans format inputs

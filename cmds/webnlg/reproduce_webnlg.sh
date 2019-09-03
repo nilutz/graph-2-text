@@ -15,6 +15,13 @@ python3 ../../webnlg_eval_scripts/webnlg_gcnonmt_relexicalise.py -i ../../data/d
 #Bleu
 ../../webnlg_eval_scripts/calculate_bleu_dev_input.sh relexicalised_predictions_${num}.txt
 
+
+#scripts for meteor and ter files
+python3 ../../webnlg_eval_scripts/metrics.py --td ../../data/data-webnlg/ --pred relexicalised_predictions_${num}.txt --p test
+
+#TER
+java -jar ../../eval_tools/tercom-master/tercom-0.10.0.jar -r ../../data/data-webnlg/relexicalised_predictions_${num}-ter.txt -h ../../data/data-webnlg/test-all-notdelex-refs-ter.txt > out_${num}.txt
+
 done
 
 #calculate Bleu and AVG with delexicalized_predictions_test_${num}.txt

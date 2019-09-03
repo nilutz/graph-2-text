@@ -198,6 +198,8 @@ def relexicalise(predfile, rplc_list, fileid, part='dev', lowercased=True):
     with open(part+'-all-notdelex-source.triple', 'r') as f:
         triples = [line.strip() for line in f]
     outfileName =   'relexicalised_predictions.txt'
+
+    print(fileid)
     if fileid:
         outfileName = 'relexicalised_predictions'+str(fileid)+'.txt'
     with open(outfileName, 'w+', encoding='utf8') as f:
