@@ -111,4 +111,8 @@ BLEU = 51.64, 84.1/63.4/49.2/38.9 (BP=0.914, ratio=0.917, hyp_len=19544, ref_len
 
 python3 webnlg_eval_scripts/metrics.py --td data/data-webnlg/ --pred data/data-webnlg/relexicalised_predictions.txt --p test
 
-java -jar eval_tools/tercom-master/tercom-0.10.0.jar -r data/data-webnlg/relexicalised_predictions-ter.txt -h test-all-notdelex-refs-ter.txt > out.txt
+java -jar eval_tools/tercom-master/tercom-0.10.0.jar -h data/data-webnlg/relexicalised_predictions-ter.txt -r test-all-notdelex-refs-ter.txt > out.txt
+
+Total TER: 0.4431343687119099 (10392.0/23451.12619047618)
+Total TER: 0.448336677505487 (10514.0/23451.12619047618)
+Total TER: 0.43793205991833284 (10270.0/23451.12619047618)

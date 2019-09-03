@@ -20,7 +20,9 @@ python3 ../../webnlg_eval_scripts/webnlg_gcnonmt_relexicalise.py -i ../../data/d
 python3 ../../webnlg_eval_scripts/metrics.py --td ../../data/data-webnlg/ --pred relexicalised_predictions_${num}.txt --p test
 
 #TER
-java -jar ../../eval_tools/tercom-master/tercom-0.10.0.jar -r ../../data/data-webnlg/relexicalised_predictions_${num}-ter.txt -h ../../data/data-webnlg/test-all-notdelex-refs-ter.txt > out_${num}.txt
+java -jar ../../eval_tools/tercom-master/tercom-0.10.0.jar -h ../../data/data-webnlg/relexicalised_predictions_${num}-ter.txt -r ../../data/data-webnlg/test-all-notdelex-refs-ter.txt > out_${num}.txt
+
+
 
 done
 

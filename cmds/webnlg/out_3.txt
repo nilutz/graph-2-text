@@ -1,5 +1,5 @@
-"../../data/data-webnlg/test-all-notdelex-refs-ter.txt" was successfully parsed as Trans text
 "../../data/data-webnlg/relexicalised_predictions_3-ter.txt" was successfully parsed as Trans text
+"../../data/data-webnlg/test-all-notdelex-refs-ter.txt" was successfully parsed as Trans text
 ** Warning: XML ouput may not have correct doc id for Trans format inputs
 Processing id0:1
 Processing id1:1
@@ -972,7 +972,7 @@ Processing id967:1
 Processing id968:1
 Processing id969:1
 Processing id970:1
-Total TER: 0.6418338108882522 (12544.0/19544.0)
-Number of calls to beam search: 34826
-Number of segments scored: 971
-Number of shifts tried: 33855
+Total TER: 0.43793205991833284 (10270.0/23451.12619047618)
+Number of calls to beam search: 72117
+Number of segments scored: 2497
+Number of shifts tried: 69620

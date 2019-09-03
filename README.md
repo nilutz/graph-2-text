@@ -136,6 +136,7 @@ and there you have the BLEU score.
 # eval dep
 * https://www.cs.cmu.edu/~alavie/METEOR/README.html
 * http://www.cs.umd.edu/~snover/pub/amta06/ter_amta.pdf
+* https://github.com/jhclark/tercom
 
 # Ideas / Todo
 * BPE
