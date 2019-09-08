@@ -76,16 +76,6 @@ need to setup with dynamic_dict params
 
 
 
-=> this works as epected now:
-
-# RESULTS
-
-BLEU = 52.57, 85.3/64.8/50.7/40.4 (BP=0.906, ratio=0.910, hyp_len=19266, ref_len=21168)
-BLEU = 52.71, 84.7/64.3/50.2/40.0 (BP=0.916, ratio=0.920, hyp_len=19289, ref_len=20972)
-BLEU = 52.72, 84.4/64.2/49.9/39.4 (BP=0.923, ratio=0.926, hyp_len=19383, ref_len=20939)
-
-
-
 # TRY gates
 
 python3 train.py -data data/webnlg_delex_1 -save_model data/webnlg_delex_4_notembd_gates -rnn_size 256 -word_vec_size 256 -layers 1 -epochs 30 -optim adam -learning_rate 0.001 -encoder_type gcn -gcn_num_inputs 256 -gcn_num_units 256 -gcn_in_arcs -gcn_out_arcs -gcn_num_layers 4 -gcn_num_labels 5 -tensorboard -gpuid 0 -model_name webnlg_delex_4_notembd_gates -gcn_residual residual -seed 44 -gcn_use_gates
@@ -96,7 +86,8 @@ python3 translate.py -model data/webnlg_delex_4_notembd_gates*e30.pt -data_type 
 
 #BLEU
 
-(env) ➜  webnlg git:(master) ✗ ../../webnlg_eval_scripts/calculate_bleu_dev_input.sh relexicalised_predictions_1.txt
+../../webnlg_eval_scripts/calculate_bleu_dev_input.sh relexicalised_predictions_1.txt
+
 BLEU = 51.71, 83.0/61.9/47.9/37.8 (BP=0.936, ratio=0.938, hyp_len=20110, ref_len=21439)
 (env) ➜  webnlg git:(master) ✗ ../../webnlg_eval_scripts/calculate_bleu_dev_input.sh relexicalised_predictions_2.txt
 BLEU = 51.41, 83.1/62.2/48.2/38.2 (BP=0.926, ratio=0.928, hyp_len=19469, ref_len=20972)
@@ -108,6 +99,7 @@ BLEU = 51.64, 84.1/63.4/49.2/38.9 (BP=0.914, ratio=0.917, hyp_len=19544, ref_len
 # more metrics
 
 ## TER
+[TER](https://github.com/jhclark/tercom)
 
 python3 webnlg_eval_scripts/metrics.py --td data/data-webnlg/ --pred data/data-webnlg/relexicalised_predictions.txt --p test
 
@@ -119,9 +111,11 @@ Total TER: 0.43793205991833284 (10270.0/23451.12619047618)
 
 
 ## METEOR
+[METEOR](https://www.cs.cmu.edu/~alavie/METEOR/README.html)
 
 java -Xmx2G -jar ../../eval_tools/meteor-master/meteor-1.6.jar relexicalised_predictions_${num}.txt ../../data/data-webnlg/test-all-notdelex-refs-meteor.txt -r 8 -l en
 
 Final score:            0.36117193517709545
 Final score:            0.3545615501024446
 Final score:            0.36009462333668324
+
