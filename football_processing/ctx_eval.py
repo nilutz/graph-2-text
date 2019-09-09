@@ -14,9 +14,10 @@ def filterSignificantVerbs(doc):
     rootV = None
     verbs = []
     for token in doc:
-        if token.dep_ in ('ROOT'):
+        if token.dep_ == 'ROOT':
+            print('ROOT',token)
             rootV = token
-        if token.pos_ in ('VERB'):
+        if token.pos_ == 'VERB':
             verbs.append(token)
 
     return rootV, verbs
@@ -39,36 +40,59 @@ def main(predfile = '', refile ='', outfile= 'ctx_eval_out'):
 
     assert len(predictions) == len(references), 'length of predictions and references do not match'
 
-    nlp = load_nlp()
+    #nlp = load_nlp()
 
     scores = []
+
+    words = []
 
     for pred, refs in zip(predictions, references):
 
         score = 0
         pred_doc = nlp(pred)
         refs_doc = nlp(refs)
+        
+
 
         pred_root, pred_verbs = filterSignificantVerbs(pred_doc)
         refs_root, refs_verbs = filterSignificantVerbs(refs_doc)
+        
+        print('p=>', pred_doc, '=>',pred_root, pred_verbs)
+        print('r=>', refs_doc, '=>',refs_root, refs_verbs)
 
-        if pred_root.lemma_ == refs_root.lemma_:
-            score += 50
+        if pred_root.lemma_ == refs_root.lemma_: #same lemma and ROOT 
+            score += 5
+        
+        if pred_root.text == refs_root.text: #same ROOT and TENSE -> best case
+            score += 45
 
-        if len(pred_verbs) == len(refs_verbs):
-            score += 50
-
+        if len(pred_verbs) == len(refs_verbs): #same number of verbs
+            score += 5
+            nomatch = set(pred_verbs) & set(refs_verbs) #all are the same -> best case
+            if len(nomatch) == 0:
+                score += 45
+        else:
+            rv = [r.text for r in refs_verbs]
+            for p in pred_verbs:
+                print(p)
+                if p.text in rv: #get score of if at least some preds are corrects
+                    score +=5 
+                
         scores.append(score)
+        words.append([str(score), pred_root.text, refs_root.text ])
 
     final_score = mean(scores)
     final_std = stdev(scores)
 
     with open( str(outfile) , 'w+') as f:
         for s in scores:
-            f.write(str(s))
-    print('CTX', final_score, '+-',final_std)
+            f.write(str(s)+'\n')
 
+    with open( str(outfile).replace('.txt', '_details.txt') , 'w+') as f:
+        for w in words:                
+            f.write(' '.join(w)+'\n')
 
+    print('CTX mean score:', final_score, '+-',final_std)
 
 if __name__ == "__main__":
     plac.call(main)

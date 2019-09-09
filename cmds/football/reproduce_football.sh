@@ -20,6 +20,10 @@ python ../../football_processing/relex.py -t ../../data/data-football/${type}_ -
 
 if [${type} == delex]
 then #delex
+
+#make fake files
+#python3 ../../translate.py -model ../../data/football_delex_1_ctx*e30.pt -data_type gcn -src ../../data/data-football/delex_/test_fake-data-football-gcn-delex-src-nodes.txt -tgt ../../data/data-football/delex_/test_fake-data-football-gcn-delex-tgt.txt -src_label ../../data/data-football/delex_/test_fake-data-football-gcn-delex-src-labels.txt -src_node1 ../../data/data-football/delex_/test_fake-data-football-gcn-delex-src-node1.txt -src_node2 ../../data/data-football/delex_/test_fake-data-football-gcn-delex-src-node2.txt -src_ctx ../../data/data-football/delex_/test_fake-data-football-gcn-delex-context.txt -output ../../data/data-football/delex_/delexicalized_predictions_test_fake_1.txt -context -replace_unk
+
 sh ../../football_processing/calculate_bleu.sh ../../data/data-football/delex_/test-data-football-gcn-delex.reference  ../../data/data-football/delex_/relexicalised_predictions_test_${num}.txt 
 
 #metrics
