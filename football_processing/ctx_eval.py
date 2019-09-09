@@ -27,8 +27,9 @@ def filterSignificantVerbs(doc):
     predfile = ('name of predfile', 'option', "p", Path),
     refile = ('path to ref file', 'option', 'r', Path),
     outfile = ('path to ouful', 'option', 'o', Path)
+    fakefile = ('path to fake predictions', 'options', 'f', Path)
 )
-def main(predfile = '', refile ='', outfile= 'ctx_eval_out'):
+def main(predfile = '', refile ='', outfile= 'ctx_eval_out', fakefile = ''):
 
     predictions = []
     with open( str(predfile) , 'r') as f:
@@ -37,6 +38,13 @@ def main(predfile = '', refile ='', outfile= 'ctx_eval_out'):
     references = []
     with open( str(refile) , 'r') as f:
         references = [line for line in f]
+    
+    fakes = []
+    if fakefile != '':
+        with open( str(fakefile) , 'r') as f:
+            fakes = [line for line in f]
+    else:
+        fakes = ['_' for _ in predictions] #init empty
 
     assert len(predictions) == len(references), 'length of predictions and references do not match'
 
@@ -46,19 +54,24 @@ def main(predfile = '', refile ='', outfile= 'ctx_eval_out'):
 
     words = []
 
-    for pred, refs in zip(predictions, references):
+    for pred, refs in zip(predictions, references, fakes):
 
         score = 0
         pred_doc = nlp(pred)
         refs_doc = nlp(refs)
+        fakes_doc = nlp(fakes)
         
 
 
         pred_root, pred_verbs = filterSignificantVerbs(pred_doc)
         refs_root, refs_verbs = filterSignificantVerbs(refs_doc)
-        
+        fakes_root, fakes_verbs = filterSignificantVerbs(fakes_doc)
+
+
         print('p=>', pred_doc, '=>',pred_root, pred_verbs)
         print('r=>', refs_doc, '=>',refs_root, refs_verbs)
+        print('f=>', fakes_doc, '=>',fakes_root, fakes_verbs)
+
 
         if pred_root.lemma_ == refs_root.lemma_: #same lemma and ROOT 
             score += 5
