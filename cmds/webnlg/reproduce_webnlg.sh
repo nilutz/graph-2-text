@@ -22,6 +22,6 @@ java -jar ../../eval_tools/tercom-master/tercom-0.10.0.jar -h ../../data/data-we
 
 
 #METEOR
-java -Xmx2G -jar ../../eval_tools/meteor-master/meteor-1.6.jar relexicalised_predictions_${num}.txt ../../data/data-webnlg/test-all-notdelex-refs-meteor.txt -r 8 -l en -norm
+java -Xmx2G -jar ../../eval_tools/meteor-master/meteor-1.6.jar ../../data/data-webnlg/relexicalised_predictions_${num}.txt ../../data/data-webnlg/test-all-notdelex-refs-meteor.txt -r 8 -l en -norm
 
 done

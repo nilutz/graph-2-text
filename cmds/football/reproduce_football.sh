@@ -16,12 +16,30 @@ python3 ../../translate.py -model ../../data/football_${type}_${num}_ctx*e30.pt 
 python ../../football_processing/relex.py -t ../../data/data-football/${type}_ -p delexicalized_predictions_test_${num}.txt
 
 #BLEU
-#delex
 #sh ../../football_processing/calculate_bleu.sh ../../data/data-football/${type}_/test-data-football-gcn-${type}.reference  ../../data/data-football/${type}_/relexicalised_predictions_test_${num}.txt 
 
-#notedelx
-#sh ../../football_processing/calculate_bleu.sh ../../data/data-football/${type}_/test-data-football-gcn-${type}-tgt.txt ../../data/data-football/${type}_/delexicalized_predictions_test_${num}.txt
+if [${type} == delex]
+then #delex
+sh ../../football_processing/calculate_bleu.sh ../../data/data-football/delex_/test-data-football-gcn-delex.reference  ../../data/data-football/delex_/relexicalised_predictions_test_${num}.txt 
+
+#metrics
+python ../../football_processing/metrics.py -t ../../data/data-football/${type}_/ -p relexicalised_predictions_test_${num}.txt -r test-data-football-gcn-delex.reference
+
+
+else #notedelex
+sh ../../football_processing/calculate_bleu.sh ../../data/data-football/${type}_/test-data-football-gcn-${type}-tgt.txt ../../data/data-football/${type}_/delexicalized_predictions_test_${num}.txt
+
+#metrics
+python ../../football_processing/metrics.py -t ../../data/data-football/${type}_/ -p relexicalised_predictions_test_${num}.txt -r test-data-football-gcn-${type}-tgt.txt
+
+
+fi
+
+#TER produces files out_{num}.txt with TER data
+java -jar ../../eval_tools/tercom-master/tercom-0.10.0.jar -h ../../data/data-football/${type}/relexicalised_predictions_test_${num}-ter.txt -r ../../data/data-football/${type}/test_${num}-all-notdelex-refs-ter.txt > out_ter_${type}_${num}.txt
+
+#METEOR
+java -Xmx2G -jar ../../eval_tools/meteor-master/meteor-1.6.jar ../../data/data-football/${type}/relexicalised_predictions_test_${num}.txt ../../data/data-football/${type}/test_${num}-all-notdelex-refs-meteor.txt -r 8 -l de -norm
 
 done
 done
-
