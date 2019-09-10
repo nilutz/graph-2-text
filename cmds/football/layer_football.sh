@@ -11,3 +11,4 @@ python ../../football_processing/relex.py -t ../../data/data-football/delex_ -p 
 
 #BLEU
 sh ../../football_processing/calculate_bleu.sh ../../data/data-football/delex_/test-data-football-gcn-delex.reference  ../../data/data-football/delex_/relexicalised_predictions_layer_${num}.txt > out_layer_bleu_${num}
+done
