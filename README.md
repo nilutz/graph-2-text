@@ -151,5 +151,5 @@ the /cmds folder provides sh script running the above command in order with corr
 ](https://arxiv.org/abs/1707.02633)
 * [Deep Graph Convolutional Encoders for Structured Data to Text Generation](http://aclweb.org/anthology/W18-6501) -> [code](https://github.com/diegma/graph-2-text)
 * [ONMT-py](https://github.com/OpenNMT/OpenNMT-py/tree/master/onmt)
-* [METEOR] (https://www.cs.cmu.edu/~alavie/METEOR/README.html)
+* [METEOR](https://www.cs.cmu.edu/~alavie/METEOR/README.html)
 * [TER](https://github.com/jhclark/tercom)

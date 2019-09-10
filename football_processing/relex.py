@@ -5,15 +5,16 @@ import json
 @plac.annotations(
     topdir = ("dir to predfile", "option", "t", Path),
     predfile = ('name of predfile', 'option', "p", Path),
+    ref = ('ref file ', 'option', 'r', str)
 )
-def main(topdir = '../data/data-football/delex_', predfile = 'delexicalized_predictions_test.txt', out = 'relex_predictions_test.txt'):
+def main(topdir = '../data/data-football/delex_', predfile = 'delexicalized_predictions_test.txt', out = 'relex_predictions_test.txt', ref ='test-data-football-gcn-delex.relex'):
 
     with open( str(topdir / predfile) , 'r') as f:
         predictions = [line for line in f]
 
     parts = predfile.parts[0].split('_')
 
-    with open( str(topdir /'test-data-football-gcn-delex.relex'), 'r') as f:
+    with open( str(topdir / ref), 'r') as f:
         relex = [json.loads(line) for line in f]
     
     relex_sents = []

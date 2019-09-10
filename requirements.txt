@@ -6,3 +6,4 @@ networkx
 pandas
 plac
 torch==0.3.1
+spacy

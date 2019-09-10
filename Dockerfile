@@ -106,6 +106,12 @@ RUN APT_INSTALL="apt-get install -y --no-install-recommends" && \
     apt-get autoremove && \
     rm -rf /var/lib/apt/lists/* /tmp/* ~/*
 
+RUN python3 -m spacy download de_core_news_md
+
+RUN git clone https://github.com/DuyguA/DEMorphy
+RUN $PIP_INSTALL ~/DEMorphy
+RUN wget https://github.com/DuyguA/DEMorphy/blob/master/demorphy/data/words.dg
+RUN cp words.dg /env/lib/python3.6/site-packages/demorphy/data 
 
 
 EXPOSE 8888
