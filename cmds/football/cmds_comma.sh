@@ -11,6 +11,8 @@
 # 	-valid_node1 data/data-football/delex_comma_/dev-data-football-gcn-delex_comma-src-node1.txt \
 # 	-valid_node2 data/data-football/delex_comma_/dev-data-football-gcn-delex_comma-src-node2.txt \
 # 	-valid_tgt data/data-football/delex_comma_/dev-data-football-gcn-delex_comma-tgt.txt \
+#	-train_ctx data/data-football/delex_comma_/train-data-football-gcn-delex_comma-context.txt \
+#	-valid_ctx data/data-football/delex_comma_/dev-data-football-gcn-delex_comma-context.txt \
 # 	-save_data data/football_delex_comma_1 -src_vocab_size 5000 -tgt_vocab_size 5000 -data_type gcn 
 
 for type in delex_comma
