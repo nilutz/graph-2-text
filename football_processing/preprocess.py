@@ -219,6 +219,8 @@ def preprocess_triples(df, options, classtype = '', ctx = True):
 
         if val == True and key != "notdelex":
             optionals += '_'+key
+
+
     p = '../data/' + dataset +'/'+optionals+'_'+classtype
 
     for split in ('train', 'dev', 'test', 'test_fake'):
@@ -377,6 +379,14 @@ def main(path = "../data/data-football/sentences_full_notdelex.pkl", ctx=False, 
             options['notdelex'] = True
         if 'lower' in p:
             options['lower'] = True
+
+    parts = path.parts[-1].split('_')
+    print(parts)
+    for p in parts:
+        if 'comma' in p:
+            options['comma'] = True
+        if 'fre' in p:
+            options['fre'] = True
     print(options)
 
     
