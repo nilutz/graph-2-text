@@ -22,14 +22,14 @@ Clone and cd into directory. We use docker that installs all requirements in a d
 
 	make run_gpu
 
-# Reproducing the original Webnlg Experiment
+# Reproducing the original WebNLG Task
 read the 
 
 	README-original.md
 
-and run the commands
+and run the commands or go to cmds/webnlg to run an sh script running all in order
 
-# Football Data Experiment
+# Football Task
 
 ## Prepare data
 Run [data-extractor]() and get a sentences_full_{not}delex.pkl file and put it in data/data-football/, then for generating the input:
@@ -106,37 +106,39 @@ Generate with obtained model
 
 	python3 translate.py -model data/football_delex_1_ctx*e30.pt -data_type gcn -src data/data-football/delex_/test-data-football-gcn-delex-src-nodes.txt -tgt data/data-football/delex_/test-data-football-gcn-delex-tgt.txt -src_label data/data-football/delex_/test-data-football-gcn-delex-src-labels.txt -src_node1 data/data-football/delex_/test-data-football-gcn-delex-src-node1.txt -src_node2 data/data-football/delex_/test-data-football-gcn-delex-src-node2.txt -src_ctx data/data-football/delex_/test-data-football-gcn-delex-context.txt -output data/data-football/delex_/delexicalized_predictions_test1.txt -context -replace_unk -verbose -report_bleu 
 
-#### Also test with test_fake
-we just flip the classes here:
-
+ => Also test with test_fake
 	
-
-#### more params
-add the following to get more statistic
-	
-	-report_bleu
-	-report_rouge
-	
-# Postprocessing
+## Postprocessing
 if you've trained with *delex* you need to relex the Entity Desriptions to effectivly compare to the reference
 
-	python relex.py 
+	python ../../football_processing/relex.py -t ../../data/data-football/${type}_ -p delexicalized_predictions_test_${num}.txt
 
 creates relexicalised_predictions_test.txt
 
-# EVAL
-to compare go into folder
+## EVAL
+For evaluation cd in football_preprocessing and run a preprocessing script.
 
-	cd data/data-football/delex_
+	python metrics.py -t ../data/data-football/${type}_/ -p relexicalised_predictions_test_${num}.txt -r test-data-football-gcn-delex.reference
 
-	../../../football_processing/calculate_bleu.sh
 
-and there you have the BLEU score.
+### BLEU
+	sh football_processing/calculate_bleu.sh ../data/data-football/delex_/test-data-football-gcn-delex.reference  ../data/data-football/delex_/relexicalised_predictions_test_${num}.txt > out_bleu_${type}_${num}.txt
 
-# eval dep
-* https://www.cs.cmu.edu/~alavie/METEOR/README.html
-* http://www.cs.umd.edu/~snover/pub/amta06/ter_amta.pdf
-* https://github.com/jhclark/tercom
+
+### METEOR
+	java -Xmx2G -jar ../../eval_tools/meteor-master/meteor-1.6.jar ../../data/data-football/${type}/relexicalised_predictions_test_${num}.txt ../../data/data-football/${type}/test_${num}-all-notdelex-refs-meteor.txt -r 8 -l de -norm
+
+### TER
+	java -jar ../../eval_tools/tercom-master/tercom-0.10.0.jar -h ../../data/data-football/${type}/relexicalised_predictions_test_${num}-ter.txt -r ../../data/data-football/${type}/test_${num}-all-notdelex-refs-ter.txt > out_ter_${type}_${num}.txt
+
+### CTXE
+	python3 ../../football_processing/ctx_eval.py -p ../../data/data-football/${type}_/relexicalised_predictions_fake_${num}.txt -r ../../data/data-football/${type}_/test-data-football-gcn-${type}-tgt.txt -o ../../data/data-football/${type}/ctx_eval_${num}.txt -f ../../data/data-football/${type}_/relexicalised_predictions_fake_${num}.txt -c ../../data/data-football/${type}_/test-data-football-gcn-delex-context.txt -x ../../data/data-football/${type}_/test_fake-data-football-gcn-delex-context.txt
+
+
+# CMDS
+the /cmds folder provides sh script running the above command in order with correct type and numbering, for both webnlg and football tasks.
+
+
 
 # Ideas / Todo
 * BPE
@@ -145,8 +147,9 @@ and there you have the BLEU score.
 * https://github.com/huggingface/transfer-learning-conv-ai/blob/master/interact.py
 
 # References
-
 * [Controlling Linguistic Style Aspects in Neural Language Generation
 ](https://arxiv.org/abs/1707.02633)
 * [Deep Graph Convolutional Encoders for Structured Data to Text Generation](http://aclweb.org/anthology/W18-6501) -> [code](https://github.com/diegma/graph-2-text)
 * [ONMT-py](https://github.com/OpenNMT/OpenNMT-py/tree/master/onmt)
+* [METEOR] (https://www.cs.cmu.edu/~alavie/METEOR/README.html)
+* [TER](https://github.com/jhclark/tercom)
