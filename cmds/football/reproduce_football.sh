@@ -13,7 +13,7 @@ python3 ../../train.py -data ../../data/football_${type}_ctx_1 -save_model ../..
 python3 ../../translate.py -model ../../data/football_${type}_${num}_ctx*e30.pt -data_type gcn -src ../../data/data-football/${type}_/test-data-football-gcn-${type}-src-nodes.txt -tgt ../../data/data-football/${type}_/test-data-football-gcn-${type}-tgt.txt -src_label ../../data/data-football/${type}_/test-data-football-gcn-${type}-src-labels.txt -src_node1 ../../data/data-football/${type}_/test-data-football-gcn-${type}-src-node1.txt -src_node2 ../../data/data-football/${type}_/test-data-football-gcn-${type}-src-node2.txt -src_ctx ../../data/data-football/${type}_/test-data-football-gcn-${type}-context.txt -output ../../data/data-football/${type}_/delexicalized_predictions_test_${num}.txt -context -replace_unk
 
 #relex
-python ../../football_processing/relex.py -t ../../data/data-football/${type}_ -p delexicalized_predictions_test_${num}.txt
+python ../../football_processing/relex.py -t ../../data/data-football/${type}_ -p delexicalized_predictions_test_${num}.txt -r test-data-football-gcn-${type}.relex
 
 #BLEU
 #sh ../../football_processing/calculate_bleu.sh ../../data/data-football/${type}_/test-data-football-gcn-${type}.reference  ../../data/data-football/${type}_/relexicalised_predictions_test_${num}.txt 
@@ -29,10 +29,10 @@ then #delex
 #make fake files
 #python3 ../../translate.py -model ../../data/football_delex_1_ctx*e30.pt -data_type gcn -src ../../data/data-football/delex_/test_fake-data-football-gcn-delex-src-nodes.txt -tgt ../../data/data-football/delex_/test_fake-data-football-gcn-delex-tgt.txt -src_label ../../data/data-football/delex_/test_fake-data-football-gcn-delex-src-labels.txt -src_node1 ../../data/data-football/delex_/test_fake-data-football-gcn-delex-src-node1.txt -src_node2 ../../data/data-football/delex_/test_fake-data-football-gcn-delex-src-node2.txt -src_ctx ../../data/data-football/delex_/test_fake-data-football-gcn-delex-context.txt -output ../../data/data-football/delex_/delexicalized_predictions_test_fake_1.txt -context -replace_unk
 
-sh ../../football_processing/calculate_bleu.sh ../../data/data-football/delex_/test-data-football-gcn-delex.reference  ../../data/data-football/delex_/relexicalised_predictions_test_${num}.txt > out_bleu_${type}_${num}.txt
+sh ../../football_processing/calculate_bleu.sh ../../data/data-football/delex_/test-data-football-gcn-${type}.reference  ../../data/data-football/delex_/relexicalised_predictions_test_${num}.txt > out_bleu_${type}_${num}.txt
 
 #metrics
-python ../../football_processing/metrics.py -t ../../data/data-football/${type}_/ -p relexicalised_predictions_test_${num}.txt -r test-data-football-gcn-delex.reference
+python ../../football_processing/metrics.py -t ../../data/data-football/${type}_/ -p relexicalised_predictions_test_${num}.txt -r test-data-football-gcn-${type}.reference
 
 #ctxe
 python3 ../../football_processing/ctx_eval.py -p ../../data/data-football/${type}_/relexicalised_predictions_fake_${num}.txt -r ../../data/data-football/${type}_/test-data-football-gcn-delex.reference -o ../../data/data-football/${type}/ctx_eval_${num}.txt -f ../../data/data-football/${type}_/relexicalised_predictions_fake_${num}.txt -c ../../data/data-football/${type}_/test-data-football-gcn-delex-context.txt -x ../../data/data-football/${type}_/test_fake-data-football-gcn-delex-context.txt

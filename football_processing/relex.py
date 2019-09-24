@@ -30,11 +30,14 @@ def main(topdir = '../data/data-football/delex_', predfile = 'delexicalized_pred
             if token.isupper() and token in rel.keys():
                 if len(rel[token])>=1:
                     i = nexti[token] % len(rel[token])
-                    relex_sentence.append(rel[token][i])
+                    #relex_sentence.append(rel[token][i])
+                    relex_sentence.append(rel[token])
+
                     nexti[token] += 1
                 else:
                     if len(rel[token]) > 0:
-                        relex_sentence.append(rel[token][0])
+                        #relex_sentence.append(rel[token][0])
+                        relex_sentence.append(rel[token])
             else:
                 relex_sentence.append(token)
         

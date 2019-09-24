@@ -40,6 +40,8 @@ Run [data-extractor]() and get a sentences_full_{not}delex.pkl file and put it i
 
 	python preprocess.py -c -f -p ../data/data-football/sentences_full_delex_attr_postfix.pkl
 
+	python preprocess.py -c -f -p ../data/data-football/sentences_full_delex_attr.pkl
+
 
 ## Preprocess
 This generates the vocab and torchtext iterators
