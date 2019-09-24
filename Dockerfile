@@ -6,7 +6,7 @@
 # pytorch       latest (pip)
 # ==================================================================
 
-FROM ubuntu:18.04
+#FROM ubuntu:18.04
 FROM nvidia/cuda:9.0-cudnn7-devel-ubuntu16.04
 
 
@@ -108,10 +108,10 @@ RUN APT_INSTALL="apt-get install -y --no-install-recommends" && \
 
 RUN python3 -m spacy download de_core_news_md
 
-#RUN git clone https://github.com/DuyguA/DEMorphy
-#RUN $PIP_INSTALL ~/DEMorphy
-#RUN wget https://github.com/DuyguA/DEMorphy/blob/master/demorphy/data/words.dg
-#RUN cp words.dg /env/lib/python3.6/site-packages/demorphy/data 
+RUN git clone https://github.com/DuyguA/DEMorphy ~/DEMorphy
+RUN $PIP_INSTALL ~/DEMorphy
+RUN wget https://github.com/DuyguA/DEMorphy/blob/master/demorphy/data/words.dg
+RUN cp words.dg /env/lib/python3.6/site-packages/demorphy/data 
 
 
 EXPOSE 8888
