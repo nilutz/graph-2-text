@@ -44,14 +44,20 @@ def genMultiGraph(DG, verbose=False):
 
         subjNodeDescendants = []
         objNodeDescendants = []
-        subjNode = subj[0]
+        try:
+            subjNode = subj[0]
+        except:
+            print('Empty subj', subj)
+            continue
         if len(subj) > 1:
             subjNodeDescendants = subj[1:]
-        objNode = obj[0]
+        try:
+            objNode = obj[0]
+        except:
+            print('Empty obj', obj)
+            continue
         if len(obj):
-            objNodeDescendants = obj[1:
-
-                                 ]
+            objNodeDescendants = obj[1:]
         if not subjNode in srcNodes:
             srcNodes.append(subjNode)
         srcNodes.append(rel)
@@ -109,7 +115,7 @@ def check_upper(s):
     else:
         return s
     
-def preprocess_triples(df, options, classtype = '', ctx = True):
+def preprocess_triples(df, options, classtype = '', ctx = True, verbose = False):
     '''
     reads in the texts and triples in different options
     and transforms into the parametrization proposed by Marcheggiani and Titov
@@ -178,17 +184,16 @@ def preprocess_triples(df, options, classtype = '', ctx = True):
                 triplesString += tripleSep + triple[0] + '|' + triple[1] + '|' + triple[2] + ' '
             tripleSep = "<TSP>"
         
-        source_nodes, source_edges = genMultiGraph(DG)
+        source_nodes, source_edges = genMultiGraph(DG, verbose=verbose)
         
         source_nodes_out.append(source_nodes)
         source_edges_out_labels.append(source_edges[0])
         source_edges_out_node1.append(source_edges[1])
         source_edges_out_node2.append(source_edges[2])
         target_out.append(text)
-        out_src = ' '.join(re.split('(\W)', triplesString))
+        out_src = ' '.join(re.split(r'(\W)', triplesString))
         source_out.append(' '.join(out_src.split()))
         
-
         if ctx:
             context.append(df.at[i,'class'])
 
@@ -365,8 +370,9 @@ def split_to_csv(p, dataset = 'football', options='', ctx = False):
     path = ("path to df for preprocessing", "option", "p", Path),
     ctx = ('Also process context',"flag", 'c' ),
     full = ('Full df or split by class', "flag", "f"),
+    verbose = ('verbose mode', 'flag', 'v')
 )
-def main(path = "../data/data-football/sentences_full_notdelex.pkl", ctx=False, full = False):
+def main(path = "../data/data-football/sentences_full_notdelex.pkl", ctx=False, full = False, verbose = False):
 
     #we inspect the path to find out what options we have here
     parts = path.parts[-1].split('_')
@@ -379,14 +385,18 @@ def main(path = "../data/data-football/sentences_full_notdelex.pkl", ctx=False, 
             options['notdelex'] = True
         if 'lower' in p:
             options['lower'] = True
+        if 'attr' in p: 
+            options['attr'] = True
+        if 'postfix' in p :
+            options['postfix'] = True
 
-    parts = path.parts[-1].split('_')
-    print(parts)
-    for p in parts:
-        if 'comma' in p:
-            options['comma'] = True
-        if 'fre' in p:
-            options['fre'] = True
+    #parts = path.parts[-1].split('_')
+    #print(parts)
+    #for p in parts:
+    #    if 'comma' in p:
+    #        options['comma'] = True
+    #    if 'fre' in p:
+    #        options['fre'] = True
     print(options)
 
     
@@ -404,14 +414,14 @@ def main(path = "../data/data-football/sentences_full_notdelex.pkl", ctx=False, 
         df1.reset_index(inplace=True, drop=True)
         df2.reset_index(inplace=True, drop=True)
 
-        p, options, dataset = preprocess_triples(df1, options=options, classtype='ticker', ctx=ctx)
+        p, options, dataset = preprocess_triples(df1, options=options, classtype='ticker', ctx=ctx, verbose=verbose)
         split_to_csv(p, dataset=dataset, options=options, ctx=ctx)
         
-        p, options, dataset = preprocess_triples(df2, options=options, classtype='report', ctx=ctx)
+        p, options, dataset = preprocess_triples(df2, options=options, classtype='report', ctx=ctx, verbose=verbose)
         split_to_csv(p, dataset=dataset, options=options, ctx=ctx)
 
     else:
-        p, options, dataset  = preprocess_triples(df, options=options, ctx=ctx)
+        p, options, dataset  = preprocess_triples(df, options=options, ctx=ctx, verbose=verbose)
         split_to_csv(p, dataset=dataset, options=options, ctx=ctx)
 
     #makes. train/val/test split an saves to .txt file
