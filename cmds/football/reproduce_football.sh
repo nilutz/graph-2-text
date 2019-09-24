@@ -1,9 +1,9 @@
 #!/bin/bash
 
-for type in delex notdelex
+for type in delex_attr_postfix notdelex_attr_postfix
 do
 
-for num in 1 2 3
+for num in 1 #2 3
 do
 #train
 
@@ -23,7 +23,7 @@ python ../../football_processing/relex.py -t ../../data/data-football/${type}_ -
 python3 ../../translate.py -model ../../data/football_${type}_${num}_ctx*e30.pt -data_type gcn -src ../../data/data-football/${type}_/test_fake-data-football-gcn-${type}-src-nodes.txt -tgt ../../data/data-football/${type}_/test_fake-data-football-gcn-${type}-tgt.txt -src_label ../../data/data-football/${type}_/test_fake-data-football-gcn-${type}-src-labels.txt -src_node1 ../../data/data-football/${type}_/test_fake-data-football-gcn-${type}-src-node1.txt -src_node2 ../../data/data-football/${type}_/test_fake-data-football-gcn-${type}-src-node2.txt -src_ctx ../../data/data-football/${type}_/test_fake-data-football-gcn-${type}-context.txt -output ../../data/data-football/${type}_/delexicalized_predictions_test_fake_${num}.txt -context -replace_unk
 python3 ../../football_processing/relex.py -t ../../data/data-football/${type}_ -p delexicalized_predictions_test_fake_${num}.txt
 
-if [${type} == delex]
+if [${type} == delex_attr_postfix]
 then #delex
 
 #make fake files
