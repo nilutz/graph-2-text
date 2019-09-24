@@ -13,7 +13,6 @@ torchaudio==0.3.0
 spacy==2.1.8
 plac==0.9.6
 networkx==2.3
-demorphy==1.0
 numpy==1.17.0
 pandas==0.25.0
 opts==0.1.1
