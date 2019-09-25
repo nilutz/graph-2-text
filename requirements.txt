@@ -1,9 +1,4 @@
-six
-tqdm
-future
-torchtext==0.2.1
 numpy==1.17.0
-torch==0.3.1
 torchvision==0.1.8
 librosa==0.7.0
 Pillow==6.1.0
@@ -11,10 +6,11 @@ cupy==6.3.0
 pynvrtc==9.2
 torchaudio==0.3.0
 spacy==2.1.8
-plac==0.9.6
-networkx==2.3
-numpy==1.17.0
+six
+tqdm
+torchtext==0.2.1
+future
+networkx
 pandas
-opts
-preprocess
-utils
+plac
+torch==0.3.1
