@@ -33,7 +33,7 @@ python3 ../../football_processing/ctx_eval.py -p ../../data/data-football/${type
 java -jar ../../eval_tools/tercom-master/tercom-0.10.0.jar -h ../../data/data-football/${type}_/relexicalised_predictions_test_${num}-ter.txt -r ../../data/data-football/${type}_/test_${num}-all-notdelex-refs-ter.txt > out_ter_${type}_${num}.txt
 
 #METEOR
-java -Xmx2G -jar ../../eval_tools/meteor-master/meteor-1.6.jar ../../data/data-football/${type}_/relexicalised_predictions_test_${num}.txt ../../data/data-football/${type}_/test_${num}-all-notdelex-refs-meteor.txt -r 8 -l de -norm
+java -Xmx2G -jar ../../eval_tools/meteor-master/meteor-1.6.jar ../../data/data-football/${type}_/relexicalised_predictions_test_${num}.txt ../../data/data-football/${type}_/test_${num}-all-notdelex-refs-meteor.txt -r 8 -l de -norm > out_meteor_${type}_${num}.txt
 
 
 done
