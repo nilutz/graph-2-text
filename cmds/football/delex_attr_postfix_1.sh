@@ -2,7 +2,7 @@
 
 for type in delex_attr_postfix
 do
-for num in 1
+for num in 1 2 3
 do
 
 #train
@@ -27,13 +27,13 @@ sh ../../football_processing/calculate_bleu.sh ../../data/data-football/${type}_
 python ../../football_processing/metrics.py -t ../../data/data-football/${type}_/ -p relexicalised_predictions_test_${num}.txt -r test-data-football-gcn-${type}.reference
 
 #ctxe
-python3 ../../football_processing/ctx_eval.py -p ../../data/data-football/${type}_/relexicalised_predictions_fake_${num}.txt -r ../../data/data-football/${type}_/test-data-football-gcn-${type}.reference -o ../../data/data-football/${type}_/ctx_eval_${num}.txt -f ../../data/data-football/${type}_/relexicalised_predictions_fake_${num}.txt -c ../../data/data-football/${type}_/test-data-football-gcn-${type}-context.txt -x ../../data/data-football/${type}_/test_fake-data-football-gcn-${type}-context.txt
+#python3 ../../football_processing/ctx_eval.py -p ../../data/data-football/${type}_/relexicalised_predictions_fake_${num}.txt -r ../../data/data-football/${type}_/test-data-football-gcn-${type}.reference -o ../../data/data-football/${type}_/ctx_eval_${num}.txt -f ../../data/data-football/${type}_/relexicalised_predictions_fake_${num}.txt -c ../../data/data-football/${type}_/test-data-football-gcn-${type}-context.txt -x ../../data/data-football/${type}_/test_fake-data-football-gcn-${type}-context.txt
 
 #TER produces files out_ter_{type}_{num}.txt with TER data
-java -jar ../../eval_tools/tercom-master/tercom-0.10.0.jar -h ../../data/data-football/${type}_/relexicalised_predictions_test_${num}-ter.txt -r ../../data/data-football/${type}_/test_${num}-all-notdelex-refs-ter.txt > out_ter_${type}_${num}.txt
+#java -jar ../../eval_tools/tercom-master/tercom-0.10.0.jar -h ../../data/data-football/${type}_/relexicalised_predictions_test_${num}-ter.txt -r ../../data/data-football/${type}_/test_${num}-all-notdelex-refs-ter.txt > out_ter_${type}_${num}.txt
 
 #METEOR
-java -Xmx2G -jar ../../eval_tools/meteor-master/meteor-1.6.jar ../../data/data-football/${type}_/relexicalised_predictions_test_${num}.txt ../../data/data-football/${type}_/test_${num}-all-notdelex-refs-meteor.txt -r 8 -l de -norm > out_meteor_${type}_${num}.txt
+#java -Xmx2G -jar ../../eval_tools/meteor-master/meteor-1.6.jar ../../data/data-football/${type}_/relexicalised_predictions_test_${num}.txt ../../data/data-football/${type}_/test_${num}-all-notdelex-refs-meteor.txt -r 8 -l de -norm > out_meteor_${type}_${num}.txt
 
 
 done
