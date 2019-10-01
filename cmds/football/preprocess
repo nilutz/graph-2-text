@@ -1,13 +1,13 @@
-python preprocess.py -train_src data/data-football/notdelex_attr_postfix_/train-data-football-gcn-notdelex_attr_postfix-src-nodes.txt \
-	-train_label data/data-football/notdelex_attr_postfix_/train-data-football-gcn-notdelex_attr_postfix-src-labels.txt \
-	-train_node1 data/data-football/notdelex_attr_postfix_/train-data-football-gcn-notdelex_attr_postfix-src-node1.txt \
-	-train_node2 data/data-football/notdelex_attr_postfix_/train-data-football-gcn-notdelex_attr_postfix-src-node2.txt \
-	-train_tgt data/data-football/notdelex_attr_postfix_/train-data-football-gcn-notdelex_attr_postfix-tgt.txt \
-	-valid_src data/data-football/notdelex_attr_postfix_/dev-data-football-gcn-notdelex_attr_postfix-src-nodes.txt \
-	-valid_label data/data-football/notdelex_attr_postfix_/dev-data-football-gcn-notdelex_attr_postfix-src-labels.txt \
-	-valid_node1 data/data-football/notdelex_attr_postfix_/dev-data-football-gcn-notdelex_attr_postfix-src-node1.txt \
-	-valid_node2 data/data-football/notdelex_attr_postfix_/dev-data-football-gcn-notdelex_attr_postfix-src-node2.txt \
-	-valid_tgt data/data-football/notdelex_attr_postfix_/dev-data-football-gcn-notdelex_attr_postfix-tgt.txt \
-	-train_ctx data/data-football/notdelex_attr_postfix_/train-data-football-gcn-notdelex_attr_postfix-context.txt \
-	-valid_ctx data/data-football/notdelex_attr_postfix_/dev-data-football-gcn-notdelex_attr_postfix-context.txt \
-	-save_data data/football_notdelex_attr_postfix_ctx_1 -src_vocab_size 5005 -tgt_vocab_size 5005 -data_type gcn 
+python preprocess.py -train_src data/data-football/notdelex_attr_/train-data-football-gcn-notdelex_attr-src-nodes.txt \
+	-train_label data/data-football/notdelex_attr_/train-data-football-gcn-notdelex_attr-src-labels.txt \
+	-train_node1 data/data-football/notdelex_attr_/train-data-football-gcn-notdelex_attr-src-node1.txt \
+	-train_node2 data/data-football/notdelex_attr_/train-data-football-gcn-notdelex_attr-src-node2.txt \
+	-train_tgt data/data-football/notdelex_attr_/train-data-football-gcn-notdelex_attr-tgt.txt \
+	-valid_src data/data-football/notdelex_attr_/dev-data-football-gcn-notdelex_attr-src-nodes.txt \
+	-valid_label data/data-football/notdelex_attr_/dev-data-football-gcn-notdelex_attr-src-labels.txt \
+	-valid_node1 data/data-football/notdelex_attr_/dev-data-football-gcn-notdelex_attr-src-node1.txt \
+	-valid_node2 data/data-football/notdelex_attr_/dev-data-football-gcn-notdelex_attr-src-node2.txt \
+	-valid_tgt data/data-football/notdelex_attr_/dev-data-football-gcn-notdelex_attr-tgt.txt \
+	-train_ctx data/data-football/notdelex_attr_/train-data-football-gcn-notdelex_attr-context.txt \
+	-valid_ctx data/data-football/notdelex_attr_/dev-data-football-gcn-notdelex_attr-context.txt \
+	-save_data data/football_notdelex_attr_ctx_1 -src_vocab_size 5005 -tgt_vocab_size 5005 -data_type gcn 

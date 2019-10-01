@@ -36,11 +36,14 @@ Run [data-extractor]() and get a sentences_full_{not}delex.pkl file and put it i
 	
 	cd football_processing
 
-	#python preprocess.py -c -f -p ../data/data-football/sentences_full_notdelex.pkl
+	python preprocess.py -c -f -p ../data/data-football/sentences_full_notdelex_attr.pkl
+
+	python preprocess.py -c -f -p ../data/data-football/sentences_full_notdelex_attr_postfix.pkl
+
+	python preprocess.py -c -f -p ../data/data-football/sentences_full_delex_attr.pkl
 
 	python preprocess.py -c -f -p ../data/data-football/sentences_full_delex_attr_postfix.pkl
 
-	python preprocess.py -c -f -p ../data/data-football/sentences_full_delex_attr.pkl
 
 
 ## Preprocess
