@@ -1,0 +1,261 @@
+PLAYER | schlenzen | Leder < TSP > PLAYER | schlenzen | unhaltbar < TSP > PLAYER | schlenzenIns | Eck < TSP > Eck | attr | linke < TSP > Eck | attr | untere
+PLAYER | ziehenAus | Metern < TSP > Metern | attr | 18 < TSP > Metern | attr | zentraler < TSP > Position | hat | Metern < TSP > PLAYER | donnern | Ball < TSP > PLAYER | donnern | Winkel
+PLAYER | treffenAus | Metern < TSP > Metern | attr | 16 < TSP > PLAYER | treffenIn | Maschen < TSP > Maschen | attr | SCORE < TSP > PLAYER | lässt | PER < TSP > PLAYER | lässtMit | Haken < TSP > Haken | attr | einfachen < TSP > PLAYER | lässt | PER < TSP > PLAYER | treffen | flach < TSP > PLAYER | lässt | stehen
+PLAYER | schießenIn | Eck < TSP > Eck | attr | rechte < TSP > PLAYER | bleiben | cool
+Vorlagengeber | sein | ASSIST < TSP > ASSIST | sein | Vorlagengeber
+ASSIST | bedienen | PLAYER < TSP > ASSIST | arbeiten | sich
+KEEPER | fangen | Ecke < TSP > KEEPER | leiten | schnell < TSP > KEEPER | leitenAuf | ASSIST
+PLAYER | hat | Lieblingsbeschäftigung < TSP > PLAYER | legenFür | Lieblingsbeschäftigung < TSP > PLAYER | legen | entfernt < TSP > entfernt | attr | rund < TSP > PLAYER | legen | sich < TSP > Freistoß | hat | Lieblingsbeschäftigung < TSP > PLAYER | legen | Ball
+ASSIST | ziehenNach | Zuspiel < TSP > ASSIST | flanken | präzise < TSP > ASSIST | ziehen | locker < TSP > ASSIST | flankenNach | innen < TSP > ASSIST | ziehenÜber | Seite < TSP > Seite | attr | rechte < TSP > PER | hat | Zuspiel < TSP > ASSIST | ziehenAm | KEEPER < TSP > KEEPER | attr | herauskommenden < TSP > ASSIST | flankenZu | PLAYER
+PLAYER | springenIm | Zentrum < TSP > PLAYER | nickenZum | SCORE < TSP > PLAYER | springen | beherzt
+ASSIST | finden | PLAYER < TSP > ASSIST | findenIn | Position < TSP > Position | attr | zentraler < TSP > ASSIST | findenNach | Dribbling < TSP > Dribbling | attr | feinem
+PLAYER | drückenAus | Distanz < TSP > Distanz | attr | kürzester < TSP > PLAYER | stehen | goldrichtig < TSP > PLAYER | drückenÜber | Linie < TSP > PLAYER | drücken | Kugel < TSP > PLAYER | drückenPer | Kopf
+PLAYER | bestrafen | Nachlässigkeit < TSP > Nachlässigkeit | attr | TEAM
+PLAYER | stehenNach | Zuspiel < TSP > ASSIST | hat | Zuspiel < TSP > PLAYER | stehenVon | Seite < TSP > Seite | attr | linken
+ASSIST | steckenAuf | rechts < TSP > ASSIST | steckenAuf | PLAYER < TSP > PLAYER | attr | durchstartenden
+PER | schickenAuf | Außenbahn < TSP > Außenbahn | attr | linken < TSP > PER | schicken | ASSIST < TSP > PER | leiten | PER
+PLAYER | zwirbelnÜber | Mauer < TSP > PLAYER | zwirbeln | Ball < TSP > PLAYER | zwirbelnIns | Eck < TSP > Eck | attr | lange < TSP > Ball | über | Mauer
+PLAYER | bedankenMit | Linksschuss < TSP > Linksschuss | attr | satten < TSP > Linksschuss | attr | SCORE < TSP > PLAYER | bedankenAus | Metern < TSP > Metern | attr | 16 < TSP > PLAYER | bedanken | sich
+PER | legenFür | PLAYER < TSP > PER | [ neg ] können | klären < TSP > PER | legen | unfreiwillig
+PLAYER | stellenAuf | SCORE < TSP > PLAYER | stellenMit | Schrägschuss < TSP > Schrägschuss | attr | fulminanten < TSP > PLAYER | stellenIns | Eck < TSP > Eck | attr | lange
+PER | legen | Ball < TSP > PER | legenNach | rechts < TSP > PER | legenFür | ASSIST
+PLAYER | machen | PLAYER
+PER | seinNach | Hereingabe < TSP > Hereingabe | aus | Halbfeld < TSP > Halbfeld | attr | rechten < TSP > PER | seinAm | Pfosten < TSP > Pfosten | attr | zweiten < TSP > Hereingabe | durch | ASSIST < TSP > PLAYER | seinNach | Hereingabe < TSP > PLAYER | seinAm | Pfosten < TSP > Pfosten | attr | zweiten
+PER | hat | Weiterleitung < TSP > PLAYER | seinAm | Ball < TSP > PLAYER | seinÜber | Weiterleitung < TSP > PER | hat | Kopfball < TSP > PLAYER | seinÜber | Kopfball < TSP > ASSIST | hat | Weiterleitung
+PER | bedienen | ASSIST < TSP > PER | bedienenMit | Hacke
+PER | marschierenAuf | Seite < TSP > Seite | attr | linken < TSP > PER | nehmen | ASSIST
+PLAYER | machenVor | SCORE < TSP > PLAYER | hat | Fehlschuss < TSP > PLAYER | machen | gut < TSP > PLAYER | machen | Fehlschuss
+PLAYER | nehmen | geschickt < TSP > PLAYER | nehmenMit | Hüfte < TSP > PLAYER | nehmen | Ball
+das | gelingenMit | Torannäherung < TSP > Torannäherung | attr | ersten < TSP > TEAM | hat | Torannäherung
+PLAYER | haltenAm | Elfmeterpunkt < TSP > PLAYER | jagenIns | Eckige < TSP > PLAYER | jagen | Runde
+PLAYER | überwinden | PER < TSP > PLAYER | überwindenMit | Schuss < TSP > Schuss | ins | Torwarteck < TSP > PLAYER | marschierenIn | Fünfer
+Hereingabe | nehmen | direkt < TSP > Hereingabe | treffenAus | Metern < TSP > Metern | attr | 13 < TSP > Hereingabe | treffenIns | Eck < TSP > Eck | attr | linke < TSP > Eck | attr | untere < TSP > Hereingabe | nehmen | PLAYER < TSP > PER | hat | Hereingabe < TSP > Hereingabe | attr | flache
+PLAYER | muss | einschieben
+ASSIST | ziehenIn | Mitte < TSP > ASSIST | ziehenVon | rechts < TSP > ASSIST | stecken | klug < TSP > ASSIST | steckenAuf | PLAYER
+PLAYER | treffen | locker < TSP > PLAYER | treffenAus | Metern < TSP > Metern | attr | 13 < TSP > PLAYER | treffenIns | Netz < TSP > PLAYER | bedanken | sich
+ASSIST | bekommenVon | KEEPER < TSP > KEEPER | hat | Ball < TSP > ASSIST | flankenNach | innen < TSP > Einwurf | von | links < TSP > ASSIST | bekommenBei | Einwurf < TSP > ASSIST | bekommen | Ball
+Schuss | werden | abgefälscht < TSP > Schuss | springenIns | Tor < TSP > PLAYER | hat | Schuss < TSP > Schuss | springenVom | Querbalken
+PLAYER | vollenden | freistehend < TSP > PLAYER | vollendenIn | Mitte < TSP > PLAYER | vollendenIns | Tor < TSP > Tor | attr | leere
+ASSIST | zirkelnIn | Strafraum < TSP > ASSIST | zirkeln | Ecke < TSP > Ecke | von | rechts
+Schürle | schickenIn | Gasse < TSP > Schürle | ziehenVon | links < TSP > Schürle | schicken | PLAYER < TSP > Schürle | ziehenNach | innen
+ASSIST | heben | Kopf < TSP > ASSIST | sehen | PER < TSP > ASSIST | sehenVor | Tor < TSP > ASSIST | sehenAm | PLAYER < TSP > PLAYER | attr | zweiten < TSP > ASSIST | sehenAm | Pfosten < TSP > Pfosten | attr | zweiten
+PLAYER | werden | geschickt < TSP > PLAYER | werdenVon | ASSIST < TSP > PLAYER | knallenMit | rechts < TSP > PLAYER | knallenAus | Distanz < TSP > Distanz | attr | kurzer < TSP > Distanz | unter | Latte
+PLAYER | verzichten | auf < TSP > PLAYER | verzichten | aus
+es | seinFür | PLAYER < TSP > Tor | im | Trikot
+PLAYER | brauchen | einzuschieben
+PLAYER | treffenIn | Ecke < TSP > Ecke | attr | rechte < TSP > PLAYER | treffenAus | Metern < TSP > Metern | attr | elf
+PLAYER | lässt | Chance < TSP > Schuss | aus | Metern < TSP > PLAYER | lässt | PER < TSP > PLAYER | lässtMit | Schuss
+PLAYER | feuern | präzise < TSP > PLAYER | hat | Landsmann < TSP > PLAYER | bleiben | cool < TSP > PLAYER | feuernIns | Eck < TSP > Eck | attr | rechte < TSP > Eck | attr | untere < TSP > PLAYER | bleibenGegen | Landsmann < TSP > Landsmann | attr | Schweizer < TSP > PLAYER | feuern | Leder
+PLAYER | kommen | angeflogen < TSP > PLAYER | drückenIm | Fallen < TSP > Fallen | über | Linie < TSP > PLAYER | drücken | Ball
+PLAYER | jagenIn | Maschen < TSP > PLAYER | jagen | Ball < TSP > PLAYER | jagen | rechts
+PLAYER | seinNach | Zuspiel < TSP > Zuspiel | attr | weiten < TSP > PLAYER | seinAuf | Seite < TSP > Seite | attr | linken
+PLAYER | weiß | PLAYER < TSP > PLAYER | weiß | nutzen
+ASSIST | gewinnen | Bodenduell < TSP > ASSIST | gewinnenGegen | PER < TSP > ASSIST | gewinnenAn | Seitenlinie
+PLAYER | überraschen | Abwehr
+Tor | für | Profis < TSP > PLAYER | TorFür | Profis < TSP > PLAYER | hat | Tor
+PLAYER | schlenzen | gekonnt < TSP > PLAYER | legenAuf | Linken < TSP > PLAYER | legen | sich < TSP > PLAYER | legen | Ball < TSP > PLAYER | schlenzenIns | Eck < TSP > Eck | attr | lange < TSP > PLAYER | schlenzen | Spielgerät
+PLAYER | stellenAuf | SCORE
+Flanke | werden | abgefälscht < TSP > ASSIST | hat | Flanke
+PLAYER | hat | Füße < TSP > Keeper | schießenVor | Füße < TSP > Keeper | schießen | Leder < TSP > Keeper | schießenIn | Bedrängnis
+PLAYER | haben | Platz < TSP > PLAYER | habenVor | Tor < TSP > Tor | in | Position
+Pferde | gehenMit | PLAYER
+PLAYER | schiebenIns | Tor < TSP > PLAYER | schieben | Ball < TSP > PLAYER | schiebenAus | Entfernung < TSP > Entfernung | attr | kurzer < TSP > PLAYER | lässt | Großchance < TSP > Großchance | attr | zweite
+PLAYER | schiebenIns | Tor < TSP > Tor | attr | leere < TSP > PLAYER | sein | Stelle
+PLAYER | haben | Bahn < TSP > Schuss | aus | Metern
+Stürmer | befördernIns | Toreck < TSP > Toreck | attr | linke < TSP > ASSIST | hat | Flanke < TSP > Stürmer | orientieren | an < TSP > Stürmer | orientieren | geschickt < TSP > Stürmer | befördern | Flanke < TSP > Stürmer | befördernPer | Kopfballaufsetzer < TSP > Stürmer | orientieren | sich
+PLAYER | führen | Angriff < TSP > Angriff | führen | PLAYER < TSP > Angriff | führenZum | Tor < TSP > PLAYER | führenZum | Tor < TSP > TEAM | hat | Angriff < TSP > Angriff | attr | erste
+ASSIST | leiten | Ball < TSP > Tor | mit | Willen < TSP > ASSIST | leiten | zentral < TSP > ASSIST | leitenZu | PLAYER < TSP > ASSIST | leitenVor | Tor
+PLAYER | verwandeln | sicher < TSP > PLAYER | verwandeln | zum
+ASSIST | leitenNach | Einwurf < TSP > ASSIST | leitenZu | PLAYER
+PLAYER | behalten | links < TSP > PLAYER | behaltenIm | Strafraum < TSP > PLAYER | schieben | Führung < TSP > PLAYER | behalten | Ruhe
+ASSIST | legenFür | PLAYER < TSP > ASSIST | legenVor | Strafraum
+PLAYER | fasstAus | Distanz < TSP > PLAYER | werden | behelligt
+PLAYER | spitzelnIns | Netz < TSP > KEEPER | am | Fünfer < TSP > PLAYER | spitzelnAm | Fünfer < TSP > PLAYER | seinIm | Zentrum < TSP > PLAYER | spitzelnVor | KEEPER < TSP > Kugel | vor | KEEPER < TSP > PLAYER | sein | hellwach
+Torwarteck | zum | SCORE < TSP > PLAYER | lässt | Gegenspieler < TSP > PLAYER | lässt | aussteigen < TSP > PLAYER | treffenIns | Torwarteck < TSP > PLAYER | hat | Gegenspieler
+ASSIST | dringenIn | Sechzehner < TSP > ASSIST | dringen | halblinks < TSP > ASSIST | dringenNach | Hin < TSP > ASSIST | dringenNach | Her
+PER | hat | Laufrichtung < TSP > PLAYER | stehlen | sich < TSP > PLAYER | vollendenGegen | Laufrichtung < TSP > Laufrichtung | attr | SCORE < TSP > PLAYER | vollendenAus | Metern < TSP > Metern | attr | sieben < TSP > PLAYER | vollendenMit | Flugkopfball
+ASSIST | findenIn | Mitte < TSP > ASSIST | habenAuf | Bahn < TSP > Bahn | attr | rechten < TSP > ASSIST | haben | Zeit < TSP > Zeit | zum | Flanken < TSP > ASSIST | habenZum | Flanken
+ASSIST | flankenVon | links < TSP > ASSIST | flankenVor | Tor
+PLAYER | behalten | Nerven < TSP > PLAYER | behaltenFrei | frei < TSP > PLAYER | behaltenVor | KEEPER < TSP > PLAYER | behalten | netzt
+PLAYER | ziehenAus | Positon < TSP > Positon | attr | zentraler < TSP > PLAYER | treffenIns | Eck < TSP > Eck | attr | rechte < TSP > PLAYER | treffen | genau
+PLAYER | lassen | unbeachtet < TSP > PLAYER | lassenBei | Ecke
+PLAYER | seinFrei | frei
+PER | spielen | ASSIST < TSP > PER | spielen | ASSIST < TSP > PER | spielenAuf | Seite < TSP > Seite | attr | rechten < TSP > PER | spielenAuf | Seite < TSP > Seite | attr | rechten < TSP > PER | kombinieren | gut < TSP > PER | kombinieren | gut
+PLAYER | schieben | Leder < TSP > PLAYER | schiebenAus | Metern < TSP > Metern | attr | zwölf < TSP > Metern | ins | Toreck
+PLAYER | zirkeln | Toreck < TSP > Toreck | attr | linkes < TSP > Toreck | attr | oberes < TSP > PLAYER | zirkelnÜber | Richtung < TSP > PLAYER | zirkeln | Metern < TSP > Metern | attr | 24 < TSP > PLAYER | zirkelnÜber | Mauer < TSP > PLAYER | zirkelnAus | Position < TSP > Position | attr | halblinker < TSP > PLAYER | zirkeln | Freistoß < TSP > Freistoß | aus | Position < TSP > Tor | mit | rechts < TSP > PLAYER | zirkelnVor | Tor
+PLAYER | schieben | eiskalt < TSP > PLAYER | schiebenIns | Eck < TSP > Eck | attr | linke < TSP > Eck | attr | untere < TSP > PLAYER | schieben | flach < TSP > PLAYER | übernehmen | Verantwortung < TSP > PLAYER | schiebenMit | Rechts < TSP > PLAYER | schieben | Kugel
+ASSIST | dringenIn | selbigen < TSP > ASSIST | tunnelt | PER < TSP > ASSIST | tunneltAm | Strafraum < TSP > ASSIST | tunnelt | rechts
+PLAYER | haben | überreicht < TSP > Coach Hecking | hat | Taktikzettel < TSP > PLAYER | habenVon | Coach Hecking
+Schwede | lässt | TEAM < TSP > ASSIST | hat | Zuspiel < TSP > Schwede | täuschenNach | Zuspiel < TSP > Hereingabe | von | links < TSP > Schwede | täuschen | Hereingabe < TSP > Schwede | lässtIns | Grätschen < TSP > Grätschen | attr | leere
+PLAYER | jagen | satt < TSP > PLAYER | jagen | Elfmeter < TSP > PLAYER | jagenUnter | Querlatte < TSP > PLAYER | übernehmen | Verantwortung
+PLAYER | setzenZu | Flanke < TSP > PLAYER | setzenVom | Sechzehnereck < TSP > Sechzehnereck | attr | rechten
+PLAYER | laufenAuf | KEEPER < TSP > PLAYER | laufenNach | Zuspiel < TSP > Zuspiel | attr | langen < TSP > ASSIST | aus | Hälfte < TSP > Hälfte | attr | eigenen < TSP > ASSIST | hat | Zuspiel < TSP > PLAYER | schieben | Ball < TSP > Duell | mit | Torhüter < TSP > PLAYER | schiebenIm | Duell < TSP > Duell | attr | direkten
+PLAYER | spritzenAus | Winkel < TSP > Winkel | attr | spitzem < TSP > PLAYER | spritzen | Starke
+ASSIST | schickenMit | Ball < TSP > Ball | attr | gefühlvollen < TSP > ASSIST | schicken | ASSIST < TSP > ASSIST | schicken | steil
+ASSIST | passtNach | innen < TSP > ASSIST | haben | Bahn < TSP > ASSIST | passt | flach
+Tick | am | Ball < TSP > ASSIST | hat | Lauf < TSP > Kugel | legenMit | Kopf < TSP > PER | sein | Tick < TSP > Kugel | legen | sich < TSP > PLAYER | sein | PER < TSP > PER | sein | PLAYER < TSP > PLAYER | seinNach | Flugball < TSP > Flugball | attr | langen < TSP > PLAYER | sein | Tick < TSP > Tick | sein | PLAYER < TSP > Flugball | in | Lauf < TSP > Kopf | am | Schlussmann < TSP > Tick | sein | PER < TSP > PLAYER | legenMit | Kopf
+Hintermannschaft | mit | Pass < TSP > Pass | attr | klugen < TSP > ASSIST | filetieren | Hintermannschaft < TSP > Hintermannschaft | attr | TEAM < TSP > ASSIST | filetierenMit | Pass < TSP > Pass | attr | klugen < TSP > ASSIST | filetierenIn | Spitze
+PLAYER | hebenIns | Eck < TSP > Eck | attr | linke < TSP > Fünf | hat | Mann < TSP > PLAYER | heben | Spielgerät < TSP > PLAYER | hebenÜber | Fünf - Mann - Mauer < TSP > PLAYER | führen | tatsächlich
+ASSIST | werden | geschickt < TSP > ASSIST | marschierenIn | Richtung < TSP > ASSIST | werdenAus | Position < TSP > Position | attr | abseitsverdächtiger
+PLAYER | befindenBei | Ablage < TSP > PLAYER | befindenIn | Position < TSP > Position | attr | abseitsverdächtiger < TSP > PLAYER | befinden | PLAYER
+Kugel | in | Uwe - Seeler - Manier < TSP > PLAYER | bugsierenAus | Drehung < TSP > PLAYER | bugsieren | Kugel < TSP > Rücken | in | Maschen < TSP > Uwe | hat | Seeler < TSP > Rücken | zum | Tor < TSP > PLAYER | bugsierenIn | Uwe - Seeler - Manier < TSP > Uwe - Seeler - Manier | attr | bester
+PER | schickenAuf | Seite < TSP > Seite | attr | rechten < TSP > PER | schicken | ASSIST
+PLAYER | schiebenIns | Tor < TSP > Tor | attr | leere < TSP > PLAYER | stehen | goldrichtig
+ASSIST | haben | Platz < TSP > ASSIST | haben | flankt < TSP > Platz | auf | rechts < TSP > flankt | auf | rechts
+PLAYER | wollen | verlängern < TSP > PLAYER | wollen | offenbar
+PLAYER | haben | Bein < TSP > PLAYER | haben | hoch < TSP > hoch | attr | ziemlich < TSP > PLAYER | treffenAm | Kopf
+ASSIST | haben | Überblick
+PLAYER | schnappen | Ball < TSP > PLAYER | jagen | PLAYER < TSP > PLAYER | schnappen | sich < TSP > PLAYER | jagenIns | Eck < TSP > Eck | attr | linke < TSP > PLAYER | jagenMit | Wucht
+Pike | aus | Metern < TSP > PLAYER | vollendenMit | Pike < TSP > PLAYER | vollendenIns | Eck < TSP > Eck | attr | lange
+PLAYER | setzenZum | Solo < TSP > PLAYER | kommenAns | Leder < TSP > PLAYER | kommenIn | Strafraumnähe
+PLAYER | drehen | um < TSP > PLAYER | drehen | sich < TSP > PLAYER | schieben | flach
+PLAYER | nehmen | Ball < TSP > PLAYER | nehmen | halblinks < TSP > PLAYER | nehmenIm | Sechzehner < TSP > PLAYER | nehmenVon | Eckfahne < TSP > PLAYER | nehmenNach | Rechtsflanke
+ASSIST | treiben | Mittelfeld < TSP > ASSIST | steckenAuf | PLAYER < TSP > ASSIST | treiben | Ball < TSP > Ball | durchs | Mittelfeld
+PLAYER | lässt | Abwehrchance < TSP > PLAYER | lässt | PER
+PLAYER | schiebenAus | Position < TSP > Position | attr | zentraler
+PLAYER | könnenNeben | Pfosten < TSP > Pfosten | attr | rechten < TSP > PLAYER | können | vollendet < TSP > PLAYER | könnenMit | Schuss < TSP > Schuss | attr | maßgenauen < TSP > PLAYER | könnenVor | KEEPER < TSP > PLAYER | können | eindringen < TSP > Schuss | neben | Pfosten < TSP > Pfosten | attr | rechten < TSP > PLAYER | könnenIn | Strafraum
+PLAYER | zirkelnÜber | Mauer < TSP > PLAYER | zirkeln | Freistoß < TSP > PLAYER | trittAus | Metern < TSP > Metern | attr | 26 < TSP > PLAYER | zirkeln | wunderbar
+PLAYER | köpfen | gekonnt < TSP > PLAYER | köpfen | Kugel < TSP > PLAYER | köpfenIn | Winkel < TSP > Winkel | attr | rechten
+PLAYER | verarbeiten | Kugel < TSP > PLAYER | schießen | unten < TSP > unten | attr | rechts < TSP > PLAYER | schießenIns | Tor < TSP > PLAYER | schießen | anschließend < TSP > PLAYER | schießen | PLAYER < TSP > PLAYER | verarbeitenMit | Brust
+PLAYER | zielenIns | Eck < TSP > Eck | attr | linke
+PLAYER | treffenIns | Eck < TSP > Eck | attr | linke < TSP > PLAYER | kommenAus | Metern < TSP > Metern | attr | sieben < TSP > Metern | zum | Kopfball < TSP > PLAYER | treffen | präzise
+PER | spielenVon | Seite < TSP > Seite | attr | linken < TSP > Seite | aus | ASSIST < TSP > PER | spielenVor | Strafraum
+ASSIST | hat | Flanke < TSP > PLAYER | stehenNach | Flanke < TSP > PLAYER | stehenVor | Tor < TSP > PLAYER | stehenFrei | frei
+PLAYER | ziehenAuf | KEEPER < TSP > PLAYER | schließen | eiskalt < TSP > PLAYER | ziehenVon | Seite < TSP > Seite | attr | linken < TSP > PLAYER | ziehenFrei | frei
+PLAYER | bugsierenÜber | Linie < TSP > PLAYER | bugsieren | Leder
+PLAYER | verdienenFür | TEAM < TSP > PLAYER | verdienen | SCORE
+PLAYER | drückenÜber | Linie < TSP > PLAYER | drücken | Ball < TSP > PLAYER | drückenMit | Knie < TSP > Knie | attr | rechten < TSP > PLAYER | drückenAus | Metern < TSP > Metern | attr | fünf
+PLAYER | bleiben | trifft < TSP > Elfmeterpunkts | hat | Höhe < TSP > PLAYER | bleibenAuf | Höhe
+ASSIST | schiebenIm | Moment < TSP > Moment | attr | richtigen < TSP > ASSIST | dribbelnAuf | Linie < TSP > Linie | attr | letzte < TSP > ASSIST | schiebenIn | Lauf < TSP > ASSIST | schieben | Ball
+ASSIST | werdenBei | Tempolauf < TSP > Tempolauf | attr | energischen < TSP > ASSIST | werdenVon | PER < TSP > PER | hat | Tempolauf < TSP > ASSIST | werden | gebracht < TSP > ASSIST | werdenZu | Fall
+ASSIST | erobern | Ball < TSP > ASSIST | spielen | Ball < TSP > Ball | attr | lange < TSP > ASSIST | erobernIn | Hälfte < TSP > Hälfte | attr | eigenen < TSP > ASSIST | spielenIn | Lauf < TSP > PLAYER | hat | Lauf
+PLAYER | schieben | humorlos
+PLAYER | brauchen | einzuschieben
+PLAYER | stehenIm | Abseits < TSP > PLAYER | stehen | Meter < TSP > PLAYER | stehen | Abspiel
+ASSIST | schicken | PLAYER
+Schuss | aus | Metern < TSP > Schuss | werden | abgefälscht < TSP > Schuss | werdenVon | PER < TSP > Schuss | gehenIns | Toreck < TSP > Toreck | attr | linke < TSP > Schuss | gehen | unhaltbar < TSP > PLAYER | hat | Schuss < TSP > Schuss | gehenFür | PER
+PLAYER | stellenAuf | SCORE < TSP > PLAYER | stellenAus | Distanz < TSP > Distanz | attr | kurzer < TSP > PLAYER | bedanken | sich
+ASSIST | übernehmen | PER < TSP > ASSIST | übernehmen | Eck < TSP > Eck | attr | auch
+PLAYER | sein | halbrechts < TSP > Ball | aus | Hälfte < TSP > Hälfte | attr | eigenen < TSP > PLAYER | seinFrei | Toreck < TSP > PLAYER | seinNach | Ball < TSP > Ball | attr | wunderbarem < TSP > Ball | attr | langem
+PLAYER | dürfen | sein
+er | setzen | PLAYER < TSP > er | setzenMit | Diagonalpass < TSP > Diagonalpass | attr | tollen < TSP > er | setzenAuf | Seite < TSP > Seite | attr | halbrechten < TSP > er | setzenIn | Szene
+PLAYER | setzen | sich < TSP > PLAYER | setzenGegen | PER < TSP > PLAYER | treffenAus | Winkel < TSP > Winkel | attr | spitzem < TSP > Winkel | attr | SCORE
+PLAYER | ziehenAus | Metern < TSP > Metern | attr | 20 < TSP > Metern | attr | zentraler < TSP > Position | hat | Metern < TSP > PLAYER | ziehen | flach
+PLAYER | verwandeln | links < TSP > PLAYER | verwandeln | oben < TSP > PLAYER | verwandeln | Elfmeter < TSP > PLAYER | [ neg ] lassen | entgehen
+ASSIST | kommenAn | Ball < TSP > Gewühl | am | Strafraumeck < TSP > ASSIST | kommenAus | Gewühl < TSP > ASSIST | steckenFür | PLAYER < TSP > ASSIST | steckenAns | Fünfmetereck < TSP > Fünfmetereck | attr | rechte
+PLAYER | haut | PLAYER < TSP > PLAYER | hautIns | Eck < TSP > Eck | attr | linke < TSP > PLAYER | schnappen | sich < TSP > PLAYER | schnappen | Ball < TSP > Ball | attr | zurückspringenden
+PER | spielenIns | Halbfeld < TSP > Halbfeld | attr | rechte < TSP > PER | hat | Flanke < TSP > PER | spielen | Pass < TSP > PER | spielenZum | ASSIST < TSP > ASSIST | attr | attackierten
+PLAYER | schieben | Ball < TSP > PLAYER | schiebenÜber | Linie < TSP > PLAYER | schiebenAus | Metern < TSP > Metern | attr | fünf
+ASSIST | bittenAuf | Außenbahn < TSP > Außenbahn | attr | linken < TSP > Grundlinie | auf | Pfosten < TSP > Pfosten | attr | zweiten < TSP > ASSIST | bitten | PER < TSP > ASSIST | flankenVon | Grundlinie < TSP > Außenbahn | zum | Tanz
+PLAYER | trittMit | Schuss < TSP > Schuss | ins | Eck
+PLAYER | legen | Treffer < TSP > Treffer | attr | zweiten
+ASSIST | kommenAm | Strafraumrand < TSP > ASSIST | kommenNach | Eckball < TSP > Eckball | attr | folgenden < TSP > ASSIST | kommen | Flanke
+PLAYER | startenIn | Hälfte < TSP > Hälfte | attr | eigenen < TSP > ASSIST | hat | Halbraum < TSP > PLAYER | werdenVon | ASSIST < TSP > PLAYER | werdenÜber | Halbraum < TSP > Halbraum | attr | linken
+ASSIST | servierenAn | Strafraumgrenze < TSP > ASSIST | servieren | Ball < TSP > Ball | vom | Flügel < TSP > ASSIST | servierenMit | Außenrist < TSP > ASSIST | servierenVom | Flügel < TSP > Flügel | attr | linken < TSP > ASSIST | servieren | zentral
+PLAYER | nickenIn | Maschen < TSP > PLAYER | seinIm | Fünfer < TSP > Ball | per | Flugkopfball < TSP > PLAYER | nickenPer | Flugkopfball < TSP > PLAYER | sein | blank
+PLAYER | kommenAus | Metern < TSP > Metern | attr | acht < TSP > PLAYER | kommen | Mal < TSP > Metern | zum | Kopfball
+TEAM | gehenIn | Front < TSP > PLAYER | gehenIn | Front
+PLAYER | schießen | SCORE
+PLAYER | mussÜber | Linie < TSP > PLAYER | mussAus | Distanz < TSP > Distanz | attr | kurzer < TSP > PLAYER | muss | drücken
+PLAYER | zirkelnÜber | Mauer < TSP > PLAYER | zirkeln | Freistoß < TSP > Position | hat | Metern < TSP > PLAYER | zirkelnIns | Eck < TSP > Eck | attr | rechte < TSP > Eck | attr | obere < TSP > PLAYER | zirkelnAus | Metern < TSP > Metern | attr | 18 < TSP > Freistoß | aus | Metern < TSP > Metern | attr | 18 < TSP > PLAYER | zirkeln | wunderschön
+ASSIST | flanken | flach < TSP > ASSIST | flankenVor | Tor < TSP > ASSIST | setzen | gut < TSP > ASSIST | flankenVon | rechts
+ASSIST | treffenVom | Punkt < TSP > Punkt | per | Rechtsschuss
+PLAYER | spekulierenAls | Feldspieler < TSP > Feldspieler | attr | einziger < TSP > PLAYER | spekulierenAuf | Nachschuss
+ASSIST | drehen | Standard < TSP > ASSIST | drehenMit | rechts < TSP > ASSIST | drehenNach | innen < TSP > Standard | von | links
+PER | setzenAuf | Außenbahn < TSP > Außenbahn | attr | rechten < TSP > PER | schlagen | Ball < TSP > Gefahrenzone | auf | ASSIST < TSP > PER | schlagenIn | Gefahrenzone < TSP > PER | setzen | sich
+Ecke | köpfen | PLAYER < TSP > Ecke | köpfenIns | Netz < TSP > Ecke | köpfenVor | KEEPER < TSP > ASSIST | hat | Ecke
+PLAYER | zirkeln | Kugel < TSP > PLAYER | zirkeln | Eck < TSP > Position | hat | Metern < TSP > PLAYER | ziehenAus | Metern < TSP > Metern | attr | 17 < TSP > Metern | attr | rechter
+PLAYER | verschaffenBei | Eckball < TSP > PLAYER | verschaffen | Vorteil < TSP > ASSIST | hat | Eckball < TSP > PLAYER | nickenIns | Eck < TSP > Eck | attr | lange < TSP > PLAYER | verschaffen | sich
+Ablage | [ neg ] vollstreckt | PLAYER < TSP > PLAYER | [ neg ] vollstreckt | Ablage < TSP > PER | hat | Ablage < TSP > PLAYER | [ neg ] vollstrecktOhne | Mühe < TSP > Mühe | attr | große < TSP > Ablage | [ neg ] vollstrecktOhne | Mühe < TSP > Mühe | attr | große
+Latte | hat | Unterkante < TSP > PLAYER | nehmen | Leder < TSP > PLAYER | setzen | Aufsetzer < TSP > PLAYER | setzenAn | Unterkante < TSP > PLAYER | nehmenAus | Metern < TSP > Metern | attr | neun
+PLAYER | schnüren | Doppelpack < TSP > PLAYER | schnürenMit | Sahnetreffer
+ASSIST | bedienenNach | Ball < TSP > Ball | attr | diagonalen < TSP > ASSIST | bedienen | an < TSP > PLAYER | is | ASSIST
+PLAYER | dringenIn | Strafraum < TSP > Metern | in | Winkel < TSP > Winkel | attr | rechten < TSP > PLAYER | knallenMit | links < TSP > PLAYER | dringen | über < TSP > PLAYER | knallen | Ball
+ASSIST | dringenIn | Richtung < TSP > ASSIST | flankenIn | MItte < TSP > ASSIST | flankenMit | Außenrist < TSP > Außenrist | attr | linken
+PLAYER | nehmen | wuchtig < TSP > PLAYER | nageln | Leder < TSP > PLAYER | nagelnVon | halbrechts < TSP > Metern | ins | Eck < TSP > PLAYER | nehmen | Abpraller
+PLAYER | schieben | Kugel < TSP > PLAYER | machen | cool < TSP > PLAYER | schiebenIns | Eck < TSP > Eck | attr | rechte < TSP > PLAYER | machen | es
+ASSIST | legenAuf | PLAYER < TSP > ASSIST | dringen | über < TSP > ASSIST | legenQuer | quer < TSP > Strafraumeck | in | Sechzehner
+PLAYER | vollendenAus | Lage < TSP > Lage | attr | zentraler < TSP > PLAYER | vollenden | souverän < TSP > PLAYER | bedanken | sich
+ASSIST | kommenNach | Aufbauspiel < TSP > Aufbauspiel | attr | klugem < TSP > ASSIST | kommenZum | Flanken < TSP > ASSIST | kommenVon | rechts < TSP > PLAYER | is | Fünfmeterraum < TSP > ASSIST | findenAm | Fünfmeterraum
+PLAYER | befördernIns | Eck < TSP > Eck | attr | lange < TSP > PLAYER | öffnenNach | Rückpass < TSP > PLAYER | befördernMit | Innenrist < TSP > Innenrist | attr | linken < TSP > ASSIST | hat | Rückpass < TSP > PLAYER | befördern | Leder < TSP > PLAYER | öffnen | Fuß < TSP > Rückpass | von | halbrechts
+PLAYER | führen | Standard < TSP > Standard | führen | PLAYER < TSP > Standard | von | rechts
+PLAYER | bereiten | Treffer < TSP > PLAYER | hat | Treffer
+ASSIST | passtIn | Schnittstelle < TSP > ASSIST | lässt | PER < TSP > ASSIST | lässt | stehen < TSP > Schnittstelle | zu | PLAYER < TSP > ASSIST | passt | perfekt
+Rutschen | ins | Tor < TSP > Rutschen | vom | Pfosten < TSP > PLAYER | spitzeln | Tor < TSP > PLAYER | spitzeln | Ball
+PLAYER | werfenIn | Flugbahn < TSP > PLAYER | drücken | PLAYER < TSP > PLAYER | drückenIn | Maschen < TSP > Balles | hat | Flugbahn < TSP > PLAYER | werfen | sich < TSP > PLAYER | werfenIn | Mitte
+PLAYER | schiebenZum | SCORE < TSP > PLAYER | tauchenFrei | frei < TSP > PLAYER | tauchenVor | KEEPER < TSP > PLAYER | schieben | souverän
+' s | klappenIm | Anlauf < TSP > Anlauf | attr | vierten < TSP > ' s | klappenFür | PLAYER
+PLAYER | bringen | TEAM < TSP > PLAYER | bringenMit | Chance < TSP > Chance | attr | ersten < TSP > Chance | attr | wirklichen < TSP > PLAYER | bringenIn | Führung
+PLAYER | leiten | Treffer < TSP > PLAYER | hat | Treffer < TSP > PLAYER | leitenMit | Zuckerpass < TSP > Zuckerpass | auf | ASSIST
+Risiko | donnern | Vollspann < TSP > Risiko | donnern | Kugel < TSP > PLAYER | hat | Risiko < TSP > Risiko | attr | volles < TSP > Risiko | donnernIns | Eck < TSP > Eck | attr | rechte < TSP > Risiko | gehenVor | Tor < TSP > Vollspann | is | Kugel
+PLAYER | schlenzen | Ball < TSP > PLAYER | schlenzenIns | Eck < TSP > Eck | attr | linke < TSP > PLAYER | schelten | schnellsten
+Schweizer | [ neg ] könnenVon | ASSIST < TSP > Schweizer | [ neg ] können | festhalten < TSP > Schweizer | legen | PLAYER < TSP > ASSIST | hat | Flanke < TSP > Schweizer | legen | unfreiwillig < TSP > ASSIST | von | links
+PLAYER | schnappen | Ball < TSP > Ball | attr | abgewehrten < TSP > PLAYER | schießenAufs | Tor < TSP > PLAYER | schießen | mittig < TSP > PLAYER | schießenAus | Metern < TSP > Metern | attr | 25 < TSP > PLAYER | schnappen | sich
+ASSIST | flankenUnweit | Eckfahne < TSP > Eckfahne | attr | linken < TSP > ASSIST | flankenAuf | Pfosten < TSP > Pfosten | attr | kurzen
+Ball | im | Mittelfeld < TSP > PER | erobernIm | Mittelfeld < TSP > PER | erobern | Ball < TSP > PER | setzen | ASSIST
+ASSIST | hat | Freistoß < TSP > PLAYER | nickenMit | Hilfe < TSP > Latte | hat | Unterkante < TSP > Unterkante | hat | Hilfe < TSP > PLAYER | überspringenNach | Freistoß < TSP > ASSIST | von | links
+Treffer | gehenAuf | Konto < TSP > ASSIST | hat | Konto < TSP > Treffer | gehen | Hälfte
+ASSIST | brechenÜber | Flügel < TSP > Flügel | attr | rechten < TSP > ASSIST | flankenNach | innen
+PLAYER | treffenAus | Metern < TSP > Metern | attr | 14 < TSP > Metern | attr | SCORE < TSP > PLAYER | kreuzen | Laufweg
+PLAYER | machenPer | Heber < TSP > PLAYER | machen | perfekt < TSP > PLAYER | hat | Doppelpack < TSP > PLAYER | machen | Doppelpack
+PER | fehlenIn | Zentrum < TSP > TEAM | hat | Zentrum < TSP > PER | verschätzenAuf | Flügel < TSP > Flügel | gegen | ASSIST < TSP > PER | verschätzen | sich
+ASSIST | haben | Platz < TSP > Fuß | is | Ball < TSP > ASSIST | habenIn | Hälfte < TSP > Hälfte | attr | eigenen < TSP > ASSIST | nehmenMit | Ball
+PLAYER | nehmen | Leder < TSP > PLAYER | jagen | hoch < TSP > PLAYER | jagenIn | Ecke < TSP > Ecke | attr | kurze < TSP > PLAYER | nehmen | direkt
+PLAYER | treffenIns | Eck < TSP > Eck | attr | rechte < TSP > PLAYER | treffen | eiskalt
+TEAM | bekommenNach | Flanke < TSP > TEAM | bekommenMit | Mühe < TSP > ASSIST | hat | Flanke < TSP > Ball | am | Fünfer < TSP > TEAM | bekommenAm | Fünfer < TSP > TEAM | bekommenUnter | Kontrolle < TSP > TEAM | bekommen | Ball
+ASSIST | habenIm | Zentrum < TSP > ASSIST | haben | Platz < TSP > Auge | für | PLAYER < TSP > ASSIST | habenFür | PLAYER
+ASSIST | werdenVon | PER < TSP > ASSIST | dringenNach | Solo < TSP > ASSIST | dringenIn | Strafraum < TSP > ASSIST | werdenVon | Beinen < TSP > ASSIST | dringenMit | Tempo
+PER | grätschenVor | Füße < TSP > PER | grätschenVor | Ball < TSP > PER | grätschenVor | PER
+ASSIST | bedienenMit | Vorlage < TSP > Vorlage | attr | perfekten < TSP > ASSIST | bedienen | PLAYER
+Dreier | hat | Mauer < TSP > PLAYER | knallenIns | Eck < TSP > Eck | attr | linke < TSP > PLAYER | knallen | den < TSP > PLAYER | knallenAn | Dreier - Mauer
+Strafraum | am | Ball < TSP > ASSIST | sein | links < TSP > ASSIST | geben | scharf < TSP > ASSIST | gebenIns | Zentrum
+PLAYER | hat | Lauf < TSP > PER | hat | Pass < TSP > ASSIST | leitenVon | PER < TSP > ASSIST | leiten | Pass < TSP > ASSIST | leitenIn | Lauf
+KEEPER | lässtVon | ASSIST < TSP > KEEPER | lässt | abklatschen < TSP > ASSIST | hat | Freistoß
+PER | wehrenVon | ASSIST < TSP > PLAYER | bringenPer | Abstauber < TSP > PER | wehrenNach | vorne < TSP > Abstauber | in | Front < TSP > PER | bringenPer | Abstauber < TSP > PLAYER | bringen | RB < TSP > PER | wehren | Schuss < TSP > Schuss | attr | artistischen < TSP > PER | bringen | RB < TSP > ASSIST | hat | Schuss
+ASSIST | legenFür | PLAYER < TSP > ASSIST | legenNach | Ecke < TSP > Ecke | von | links < TSP > ASSIST | legenIn | Mitte < TSP > ASSIST | legen | unfreiwillig < TSP > unfreiwillig | attr | eher
+ASSIST | spielen | PLAYER < TSP > ASSIST | spielenVor | Tor
+ASSIST | flankenIn | Fünfer < TSP > ASSIST | entwischenAuf | Außenbahn < TSP > Außenbahn | attr | rechten
+PLAYER | legen | Tor
+PLAYER | halten | freistehend < TSP > PLAYER | halten | Fuß < TSP > PLAYER | haltenAus | Distanz < TSP > Distanz | attr | kurzer
+PLAYER | schieben | Leder < TSP > PLAYER | schieben | flach < TSP > PLAYER | schiebenIns | Eck < TSP > Eck | attr | rechte < TSP > Eck | attr | untere
+PER | wollenAus | Mittelfeld < TSP > Mittelfeld | attr | zentralen < TSP > PER | übersehen | PLAYER < TSP > PER | wollen | lassen
+PLAYER | leiten | Angriff < TSP > PLAYER | bedienen | ASSIST < TSP > Angriff | über | links
+PLAYER | haben | einzuschieben < TSP > PLAYER | habenAus | Distanz < TSP > Distanz | attr | kurzer < TSP > Mühe | aus | Distanz
+ASSIST | hat | Ecke < TSP > PLAYER | lenkenIns | Tor < TSP > PLAYER | springenIn | Ecke < TSP > PLAYER | lenken | Ball
+PER | starten | Konter < TSP > Konter | attr | weiteren < TSP > PER | bedienen | ASSIST
+Außenbahn | per | Hacke < TSP > PER | leitenAuf | Außenbahn < TSP > Außenbahn | attr | rechten < TSP > Hacke | auf | ASSIST
+PLAYER | schelten | schnellsten < TSP > PLAYER | schickenMit | Pass < TSP > Pass | attr | feinen < TSP > PLAYER | schicken | ASSIST < TSP > PLAYER | schickenAn | Grundlinie < TSP > PLAYER | scheltenAn | Strafraumgrenze
+PLAYER | lenkenIn | Maschen < TSP > PLAYER | lenken | entscheidend < TSP > entscheidend | attr | noch < TSP > PLAYER | lenken | Ball < TSP > PLAYER | lenkenIm | Fünfer < TSP > Ball | im | Fünfer
+PLAYER | donnernIn | Maschen < TSP > PLAYER | donnern | PLAYER
+PLAYER | hebenMit | Kontakt < TSP > Kontakt | attr | ersten < TSP > PLAYER | heben | gefühlvoll < TSP > PLAYER | hebenIns | Netz < TSP > PLAYER | heben | Kugel < TSP > PLAYER | hebenÜber | Keeper < TSP > PLAYER | tauchenVor | Esser
+PLAYER | schlenzen | Entfernung < TSP > PLAYER | schlenzenIns | Tor < TSP > PLAYER | schlenzen | Ball < TSP > PLAYER | schlenzen | rechts < TSP > Ball | aus | Metern < TSP > Metern | attr | 25 < TSP > PLAYER | schlenzenAus | Metern < TSP > Metern | attr | 25 < TSP > Entfernung | is | Metern < TSP > PLAYER | schlenzen | oben
+ASSIST | spielenIn | Lauf < TSP > Leder | spielenIn | Lauf < TSP > ASSIST | seinAuf | links < TSP > PLAYER | hat | Lauf
+ASSIST | legenIn | Lauf < TSP > PLAYER | hat | Lauf < TSP > ASSIST | legen | Ball < TSP > ASSIST | legenNach | Fehlpass < TSP > PER | hat | Fehlpass
+PER | spielen | ASSIST < TSP > PER | spielenAm | Strafraumeck < TSP > Strafraumeck | attr | rechten
+PER | leisten | Fehler < TSP > Fehler | attr | kapitalen < TSP > Fehler | im | PLAYER < TSP > PER | nutzen | rotzfrech < TSP > PER | leistenIm | PLAYER < TSP > PER | leisten | sich < TSP > Fehler | im | Aufbauspiel < TSP > PER | leistenIm | Aufbauspiel < TSP > PER | nutzen | PLAYER
+TEAM | findenVon | Grundlinie < TSP > TEAM | zögern | kurz < TSP > TEAM | findenAm | Pfosten < TSP > Pfosten | attr | ersten < TSP > TEAM | finden | PLAYER
+PLAYER | kochen | PER < TSP > PER | attr | aussehenden < TSP > PLAYER | schiebenFrei | frei < TSP > PLAYER | kochenMit | Haken < TSP > PLAYER | schiebenIns | Eck < TSP > Eck | attr | rechte < TSP > Eck | attr | untere < TSP > PLAYER | schiebenVor | PER
+ASSIST | übersprintet | rechts < TSP > ASSIST | übersprintetIm | Strafraum < TSP > ASSIST | übersprintet | KEEPER < TSP > ASSIST | übersprintet | PER
+PLAYER | drückenÜber | Linie < TSP > Ball | aus | Nahdistanz < TSP > PLAYER | drückenAus | Nahdistanz < TSP > PLAYER | drücken | Ball < TSP > PLAYER | drückenPer | Kopf
+PER | werdenUnter | Druck < TSP > ASSIST | hat | Beine < TSP > PER | spielenIn | Beine < TSP > PER | werden | gesetzt
+PLAYER | muss | vollenden
+ASSIST | leitenNach | Einwurf < TSP > ASSIST | leitenIn | Mitte
+TEAM | gehenIn | Front
+Metern | in | Maschen < TSP > Kugel | aus | Metern < TSP > Metern | attr | fünf < TSP > PLAYER | köpfenIn | Maschen < TSP > PLAYER | köpfenAus | Metern < TSP > Metern | attr | fünf < TSP > PLAYER | köpfen | Kugel
+PER | legenAuf | ASSIST
+PLAYER | setzenIm | Zentrum < TSP > PLAYER | nickenIn | Maschen < TSP > PLAYER | setzen | sich < TSP > PLAYER | nickenAus | Metern < TSP > Metern | attr | sechs < TSP > PLAYER | im | Luftduell < TSP > PLAYER | setzenMit | PER
+PLAYER | sein | Stelle
+ASSIST | startenNach | Zuspiel < TSP > ASSIST | hat | Zuspiel < TSP > Zuspiel | für | PER < TSP > ASSIST | ZuspielFür | PER < TSP > ASSIST | werdenIm | Strafraum < TSP > ASSIST | werdenMit | Heber < TSP > Heber | attr | glänzenden
+PLAYER | hat | PLAYER < TSP > PLAYER | gehen | gut
+es | seinFür | PLAYER < TSP > PLAYER | hat | Bundesligator
+PLAYER | nickenIns | Eck < TSP > Eck | attr | rechte < TSP > PLAYER | schrauben | sich < TSP > PLAYER | nickenAus | Metern < TSP > Metern | attr | fünf < TSP > PLAYER | schraubenZwischen | PER < TSP > PLAYER | schraubenZwischen | PER
+PLAYER | muss | hinhalten
+PLAYER | treffenGegen | Lieblingsgegner
+PLAYER | behaltenIm | Abschluss < TSP > PLAYER | laufenFrei | frei < TSP > PLAYER | laufenNach | Kopfball < TSP > PLAYER | laufenAuf | PER < TSP > PLAYER | behalten | Ruhe < TSP > Ruhe | attr | nötige
+PLAYER | bedanken | sich < TSP > PLAYER | schiebenVom | Fünfmetereck < TSP > Fünfmetereck | attr | rechten < TSP > PLAYER | schiebenZum | SCORE
+ASSIST | verlängernPer | Kopf < TSP > Ecke | Nach | PLAYER < TSP > ASSIST | verlängern | auf < TSP > Fünfmeterraumeck | zu | PLAYER < TSP > ASSIST | verlängernNach | Ecke < TSP > Ecke | attr | folgenden < TSP > ASSIST | verlängernVon | rechts
+PER | lässt | ASSIST < TSP > PER | lässt | gewähren < TSP > PER | lässtAuf | Außenbahn < TSP > Außenbahn | attr | linken
+PLAYER | treffenIns | Toreck < TSP > Toreck | attr | linke < TSP > PLAYER | treffenPer | Kopf < TSP > Ecke | von | rechts < TSP > PLAYER | treffen | akkurat < TSP > PLAYER | steigenNach | Ecke
+PLAYER | hämmern | Kugel < TSP > PLAYER | hämmernIn | Maschen
+PER | aus | Metern < TSP > Metern | attr | 16 < TSP > Metern | zur | Führung < TSP > PLAYER | Neuer | aus < TSP > PER | sein | PLAYER < TSP > PLAYER | sein | PER
+Freistoß | vor | Strafraum < TSP > Freistoß | aus | Metern < TSP > PLAYER | gleichenMit | Freistoß < TSP > Freistoß | attr | wunderbaren

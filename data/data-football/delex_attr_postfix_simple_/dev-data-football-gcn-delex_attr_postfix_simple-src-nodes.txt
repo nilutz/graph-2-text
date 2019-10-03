@@ -1,0 +1,261 @@
+PLAYER schlenzen Leder schlenzen unhaltbar schlenzenIns Eck attr linke attr untere
+PLAYER ziehenAus Metern donnern Ball donnern Winkel attr 18 attr zentraler Position hat
+PLAYER treffenAus Metern treffenIn Maschen lässt PER lässt lässtMit Haken treffen flach lässt stehen attr 16 attr SCORE attr einfachen
+PLAYER schießenIn Eck bleiben cool attr rechte
+Vorlagengeber sein ASSIST sein
+ASSIST bedienen PLAYER arbeiten sich
+KEEPER fangen Ecke leiten schnell leitenAuf ASSIST
+PLAYER hat Lieblingsbeschäftigung legenFür legen entfernt legen sich legen Ball attr rund Freistoß hat
+ASSIST ziehenNach Zuspiel flanken präzise ziehen locker flankenNach innen ziehenÜber Seite ziehenAm KEEPER flankenZu PLAYER attr rechte PER hat attr herauskommenden
+PLAYER springenIm Zentrum nickenZum SCORE springen beherzt
+ASSIST finden PLAYER findenIn Position findenNach Dribbling attr zentraler attr feinem
+PLAYER drückenAus Distanz stehen goldrichtig drückenÜber Linie drücken Kugel drückenPer Kopf attr kürzester
+PLAYER bestrafen Nachlässigkeit attr TEAM
+PLAYER stehenNach Zuspiel stehenVon Seite ASSIST hat attr linken
+ASSIST steckenAuf rechts steckenAuf PLAYER attr durchstartenden
+PER schickenAuf Außenbahn schicken ASSIST leiten attr linken
+PLAYER zwirbelnÜber Mauer zwirbeln Ball zwirbelnIns Eck über attr lange
+PLAYER bedankenMit Linksschuss bedankenAus Metern bedanken sich attr satten attr SCORE attr 16
+PER legenFür PLAYER [neg]können klären legen unfreiwillig
+PLAYER stellenAuf SCORE stellenMit Schrägschuss stellenIns Eck attr fulminanten attr lange
+PER legen Ball legenNach rechts legenFür ASSIST
+PLAYER machen
+PER seinNach Hereingabe seinAm Pfosten aus Halbfeld durch ASSIST attr rechten attr zweiten attr PLAYER seinNach seinAm
+PER hat Weiterleitung hat Kopfball PLAYER seinAm Ball seinÜber seinÜber ASSIST hat
+PER bedienen ASSIST bedienenMit Hacke
+PER marschierenAuf Seite nehmen ASSIST attr linken
+PLAYER machenVor SCORE hat Fehlschuss machen machen gut
+PLAYER nehmen geschickt nehmenMit Hüfte nehmen Ball
+das gelingenMit Torannäherung attr ersten TEAM hat
+PLAYER haltenAm Elfmeterpunkt jagenIns Eckige jagen Runde
+PLAYER überwinden PER überwindenMit Schuss marschierenIn Fünfer ins Torwarteck
+Hereingabe nehmen direkt treffenAus Metern treffenIns Eck nehmen PLAYER attr flache attr 13 attr linke attr untere PER hat
+PLAYER muss einschieben
+ASSIST ziehenIn Mitte ziehenVon rechts stecken klug steckenAuf PLAYER
+PLAYER treffen locker treffenAus Metern treffenIns Netz bedanken sich attr 13
+ASSIST bekommenVon KEEPER flankenNach innen bekommenBei Einwurf bekommen Ball hat von links
+Schuss werden abgefälscht springenIns Tor springenVom Querbalken PLAYER hat
+PLAYER vollenden freistehend vollendenIn Mitte vollendenIns Tor attr leere
+ASSIST zirkelnIn Strafraum zirkeln Ecke von rechts
+Schürle schickenIn Gasse ziehenVon links schicken PLAYER ziehenNach innen
+ASSIST heben Kopf sehen PER sehenVor Tor sehenAm PLAYER sehenAm Pfosten attr zweiten attr
+PLAYER werden geschickt werdenVon ASSIST knallenMit rechts knallenAus Distanz attr kurzer unter Latte
+PLAYER verzichten auf verzichten aus
+es seinFür PLAYER Tor im Trikot
+PLAYER brauchen einzuschieben
+PLAYER treffenIn Ecke treffenAus Metern attr rechte attr elf
+PLAYER lässt Chance lässt PER lässtMit Schuss aus Metern
+PLAYER feuern präzise hat Landsmann bleibenGegen bleiben cool feuernIns Eck feuern Leder attr Schweizer attr rechte attr untere
+PLAYER kommen angeflogen drückenIm Fallen drücken Ball über Linie
+PLAYER jagenIn Maschen jagen Ball jagen rechts
+PLAYER seinNach Zuspiel seinAuf Seite attr weiten attr linken
+PLAYER weiß weiß nutzen
+ASSIST gewinnen Bodenduell gewinnenGegen PER gewinnenAn Seitenlinie
+PLAYER überraschen Abwehr
+Tor für Profis PLAYER TorFür hat
+PLAYER schlenzen gekonnt legenAuf Linken legen sich legen Ball schlenzenIns Eck schlenzen Spielgerät attr lange
+PLAYER stellenAuf SCORE
+Flanke werden abgefälscht ASSIST hat
+PLAYER hat Füße Keeper schießenVor schießen Leder schießenIn Bedrängnis
+PLAYER haben Platz habenVor Tor in Position
+Pferde gehenMit PLAYER
+PLAYER schiebenIns Tor schieben Ball schiebenAus Entfernung lässt Großchance attr kurzer attr zweite
+PLAYER schiebenIns Tor sein Stelle attr leere
+PLAYER haben Bahn Schuss aus Metern
+Stürmer befördernIns Toreck orientieren an orientieren geschickt befördern Flanke befördernPer Kopfballaufsetzer orientieren sich attr linke ASSIST hat
+PLAYER führen Angriff führenZum Tor führen führenZum attr erste TEAM hat
+ASSIST leiten Ball leiten zentral leitenZu PLAYER leitenVor Tor mit Willen
+PLAYER verwandeln sicher verwandeln zum
+ASSIST leitenNach Einwurf leitenZu PLAYER
+PLAYER behalten links behaltenIm Strafraum schieben Führung behalten Ruhe
+ASSIST legenFür PLAYER legenVor Strafraum
+PLAYER fasstAus Distanz werden behelligt
+PLAYER spitzelnIns Netz spitzelnAm Fünfer seinIm Zentrum spitzelnVor KEEPER sein hellwach am Kugel vor
+Torwarteck zum SCORE PLAYER lässt Gegenspieler hat lässt aussteigen treffenIns
+ASSIST dringenIn Sechzehner dringen halblinks dringenNach Hin dringenNach Her
+PER hat Laufrichtung attr SCORE PLAYER stehlen sich vollendenGegen vollendenAus Metern vollendenMit Flugkopfball attr sieben
+ASSIST findenIn Mitte habenAuf Bahn haben Zeit habenZum Flanken attr rechten zum
+ASSIST flankenVon links flankenVor Tor
+PLAYER behalten Nerven behaltenFrei frei behaltenVor KEEPER behalten netzt
+PLAYER ziehenAus Positon treffenIns Eck treffen genau attr zentraler attr rechte
+PLAYER lassen unbeachtet lassenBei Ecke
+PLAYER seinFrei frei
+PER spielen ASSIST spielen spielenAuf Seite spielenAuf kombinieren gut kombinieren attr rechten attr
+PLAYER schieben Leder schiebenAus Metern attr zwölf ins Toreck
+PLAYER zirkeln Toreck zirkelnÜber Richtung zirkeln Metern zirkelnÜber Mauer zirkelnAus Position zirkeln Freistoß zirkelnVor Tor attr linkes attr oberes attr 24 attr halblinker aus mit rechts
+PLAYER schieben eiskalt schiebenIns Eck schieben flach übernehmen Verantwortung schiebenMit Rechts schieben Kugel attr linke attr untere
+ASSIST dringenIn selbigen tunnelt PER tunneltAm Strafraum tunnelt rechts
+PLAYER haben überreicht habenVon Coach Hecking hat Taktikzettel Hecking
+Schwede lässt TEAM täuschenNach Zuspiel täuschen Hereingabe lässtIns Grätschen ASSIST hat von links attr leere
+PLAYER jagen satt jagen Elfmeter jagenUnter Querlatte übernehmen Verantwortung
+PLAYER setzenZu Flanke setzenVom Sechzehnereck attr rechten
+PLAYER laufenAuf KEEPER laufenNach Zuspiel schieben Ball schiebenIm Duell attr langen ASSIST aus Hälfte hat attr eigenen mit Torhüter attr direkten
+PLAYER spritzenAus Winkel spritzen Starke attr spitzem
+ASSIST schickenMit Ball schicken schicken steil attr gefühlvollen
+ASSIST passtNach innen haben Bahn passt flach
+Tick am Ball sein PLAYER sein PER ASSIST hat Lauf Kugel legenMit Kopf legen sich am Schlussmann sein sein sein seinNach Flugball sein legenMit attr langen in
+Hintermannschaft mit Pass attr TEAM attr klugen attr ASSIST filetieren filetierenMit filetierenIn Spitze
+PLAYER hebenIns Eck heben Spielgerät hebenÜber Fünf-Mann-Mauer führen tatsächlich attr linke Fünf hat Mann
+ASSIST werden geschickt marschierenIn Richtung werdenAus Position attr abseitsverdächtiger
+PLAYER befindenBei Ablage befindenIn Position befinden attr abseitsverdächtiger
+Kugel in Uwe-Seeler-Manier attr bester PLAYER bugsierenAus Drehung bugsieren bugsierenIn Rücken in Maschen zum Tor Uwe hat Seeler
+PER schickenAuf Seite schicken ASSIST attr rechten
+PLAYER schiebenIns Tor stehen goldrichtig attr leere
+ASSIST haben Platz haben flankt auf rechts auf
+PLAYER wollen verlängern wollen offenbar
+PLAYER haben Bein haben hoch treffenAm Kopf attr ziemlich
+ASSIST haben Überblick
+PLAYER schnappen Ball jagen schnappen sich jagenIns Eck jagenMit Wucht attr linke
+Pike aus Metern PLAYER vollendenMit vollendenIns Eck attr lange
+PLAYER setzenZum Solo kommenAns Leder kommenIn Strafraumnähe
+PLAYER drehen um drehen sich schieben flach
+PLAYER nehmen Ball nehmen halblinks nehmenIm Sechzehner nehmenVon Eckfahne nehmenNach Rechtsflanke
+ASSIST treiben Mittelfeld steckenAuf PLAYER treiben Ball durchs
+PLAYER lässt Abwehrchance lässt PER
+PLAYER schiebenAus Position attr zentraler
+PLAYER könnenNeben Pfosten können vollendet könnenMit Schuss könnenVor KEEPER können eindringen könnenIn Strafraum attr rechten attr attr maßgenauen neben
+PLAYER zirkelnÜber Mauer zirkeln Freistoß trittAus Metern zirkeln wunderbar attr 26
+PLAYER köpfen gekonnt köpfen Kugel köpfenIn Winkel attr rechten
+PLAYER verarbeiten Kugel schießen unten schießenIns Tor schießen anschließend schießen verarbeitenMit Brust attr rechts
+PLAYER zielenIns Eck attr linke
+PLAYER treffenIns Eck kommenAus Metern treffen präzise attr linke attr sieben zum Kopfball
+PER spielenVon Seite spielenVor Strafraum attr linken aus ASSIST
+ASSIST hat Flanke PLAYER stehenNach stehenVor Tor stehenFrei frei
+PLAYER ziehenAuf KEEPER schließen eiskalt ziehenVon Seite ziehenFrei frei attr linken
+PLAYER bugsierenÜber Linie bugsieren Leder
+PLAYER verdienenFür TEAM verdienen SCORE
+PLAYER drückenÜber Linie drücken Ball drückenMit Knie drückenAus Metern attr rechten attr fünf
+PLAYER bleiben trifft bleibenAuf Höhe Elfmeterpunkts hat
+ASSIST schiebenIm Moment dribbelnAuf Linie schiebenIn Lauf schieben Ball attr richtigen attr letzte
+ASSIST werdenBei Tempolauf werdenVon PER werden gebracht werdenZu Fall attr energischen hat
+ASSIST erobern Ball spielen erobernIn Hälfte spielenIn Lauf attr lange attr eigenen PLAYER hat
+PLAYER schieben humorlos
+PLAYER brauchen einzuschieben
+PLAYER stehenIm Abseits stehen Meter stehen Abspiel
+ASSIST schicken PLAYER
+Schuss aus Metern werden abgefälscht werdenVon PER gehenFür gehenIns Toreck gehen unhaltbar attr linke PLAYER hat
+PLAYER stellenAuf SCORE stellenAus Distanz bedanken sich attr kurzer
+ASSIST übernehmen PER übernehmen Eck attr auch
+PLAYER sein halbrechts seinFrei Toreck seinNach Ball aus Hälfte attr wunderbarem attr langem attr eigenen
+PLAYER dürfen sein
+er setzen PLAYER setzenMit Diagonalpass setzenAuf Seite setzenIn Szene attr tollen attr halbrechten
+PLAYER setzen sich setzenGegen PER treffenAus Winkel attr spitzem attr SCORE
+PLAYER ziehenAus Metern ziehen flach attr 20 attr zentraler Position hat
+PLAYER verwandeln links verwandeln oben verwandeln Elfmeter [neg]lassen entgehen
+ASSIST kommenAn Ball kommenAus Gewühl steckenFür PLAYER steckenAns Fünfmetereck am Strafraumeck attr rechte
+PLAYER haut hautIns Eck schnappen sich schnappen Ball attr linke attr zurückspringenden
+PER spielenIns Halbfeld hat Flanke spielen Pass spielenZum ASSIST attr rechte attr attackierten
+PLAYER schieben Ball schiebenÜber Linie schiebenAus Metern attr fünf
+ASSIST bittenAuf Außenbahn bitten PER flankenVon Grundlinie attr linken zum Tanz auf Pfosten attr zweiten
+PLAYER trittMit Schuss ins Eck
+PLAYER legen Treffer attr zweiten
+ASSIST kommenAm Strafraumrand kommenNach Eckball kommen Flanke attr folgenden
+PLAYER startenIn Hälfte werdenVon ASSIST werdenÜber Halbraum attr eigenen hat attr linken
+ASSIST servierenAn Strafraumgrenze servieren Ball servierenMit Außenrist servierenVom Flügel servieren zentral vom attr linken
+PLAYER nickenIn Maschen seinIm Fünfer nickenPer Flugkopfball sein blank Ball per
+PLAYER kommenAus Metern kommen Mal attr acht zum Kopfball
+TEAM gehenIn Front PLAYER gehenIn
+PLAYER schießen SCORE
+PLAYER mussÜber Linie mussAus Distanz muss drücken attr kurzer
+PLAYER zirkelnÜber Mauer zirkeln Freistoß zirkelnIns Eck zirkelnAus Metern zirkeln wunderschön aus Position hat attr 18 attr attr rechte attr obere
+ASSIST flanken flach flankenVor Tor setzen gut flankenVon rechts
+ASSIST treffenVom Punkt per Rechtsschuss
+PLAYER spekulierenAls Feldspieler spekulierenAuf Nachschuss attr einziger
+ASSIST drehen Standard drehenMit rechts drehenNach innen von links
+PER setzenAuf Außenbahn schlagen Ball schlagenIn Gefahrenzone setzen sich attr rechten auf ASSIST
+Ecke köpfen PLAYER köpfenIns Netz köpfenVor KEEPER ASSIST hat
+PLAYER zirkeln Kugel zirkeln Eck ziehenAus Metern Position hat attr 17 attr rechter
+PLAYER verschaffenBei Eckball verschaffen Vorteil nickenIns Eck verschaffen sich ASSIST hat attr lange
+Ablage [neg]vollstreckt PLAYER [neg]vollstrecktOhne Mühe [neg]vollstreckt [neg]vollstrecktOhne PER hat attr große attr
+Latte hat Unterkante PLAYER nehmen Leder setzen Aufsetzer setzenAn nehmenAus Metern attr neun
+PLAYER schnüren Doppelpack schnürenMit Sahnetreffer
+ASSIST bedienenNach Ball bedienen an attr diagonalen PLAYER is
+PLAYER dringenIn Strafraum knallenMit links dringen über knallen Ball Metern in Winkel attr rechten
+ASSIST dringenIn Richtung flankenIn MItte flankenMit Außenrist attr linken
+PLAYER nehmen wuchtig nageln Leder nagelnVon halbrechts nehmen Abpraller Metern ins Eck
+PLAYER schieben Kugel machen cool schiebenIns Eck machen es attr rechte
+ASSIST legenAuf PLAYER dringen über legenQuer quer Strafraumeck in Sechzehner
+PLAYER vollendenAus Lage vollenden souverän bedanken sich attr zentraler
+ASSIST kommenNach Aufbauspiel kommenZum Flanken kommenVon rechts findenAm Fünfmeterraum attr klugem PLAYER is
+PLAYER befördernIns Eck öffnenNach Rückpass befördernMit Innenrist befördern Leder öffnen Fuß attr lange von halbrechts attr linken ASSIST hat
+PLAYER führen Standard führen von rechts
+PLAYER bereiten Treffer hat
+ASSIST passtIn Schnittstelle lässt PER lässt stehen passt perfekt zu PLAYER
+Rutschen ins Tor vom Pfosten PLAYER spitzeln spitzeln Ball
+PLAYER werfenIn Flugbahn drücken drückenIn Maschen werfen sich werfenIn Mitte Balles hat
+PLAYER schiebenZum SCORE tauchenFrei frei tauchenVor KEEPER schieben souverän
+'s klappenIm Anlauf klappenFür PLAYER attr vierten
+PLAYER bringen TEAM bringenMit Chance bringenIn Führung attr ersten attr wirklichen
+PLAYER leiten Treffer hat leitenMit Zuckerpass auf ASSIST
+Risiko donnern Vollspann donnern Kugel attr volles donnernIns Eck gehenVor Tor is PLAYER hat attr rechte
+PLAYER schlenzen Ball schlenzenIns Eck schelten schnellsten attr linke
+Schweizer [neg]könnenVon ASSIST [neg]können festhalten legen PLAYER legen unfreiwillig hat Flanke von links
+PLAYER schnappen Ball schießenAufs Tor schießen mittig schießenAus Metern schnappen sich attr abgewehrten attr 25
+ASSIST flankenUnweit Eckfahne flankenAuf Pfosten attr linken attr kurzen
+Ball im Mittelfeld PER erobernIm erobern setzen ASSIST
+ASSIST hat Freistoß von links PLAYER nickenMit Hilfe überspringenNach Latte hat Unterkante hat
+Treffer gehenAuf Konto gehen Hälfte ASSIST hat
+ASSIST brechenÜber Flügel flankenNach innen attr rechten
+PLAYER treffenAus Metern kreuzen Laufweg attr 14 attr SCORE
+PLAYER machenPer Heber machen perfekt hat Doppelpack machen
+PER fehlenIn Zentrum verschätzenAuf Flügel verschätzen sich TEAM hat gegen ASSIST
+ASSIST haben Platz habenIn Hälfte nehmenMit Ball Fuß is attr eigenen
+PLAYER nehmen Leder jagen hoch jagenIn Ecke nehmen direkt attr kurze
+PLAYER treffenIns Eck treffen eiskalt attr rechte
+TEAM bekommenNach Flanke bekommenMit Mühe bekommenAm Fünfer bekommenUnter Kontrolle bekommen Ball ASSIST hat am
+ASSIST habenIm Zentrum haben Platz habenFür PLAYER Auge für
+ASSIST werdenVon PER dringenNach Solo dringenIn Strafraum werdenVon Beinen dringenMit Tempo
+PER grätschenVor Füße grätschenVor Ball grätschenVor
+ASSIST bedienenMit Vorlage bedienen PLAYER attr perfekten
+Dreier hat Mauer PLAYER knallenIns Eck knallen den knallenAn Dreier-Mauer attr linke
+Strafraum am Ball ASSIST sein links geben scharf gebenIns Zentrum
+PLAYER hat Lauf PER hat Pass ASSIST leitenVon leiten leitenIn
+KEEPER lässtVon ASSIST lässt abklatschen hat Freistoß
+PER wehrenVon ASSIST wehrenNach vorne bringenPer Abstauber wehren Schuss bringen RB hat PLAYER bringenPer bringen in Front attr artistischen
+ASSIST legenFür PLAYER legenNach Ecke legenIn Mitte legen unfreiwillig von links attr eher
+ASSIST spielen PLAYER spielenVor Tor
+ASSIST flankenIn Fünfer entwischenAuf Außenbahn attr rechten
+PLAYER legen Tor
+PLAYER halten freistehend halten Fuß haltenAus Distanz attr kurzer
+PLAYER schieben Leder schieben flach schiebenIns Eck attr rechte attr untere
+PER wollenAus Mittelfeld übersehen PLAYER wollen lassen attr zentralen
+PLAYER leiten Angriff bedienen ASSIST über links
+PLAYER haben einzuschieben habenAus Distanz attr kurzer Mühe aus
+ASSIST hat Ecke PLAYER lenkenIns Tor springenIn lenken Ball
+PER starten Konter bedienen ASSIST attr weiteren
+Außenbahn per Hacke attr rechten auf ASSIST PER leitenAuf
+PLAYER schelten schnellsten schickenMit Pass schicken ASSIST schickenAn Grundlinie scheltenAn Strafraumgrenze attr feinen
+PLAYER lenkenIn Maschen lenken entscheidend lenken Ball lenkenIm Fünfer attr noch im
+PLAYER donnernIn Maschen donnern
+PLAYER hebenMit Kontakt heben gefühlvoll hebenIns Netz heben Kugel hebenÜber Keeper tauchenVor Esser attr ersten
+PLAYER schlenzen Entfernung schlenzenIns Tor schlenzen Ball schlenzen rechts schlenzenAus Metern schlenzen oben is aus attr 25 attr
+ASSIST spielenIn Lauf seinAuf links Leder spielenIn PLAYER hat
+ASSIST legenIn Lauf legen Ball legenNach Fehlpass PLAYER hat PER hat
+PER spielen ASSIST spielenAm Strafraumeck attr rechten
+PER leisten Fehler nutzen rotzfrech leistenIm PLAYER nutzen leisten sich leistenIm Aufbauspiel attr kapitalen im im
+TEAM findenVon Grundlinie zögern kurz findenAm Pfosten finden PLAYER attr ersten
+PLAYER kochen PER schiebenVor schiebenFrei frei kochenMit Haken schiebenIns Eck attr aussehenden attr rechte attr untere
+ASSIST übersprintet rechts übersprintetIm Strafraum übersprintet KEEPER übersprintet PER
+PLAYER drückenÜber Linie drückenAus Nahdistanz drücken Ball drückenPer Kopf aus
+PER werdenUnter Druck spielenIn Beine werden gesetzt ASSIST hat
+PLAYER muss vollenden
+ASSIST leitenNach Einwurf leitenIn Mitte
+TEAM gehenIn Front
+Metern in Maschen attr fünf attr Kugel aus PLAYER köpfenIn köpfenAus köpfen
+PER legenAuf ASSIST
+PLAYER setzenIm Zentrum nickenIn Maschen setzen sich nickenAus Metern im Luftduell setzenMit PER attr sechs
+PLAYER sein Stelle
+ASSIST startenNach Zuspiel hat ZuspielFür PER werdenIm Strafraum werdenMit Heber für attr glänzenden
+PLAYER hat gehen gut
+es seinFür PLAYER hat Bundesligator
+PLAYER nickenIns Eck schrauben sich nickenAus Metern schraubenZwischen PER schraubenZwischen attr rechte attr fünf
+PLAYER muss hinhalten
+PLAYER treffenGegen Lieblingsgegner
+PLAYER behaltenIm Abschluss laufenFrei frei laufenNach Kopfball laufenAuf PER behalten Ruhe attr nötige
+PLAYER bedanken sich schiebenVom Fünfmetereck schiebenZum SCORE attr rechten
+ASSIST verlängernPer Kopf verlängern auf verlängernNach Ecke verlängernVon rechts Nach PLAYER attr folgenden Fünfmeterraumeck zu
+PER lässt ASSIST lässt gewähren lässtAuf Außenbahn attr linken
+PLAYER treffenIns Toreck treffenPer Kopf treffen akkurat steigenNach Ecke attr linke von rechts
+PLAYER hämmern Kugel hämmernIn Maschen
+PER aus Metern sein PLAYER attr 16 zur Führung Neuer sein
+Freistoß vor Strafraum aus Metern attr wunderbaren PLAYER gleichenMit

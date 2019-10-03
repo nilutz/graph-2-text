@@ -389,6 +389,8 @@ def main(path = "../data/data-football/sentences_full_notdelex.pkl", ctx=False, 
             options['attr'] = True
         if 'postfix' in p :
             options['postfix'] = True
+        if 'simple' in p :
+            options['simple'] = True
 
     #parts = path.parts[-1].split('_')
     #print(parts)
