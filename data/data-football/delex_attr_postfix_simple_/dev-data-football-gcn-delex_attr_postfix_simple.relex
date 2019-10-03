@@ -1,261 +1,588 @@
-{"PLAYER": "Seferovic"}
-{"PLAYER": "Uth"}
-{"PLAYER": "Gerhardt", "SCORE": "2:0", "PER": "Caicara"}
-{"PLAYER": "Petersen"}
-{"ASSIST": "Ronny"}
-{"ASSIST": "De Blasis", "PLAYER": "Malli"}
-{"KEEPER": "Wiedwald", "ASSIST": "Bartels"}
-{"PLAYER": "Calhanoglu"}
-{"ASSIST": "Heller", "PER": "Niemeyer", "KEEPER": "Wiedwald", "PLAYER": "Wagner"}
-{"PLAYER": "Gebre Selassie", "SCORE": "2:2"}
-{"ASSIST": "Jojic", "PLAYER": "Osako"}
-{"PLAYER": "Calhanoglu"}
-{"PLAYER": "Kie\u00dfling", "TEAM": "Mainzer"}
-{"PLAYER": "Brandt", "ASSIST": "Calhanoglu"}
-{"ASSIST": "Peszko", "PLAYER": "Risse"}
-{"PER": "Werner", "ASSIST": "Baba"}
-{"PLAYER": "Kiyotake"}
-{"PLAYER": "Joselu", "SCORE": "2:2"}
-{"PER": "Caldirola", "PLAYER": "Stindl"}
-{"PLAYER": "Ujah", "SCORE": "4:1"}
-{"PER": "Ibisevic", "ASSIST": "Pekarik"}
-{"PLAYER": "Geis"}
-{"PER": "Delaney", "ASSIST": "Eggestein", "PLAYER": "Kainz"}
-{"PER": "Demme", "PLAYER": "Selke", "ASSIST": "Forsberg"}
-{"PER": "Pizarro", "ASSIST": "Alaba"}
-{"PER": "Wendt", "ASSIST": "Johnson"}
-{"PLAYER": "Cohen", "SCORE": "1:1"}
-{"PLAYER": "Osako"}
-{"TEAM": "S04"}
-{"PLAYER": "M\u00fcller"}
-{"PLAYER": "Werner", "PER": "Schwolow"}
-{"PLAYER": "Ibisevic", "PER": "Hectors"}
-{"PLAYER": "Burgstaller"}
-{"ASSIST": "Hilbert", "PLAYER": "Son"}
-{"PLAYER": "Seferovic"}
-{"ASSIST": "Sch\u00e4fer", "KEEPER": "Kruse"}
-{"PLAYER": "Grifo"}
-{"PLAYER": "Perisic"}
-{"ASSIST": "Bobadilla"}
-{"PLAYER": "G\u00f6tze"}
-{"ASSIST": "Hegeler", "PER": "Boenisch", "PLAYER": "Sam"}
-{"PLAYER": "Huszti", "ASSIST": "Ya Konan"}
-{"PLAYER": "Boateng"}
-{"PLAYER": "Maxim"}
-{"PLAYER": "De Blasis"}
-{"PLAYER": "Verhaegh"}
-{"PLAYER": "Roberto Firmino", "PER": "Drobny"}
-{"PLAYER": "Rodriguez"}
-{"PLAYER": "Vestergaard"}
-{"PLAYER": "Farfan"}
-{"PLAYER": "Cordoba"}
-{"PLAYER": "Kadlec"}
-{"ASSIST": "Raffael", "PER": "Klose"}
-{"PLAYER": "M\u00fcller"}
-{"PLAYER": "Kruses"}
-{"PLAYER": "Ya Konan"}
-{"PLAYER": "Raffael", "SCORE": "2:0"}
-{"ASSIST": "Ostrzolek"}
-{"PLAYER": "Joselu"}
-{"PLAYER": "Sokratis"}
-{"PLAYER": "Ujah"}
-{"PLAYER": "Pizarro"}
-{"PLAYER": "Lasogga"}
-{"PLAYER": "Perisic"}
-{"ASSIST": "Weisers"}
-{"PLAYER": "Ilicevic", "TEAM": "Hamburger"}
-{"ASSIST": "Szalai", "PLAYER": "Kramaric"}
-{"PLAYER": "Hofmann"}
-{"ASSIST": "Junuzovic", "PLAYER": "Bartels"}
-{"PLAYER": "Uth"}
-{"ASSIST": "Ademi", "PLAYER": "Oehrl"}
-{"PLAYER": "G\u00f6tze"}
-{"PLAYER": "Volland", "KEEPER": "Hradecky"}
-{"SCORE": "3:1", "PLAYER": "Pohjanpalo"}
-{"ASSIST": "De Blasis"}
-{"PER": "Wolf", "PLAYER": "Olic", "SCORE": "2:1"}
-{"ASSIST": "Maxim"}
-{"ASSIST": "Alvaro Dominguez"}
-{"PLAYER": "Darida", "KEEPER": "Leno"}
-{"PLAYER": "Castro"}
-{"PLAYER": "Ginter"}
-{"PLAYER": "Hahn"}
-{"PER": "Chicharito", "ASSIST": "Hilbert"}
-{"PLAYER": "Jairo"}
-{"PLAYER": "Jojic"}
-{"PLAYER": "Darida"}
-{"ASSIST": "Kramaric", "PER": "Djakpa"}
-{"PLAYER": "Vestergaard"}
-{"TEAM": "Braunschweiger", "ASSIST": "Arango"}
-{"PLAYER": "Bentaleb"}
-{"PLAYER": "Kostic"}
-{"PLAYER": "Gnabry", "KEEPER": "Gulacsi", "ASSIST": "Akpoguma"}
-{"PLAYER": "Werner"}
-{"ASSIST": "Rudy"}
-{"ASSIST": "Elia"}
-{"ASSIST": "Strobl", "PER": "Schwolow", "PLAYER": "Hazard"}
-{"ASSIST": "Andreasen", "TEAM": "Mainzer"}
-{"PLAYER": "Geis"}
-{"ASSIST": "M\u00fcller"}
-{"PLAYER": "Koo"}
-{"PLAYER": "Benatia"}
-{"PER": "Korb", "ASSIST": "Schwegler"}
-{"PLAYER": "Burgstaller"}
-{"ASSIST": "Westermann"}
-{"PLAYER": "Lasogga"}
-{"PLAYER": "Poulsen"}
+{"PER": "Gr\u00fcn-Wei\u00dfen", "PLAYER": "Hunt", "KEEPER": "Baumann", "ASSIST": "de Bruyne"}
+{"PLAYER": "Junuzovic"}
+{"PLAYER": "Dost"}
+{"PLAYER": "Raul"}
 {"ASSIST": "Hasebe"}
-{"PLAYER": "Kalou"}
-{"PLAYER": "Zoller"}
-{"PLAYER": "Raffael"}
-{"PLAYER": "Joselu"}
-{"PLAYER": "Meier"}
-{"ASSIST": "Castro", "PLAYER": "Reus"}
-{"PLAYER": "Modeste", "PER": "\u00d6zcan"}
-{"PLAYER": "Drmic"}
-{"PLAYER": "Gentner", "KEEPER": "Zieler"}
-{"PLAYER": "Geis"}
-{"PLAYER": "Seferovic"}
-{"PLAYER": "Burgstaller"}
-{"PLAYER": "Goretzka"}
-{"PLAYER": "Jojic"}
-{"PER": "Grifo", "ASSIST": "Petersen"}
-{"ASSIST": "Stindl", "PLAYER": "Drmic"}
-{"PLAYER": "Lewandowski", "KEEPER": "Wiedwald"}
-{"PLAYER": "Reus"}
-{"PLAYER": "Aubameyang", "TEAM": "Borussia", "SCORE": "2:0"}
-{"PLAYER": "M\u00fcller"}
-{"PLAYER": "Petersen"}
-{"ASSIST": "Bartels"}
-{"ASSIST": "Bellarabi", "PER": "Matip"}
-{"ASSIST": "Schulz", "PLAYER": "Kramaric"}
-{"PLAYER": "Kampl"}
-{"PLAYER": "Halil Altintop"}
-{"PLAYER": "Reus"}
-{"ASSIST": "Skjelbred", "PLAYER": "Ben-Hatira"}
-{"PER": "Baumann", "PLAYER": "Djilobodji"}
-{"PLAYER": "Niederlechner", "SCORE": "2:0"}
-{"ASSIST": "Aubameyang", "PER": "Augustin"}
-{"PLAYER": "Aigner"}
-{"PLAYER": "Hrgota"}
-{"PLAYER": "Sabitzer"}
-{"PLAYER": "Kainz", "PER": "Diekmeier", "SCORE": "2:1"}
-{"PLAYER": "M\u00fcller"}
-{"PLAYER": "Verhaegh"}
-{"ASSIST": "Aigner", "PLAYER": "Ben-Hatira"}
-{"PLAYER": "Thiago"}
-{"PER": "Keita", "ASSIST": "Sabitzer"}
-{"PLAYER": "Lewandowski"}
-{"ASSIST": "Kostic", "PER": "Jungwirth"}
-{"PLAYER": "F\u00fcllkrug"}
-{"PLAYER": "Chicharito"}
-{"ASSIST": "Holtby"}
-{"PLAYER": "Kath", "ASSIST": "G\u00fcnter"}
-{"ASSIST": "Henrichs"}
-{"PLAYER": "Joselu"}
+{"ASSIST": "Gekas"}
+{"PLAYER": "Hazard", "KEEPER": "Jarstein"}
 {"PLAYER": "Lezcano"}
-{"TEAM": "HSV", "PLAYER": "Lasogga"}
-{"PLAYER": "Forsberg", "SCORE": "2:1"}
-{"PLAYER": "Okazaki"}
-{"PLAYER": "Ben-Hatira"}
-{"ASSIST": "Tah"}
-{"ASSIST": "Lewandowski"}
-{"PLAYER": "Bebou"}
-{"ASSIST": "Schwegler"}
-{"PER": "Esswein", "ASSIST": "Altintop"}
-{"PLAYER": "R\u00fcdiger", "KEEPER": "Casteels", "ASSIST": "Maxim"}
-{"PLAYER": "Douglas Costa"}
-{"PLAYER": "Modeste", "ASSIST": "Risses"}
-{"PLAYER": "M\u00fcller", "PER": "Klavan"}
-{"PLAYER": "Uth"}
-{"PLAYER": "Gnabry"}
-{"ASSIST": "Verhaegh", "PLAYER": "Esswein"}
-{"PLAYER": "Bittencourt"}
-{"ASSIST": "James"}
-{"PLAYER": "Sokratis"}
-{"PLAYER": "De Blasis"}
-{"ASSIST": "Kroos", "PLAYER": "Shaqiri"}
-{"PLAYER": "Drmic"}
-{"ASSIST": "Garcia", "PLAYER": "Ujah"}
-{"PLAYER": "Pulisic", "ASSIST": "Durm"}
-{"PLAYER": "Bartels"}
-{"PLAYER": "Aubameyang"}
-{"ASSIST": "Goretzka", "PER": "Diaz", "PLAYER": "San\u00e9"}
-{"PLAYER": "Meier"}
-{"PLAYER": "Olic"}
-{"PLAYER": "Lasogga", "SCORE": "2:0", "KEEPER": "Weidenfeller"}
-{"PLAYER": "Reus"}
-{"PLAYER": "Hazard", "TEAM": "Fohlen"}
-{"PLAYER": "Pizarro", "ASSIST": "Ribery"}
-{"PLAYER": "Oczipka"}
-{"PLAYER": "Kramer"}
-{"ASSIST": "Jairo", "PLAYER": "De Blasis"}
-{"PLAYER": "Sakai"}
-{"ASSIST": "\u00d6ztunali"}
-{"PER": "Ben-Hatira", "ASSIST": "Ramos"}
-{"ASSIST": "Stenderaflanke", "PLAYER": "Medojevic"}
-{"ASSIST": "Mkhitaryan"}
-{"ASSIST": "Younes"}
-{"PLAYER": "Werner", "SCORE": "1:0"}
-{"PLAYER": "Volland"}
-{"PER": "Djilobodji", "TEAM": "Werders", "ASSIST": "M\u00fcller"}
-{"ASSIST": "Schulz"}
-{"PLAYER": "Petersen"}
-{"PLAYER": "Finnbogason"}
-{"TEAM": "Frankfurter", "ASSIST": "Fabian"}
-{"ASSIST": "Rudy", "PLAYER": "Volland"}
-{"ASSIST": "Hofmann", "PER": "Bicakcic"}
-{"PER": "Gro\u00df"}
-{"ASSIST": "Boland", "PLAYER": "Bellarabi"}
-{"PLAYER": "Kramaric"}
-{"ASSIST": "Plattenhardt"}
-{"PLAYER": "Lewandowski", "PER": "Alaba", "ASSIST": "Robben"}
-{"KEEPER": "Mathenia", "ASSIST": "Klaus"}
-{"PER": "Hitz", "ASSIST": "Poulsen", "PLAYER": "Upamecano"}
-{"ASSIST": "Petersen", "PLAYER": "Bargfrede"}
-{"ASSIST": "Hilbert", "PLAYER": "Reinartz"}
-{"ASSIST": "Goretzka"}
-{"PLAYER": "Castro"}
-{"PLAYER": "Kachunga"}
-{"PLAYER": "Djourou"}
-{"PER": "Vidal", "PLAYER": "Bojan"}
-{"PLAYER": "Kolasinac", "ASSIST": "Choupo-Moting"}
-{"PLAYER": "Cordoba"}
-{"ASSIST": "Forsberg", "PLAYER": "Poulsen"}
-{"PER": "Gentner", "ASSIST": "Werner"}
-{"PER": "Elia", "ASSIST": "Fritz"}
-{"PLAYER": "Petersen", "ASSIST": "Fritz"}
-{"PLAYER": "Olic"}
-{"PLAYER": "Johannsson"}
-{"PLAYER": "Bartels"}
-{"PLAYER": "Alaba"}
-{"ASSIST": "Augustin", "PLAYER": "Werner"}
-{"ASSIST": "Lahm", "PLAYER": "Robben", "PER": "Felipe"}
-{"PER": "Zuber", "ASSIST": "Rudy"}
-{"PER": "Sahin", "PLAYER": "Petersen"}
-{"TEAM": "Bochumer", "PLAYER": "Petersen"}
-{"PLAYER": "Raffael", "PER": "Leno"}
-{"ASSIST": "Ginczek", "KEEPER": "Hradecky", "PER": "Abraham"}
-{"PLAYER": "Diouf"}
-{"PER": "San\u00e9", "ASSIST": "Bellarabi"}
-{"PLAYER": "Forsberg"}
-{"ASSIST": "Hlousek"}
-{"TEAM": "TSG"}
-{"PLAYER": "Vestergaard"}
-{"PER": "Wolf", "ASSIST": "Chandler"}
-{"PLAYER": "Bebou", "PER": "Henrichs"}
-{"PLAYER": "Kie\u00dfling"}
-{"ASSIST": "Laimer", "PER": "Sabitzer"}
-{"PLAYER": "Drmic"}
-{"PLAYER": "Koch"}
-{"PLAYER": "Gomez", "PER": "Holland"}
-{"PLAYER": "Chicharito"}
-{"PLAYER": "Uth"}
-{"PLAYER": "M\u00fcller", "PER": "B\u00fcrki"}
-{"PLAYER": "Herrmann", "SCORE": "2:0"}
-{"ASSIST": "Dante", "PLAYER": "Boateng"}
-{"PER": "Rafa", "ASSIST": "Durm"}
-{"PLAYER": "Kliment"}
-{"PLAYER": "Werner"}
-{"PER": "Neuer", "PLAYER": "Volland"}
+{"PER": "Uth", "ASSIST": "Polanski", "PLAYER": "Amiri"}
+{"PLAYER": "Lewandowski"}
+{"PLAYER": "Trinks", "SCORE": "1:2"}
+{"ASSIST": "M\u00fcller"}
+{"PLAYER": "Beck", "SCORE": "3:0"}
+{"PLAYER": "Roberto Firmino", "PER": "Drobny"}
+{"PLAYER": "Koo", "ASSIST": "Verhaeghs"}
+{"KEEPER": "Kraft", "PLAYER": "Ciss\u00e9"}
+{"PLAYER": "Suttner"}
+{"PLAYER": "F\u00fcrstner"}
 {"PLAYER": "Calhanoglu"}
+{"ASSIST": "Kiyotake", "PER": "Sakai"}
+{"PER": "Wiese", "ASSIST": "Pinto", "PLAYER": "Abdellaoue"}
+{"ASSIST": "Kroos", "PLAYER": "Shaqiri"}
+{"PLAYER": "Stindl"}
+{"PLAYER": "Caligiuri", "PER": "Pekarik"}
+{"PLAYER": "Diouf", "SCORE": "2:0", "PER": "Dante"}
+{"PER": "Svensson", "PLAYER": "Ibisevic"}
+{"ASSIST": "Kagawa"}
+{"PLAYER": "Ramos", "PER": "Djourou"}
+{"PLAYER": "Meier"}
+{"ASSIST": "Reus", "PLAYER": "Arango"}
+{"ASSIST": "Suttner"}
+{"ASSIST": "Klein", "PLAYER": "Didavi"}
+{"TEAM": "Hoffenheimer", "ASSIST": "Didavi"}
+{"ASSIST": "Ostrzolek", "PER": "Theuerkauf"}
+{"PER": "Barnettas", "ASSIST": "Raffael"}
+{"ASSIST": "Arango", "PLAYER": "Stranzl"}
+{"PLAYER": "H\u00f6fler"}
+{"ASSIST": "Raffael"}
+{"PLAYER": "Diouf"}
+{"PLAYER": "Polanski"}
+{"PER": "Wendt", "ASSIST": "Johnson"}
+{"ASSIST": "Boateng"}
+{"ASSIST": "Obasi", "PER": "Schulz"}
+{"ASSIST": "Weiser"}
+{"PLAYER": "Naldo"}
+{"PLAYER": "Werner", "SCORE": "1:0"}
+{"ASSIST": "Coman", "PLAYER": "M\u00fcller"}
+{"ASSIST": "Draxler", "PLAYER": "Pass Sch\u00fcrrle"}
+{"ASSIST": "Karaman", "PLAYER": "Schmiedebach"}
+{"PLAYER": "Subotic", "SCORE": "1:0"}
+{"PLAYER": "G\u00f6tze", "ASSIST": "Lewandowski"}
+{"PLAYER": "Jojic"}
+{"PLAYER": "Oczipka"}
+{"PLAYER": "Lewandowski", "PER": "Heintz"}
+{"PLAYER": "Podolski", "ASSIST": "Peszko"}
+{"PLAYER": "Huszti"}
+{"PLAYER": "M\u00fcller", "TEAM": "Mainzer"}
+{"ASSIST": "Can", "PLAYER": "Bender"}
+{"PLAYER": "Reus"}
+{"PLAYER": "Obasi"}
+{"PLAYER": "Keita", "ASSIST": "Werner"}
+{"PLAYER": "Salihovic"}
+{"PLAYER": "Jojic", "ASSIST": "Gro\u00dfkreutz"}
+{"PLAYER": "Schieber", "PER": "Ulreich"}
+{"PER": "Farfan", "ASSIST": "Matip"}
+{"PLAYER": "Olic"}
+{"PLAYER": "Harnik", "SCORE": "4:0"}
+{"PLAYER": "Bender"}
+{"ASSIST": "Sch\u00f6pf"}
+{"PLAYER": "Kalou"}
+{"PLAYER": "Hahn", "PER": "Correia"}
+{"PER": "Blaszczykowski", "ASSIST": "Reus"}
+{"PLAYER": "Osako"}
+{"ASSIST": "Keita"}
+{"ASSIST": "Pulisic", "PLAYER": "Aubameyang"}
+{"PLAYER": "Kacar"}
+{"KEEPER": "Karius"}
+{"PLAYER": "Gebhart", "TEAM": "Stuttgart"}
+{"PER": "Jarolim", "PLAYER": "Roberto"}
+{"ASSIST": "Jones", "PER": "Draxler"}
+{"PLAYER": "Petersen", "SCORE": "2:3"}
+{"PLAYER": "Bender"}
+{"PLAYER": "Werner", "PER": "Fritz"}
+{"PLAYER": "Ben-Hatira", "PER": "Raffael", "ASSIST": "Ramos"}
+{"PLAYER": "Pizarro"}
+{"ASSIST": "Philipp", "PLAYER": "Petersen"}
+{"PLAYER": "Jairo", "PER": "Muto"}
+{"ASSIST": "Bellinghausen", "PLAYER": "Callsen-Bracker"}
+{"KEEPER": "Kruse", "ASSIST": "Draxler", "PLAYER": "Dost", "PER": "Tr\u00e4sch"}
+{"PLAYER": "Haller"}
+{"PER": "Beck", "ASSIST": "Obasi"}
+{"PLAYER": "Z\u00e9 Roberto"}
+{"PER": "Dembel\u00e9", "ASSIST": "Durm"}
+{"PLAYER": "Guerrero", "ASSIST": "Petric"}
+{"PLAYER": "Ibisevic", "KEEPER": "Hradecky"}
+{"PLAYER": "Hunt"}
+{"TEAM": "VfB"}
+{"PLAYER": "Caligiuri"}
+{"PLAYER": "Wolf"}
+{"PLAYER": "Pizarro"}
+{"ASSIST": "Bech", "PLAYER": "Karaman"}
+{"PLAYER": "Lewandowski", "ASSIST": "G\u00f6tze"}
+{"ASSIST": "Schmidtgal"}
+{"PLAYER": "Haggui", "PER": "Oehrl", "ASSIST": "Pander"}
+{"PLAYER": "Ya Konan"}
+{"ASSIST": "Caiuby", "KEEPER": "Hitz", "PER": "Sorg"}
+{"ASSIST": "Kuzmanovic"}
+{"ASSIST": "Stocker"}
+{"PLAYER": "Sahin"}
+{"PLAYER": "Suttner"}
+{"PLAYER": "Mehmedi"}
+{"PLAYER": "Hahn"}
+{"PLAYER": "Moritz"}
+{"PLAYER": "Bungert", "PER": "Klavan", "ASSIST": "Geis"}
+{"ASSIST": "Polak"}
+{"ASSIST": "Zuber"}
+{"ASSIST": "Heises", "PER": "Werners"}
+{"PLAYER": "Huszti"}
+{"ASSIST": "Pizarros"}
+{"PLAYER": "Grafite", "PER": "Jansen"}
+{"PLAYER": "Grafite"}
+{"PLAYER": "Caligiuri"}
+{"PLAYER": "Kiyotake"}
+{"PLAYER": "Derdiyok"}
+{"PLAYER": "Modeste", "KEEPER": "Hansen"}
+{"PLAYER": "Bargfrede", "SCORE": "2:5"}
+{"PLAYER": "Mandzukic", "PER": "Plattenhardt"}
+{"PLAYER": "Petersen"}
+{"PLAYER": "Pizarro"}
+{"ASSIST": "Caligiuri", "TEAM": "Wolfsburger", "PER": "Bellarabi"}
+{"PLAYER": "Hunt"}
+{"PLAYER": "Kie\u00dfling"}
+{"PLAYER": "Kuzmanovic"}
+{"PLAYER": "Salihovic"}
+{"PER": "Brosinski", "ASSIST": "\u00d6ztunali"}
+{"PLAYER": "Junuzovic", "PER": "Baumann"}
+{"ASSIST": "Fenin"}
+{"ASSIST": "Schmelzer", "PLAYER": "Castro"}
+{"PLAYER": "Westermann"}
+{"ASSIST": "Rausch"}
+{"PLAYER": "Finnbogason"}
+{"ASSIST": "Rukavytsya", "PER": "Benaglio"}
+{"ASSIST": "Oczipka"}
+{"PLAYER": "M\u00fcller"}
+{"PLAYER": "Boll"}
+{"PLAYER": "Mandzukic"}
+{"PLAYER": "Arnold"}
+{"ASSIST": "Kie\u00dfling"}
+{"PLAYER": "Bittencourt", "PER": "Benaglio"}
+{"PLAYER": "Reus", "ASSIST": "De Camargo"}
+{"ASSIST": "Meyer"}
+{"PLAYER": "Vestergaard"}
+{"PLAYER": "Rosenberg", "PER": "Dantes"}
+{"PLAYER": "Muto", "ASSIST": "\u00d6ztunali"}
+{"ASSIST": "Prib"}
+{"PLAYER": "Stindl"}
+{"PLAYER": "Babel", "PER": "M\u00fcller"}
+{"PLAYER": "Koch"}
+{"PLAYER": "Gregoritsch"}
+{"PLAYER": "Finnbogason"}
+{"PLAYER": "Werner", "ASSIST": "Altintop"}
+{"ASSIST": "Rupp", "PLAYER": "Didavi"}
+{"PLAYER": "De Bruyne"}
+{"PLAYER": "Brandt", "PER": "Korb"}
+{"PLAYER": "Drmic"}
+{"ASSIST": "Idrissou", "KEEPER": "Kessler"}
+{"PLAYER": "Sakai"}
+{"PLAYER": "Werner"}
+{"ASSIST": "Morales", "PLAYER": "Hinterseer"}
+{"PLAYER": "Gregoritsch", "ASSIST": "Max"}
+{"PLAYER": "Flum", "PER": "Cohen"}
+{"PLAYER": "Pizarros"}
+{"PLAYER": "Konoplyanka", "SCORE": "1:0"}
+{"PLAYER": "Sch\u00fcrrle", "ASSIST": "Kie\u00dfling"}
+{"PLAYER": "Schweinsteiger"}
+{"ASSIST": "Occeans"}
+{"PLAYER": "Novakovic"}
+{"PLAYER": "Huntelaar"}
+{"PER": "Korb", "ASSIST": "Schwegler"}
+{"ASSIST": "Fuchs"}
+{"PLAYER": "Simons"}
+{"ASSIST": "Dahoud", "PLAYER": "Philipp"}
+{"PLAYER": "S\u00f6rensen"}
+{"KEEPER": "Rensings", "PLAYER": "Novakovic", "ASSIST": "Matuschyks"}
+{"PLAYER": "Huntelaar", "PER": "Rensing"}
+{"PLAYER": "Hunt"}
+{"ASSIST": "Kruse", "PLAYER": "Kramer"}
+{"PLAYER": "Kiyotake"}
+{"PLAYER": "Reus"}
+{"PLAYER": "Cohen"}
+{"PLAYER": "Schieber", "ASSIST": "Ibisevic", "PER": "Subotic"}
+{"PLAYER": "Kramaric"}
+{"PLAYER": "Caligiuri", "PER": "Hitz"}
+{"ASSIST": "Ibisevic", "TEAM": "Mainzer", "PLAYER": "Boka"}
+{"PLAYER": "Farfan"}
+{"PLAYER": "Ekici"}
+{"PLAYER": "Blaszczykowski"}
+{"PLAYER": "Schwegler"}
+{}
+{"PLAYER": "Volland"}
+{"PLAYER": "Pizarro", "SCORE": "2:2"}
+{"PER": "Schwegler", "ASSIST": "Meier"}
+{"PLAYER": "Kroos", "ASSIST": "Javi Martinez"}
+{"PLAYER": "Lewandowski", "ASSIST": "Reus"}
+{"PLAYER": "Ya Konan", "SCORE": "2:1"}
+{"PER": "Halil Altintop", "ASSIST": "Framberger"}
+{"PLAYER": "Neust\u00e4dter", "ASSIST": "Fuchs"}
+{"PLAYER": "Stark", "ASSIST": "Arango"}
+{"PLAYER": "Bobadilla", "SCORE": "4:0"}
+{"ASSIST": "Juan Bernat", "PLAYER": "Alaba"}
+{"ASSIST": "\u00d6zil"}
+{"PLAYER": "Choupo-Moting"}
+{"PLAYER": "Podolskis", "PER": "Lanig"}
+{"PLAYER": "Maza"}
+{"PLAYER": "Thiago", "TEAM": "FC"}
+{"PLAYER": "Pr\u00f6dl", "SCORE": "0:3", "PER": "Kadlec"}
+{"ASSIST": "Choupo-Moting"}
+{"ASSIST": "Meier", "PLAYER": "Kadlec"}
+{"PLAYER": "Keita"}
+{"PLAYER": "Lewandowski", "ASSIST": "Robben"}
+{"PLAYER": "Hunt", "PER": "Walace", "ASSIST": "M\u00fcller"}
+{"KEEPER": "Wiese", "PER": "Fritz", "ASSIST": "Baumgartlinger"}
+{"ASSIST": "Framberger"}
+{"PER": "Lazaro", "ASSIST": "Pekarik"}
+{"PER": "Diegos", "PLAYER": "Naldo"}
+{"PLAYER": "Stindl"}
+{"ASSIST": "Ramos", "PLAYER": "Hubnik"}
+{"PLAYER": "Schwegler"}
+{"ASSIST": "Bellarabi"}
+{"ASSIST": "Niederlechner", "PLAYER": "Grifo"}
+{"PLAYER": "M\u00f6lders"}
+{"ASSIST": "G\u00fcndogans", "PLAYER": "Frantz"}
+{"ASSIST": "Sahins", "PLAYER": "Hummels"}
+{"PLAYER": "Boka", "KEEPER": "Sippel"}
+{"PER": "Marcelo", "PLAYER": "Roberto Firmino", "SCORE": "4:1"}
+{"PLAYER": "Allagui"}
+{"ASSIST": "Perisic", "PLAYER": "Dost"}
+{"ASSIST": "Friedrich", "PLAYER": "Kie\u00dfling"}
+{"PLAYER": "Didavi", "PER": "Bazoer"}
+{"ASSIST": "Haggui"}
+{"PLAYER": "Garcia"}
+{"PLAYER": "M\u00fcller"}
+{"PLAYER": "Castro", "PER": "Benaglio"}
+{"ASSIST": "Luiz Gustavo", "PER": "Frings"}
+{"ASSIST": "Kruse"}
+{"PLAYER": "Reus"}
+{"PLAYER": "Riether"}
+{"PLAYER": "Werner"}
+{"PER": "Garcia", "PLAYER": "Kiyotake"}
+{"ASSIST": "Haraguchi", "PER": "Sakai"}
+{"PLAYER": "Hegeler"}
+{"SCORE": "3:1", "PLAYER": "Stenzel"}
+{"PLAYER": "Gomez", "PER": "F\u00e4hrmann"}
+{"PLAYER": "Drmic", "SCORE": "2:0"}
+{"ASSIST": "H\u00fcnemeier", "PER": "Sakai"}
+{"ASSIST": "Hector", "SCORE": "1:1"}
+{"PLAYER": "Didavi"}
+{"ASSIST": "Huntelaar"}
+{"PLAYER": "Forsberg"}
+{}
+{"ASSIST": "Fritz", "PLAYER": "Petersen"}
+{"PLAYER": "Diego"}
+{"PLAYER": "Fuchs", "ASSIST": "H\u00f6ger"}
+{"PLAYER": "Lewandowski", "ASSIST": "James"}
+{"ASSIST": "Park"}
+{"ASSIST": "Stindl"}
+{"PLAYER": "H\u00f6wedes", "SCORE": "1:0"}
+{"ASSIST": "Elia"}
+{"ASSIST": "Marin"}
+{"PLAYER": "Sahin"}
+{"PLAYER": "Chicharito"}
+{"PLAYER": "Philipp", "KEEPER": "Hitz"}
+{"PLAYER": "James"}
+{"PLAYER": "Kramaric"}
+{"ASSIST": "Sorg", "PER": "Darida"}
+{"PLAYER": "Kolasinac", "ASSIST": "Choupo-Moting"}
+{"PLAYER": "Sabitzer"}
+{"PLAYER": "Allagui"}
+{"PLAYER": "Allagui"}
+{"PLAYER": "Modeste", "PER": "Stranzl"}
+{"PLAYER": "Lewandowski"}
+{"PER": "Demme", "ASSIST": "Lookman"}
+{"PLAYER": "Aubameyang"}
+{"PLAYER": "Schipplock"}
+{"PLAYER": "Podolski", "KEEPER": "Ulreich", "PER": "Maza"}
+{"ASSIST": "Chicharito", "PLAYER": "Havertz"}
+{"PLAYER": "Drmic"}
+{"ASSIST": "Bender", "PLAYER": "Castro"}
+{"PLAYER": "Caligiuri"}
+{"PLAYER": "Raffael", "SCORE": "1:0", "PER": "Baumann"}
+{"PLAYER": "Daems"}
+{"ASSIST": "Aubameyang"}
+{"PLAYER": "Kruse"}
+{"PLAYER": "Werner", "PER": "Fritz"}
+{"PLAYER": "Pander"}
+{"PLAYER": "Grillitsch", "SCORE": "3:2"}
+{"PER": "Garcia", "ASSIST": "Bartels"}
+{"ASSIST": "Ribery"}
+{"ASSIST": "Goretzka"}
+{"PLAYER": "Firmino"}
+{"PER": "Brekalo", "PLAYER": "Origi", "SCORE": "2:1", "ASSIST": "Malli"}
+{"PLAYER": "M\u00fcller"}
+{"ASSIST": "Bobadilla"}
+{"ASSIST": "G\u00f6tze", "PLAYER": "Reus"}
+{"PLAYER": "Coman"}
+{"PLAYER": "Lezcano"}
+{"PER": "Hitz", "ASSIST": "Vidals"}
+{"TEAM": "Werderaner", "PLAYER": "Polter", "SCORE": "2:1"}
+{"PLAYER": "Modeste", "ASSIST": "Risses"}
+{"PLAYER": "Verhaegh", "KEEPER": "Hansen"}
+{"PLAYER": "Van Nistelrooy"}
+{"PLAYER": "Ronny"}
+{"ASSIST": "Wagner", "KEEPER": "Sommer"}
+{"PLAYER": "Cordoba"}
+{"PLAYER": "Castros"}
+{"PLAYER": "Zidan"}
+{"ASSIST": "Castro"}
+{"ASSIST": "Farfan", "PLAYER": "Huntelaar"}
+{"PLAYER": "Huszti"}
+{"PLAYER": "Stindl", "PER": "Tah"}
+{"PLAYER": "Maxim"}
+{"SCORE": "1:0", "PLAYER": "Javi Martinez", "TEAM": "Bayern"}
+{"PER": "Tr\u00e4schs", "ASSIST": "Boka"}
+{"PLAYER": "Szalai", "ASSIST": "Neust\u00e4dter"}
+{"ASSIST": "Kiyotake", "PLAYER": "Drmic"}
+{"TEAM": "FC", "PER": "Boatengs", "PLAYER": "Gnabrys"}
+{"ASSIST": "Rafinha", "PLAYER": "S\u00fcle"}
+{"KEEPER": "Tschauner", "ASSIST": "Sch\u00fcrrle"}
+{"PLAYER": "Wendt", "ASSIST": "Raffael"}
+{"ASSIST": "Kaderabek", "PLAYER": "Zuber"}
+{"ASSIST": "G\u00f6tze"}
+{"ASSIST": "Grifo", "PLAYER": "Hazard"}
+{"ASSIST": "Raffael"}
+{"PLAYER": "Szalai"}
+{"PLAYER": "Ibisevic"}
+{"PLAYER": "Werner"}
+{"ASSIST": "Schlaudraff", "PLAYER": "Diouf"}
+{"ASSIST": "Ignjovskis"}
+{"ASSIST": "Wendt"}
+{"PLAYER": "Herdling"}
+{"PLAYER": "Chicharito"}
+{"PLAYER": "Nilsson", "ASSIST": "Ekici"}
+{"PLAYER": "Seferovic", "PER": "Didavi"}
+{"PLAYER": "Kruse", "PER": "Tah"}
+{"PLAYER": "Barrios", "KEEPER": "Sippels"}
+{"PLAYER": "San\u00e9"}
+{"PLAYER": "Zidan"}
+{"ASSIST": "Finnbogason"}
+{"PLAYER": "Derdiyok", "TEAM": "Freiburger"}
+{"KEEPER": "Wiedwald", "ASSIST": "Bartels"}
+{"PLAYER": "Moravek", "SCORE": "5:0", "TEAM": "S04"}
+{"ASSIST": "Elia"}
+{"PLAYER": "Gouweleeuw"}
+{"PLAYER": "Stindl", "SCORE": "1:1"}
+{"PLAYER": "Ebbers", "PER": "Kruse"}
+{"PER": "Hoogland"}
+{"PLAYER": "Werner"}
+{"PLAYER": "Cacau", "KEEPER": "Sch\u00e4fer"}
+{"PLAYER": "Petersen"}
+{"PER": "G\u00f6tze"}
+{"PLAYER": "Polanski", "PER": "Leno", "ASSIST": "Choupo-Moting"}
+{"PLAYER": "Felipe Santana"}
+{"ASSIST": "Diego"}
+{"PLAYER": "Gunkel", "TEAM": "Mainzer"}
+{"ASSIST": "Goretzka"}
+{"PLAYER": "Brooks"}
+{"ASSIST": "Neust\u00e4dter", "PLAYER": "Bastos"}
+{"PLAYER": "Kruse", "SCORE": "2:0"}
+{"PLAYER": "Obasi", "KEEPER": "Casteels"}
+{"PLAYER": "Herrmann", "SCORE": "2:0"}
+{"PLAYER": "Kie\u00dfling", "KEEPER": "Adler", "SCORE": "4:2"}
+{"PLAYER": "De Bruyne"}
+{"ASSIST": "Lewandowski", "PER": "Sokratis"}
+{"ASSIST": "Wendt"}
+{"PLAYER": "Brekalo", "PER": "B\u00fcrki"}
+{"PLAYER": "Kie\u00dfling"}
+{"ASSIST": "Jurado", "PLAYER": "Edu"}
+{"PLAYER": "Rausch", "ASSIST": "Ya Konan"}
+{"PLAYER": "Bobadilla", "ASSIST": "Werner"}
+{"ASSIST": "Caiuby"}
+{"PLAYER": "Raffael"}
+{"PLAYER": "Rudnevs"}
+{"PLAYER": "Kostic"}
+{"PLAYER": "Salihovic"}
+{"PER": "Kampl", "ASSIST": "Bellarabi"}
+{"PER": "Cohen", "ASSIST": "Chandler"}
+{"ASSIST": "Bender", "PLAYER": "Bailey"}
+{"PLAYER": "Verhaegh"}
+{"PLAYER": "Kruse"}
+{"PLAYER": "Huntelaar", "PER": "Sokratis"}
+{"PLAYER": "Arango"}
+{"PLAYER": "Prib"}
+{"PER": "M\u00f6lders", "PLAYER": "Altintop"}
+{"ASSIST": "Nordtveit"}
+{"PLAYER": "Verhaegh"}
+{"TEAM": "Wolfsburger", "PLAYER": "Ciss\u00e9", "SCORE": "1:1"}
+{"PLAYER": "Finnbogason", "PER": "Vestergaard"}
+{"PLAYER": "Huszti"}
+{"PLAYER": "Kie\u00dfling"}
+{"ASSIST": "Bender"}
+{"ASSIST": "De Bruyne", "PLAYER": "Hunt"}
+{"PLAYER": "Bungert", "SCORE": "3:1", "ASSIST": "Ivanschitz"}
+{"PLAYER": "Choupo-Moting"}
+{"PLAYER": "Modeste"}
+{"PLAYER": "Choupo-Moting"}
+{"PLAYER": "Chandler"}
+{"PLAYER": "Didavi"}
+{"PLAYER": "Rodriguez"}
+{"PLAYER": "Kruse"}
+{"PLAYER": "Stindl"}
+{"PLAYER": "Westermann"}
+{"ASSIST": "Baumgartlinger"}
+{"PLAYER": "Modeste"}
+{"PER": "Rudy", "ASSIST": "Kehl"}
+{"ASSIST": "Mandzukic", "PLAYER": "Helmes"}
+{"TEAM": "Bremens", "PLAYER": "Frings"}
+{"PLAYER": "Trochowski"}
+{"PLAYER": "Calhanoglu"}
+{"PLAYER": "van der Vaart"}
+{"PLAYER": "Luiz Gustavo"}
+{"PLAYER": "Hunt"}
+{"PLAYER": "Kagawa", "SCORE": "3:0"}
+{"PLAYER": "Johnson"}
+{"PLAYER": "Hubnik", "PER": "Baumann"}
+{"ASSIST": "Huszti"}
+{"PLAYER": "Matip"}
+{"ASSIST": "De Blasis"}
+{"PLAYER": "Helmes"}
+{"PLAYER": "Nilsson", "ASSIST": "Plattenhardt"}
+{"PLAYER": "Sabitzer"}
+{"PLAYER": "Szalai", "PER": "Wollscheid", "SCORE": "1:1"}
+{"PLAYER": "Shaqiri", "ASSIST": "Ribery", "TEAM": "Augsburger"}
+{"PER": "Castro", "PLAYER": "Piszczek"}
+{"PLAYER": "Fink"}
+{"PLAYER": "Lakic", "ASSIST": "Moravek"}
+{"PLAYER": "Schieber"}
+{"PLAYER": "Ivanschitz"}
+{"TEAM": "Fohlen"}
+{}
+{"PLAYER": "Pekhart"}
+{"PLAYER": "Malli"}
+{"PLAYER": "Lasogga"}
+{"PLAYER": "Wendell"}
+{"PLAYER": "Subotic"}
+{"PLAYER": "Hummels"}
+{"PLAYER": "Xhaka", "ASSIST": "Raffael"}
+{"PLAYER": "Arnold", "PER": "Leno"}
+{"PLAYER": "Vieirinha", "SCORE": "2:1"}
+{"ASSIST": "Sch\u00fcrrle", "PER": "Boenisch"}
+{"PLAYER": "Zimling", "TEAM": "Mainz"}
+{"ASSIST": "Ribery", "PLAYER": "Mandzukic"}
+{"PER": "Vrancic", "ASSIST": "Reichel"}
+{"PER": "Plattenhardt"}
+{"PLAYER": "Raffael", "PER": "Kehrer", "ASSIST": "Strobl"}
+{"PLAYER": "Gomez", "PER": "Haggui", "SCORE": "5:0"}
+{"ASSIST": "Plattenhardt", "PLAYER": "Campana"}
+{"PLAYER": "Pizarro"}
+{"PLAYER": "Szalai"}
+{"PLAYER": "Darida", "SCORE": "1:0"}
+{"PLAYER": "Bell", "KEEPER": "Karius"}
+{"PLAYER": "Koo"}
+{"ASSIST": "Djurdjic"}
+{"TEAM": "Augsburger", "PLAYER": "Vogt"}
+{}
+{"ASSIST": "Maxim", "PLAYER": "Kostic"}
+{"PLAYER": "De Blasis"}
+{"PER": "Oczipkas", "ASSIST": "Abraham"}
+{"ASSIST": "Ibisevic"}
+{"ASSIST": "Max"}
+{"PLAYER": "Ginczek", "ASSIST": "Harnik"}
+{}
+{"PLAYER": "Robben"}
+{"ASSIST": "Stambouli", "PLAYER": "Burgstaller", "KEEPER": "Weidenfeller"}
+{"PER": "Schmelzer", "ASSIST": "Werner"}
+{"PLAYER": "Kumbela", "SCORE": "3:2"}
+{"PLAYER": "Selke"}
+{"PLAYER": "Thommy"}
+{"PLAYER": "Malli"}
+{"PLAYER": "di Santo"}
+{"PLAYER": "Prib", "ASSIST": "Asamoahs"}
+{"PER": "Augustin", "ASSIST": "Lookman"}
+{"PLAYER": "Frings", "TEAM": "Werderaner"}
+{"ASSIST": "Bartels"}
+{"PER": "Raffael", "ASSIST": "Ramos"}
+{"PLAYER": "Gnabry", "KEEPER": "Kruse", "TEAM": "Hamburger"}
+{"PLAYER": "Kiyotake"}
+{"PLAYER": "Sch\u00fcrrle"}
+{"ASSIST": "Son"}
+{"PLAYER": "Boateng"}
+{"ASSIST": "Levels"}
+{"PLAYER": "Lewandowski"}
+{"KEEPER": "Weidenfeller", "PLAYER": "Schieber"}
+{"ASSIST": "Osako", "PLAYER": "Ujah"}
+{"PLAYER": "Arango", "TEAM": "Hoffenheims"}
+{"ASSIST": "Castro", "PLAYER": "Wollscheid"}
+{"KEEPER": "Manninger", "PER": "Klavan", "ASSIST": "Huszti"}
+{"PLAYER": "Hummels", "SCORE": "1:0"}
+{"ASSIST": "Caiuby"}
+{"ASSIST": "Chandler"}
+{"PLAYER": "Meier"}
+{"PLAYER": "Lewandowski"}
+{"ASSIST": "Reus", "PER": "Elvedi", "PLAYER": "Dembel\u00e9"}
+{"ASSIST": "Delaney", "PLAYER": "Belfodil"}
+{"PLAYER": "Mor"}
+{"PLAYER": "Chicharito"}
+{"PER": "F\u00fcrstner", "ASSIST": "Prib"}
+{"ASSIST": "Berggreen", "PLAYER": "Quaison", "PER": "Veljkovic"}
+{"ASSIST": "Fuchs", "PER": "Hain"}
+{"PLAYER": "Caligiuri"}
+{"PLAYER": "Kimmich"}
+{"PLAYER": "Braafheid"}
+{"ASSIST": "Sakai", "PLAYER": "Maza"}
+{"PLAYER": "Podolski"}
+{"PLAYER": "Van der Vaart"}
+{"ASSIST": "Rodriguez"}
+{"PLAYER": "Halstenberg", "KEEPER": "Jarstein", "ASSIST": "Demme"}
+{"PLAYER": "Pekhart", "PER": "Friedrich", "ASSIST": "Plattenhardt"}
+{"PLAYER": "Huntelaar"}
+{"PLAYER": "Okazaki", "ASSIST": "Junior Diaz"}
+{"PLAYER": "Meier"}
+{"PLAYER": "Sch\u00fcrrle"}
+{"PLAYER": "Choupo-Moting", "PER": "Meha"}
+{"PLAYER": "Kalou", "ASSIST": "Haraguchi"}
+{"ASSIST": "Burgstaller", "PLAYER": "Goretzka", "KEEPER": "Adler"}
+{"PLAYER": "Chihi"}
+{"PER": "Bender", "PLAYER": "G\u00f6tze"}
+{"PLAYER": "Lewandowski"}
+{"ASSIST": "Schipplock", "PLAYER": "Modeste"}
+{"PLAYER": "Kie\u00dfling", "SCORE": "2:0", "PER": "Papadopoulos"}
+{"ASSIST": "Plattenhardt"}
+{"PLAYER": "McKenna"}
+{"ASSIST": "Wendt"}
+{"PLAYER": "Delaney"}
+{"ASSIST": "Bargfrede"}
+{"ASSIST": "Castro", "SCORE": "3:2"}
+{"PER": "Leno", "ASSIST": "Michel Bastos"}
+{"PLAYER": "Ciss\u00e9"}
+{"TEAM": "Werder", "SCORE": "2:1", "PLAYER": "di Santo"}
+{"PLAYER": "Hahn"}
+{"PLAYER": "Farfan"}
+{"PLAYER": "Arango"}
+{"ASSIST": "Piszczek", "PLAYER": "Aubameyang", "PER": "Horn"}
+{"PLAYER": "Hummels", "ASSIST": "Schmelzers"}
+{"PER": "Ribery"}
+{"PER": "Hummels", "ASSIST": "Gro\u00dfkreutz"}
+{"ASSIST": "Haraguchi"}
+{"PLAYER": "Polanski"}
+{"PER": "Stindl", "PLAYER": "Amiri"}
+{"PLAYER": "Rausch", "SCORE": "2:0"}
+{"PLAYER": "Junuzovic"}
+{"ASSIST": "M\u00fcllers", "PER": "Ginter"}
+{"PLAYER": "Gomez"}
+{"PLAYER": "Bungert", "ASSIST": "Malli"}
+{"ASSIST": "Salihovic"}
+{"PLAYER": "Nordtveit"}
+{"ASSIST": "Piszczek", "PLAYER": "Reus"}
+{"ASSIST": "Mkhitaryan"}
+{"PLAYER": "Meier"}
+{"PLAYER": "Cigerci"}
+{"PLAYER": "M\u00fcller", "PER": "B\u00fcrki"}
+{"PLAYER": "Harnik"}
+{"PLAYER": "Lewandowski"}
+{"PLAYER": "Di Santo"}
+{}
+{"PLAYER": "Bruns", "PER": "Bailly"}
+{"ASSIST": "Pinto", "PLAYER": "Schulz"}
+{"PLAYER": "Sakai"}
+{"PLAYER": "Okazaki"}
+{"ASSIST": "Maxim", "PLAYER": "Ginczek", "PER": "H\u00fcnemeier"}
+{"ASSIST": "Modeste"}
+{"PER": "Zidan", "TEAM": "Augsburger", "ASSIST": "Choupo-Moting"}
+{"TEAM": "Werderaner", "PLAYER": "Frings"}
+{"PER": "Javi Martinez", "ASSIST": "M\u00fcller"}
+{"PLAYER": "Ribery", "ASSIST": "M\u00fcller"}
+{"ASSIST": "Werners", "PLAYER": "Klavan"}
+{"ASSIST": "Pinto", "PLAYER": "Schlaudraff"}
+{"PLAYER": "H\u00f6wedes"}
+{"PLAYER": "Elyounoussi"}
+{"PER": "Renato Augusto", "ASSIST": "Bender"}
+{"PLAYER": "Lewandowski"}
+{"PLAYER": "Koo", "SCORE": "2:2"}
+{"PLAYER": "San\u00e9", "ASSIST": "Schwegler"}
+{"TEAM": "Leverkusen"}
+{"PLAYER": "Pekhart", "KEEPER": "Sippel"}
+{"PLAYER": "Castaignos", "ASSIST": "Seferovic"}
+{"ASSIST": "Dejagah"}
+{"PLAYER": "Burgstaller", "SCORE": "4:0"}
+{"ASSIST": "Schmelzer"}

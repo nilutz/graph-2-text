@@ -132,22 +132,20 @@ def preprocess_triples(df, options, classtype = '', ctx = True, verbose = False)
     reference = []
 
     count = 0
-    for i in range(0, len(df)):
+    for i, row in df.iterrows():
 
-       
         try:
-            triples = df.at[i,'triples']
+            triples = row.triples
             if type(triples) is float:
                 continue
+            if len(triples) == 0 or triples is None:
+                continue 
         except:
             #print('some error')
             continue
-        #no empty triples !!!
-        if triples is None or len(triples)==0:
-            continue
         count += 1
         
-        text = df.at[i,'text']
+        text = row.text
         if options['lower'] and options['notdelex']:
             text = df.at[i,'text'].lower()
         elif options['lower'] and options['notdelex'] == False:
@@ -161,9 +159,6 @@ def preprocess_triples(df, options, classtype = '', ctx = True, verbose = False)
                 text = ' '.join(lower)
             except:
                 continue
-        #else:
-        #    print('No options specified')
-
 
         if type(text) is float:
             continue
@@ -195,11 +190,11 @@ def preprocess_triples(df, options, classtype = '', ctx = True, verbose = False)
         source_out.append(' '.join(out_src.split()))
         
         if ctx:
-            context.append(df.at[i,'class'])
+            context.append(row['class'])
 
         if options['notdelex'] == False:
-            relex.append(json.dumps(df.at[i, 'relexDict']))
-            reference.append(df.at[i,'referenceText'])
+            relex.append(json.dumps(row['relexDict']))
+            reference.append(row['referenceText'])
 
     if options['notdelex'] == False:
         concat = list(zip(source_nodes_out, source_edges_out_labels, source_edges_out_node1, source_edges_out_node2, target_out, context, source_out, relex, reference))
