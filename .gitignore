@@ -1,5 +1,6 @@
 glove/
 eval_tools/
+saved_runs/
 
 # repo-specific stuff
 pred.txt
