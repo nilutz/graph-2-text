@@ -1420,7 +1420,7 @@ Processing id1415:1
 Processing id1416:1
 Processing id1417:1
 Processing id1418:1
-Total TER: 0.6014525819453951 (15817.0/26298.0)
-Number of calls to beam search: 7501
+Total TER: 0.5917180013689254 (15561.0/26298.0)
+Number of calls to beam search: 7871
 Number of segments scored: 1419
-Number of shifts tried: 6082
+Number of shifts tried: 6452
