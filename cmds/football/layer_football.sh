@@ -1,10 +1,9 @@
 #!/bin/bash
 
-for type in delex_attr_postfix
+for type in delex_attr_postfix, delex_attr_postfix_simple
 do
-for num in 11
+for num in 101
 do
-
 
 for layer in  3 5 7 9 
 do

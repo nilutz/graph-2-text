@@ -9,7 +9,7 @@ import re
 )
 def main(topdir = '.'):
 
-    types_ = ['delex_attr_', 'delex_attr_postfix_', 'notdelex_attr_', 'notdelex_attr_postfix_','delex_attr_postfix_simple_']
+    types_ = ['notdelex_attr_', 'notdelex_attr_postfix_','delex_attr_', 'delex_attr_postfix_', 'delex_attr_postfix_simple_']
     nums = [str(i) for i in range(1,4)]
 
     for types in types_:
