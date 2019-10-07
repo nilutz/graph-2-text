@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for type in delex_attr_postfix, delex_attr_postfix_simple
+for type in delex_attr_postfix delex_attr_postfix_simple
 do
 for num in 101
 do
