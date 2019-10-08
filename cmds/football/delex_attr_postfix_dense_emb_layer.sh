@@ -4,7 +4,7 @@ for type in delex_attr_postfix
 do
 for con in dense residual
 do 
-for emb in 256 512 1014
+for emb in 256 512 1024
 do
 for layer in 3 4 5
 do
