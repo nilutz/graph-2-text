@@ -4,11 +4,11 @@ for type in delex_attr_postfix delex_attr_postfix_simple
 do
 for num in 103
 do
-for layer in  3 5 7 9 
+for layer in 2 3 5 7 9 
 do
 for con in dense residual
 do
-for embsize in 512 1024
+for embsize in 256 512 1024
 do
 
 #train
