@@ -7,13 +7,14 @@ import json
 @plac.annotations(
     inputdir = ("dir to predfile", "option", "t", str),
     predfile = ('name of predfile', 'option', "p", str),
-    refile = ('path to referencefile', 'option', 'r', str)
+    refile = ('path to referencefile', 'option', 'r', str),
+    partition = ('partition', 'option','partition', str)
 )
 def main(inputdir = '../data/data-football/delex_', partition = '', predfile = 'relexicalized_predictions_test.txt', refile = ''):
     
     references = []  # each element is a list of references
     pure_references = []
-    initialref = inputdir + partition + refile
+    initialref = inputdir + refile
     
     
     ## TER

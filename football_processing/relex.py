@@ -5,7 +5,8 @@ import json
 @plac.annotations(
     topdir = ("dir to predfile", "option", "t", Path),
     predfile = ('name of predfile', 'option', "p", Path),
-    ref = ('ref file ', 'option', 'r', str)
+    ref = ('ref file ', 'option', 'r', str),
+    out = ('outfilnemae', 'option', 'out', str)
 )
 def main(topdir = '../data/data-football/delex_', predfile = 'delexicalized_predictions_test.txt', out = 'relex_predictions_test.txt', ref ='test-data-football-gcn-delex.relex'):
 
@@ -47,7 +48,10 @@ def main(topdir = '../data/data-football/delex_', predfile = 'delexicalized_pred
         
         relex_sents.append(' '.join(relex_sentence))
 
-    outfileName = 'relexicalised_predictions_'+parts[-2]+'_'+parts[-1].split('.')[0]+'.txt'
+    if out:
+        outfileName = out
+    else:
+        outfileName = 'relexicalised_predictions_'+parts[-2]+'_'+parts[-1].split('.')[0]+'.txt'
     with open( str(topdir / outfileName), 'w+', encoding='utf8') as f:
         f.write(''.join(relex_sents) ) 
 
