@@ -1,5 +1,6 @@
 glove/
-eval_tools/
+eval_tools/meteor-master
+eval_tools/tercom-master
 saved_runs/
 
 # repo-specific stuff

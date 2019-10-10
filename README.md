@@ -9,6 +9,8 @@ Basically I added some code for the context vectors and my own dataset
  - [Networkx](https://networkx.github.io) 
  - Docker
 
+ for evaluation for meteor and ter. Download [METEOR](https://www.cs.cmu.edu/~alavie/METEOR/README.html) and [TER](https://github.com/jhclark/tercom), extract and put into eval_tools. All scripts will search for "meteor-master" and "tercom-master". But the docker image should handle all dependencies.
+
 # Install
 Clone and cd into directory. We use docker that installs all requirements in a docker container. Run:
 	
@@ -33,6 +35,10 @@ and run the commands or go to cmds/webnlg to run an sh script running all in ord
 
 
 In general follow the instructions below, to reproduce experiments go into subdirectory /cmds. There convenience shell scripts provide a short way to run all experiments.
+
+	cd cmds
+
+and follow the instructions.
 
 ## Prepare data
 Run [data-extractor]() and get a sentences_full_{not}delex.pkl file and put it in data/data-football/, then for generating the input:
@@ -145,13 +151,10 @@ For evaluation cd in football_preprocessing and run a preprocessing script.
 
 
 # CMDS
-the /cmds folder provides sh script running the above command in order with correct type and numbering, for both webnlg and football tasks.
-
-
+the /cmds folder provides sh script running the above command in order with, for both webnlg and football tasks.
 
 # Ideas / Todo
 * BPE
-* make context into logging
 * https://github.com/wouterkool/stochastic-beam-search
 * https://github.com/huggingface/transfer-learning-conv-ai/blob/master/interact.py
 
