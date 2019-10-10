@@ -20,6 +20,8 @@ def main(inputdir = '../data/data-football/delex_', partition = '', predfile = '
     ## TER
 
     name = predfile.split('_')[-2] +'_'+predfile.split('_')[-1].replace('.txt','') 
+    if partition != '':
+        name = ''
     ##ter refs
     # complete refs with references for all sents
     with open(initialref, 'r') as f:

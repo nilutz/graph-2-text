@@ -6,12 +6,34 @@ import re
 
 @plac.annotations(
     topdir = ("dir to predfile", "option", "t", str),
+    experiment = ("experiment  number ","option", "e", int),
+
 )
-def main(topdir = '.'):
+def main(topdir = '.', experiment = 1):
 
-    types_ = ['notdelex_attr_', 'notdelex_attr_postfix_','delex_attr_', 'delex_attr_postfix_', 'delex_attr_postfix_simple_']
-    nums = [str(i) for i in range(1,4)]
+    if experiment == 1 or 3:
+        types_ = ['notdelex_attr_', 'notdelex_attr_postfix_','delex_attr_', 'delex_attr_postfix_', 'delex_attr_postfix_simple_']
+        
+        if experiment == 1:
+            nums = [str(i) for i in range(1,4)]
+        else:
+            nums = [str(i) for i in range(4,7)]
+    elif experiment == 2:
+        types_ = ['hyper_dense_256_3_1_c', 'hyper_dense_256_4_1_c', 'hyper_dense_256_5_1_c',
+                 'hyper_dense_512_3_1_c', 'hyper_dense_512_4_1_c', 'hyper_dense_512_5_1_c',
+                 'hyper_dense_1024_3_1_', 'hyper_dense_1024_4_1_', 'hyper_dense_1024_5_1_',
+                 'hyper_residual_256_3_', 'hyper_residual_256_4_', 'hyper_residual_256_5_',
+                 'hyper_residual_512_3_', 'hyper_residual_512_4_', 'hyper_residual_512_5_',
+                 'hyper_residual_1024_3', 'hyper_residual_1024_4', 'hyper_residual_1024_5',
+        ]
+        nums = [str(i) for i in range(1)]
 
+    elif experiment == 3:
+        pass
+    else:
+        raise "UNDEFINED EXPERIMENT"
+
+    print('AVG Metrics for experiment: ', experiment)
     for types in types_:
         bleus=[]
         ters=[]
@@ -20,11 +42,18 @@ def main(topdir = '.'):
         ctx2 = []
 
         for n in nums:
-            filenameb = topdir + "/out_bleu_"+types+n+'.txt'
-            filenamet = topdir + "/out_ter_"+types+n+'.txt'
-            filenamem = topdir + "/out_meteor_"+types+n+'.txt'
-            filenamec = '../../data/data-football/'+types+'/ctx_eval_'+n+'_details.txt'
 
+            if experiment == 1 or 3:
+                filenameb = topdir + "/out_bleu_"+types+n+'.txt'
+                filenamet = topdir + "/out_ter_"+types+n+'.txt'
+                filenamem = topdir + "/out_meteor_"+types+n+'.txt'
+                filenamec = '../../data/data-football/'+types+'/ctx_eval_'+n+'_details.txt'
+            else:
+                filenameb = topdir + "/out_bleu_delex_attr_postfix_"+types+'.txt'
+                filenamet = topdir + "/out_ter_delex_attr_postfix_"+types+'.txt'
+                filenamem = topdir + "/out_meteor_delex_attr_postfix_"+types+'.txt'
+                filenamec = '../../data/data-football/delex_attr_postfix_/ctx_eval_delex_attr_postfix_'+types+'_details.txt'
+  
             with open( str(filenameb) , 'r') as f:
                 for line in f:
                     if 'BLEU' in line:
@@ -44,6 +73,7 @@ def main(topdir = '.'):
                         ctx1.append(float(re.sub('score:','',line.split()[2]) ) )
                     if 'CTXE2' in line:
                         ctx2.append(float(re.sub(r'ref\):','',line.split()[4] ) ) )
+
         print(types)
         print('BLEU   MEAN: ', np.mean(bleus), '  std: ', np.std(bleus), bleus)
         print('METEOR MEAN: ', np.mean(meteors), '  std: ',np.std(meteors), meteors)

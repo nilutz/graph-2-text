@@ -1,0 +1,4259 @@
+0.0 0 
+ wehrt 
+
+0.0 0 
+ klärt 
+
+0.0 0 
+ garniert 
+
+0.0 0 
+ steckt 
+
+0.0 0 
+ scheitert 
+
+0.0 0 
+ steckt 
+
+0.0 0 
+ zieht 
+
+0.0 0 
+ treibt 
+
+0.0 0 
+ wollte 
+
+0.0 0 
+ gelangt 
+
+0.0 0 
+ bringt 
+
+0.0 0 
+ flankt 
+
+0.0 0 
+ schaffte 
+
+0.0 0 
+ traf 
+
+0.0 0 
+ machte 
+
+0.0 0 
+ flankte 
+
+0.0 0 
+ legt 
+
+0.0 0 
+ wird 
+
+0.0 0 
+ staubte 
+
+0.0 0 
+ half 
+
+0.0 0 
+ legt 
+
+0.0 0 
+ verwandelte 
+
+0.0 0 
+ vernaschte 
+
+0.0 0 
+ nimmt 
+
+0.0 0 
+ leitet 
+
+0.0 0 
+ war 
+
+0.0 0 
+ setzt 
+
+0.0 0 
+ verlängert 
+
+0.0 0 
+ schaltet 
+
+0.0 0 
+ prallte 
+
+0.0 0 
+ bekam 
+
+0.0 0 
+ stoppte 
+
+0.0 0 
+ tritt 
+
+0.0 0 
+ erlöst 
+
+0.0 0 
+ flankt 
+
+0.0 0 
+ schlug 
+
+0.0 0 
+ leitet 
+
+0.0 0 
+ steckt 
+
+0.0 0 
+ war 
+
+0.0 0 
+ findet 
+
+0.0 0 
+ setzte 
+
+0.0 0 
+ verteidigten 
+
+0.0 0 
+ setzt 
+
+0.0 0 
+ war 
+
+0.0 0 
+ bestrafte 
+
+0.0 0 
+ legt 
+
+0.0 0 
+ bedient 
+
+0.0 0 
+ kommt 
+
+0.0 0 
+ wischte 
+
+0.0 0 
+ verlängert 
+
+0.0 0 
+ zieht 
+
+0.0 0 
+ musste 
+
+0.0 0 
+ braucht 
+
+0.0 0 
+ bedient 
+
+0.0 0 
+ landet 
+
+0.0 0 
+ spielt 
+
+0.0 0 
+ zieht 
+
+0.0 0 
+ schlägt 
+
+0.0 0 
+ hat 
+
+0.0 0 
+ nimmt 
+
+0.0 0 
+ hat 
+
+0.0 0 
+ setzte 
+
+0.0 0 
+ vollstreckt 
+
+0.0 0 
+ bringt 
+
+0.0 0 
+ geht 
+
+0.0 0 
+ legte 
+
+0.0 0 
+ traf 
+
+0.0 0 
+ übernimmt 
+
+0.0 0 
+ verwandelt 
+
+0.0 0 
+ machte 
+
+0.0 0 
+ drehte 
+
+0.0 0 
+ setzte 
+
+0.0 0 
+ ist 
+
+0.0 0 
+ geht 
+
+0.0 0 
+ düpiert 
+
+0.0 0 
+ zeigte 
+
+0.0 0 
+ sind 
+
+0.0 0 
+ bringt 
+
+0.0 0 
+ kommt 
+
+0.0 0 
+ spielt 
+
+0.0 0 
+ machte 
+
+0.0 0 
+ landet 
+
+0.0 0 
+ tanzt 
+
+0.0 0 
+ greift 
+
+0.0 0 
+ zieht 
+
+0.0 0 
+ verharrt 
+
+0.0 0 
+ gelangte 
+
+0.0 0 
+ löst 
+
+0.0 0 
+ chippt 
+
+0.0 0 
+ zirkelt 
+
+0.0 0 
+ erwischt 
+
+0.0 0 
+ pariert 
+
+0.0 0 
+ setzt 
+
+0.0 0 
+ pariert 
+
+0.0 0 
+ kommt 
+
+0.0 0 
+ machte 
+
+0.0 0 
+ schickt 
+
+0.0 0 
+ treibt 
+
+0.0 0 
+ gibt 
+
+0.0 0 
+ hob 
+
+0.0 0 
+ bringen 
+
+0.0 0 
+ dribbelt 
+
+0.0 0 
+ rollt 
+
+0.0 0 
+ passt 
+
+0.0 0 
+ steht 
+
+0.0 0 
+ setzt 
+
+0.0 0 
+ beseitigte 
+
+0.0 0 
+ suchte 
+
+0.0 0 
+ hat 
+
+0.0 0 
+ behält 
+
+0.0 0 
+ war 
+
+0.0 0 
+ landet 
+
+0.0 0 
+ klatscht 
+
+0.0 0 
+ zirkelt 
+
+0.0 0 
+ kommt 
+
+0.0 0 
+ setzt 
+
+0.0 0 
+ foult 
+
+0.0 0 
+ nimmt 
+
+0.0 0 
+ hat 
+
+0.0 0 
+ zündet 
+
+0.0 0 
+ sucht 
+
+0.0 0 
+ läuft 
+
+0.0 0 
+ setzt 
+
+0.0 0 
+ verschätzte 
+
+0.0 0 
+ legt 
+
+0.0 0 
+ landet 
+
+0.0 0 
+ legte 
+
+0.0 0 
+ leitet 
+
+0.0 0 
+ zieht 
+
+0.0 0 
+ sprang 
+
+0.0 0 
+ kommt 
+
+0.0 0 
+ ist 
+
+0.0 0 
+ landet 
+
+0.0 0 
+ kam 
+
+0.0 0 
+ legt 
+
+0.0 0 
+ hat 
+
+0.0 0 
+ segelt 
+
+0.0 0 
+ zieht 
+
+0.0 0 
+ passt 
+
+0.0 0 
+ ist 
+
+0.0 0 
+ ist 
+
+0.0 0 
+ wurde 
+
+0.0 0 
+ legt 
+
+0.0 0 
+ machte 
+
+0.0 0 
+ kam 
+
+0.0 0 
+ ist 
+
+0.0 0 
+ bringt 
+
+0.0 0 
+ nimmt 
+
+0.0 0 
+ fand 
+
+0.0 0 
+ trifft 
+
+0.0 0 
+ kommt 
+
+0.0 0 
+ flankt 
+
+0.0 0 
+ flankt 
+
+0.0 0 
+ legt 
+
+0.0 0 
+ köpfte 
+
+0.0 0 
+ überrascht 
+
+0.0 0 
+ nahm 
+
+0.0 0 
+ setzt 
+
+0.0 0 
+ landete 
+
+0.0 0 
+ landet 
+
+0.0 0 
+ hatte 
+
+0.0 0 
+ brachte 
+
+0.0 0 
+ flankt 
+
+0.0 0 
+ tritt 
+
+0.0 0 
+ ist 
+
+0.0 0 
+ zieht 
+
+0.0 0 
+ steckt 
+
+0.0 0 
+ bedankt 
+
+0.0 0 
+ kann 
+
+0.0 0 
+ verwertete 
+
+0.0 0 
+ übernimmt 
+
+0.0 0 
+ behindern 
+
+0.0 0 
+ verwandelt 
+
+0.0 0 
+ ließ 
+
+0.0 0 
+ setzt 
+
+0.0 0 
+ läuft 
+
+0.0 0 
+ flankt 
+
+0.0 0 
+ tritt 
+
+0.0 0 
+ stört 
+
+0.0 0 
+ hat 
+
+0.0 0 
+ schlägt 
+
+0.0 0 
+ gibt 
+
+0.0 0 
+ setzte 
+
+0.0 0 
+ verschätzt 
+
+0.0 0 
+ leitete 
+
+0.0 0 
+ verliert 
+
+0.0 0 
+ lässt 
+
+0.0 0 
+ fiel 
+
+0.0 0 
+ läuft 
+
+0.0 0 
+ prallt 
+
+0.0 0 
+ geht 
+
+0.0 0 
+ mutiert 
+
+0.0 0 
+ verwandelte 
+
+0.0 0 
+ spielt 
+
+0.0 0 
+ kommt 
+
+0.0 0 
+ spitzelt 
+
+0.0 0 
+ fasst 
+
+0.0 0 
+ schickt 
+
+0.0 0 
+ zirkelt 
+
+0.0 0 
+ bediente 
+
+0.0 0 
+ legte 
+
+0.0 0 
+ schickt 
+
+0.0 0 
+ enteilt 
+
+0.0 0 
+ chippt 
+
+0.0 0 
+ schnappte 
+
+0.0 0 
+ schaltet 
+
+0.0 0 
+ legte 
+
+0.0 0 
+ zieht 
+
+0.0 0 
+ schiebt 
+
+0.0 0 
+ muss 
+
+0.0 0 
+ bekamen 
+
+0.0 0 
+ zirkelte 
+
+0.0 0 
+ kamen 
+
+0.0 0 
+ geht 
+
+0.0 0 
+ segelt 
+
+0.0 0 
+ sahen 
+
+0.0 0 
+ stand 
+
+0.0 0 
+ schlägt 
+
+0.0 0 
+ kann 
+
+0.0 0 
+ prallt 
+
+0.0 0 
+ landete 
+
+0.0 0 
+ zog 
+
+0.0 0 
+ holt 
+
+0.0 0 
+ klappt 
+
+0.0 0 
+ wird 
+
+0.0 0 
+ bewies 
+
+0.0 0 
+ sollte 
+
+0.0 0 
+ ging 
+
+0.0 0 
+ landet 
+
+0.0 0 
+ durchquerte 
+
+0.0 0 
+ hat 
+
+0.0 0 
+ hält 
+
+0.0 0 
+ passt 
+
+0.0 0 
+ segelt 
+
+0.0 0 
+ setzt 
+
+0.0 0 
+ wird 
+
+0.0 0 
+ läuft 
+
+0.0 0 
+ schickt 
+
+0.0 0 
+ traf 
+
+0.0 0 
+ schickt 
+
+0.0 0 
+ abstaubte 
+
+0.0 0 
+ scheitert 
+
+0.0 0 
+ findet 
+
+0.0 0 
+ wird 
+
+0.0 0 
+ rutscht 
+
+0.0 0 
+ foult 
+
+0.0 0 
+ sorgte 
+
+0.0 0 
+ gaben 
+
+0.0 0 
+ unterläuft 
+
+0.0 0 
+ streckte 
+
+0.0 0 
+ knipst 
+
+0.0 0 
+ will 
+
+0.0 0 
+ ging 
+
+0.0 0 
+ steigt 
+
+0.0 0 
+ kommt 
+
+0.0 0 
+ führen 
+
+0.0 0 
+ schlug 
+
+0.0 0 
+ zirkelt 
+
+0.0 0 
+ bedient 
+
+0.0 0 
+ trifft 
+
+0.0 0 
+ schraubte 
+
+0.0 0 
+ erzielt 
+
+0.0 0 
+ sprang 
+
+0.0 0 
+ geht 
+
+0.0 0 
+ machte 
+
+0.0 0 
+ avancierte 
+
+0.0 0 
+ bediente 
+
+0.0 0 
+ lässt 
+
+0.0 0 
+ hat 
+
+0.0 0 
+ lenkte 
+
+0.0 0 
+ muss 
+
+0.0 0 
+ hat 
+
+0.0 0 
+ avancierte 
+
+0.0 0 
+ legt 
+
+0.0 0 
+ zwang 
+
+0.0 0 
+ kommt 
+
+0.0 0 
+ verpassen 
+
+0.0 0 
+ will 
+
+0.0 0 
+ setzt 
+
+0.0 0 
+ setzt 
+
+0.0 0 
+ setzt 
+
+0.0 0 
+ setzte 
+
+0.0 0 
+ gelang 
+
+0.0 0 
+ fackelt 
+
+0.0 0 
+ kommt 
+
+0.0 0 
+ dreht 
+
+0.0 0 
+ schiebt 
+
+0.0 0 
+ steigt 
+
+0.0 0 
+ verlängert 
+
+0.0 0 
+ reagiert 
+
+0.0 0 
+ täuscht 
+
+0.0 0 
+ gelangt 
+
+0.0 0 
+ flankte 
+
+0.0 0 
+ ist 
+
+0.0 0 
+ bittet 
+
+0.0 0 
+ verkürzte 
+
+0.0 0 
+ legt 
+
+0.0 0 
+ fand 
+
+0.0 0 
+ setzt 
+
+0.0 0 
+ lieferten 
+
+0.0 0 
+ hob 
+
+0.0 0 
+ schickt 
+
+0.0 0 
+ veredelte 
+
+0.0 0 
+ schlägt 
+
+0.0 0 
+ flankt 
+
+0.0 0 
+ vernachlässigt 
+
+0.0 0 
+ leitet 
+
+0.0 0 
+ wird 
+
+0.0 0 
+ bringt 
+
+0.0 0 
+ muss 
+
+0.0 0 
+ stocherte 
+
+0.0 0 
+ legt 
+
+0.0 0 
+ schnappte 
+
+0.0 0 
+ nutzt 
+
+0.0 0 
+ lupfte 
+
+0.0 0 
+ war 
+
+0.0 0 
+ greift 
+
+0.0 0 
+ schlenzte 
+
+0.0 0 
+ rauscht 
+
+0.0 0 
+ bedankte 
+
+0.0 0 
+ fliegt 
+
+0.0 0 
+ zirkelt 
+
+0.0 0 
+ nimmt 
+
+0.0 0 
+ spielt 
+
+0.0 0 
+ kam 
+
+0.0 0 
+ bedankt 
+
+0.0 0 
+ verlädt 
+
+0.0 0 
+ setzt 
+
+0.0 0 
+ nagelt 
+
+0.0 0 
+ folgte 
+
+0.0 0 
+ legte 
+
+0.0 0 
+ passt 
+
+0.0 0 
+ behält 
+
+0.0 0 
+ unterläuft 
+
+0.0 0 
+ kann 
+
+0.0 0 
+ flankt 
+
+0.0 0 
+ spielt 
+
+0.0 0 
+ setzt 
+
+0.0 0 
+ legt 
+
+0.0 0 
+ hat 
+
+0.0 0 
+ scheitert 
+
+0.0 0 
+ schickt 
+
+0.0 0 
+ ist 
+
+0.0 0 
+ kann 
+
+0.0 0 
+ köpft 
+
+0.0 0 
+ lenkt 
+
+0.0 0 
+ Richtung 
+
+0.0 0 
+ fehlt 
+
+0.0 0 
+ antwortet 
+
+0.0 0 
+ kriegt 
+
+0.0 0 
+ fand 
+
+0.0 0 
+ zog 
+
+0.0 0 
+ kam 
+
+0.0 0 
+ überwand 
+
+0.0 0 
+ schickt 
+
+0.0 0 
+ zieht 
+
+0.0 0 
+ schlenzt 
+
+0.0 0 
+ bringt 
+
+0.0 0 
+ fliegt 
+
+0.0 0 
+ steckt 
+
+0.0 0 
+ sorgte 
+
+0.0 0 
+ nickte 
+
+0.0 0 
+ lässt 
+
+0.0 0 
+ zeigt 
+
+0.0 0 
+ dribbelt 
+
+0.0 0 
+ ist 
+
+0.0 0 
+ hat 
+
+0.0 0 
+ erzielt 
+
+0.0 0 
+ wird 
+
+0.0 0 
+ macht 
+
+0.0 0 
+ resultiert 
+
+0.0 0 
+ versenkt 
+
+0.0 0 
+ wartet 
+
+0.0 0 
+ hob 
+
+0.0 0 
+ dringt 
+
+0.0 0 
+ zirkelte 
+
+0.0 0 
+ hat 
+
+0.0 0 
+ rutscht 
+
+0.0 0 
+ flankte 
+
+0.0 0 
+ steht 
+
+0.0 0 
+ kann 
+
+0.0 0 
+ ist 
+
+0.0 0 
+ machte 
+
+0.0 0 
+ kam 
+
+0.0 0 
+ schlenzt 
+
+0.0 0 
+ war 
+
+0.0 0 
+ schickt 
+
+0.0 0 
+ landet 
+
+0.0 0 
+ läuft 
+
+0.0 0 
+ landete 
+
+0.0 0 
+ verlädt 
+
+0.0 0 
+ sieht 
+
+0.0 0 
+ bleibt 
+
+0.0 0 
+ klärt 
+
+0.0 0 
+ dreht 
+
+0.0 0 
+ rauscht 
+
+0.0 0 
+ bekam 
+
+0.0 0 
+ leitet 
+
+0.0 0 
+ nimmt 
+
+0.0 0 
+ schnappt 
+
+0.0 0 
+ war 
+
+0.0 0 
+ kombinieren 
+
+0.0 0 
+ lässt 
+
+0.0 0 
+ knüpft 
+
+0.0 0 
+ fackelt 
+
+0.0 0 
+ tritt 
+
+0.0 0 
+ zirkelt 
+
+0.0 0 
+ überspringt 
+
+0.0 0 
+ war 
+
+0.0 0 
+ filetiert 
+
+0.0 0 
+ erkämpft 
+
+0.0 0 
+ flankte 
+
+0.0 0 
+ fliegt 
+
+0.0 0 
+ kommt 
+
+0.0 0 
+ ist 
+
+0.0 0 
+ steht 
+
+0.0 0 
+ trifft 
+
+0.0 0 
+ war 
+
+0.0 0 
+ spielen 
+
+0.0 0 
+ verzögert 
+
+0.0 0 
+ tanzte 
+
+0.0 0 
+ löste 
+
+0.0 0 
+ drückt 
+
+0.0 0 
+ konnten 
+
+0.0 0 
+ ist 
+
+0.0 0 
+ trat 
+
+0.0 0 
+ steht 
+
+0.0 0 
+ fiel 
+
+0.0 0 
+ zirkelte 
+
+0.0 0 
+ leitete 
+
+0.0 0 
+ arbeiten 
+
+0.0 0 
+ wird 
+
+0.0 0 
+ zieht 
+
+0.0 0 
+ flankt 
+
+0.0 0 
+ bestraft 
+
+0.0 0 
+ verlängert 
+
+0.0 0 
+ erlaubt 
+
+0.0 0 
+ brach 
+
+0.0 0 
+ landet 
+
+0.0 0 
+ lässt 
+
+0.0 0 
+ kommt 
+
+0.0 0 
+ bugsiert 
+
+0.0 0 
+ kam 
+
+0.0 0 
+ legt 
+
+0.0 0 
+ nimmt 
+
+0.0 0 
+ kommt 
+
+0.0 0 
+ legt 
+
+0.0 0 
+ hat 
+
+0.0 0 
+ verpasst 
+
+0.0 0 
+ verzichtet 
+
+0.0 0 
+ steht 
+
+0.0 0 
+ konnte 
+
+0.0 0 
+ zog 
+
+0.0 0 
+ nickte 
+
+0.0 0 
+ dringt 
+
+0.0 0 
+ eilt 
+
+0.0 0 
+ verwandelte 
+
+0.0 0 
+ schickt 
+
+0.0 0 
+ vertändelt 
+
+0.0 0 
+ erläuft 
+
+0.0 0 
+ bedient 
+
+0.0 0 
+ findet 
+
+0.0 0 
+ schickt 
+
+0.0 0 
+ prallt 
+
+0.0 0 
+ bringt 
+
+0.0 0 
+ verlud 
+
+0.0 0 
+ tritt 
+
+0.0 0 
+ lässt 
+
+0.0 0 
+ kommt 
+
+0.0 0 
+ schalteten 
+
+0.0 0 
+ schleicht 
+
+0.0 0 
+ flankte 
+
+0.0 0 
+ wackelt 
+
+0.0 0 
+ nahm 
+
+0.0 0 
+ flankt 
+
+0.0 0 
+ umdribbelte 
+
+0.0 0 
+ steht 
+
+0.0 0 
+ kommt 
+
+0.0 0 
+ wehrt 
+
+0.0 0 
+ verwandelte 
+
+0.0 0 
+ schlagt 
+
+0.0 0 
+ leitete 
+
+0.0 0 
+ steigt 
+
+0.0 0 
+ erzielt 
+
+0.0 0 
+ gelangt 
+
+0.0 0 
+ darf 
+
+0.0 0 
+ Petersen 
+
+0.0 0 
+ ist 
+
+0.0 0 
+ köpft 
+
+0.0 0 
+ köpfte 
+
+0.0 0 
+ geht 
+
+0.0 0 
+ verwertet 
+
+0.0 0 
+ schlägt 
+
+0.0 0 
+ frühen 
+
+0.0 0 
+ verschätzt 
+
+0.0 0 
+ vernascht 
+
+0.0 0 
+ flankt 
+
+0.0 0 
+ zieht 
+
+0.0 0 
+ stand 
+
+0.0 0 
+ legt 
+
+0.0 0 
+ servierte 
+
+0.0 0 
+ ist 
+
+0.0 0 
+ war 
+
+0.0 0 
+ lupft 
+
+0.0 0 
+ war 
+
+0.0 0 
+ steckt 
+
+0.0 0 
+ nutzte 
+
+0.0 0 
+ trieb 
+
+0.0 0 
+ spielt 
+
+0.0 0 
+ eilt 
+
+0.0 0 
+ zirkelte 
+
+0.0 0 
+ war 
+
+0.0 0 
+ schießt 
+
+0.0 0 
+ serviert 
+
+0.0 0 
+ landet 
+
+0.0 0 
+ trug 
+
+0.0 0 
+ schickt 
+
+0.0 0 
+ zirkelt 
+
+0.0 0 
+ übersprang 
+
+0.0 0 
+ setzt 
+
+0.0 0 
+ kommt 
+
+0.0 0 
+ leitet 
+
+0.0 0 
+ taucht 
+
+0.0 0 
+ machte 
+
+0.0 0 
+ findet 
+
+0.0 0 
+ kümmert 
+
+0.0 0 
+ Sorgte 
+
+0.0 0 
+ entdeckte 
+
+0.0 0 
+ übernahm 
+
+0.0 0 
+ spielte 
+
+0.0 0 
+ war 
+
+0.0 0 
+ kommt 
+
+0.0 0 
+ findet 
+
+0.0 0 
+ flankt 
+
+0.0 0 
+ behielt 
+
+0.0 0 
+ tritt 
+
+0.0 0 
+ zielte 
+
+0.0 0 
+ lässt 
+
+0.0 0 
+ schaltet 
+
+0.0 0 
+ verwandelt 
+
+0.0 0 
+ kommt 
+
+0.0 0 
+ spielte 
+
+0.0 0 
+ muss 
+
+0.0 0 
+ läuft 
+
+0.0 0 
+ verlängert 
+
+0.0 0 
+ springt 
+
+0.0 0 
+ setzte 
+
+0.0 0 
+ wird 
+
+0.0 0 
+ zielt 
+
+0.0 0 
+ flankt 
+
+0.0 0 
+ nimmt 
+
+0.0 0 
+ fand 
+
+0.0 0 
+ lupft 
+
+0.0 0 
+ war 
+
+0.0 0 
+ behauptete 
+
+0.0 0 
+ hat 
+
+0.0 0 
+ traf 
+
+0.0 0 
+ sieht 
+
+0.0 0 
+ will 
+
+0.0 0 
+ wird 
+
+0.0 0 
+ war 
+
+0.0 0 
+ schickte 
+
+0.0 0 
+ steht 
+
+0.0 0 
+ ist 
+
+0.0 0 
+ bringt 
+
+0.0 0 
+ setzt 
+
+0.0 0 
+ findet 
+
+0.0 0 
+ gewann 
+
+0.0 0 
+ findet 
+
+0.0 0 
+ zeigte 
+
+0.0 0 
+ verspekulierte 
+
+0.0 0 
+ tritt 
+
+0.0 0 
+ verlängert 
+
+0.0 0 
+ wird 
+
+0.0 0 
+ nimmt 
+
+0.0 0 
+ flankt 
+
+0.0 0 
+ krallte 
+
+0.0 0 
+ bringt 
+
+0.0 0 
+ findet 
+
+0.0 0 
+ spielt 
+
+0.0 0 
+ ist 
+
+0.0 0 
+ zirkelt 
+
+0.0 0 
+ bekommt 
+
+0.0 0 
+ flankte 
+
+0.0 0 
+ wird 
+
+0.0 0 
+ köpft 
+
+0.0 0 
+ bekamen 
+
+0.0 0 
+ segelt 
+
+0.0 0 
+ steht 
+
+0.0 0 
+ hat 
+
+0.0 0 
+ sieht 
+
+0.0 0 
+ netzte 
+
+0.0 0 
+ traf 
+
+0.0 0 
+ ist 
+
+0.0 0 
+ kann 
+
+0.0 0 
+ köpft 
+
+0.0 0 
+ verlängerte 
+
+0.0 0 
+ verwandelt 
+
+0.0 0 
+ entschied 
+
+0.0 0 
+ verwertete 
+
+0.0 0 
+ schien 
+
+0.0 0 
+ schlägt 
+
+0.0 0 
+ passt 
+
+0.0 0 
+ läuft 
+
+0.0 0 
+ behielt 
+
+0.0 0 
+ schickt 
+
+0.0 0 
+ zieht 
+
+0.0 0 
+ kommt 
+
+0.0 0 
+ schiebt 
+
+0.0 0 
+ steilgeschickt 
+
+0.0 0 
+ setzt 
+
+0.0 0 
+ nutzte 
+
+0.0 0 
+ spitzelt 
+
+0.0 0 
+ ermöglichte 
+
+0.0 0 
+ traf 
+
+0.0 0 
+ steigt 
+
+0.0 0 
+ verlängert 
+
+0.0 0 
+ greift 
+
+0.0 0 
+ köpfte 
+
+0.0 0 
+ sieht 
+
+0.0 0 
+ klingelt 
+
+0.0 0 
+ landet 
+
+0.0 0 
+ lässt 
+
+0.0 0 
+ steht 
+
+0.0 0 
+ hebt 
+
+0.0 0 
+ fand 
+
+0.0 0 
+ setzt 
+
+0.0 0 
+ prallte 
+
+0.0 0 
+ war 
+
+0.0 0 
+ traf 
+
+0.0 0 
+ flankt 
+
+0.0 0 
+ wird 
+
+0.0 0 
+ geht 
+
+0.0 0 
+ landet 
+
+0.0 0 
+ dringt 
+
+0.0 0 
+ tritt 
+
+0.0 0 
+ ist 
+
+0.0 0 
+ setzt 
+
+0.0 0 
+ kommt 
+
+0.0 0 
+ bringt 
+
+0.0 0 
+ wuselt 
+
+0.0 0 
+ tunnelt 
+
+0.0 0 
+ stieg 
+
+0.0 0 
+ steckt 
+
+0.0 0 
+ konnte 
+
+0.0 0 
+ tritt 
+
+0.0 0 
+ verlagert 
+
+0.0 0 
+ schiebt 
+
+0.0 0 
+ will 
+
+0.0 0 
+ schiebt 
+
+0.0 0 
+ schiebt 
+
+0.0 0 
+ erreicht 
+
+0.0 0 
+ kommt 
+
+0.0 0 
+ setzt 
+
+0.0 0 
+ kann 
+
+0.0 0 
+ legt 
+
+0.0 0 
+ landete 
+
+0.0 0 
+ schläft 
+
+0.0 0 
+ bringt 
+
+0.0 0 
+ hebt 
+
+0.0 0 
+ findet 
+
+0.0 0 
+ nahm 
+
+0.0 0 
+ zieht 
+
+0.0 0 
+ spielt 
+
+0.0 0 
+ ging 
+
+0.0 0 
+ entwischte 
+
+0.0 0 
+ spielt 
+
+0.0 0 
+ brachte 
+
+0.0 0 
+ sticht 
+
+0.0 0 
+ ließ 
+
+0.0 0 
+ setzt 
+
+0.0 0 
+ legt 
+
+0.0 0 
+ misslingt 
+
+0.0 0 
+ war 
+
+0.0 0 
+ bringt 
+
+0.0 0 
+ dringt 
+
+0.0 0 
+ kann 
+
+0.0 0 
+ bringt 
+
+0.0 0 
+ lupft 
+
+0.0 0 
+ köpfte 
+
+0.0 0 
+ klaute 
+
+0.0 0 
+ fand 
+
+0.0 0 
+ hatte 
+
+0.0 0 
+ vernaschte 
+
+0.0 0 
+ tritt 
+
+0.0 0 
+ landet 
+
+0.0 0 
+ spielt 
+
+0.0 0 
+ zirkelt 
+
+0.0 0 
+ scheiterte 
+
+0.0 0 
+ kommt 
+
+0.0 0 
+ gewann 
+
+0.0 0 
+ legt 
+
+0.0 0 
+ spielt 
+
+0.0 0 
+ verdiente 
+
+0.0 0 
+ wird 
+
+0.0 0 
+ passt 
+
+0.0 0 
+ reagiert 
+
+0.0 0 
+ will 
+
+0.0 0 
+ schlägt 
+
+0.0 0 
+ wuchtete 
+
+0.0 0 
+ waren 
+
+0.0 0 
+ leitet 
+
+0.0 0 
+ läuft 
+
+0.0 0 
+ profitiert 
+
+0.0 0 
+ brachte 
+
+0.0 0 
+ versucht 
+
+0.0 0 
+ spritzte 
+
+0.0 0 
+ wehrte 
+
+0.0 0 
+ spekuliert 
+
+0.0 0 
+ war 
+
+0.0 0 
+ verlagerte 
+
+0.0 0 
+ klärt 
+
+0.0 0 
+ erkennt 
+
+0.0 0 
+ spielt 
+
+0.0 0 
+ ist 
+
+0.0 0 
+ schickt 
+
+0.0 0 
+ nutzten 
+
+0.0 0 
+ erwies 
+
+0.0 0 
+ leitet 
+
+0.0 0 
+ geht 
+
+0.0 0 
+ legte 
+
+0.0 0 
+ pariert 
+
+0.0 0 
+ löffelt 
+
+0.0 0 
+ kann 
+
+0.0 0 
+ sollte 
+
+0.0 0 
+ tauschte 
+
+0.0 0 
+ avanciert 
+
+0.0 0 
+ muss 
+
+0.0 0 
+ zieht 
+
+0.0 0 
+ schnappt 
+
+0.0 0 
+ flankt 
+
+0.0 0 
+ erzielt 
+
+0.0 0 
+ stand 
+
+0.0 0 
+ verteidigt 
+
+0.0 0 
+ lässt 
+
+0.0 0 
+ stellte 
+
+0.0 0 
+ hält 
+
+0.0 0 
+ behauptete 
+
+0.0 0 
+ Musste 
+
+0.0 0 
+ legt 
+
+0.0 0 
+ geht 
+
+0.0 0 
+ unterlief 
+
+0.0 0 
+ kamen 
+
+0.0 0 
+ setzte 
+
+0.0 0 
+ steht 
+
+0.0 0 
+ legt 
+
+0.0 0 
+ legt 
+
+0.0 0 
+ landete 
+
+0.0 0 
+ fackelt 
+
+0.0 0 
+ sorgte 
+
+0.0 0 
+ spielte 
+
+0.0 0 
+ grätschte 
+
+0.0 0 
+ nimmt 
+
+0.0 0 
+ lässt 
+
+0.0 0 
+ läuft 
+
+0.0 0 
+ entwischte 
+
+0.0 0 
+ wird 
+
+0.0 0 
+ serviert 
+
+0.0 0 
+ spielt 
+
+0.0 0 
+ flankt 
+
+0.0 0 
+ hatte 
+
+0.0 0 
+ drückte 
+
+0.0 0 
+ schlenzt 
+
+0.0 0 
+ prallte 
+
+0.0 0 
+ bringt 
+
+0.0 0 
+ flankt 
+
+0.0 0 
+ hebt 
+
+0.0 0 
+ spielt 
+
+0.0 0 
+ steigen 
+
+0.0 0 
+ kann 
+
+0.0 0 
+ legt 
+
+0.0 0 
+ schickt 
+
+0.0 0 
+ köpft 
+
+0.0 0 
+ düpierte 
+
+0.0 0 
+ zieht 
+
+0.0 0 
+ gab 
+
+0.0 0 
+ fand 
+
+0.0 0 
+ steckt 
+
+0.0 0 
+ brachte 
+
+0.0 0 
+ erwischt 
+
+0.0 0 
+ krallt 
+
+0.0 0 
+ grätscht 
+
+0.0 0 
+ behauptet 
+
+0.0 0 
+ drückt 
+
+0.0 0 
+ kamen 
+
+0.0 0 
+ hebelt 
+
+0.0 0 
+ schnappt 
+
+0.0 0 
+ leitet 
+
+0.0 0 
+ setzte 
+
+0.0 0 
+ lauert 
+
+0.0 0 
+ ist 
+
+0.0 0 
+ schaufelt 
+
+0.0 0 
+ wurde 
+
+0.0 0 
+ flankt 
+
+0.0 0 
+ wollten 
+
+0.0 0 
+ schnürt 
+
+0.0 0 
+ reagierte 
+
+0.0 0 
+ lässt 
+
+0.0 0 
+ behielt 
+
+0.0 0 
+ wird 
+
+0.0 0 
+ kann 
+
+0.0 0 
+ war 
+
+0.0 0 
+ ist 
+
+0.0 0 
+ köpfte 
+
+0.0 0 
+ wollte 
+
+0.0 0 
+ schickte 
+
+0.0 0 
+ zog 
+
+0.0 0 
+ mündete 
+
+0.0 0 
+ zieht 
+
+0.0 0 
+ kam 
+
+0.0 0 
+ zirkelt 
+
+0.0 0 
+ ist 
+
+0.0 0 
+ bringt 
+
+0.0 0 
+ war 
+
+0.0 0 
+ bringt 
+
+0.0 0 
+ tritt 
+
+0.0 0 
+ bringt 
+
+0.0 0 
+ zirkelt 
+
+0.0 0 
+ kann 
+
+0.0 0 
+ kann 
+
+0.0 0 
+ schlägt 
+
+0.0 0 
+ sollten 
+
+0.0 0 
+ steht 
+
+0.0 0 
+ spitzelt 
+
+0.0 0 
+ leitete 
+
+0.0 0 
+ schnappte 
+
+0.0 0 
+ verlängert 
+
+0.0 0 
+ hat 
+
+0.0 0 
+ versenkt 
+
+0.0 0 
+ bedankt 
+
+0.0 0 
+ schaufelt 
+
+0.0 0 
+ steht 
+
+0.0 0 
+ zieht 
+
+0.0 0 
+ nimmt 
+
+0.0 0 
+ gibt 
+
+0.0 0 
+ tankt 
+
+0.0 0 
+ lässt 
+
+0.0 0 
+ schießt 
+
+0.0 0 
+ flankte 
+
+0.0 0 
+ war 
+
+0.0 0 
+ wartet 
+
+0.0 0 
+ fackelt 
+
+0.0 0 
+ spielte 
+
+0.0 0 
+ bedankt 
+
+0.0 0 
+ spielt 
+
+0.0 0 
+ hatte 
+
+0.0 0 
+ leitet 
+
+0.0 0 
+ spielt 
+
+0.0 0 
+ kommt 
+
+0.0 0 
+ hält 
+
+0.0 0 
+ schiebt 
+
+0.0 0 
+ schnappte 
+
+0.0 0 
+ spielt 
+
+0.0 0 
+ landet 
+
+0.0 0 
+ hat 
+
+0.0 0 
+ stand 
+
+0.0 0 
+ nahm 
+
+0.0 0 
+ tritt 
+
+0.0 0 
+ hämmert 
+
+0.0 0 
+ dreht 
+
+0.0 0 
+ blieb 
+
+0.0 0 
+ landet 
+
+0.0 0 
+ tanzt 
+
+0.0 0 
+ steigt 
+
+0.0 0 
+ nimmt 
+
+0.0 0 
+ kommt 
+
+0.0 0 
+ kommt 
+
+0.0 0 
+ setzte 
+
+0.0 0 
+ bediente 
+
+0.0 0 
+ wagt 
+
+0.0 0 
+ legt 
+
+0.0 0 
+ spielt 
+
+0.0 0 
+ nutzte 
+
+0.0 0 
+ traf 
+
+0.0 0 
+ erzielte 
+
+0.0 0 
+ legte 
+
+0.0 0 
+ landet 
+
+0.0 0 
+ gelang 
+
+0.0 0 
+ rauscht 
+
+0.0 0 
+ entschied 
+
+0.0 0 
+ folgt 
+
+0.0 0 
+ spritzt 
+
+0.0 0 
+ lässt 
+
+0.0 0 
+ entwischt 
+
+0.0 0 
+ sollte 
+
+0.0 0 
+ hatte 
+
+0.0 0 
+ kombinieren 
+
+0.0 0 
+ kommt 
+
+0.0 0 
+ schlägt 
+
+0.0 0 
+ vollendete 
+
+0.0 0 
+ lauerte 
+
+0.0 0 
+ wurde 
+
+0.0 0 
+ nimmt 
+
+0.0 0 
+ trat 
+
+0.0 0 
+ stoppt 
+
+0.0 0 
+ zieht 
+
+0.0 0 
+ legte 
+
+0.0 0 
+ legt 
+
+0.0 0 
+ servierte 
+
+0.0 0 
+ trifft 
+
+0.0 0 
+ wird 
+
+0.0 0 
+ versucht 
+
+0.0 0 
+ stand 
+
+0.0 0 
+ spielt 
+
+0.0 0 
+ spielt 
+
+0.0 0 
+ hält 
+
+0.0 0 
+ nimmt 
+
+0.0 0 
+ vertritt 
+
+0.0 0 
+ spielt 
+
+0.0 0 
+ verstolpert 
+
+0.0 0 
+ tankt 
+
+0.0 0 
+ flankt 
+
+0.0 0 
+ kommt 
+
+0.0 0 
+ leitet 
+
+0.0 0 
+ wird 
+
+0.0 0 
+ verbuchte 
+
+0.0 0 
+ flankt 
+
+0.0 0 
+ köpfte 
+
+0.0 0 
+ spielt 
+
+0.0 0 
+ ist 
+
+0.0 0 
+ verliert 
+
+0.0 0 
+ hatte 
+
+0.0 0 
+ schickt 
+
+0.0 0 
+ nimmt 
+
+0.0 0 
+ legte 
+
+0.0 0 
+ steckt 
+
+0.0 0 
+ dringt 
+
+0.0 0 
+ sprintete 
+
+0.0 0 
+ legt 
+
+0.0 0 
+ flankte 
+
+0.0 0 
+ kommt 
+
+0.0 0 
+ riecht 
+
+0.0 0 
+ macht 
+
+0.0 0 
+ bedankt 
+
+0.0 0 
+ nutzte 
+
+0.0 0 
+ senste 
+
+0.0 0 
+ ließen 
+
+0.0 0 
+ läuft 
+
+0.0 0 
+ wird 
+
+0.0 0 
+ spielt 
+
+0.0 0 
+ hat 
+
+0.0 0 
+ steckt 
+
+0.0 0 
+ tritt 
+
+0.0 0 
+ war 
+
+0.0 0 
+ verkürzte 
+
+0.0 0 
+ bringt 
+
+0.0 0 
+ nimmt 
+
+0.0 0 
+ wurde 
+
+0.0 0 
+ leitet 
+
+0.0 0 
+ schießt 
+
+0.0 0 
+ setzt 
+
+0.0 0 
+ schlägt 
+
+0.0 0 
+ geht 
+
+0.0 0 
+ bediente 
+
+0.0 0 
+ trat 
+
+0.0 0 
+ findet 
+
+0.0 0 
+ tritt 
+
+0.0 0 
+ spitzelte 
+
+0.0 0 
+ bedankt 
+
+0.0 0 
+ spritzt 
+
+0.0 0 
+ köpfte 
+
+0.0 0 
+ nimmt 
+
+0.0 0 
+ setzt 
+
+0.0 0 
+ verwertete 
+
+0.0 0 
+ ließ 
+
+0.0 0 
+ wird 
+
+0.0 0 
+ bedient 
+
+0.0 0 
+ entsprang 
+
+0.0 0 
+ hielt 
+
+0.0 0 
+ traf 
+
+0.0 0 
+ taucht 
+
+0.0 0 
+ dribbelte 
+
+0.0 0 
+ übernimmt 
+
+0.0 0 
+ schnappte 
+
+0.0 0 
+ trifft 
+
+0.0 0 
+ darf 
+
+0.0 0 
+ passt 
+
+0.0 0 
+ hat 
+
+0.0 0 
+ bleibt 
+
+0.0 0 
+ landet 
+
+0.0 0 
+ kann 
+
+0.0 0 
+ bringt 
+
+0.0 0 
+ legte 
+
+0.0 0 
+ Pander 
+
+0.0 0 
+ legt 
+
+0.0 0 
+ fälscht 
+
+0.0 0 
+ sieht 
+
+0.0 0 
+ reißt 
+
+0.0 0 
+ schaut 
+
+0.0 0 
+ landete 
+
+0.0 0 
+ drückt 
+
+0.0 0 
+ schlenzt 
+
+0.0 0 
+ behauptet 
+
+0.0 0 
+ entschied 
+
+0.0 0 
+ bedankt 
+
+0.0 0 
+ flankt 
+
+0.0 0 
+ schickt 
+
+0.0 0 
+ nahm 
+
+0.0 0 
+ brachte 
+
+0.0 0 
+ kontert 
+
+0.0 0 
+ kommt 
+
+0.0 0 
+ zirkelt 
+
+0.0 0 
+ tritt 
+
+0.0 0 
+ schließt 
+
+0.0 0 
+ verwertete 
+
+0.0 0 
+ übernahm 
+
+0.0 0 
+ findet 
+
+0.0 0 
+ nickt 
+
+0.0 0 
+ muss 
+
+0.0 0 
+ überlegt 
+
+0.0 0 
+ passt 
+
+0.0 0 
+ erobert 
+
+0.0 0 
+ war 
+
+0.0 0 
+ flankt 
+
+0.0 0 
+ spielt 
+
+0.0 0 
+ ließ 
+
+0.0 0 
+ hebt 
+
+0.0 0 
+ passt 
+
+0.0 0 
+ hebt 
+
+0.0 0 
+ bringt 
+
+0.0 0 
+ steigt 
+
+0.0 0 
+ ist 
+
+0.0 0 
+ legt 
+
+0.0 0 
+ zirkelt 
+
+0.0 0 
+ schloss 
+
+0.0 0 
+ legt 
+
+0.0 0 
+ setzt 
+
+0.0 0 
+ ist 
+
+0.0 0 
+ schießt 
+
+0.0 0 
+ wehrt 
+
+0.0 0 
+ landet 
+
+0.0 0 
+ spitzelt 
+
+0.0 0 
+ will 
+
+0.0 0 
+ lupft 
+
+0.0 0 
+ sind 
+
+0.0 0 
+ flankt 
+
+0.0 0 
+ schießt 
+
+0.0 0 
+ spielt 
+
+0.0 0 
+ zielt 
+
+0.0 0 
+ hat 
+
+0.0 0 
+ flankte 
+
+0.0 0 
+ beweist 
+
+0.0 0 
+ hat 
+
+0.0 0 
+ lenkte 
+
+0.0 0 
+ bugsiert 
+
+0.0 0 
+ hat 
+
+0.0 0 
+ verschätzt 
+
+0.0 0 
+ bleibt 
+
+0.0 0 
+ lässt 
+
+0.0 0 
+ tritt 
+
+0.0 0 
+ klärt 
+
+0.0 0 
+ stand 
+
+0.0 0 
+ nahm 
+
+0.0 0 
+ fällt 
+
+0.0 0 
+ war 
+
+0.0 0 
+ brachte 
+
+0.0 0 
+ bezwang 
+
+0.0 0 
+ macht 
+
+0.0 0 
+ verlädt 
+
+0.0 0 
+ wird 
+
+0.0 0 
+ ließ 
+
+0.0 0 
+ wurde 
+
+0.0 0 
+ fährt 
+
+0.0 0 
+ behauptet 
+
+0.0 0 
+ dringt 
+
+0.0 0 
+ reagiert 
+
+0.0 0 
+ steht 
+
+0.0 0 
+ legt 
+
+0.0 0 
+ gewinnt 
+
+0.0 0 
+ steht 
+
+0.0 0 
+ nickt 
+
+0.0 0 
+ läuft 
+
+0.0 0 
+ übersieht 
+
+0.0 0 
+ marschiert 
+
+0.0 0 
+ zieht 
+
+0.0 0 
+ konnte 
+
+0.0 0 
+ läuft 
+
+0.0 0 
+ setzt 
+
+0.0 0 
+ trat 
+
+0.0 0 
+ serviert 
+
+0.0 0 
+ beendete 
+
+0.0 0 
+ flankt 
+
+0.0 0 
+ zirkelt 
+
+0.0 0 
+ köpft 
+
+0.0 0 
+ köpfte 
+
+0.0 0 
+ läuft 
+
+0.0 0 
+ klärt 
+
+0.0 0 
+ zielt 
+
+0.0 0 
+ geht 
+
+0.0 0 
+ schaufelt 
+
+0.0 0 
+ zieht 
+
+0.0 0 
+ führte 
+
+0.0 0 
+ marschiert 
+
+0.0 0 
+ kommt 
+
+0.0 0 
+ legt 
+
+0.0 0 
+ hat 
+
+0.0 0 
+ lässt 
+
+0.0 0 
+ spurtet 
+
+0.0 0 
+ schaltet 
+
+0.0 0 
+ brachte 
+
+0.0 0 
+ nimmt 
+
+0.0 0 
+ kam 
+
+0.0 0 
+ zieht 
+
+0.0 0 
+ flankt 
+
+0.0 0 
+ legt 
+
+0.0 0 
+ fingen 
+
+0.0 0 
+ ließ 
+
+0.0 0 
+ nahm 
+
+0.0 0 
+ hat 
+
+0.0 0 
+ flankte 
+
+0.0 0 
+ steht 
+
+0.0 0 
+ verwandelt 
+
+0.0 0 
+ wehrt 
+
+0.0 0 
+ flankt 
+
+0.0 0 
+ wird 
+
+0.0 0 
+ schnürte 
+
+0.0 0 
+ legt 
+
+0.0 0 
+ rauscht 
+
+0.0 0 
+ kommt 
+
+0.0 0 
+ läuft 
+
+0.0 0 
+ konnte 
+
+0.0 0 
+ geht 
+
+0.0 0 
+ verzog 
+
+0.0 0 
+ stoppt 
+
+0.0 0 
+ bekommt 
+
+0.0 0 
+ bedient 
+
+0.0 0 
+ nimmt 
+
+0.0 0 
+ behauptete 
+
+0.0 0 
+ geht 
+
+0.0 0 
+ köpft 
+
+0.0 0 
+ zieht 
+
+0.0 0 
+ zieht 
+
+0.0 0 
+ hatte 
+
+0.0 0 
+ ist 
+
+0.0 0 
+ steht 
+
+0.0 0 
+ spielt 
+
+0.0 0 
+ zieht 
+
+0.0 0 
+ spielt 
+
+0.0 0 
+ schlägt 
+
+0.0 0 
+ lässt 
+
+0.0 0 
+ schießt 
+
+0.0 0 
+ leitet 
+
+0.0 0 
+ spielte 
+
+0.0 0 
+ flankte 
+
+0.0 0 
+ wird 
+
+0.0 0 
+ taucht 
+
+0.0 0 
+ setzt 
+
+0.0 0 
+ marschiert 
+
+0.0 0 
+ spielt 
+
+0.0 0 
+ flankt 
+
+0.0 0 
+ senkt 
+
+0.0 0 
+ nimmt 
+
+0.0 0 
+ schiebt 
+
+0.0 0 
+ springt 
+
+0.0 0 
+ nimmt 
+
+0.0 0 
+ hält 
+
+0.0 0 
+ trifft 
+
+0.0 0 
+ kann 
+
+0.0 0 
+ bringt 
+
+0.0 0 
+ tritt 
+
+0.0 0 
+ behält 
+
+0.0 0 
+ bekam 
+
+0.0 0 
+ wiesen 
+
+0.0 0 
+ setzt 
+
+0.0 0 
+ setzt 
+
+0.0 0 
+ arbeitete 
+
+0.0 0 
+ schlägt 
+
+0.0 0 
+ landete 
+
+0.0 0 
+ verwandelte 
+
+0.0 0 
+ war 
+
+0.0 0 
+ kann 
+
+0.0 0 
+ bedient 
+
+0.0 0 
+ lässt 
+
+0.0 0 
+ bediente 
+
+0.0 0 
+ ist 
+
+0.0 0 
+ setzt 
+
+0.0 0 
+ ist 
+
+0.0 0 
+ flankt 
+
+0.0 0 
+ hatte 
+
+0.0 0 
+ beförderte 
+
+0.0 0 
+ geht 
+
+0.0 0 
+ sitzt 
+
+0.0 0 
+ war 
+
+0.0 0 
+ rettet 
+
+0.0 0 
+ spielte 
+
+0.0 0 
+ wird 
+
+0.0 0 
+ stieg 
+
+0.0 0 
+ zieht 
+
+0.0 0 
+ köpfte 
+
+0.0 0 
+ landet 
+
+0.0 0 
+ bringt 
+
+0.0 0 
+ kommt 
+
+0.0 0 
+ bereiten 
+
+0.0 0 
+ windet 
+
+0.0 0 
+ kommt 
+
+0.0 0 
+ bekommt 
+
+0.0 0 
+ landete 
+
+0.0 0 
+ zeigte 
+
+0.0 0 
+ schickt 
+
+0.0 0 
+ tritt 
+
+0.0 0 
+ findet 
+
+0.0 0 
+ bedient 
+
+0.0 0 
+ wird 
+
+0.0 0 
+ landet 
+
+0.0 0 
+ kommt 
+
+0.0 0 
+ lupft 
+
+0.0 0 
+ köpfte 
+
+0.0 0 
+ führt 
+
+0.0 0 
+ schickt 
+
+0.0 0 
+ fälschte 
+
+0.0 0 
+ steht 
+
+0.0 0 
+ legte 
+
+0.0 0 
+ wird 
+
+0.0 0 
+ war 
+
+0.0 0 
+ kam 
+
+0.0 0 
+ rutschte 
+
+0.0 0 
+ ging 
+
+0.0 0 
+ schaut 
+
+0.0 0 
+ wehrte 
+
+0.0 0 
+ gilt 
+
+0.0 0 
+ legt 
+
+0.0 0 
+ übt 
+
+0.0 0 
+ schickte 
+
+0.0 0 
+ geht 
+
+0.0 0 
+ landet 
+
+0.0 0 
+ legte 
+
+0.0 0 
+ ging 
+
+0.0 0 
+ verpasst 
+
+0.0 0 
+ flankt 
+
+0.0 0 
+ hat 
+
+0.0 0 
+ bringt 
+
+0.0 0 
+ startete 
+
+0.0 0 
+ springt 
+
+0.0 0 
+ startet 
+
+0.0 0 
+ glich 
+
+0.0 0 
+ gab 
+
+0.0 0 
+ tritt 
+
+0.0 0 
+ wurde 
+
+0.0 0 
+ kommt 
+
+0.0 0 
+ köpfte 
+
+0.0 0 
+ köpft 
+
+0.0 0 
+ traf 
+
+0.0 0 
+ hießen 
+
+0.0 0 
+ findet 
+
+0.0 0 
+ treibt 
+
+0.0 0 
+ kommt 
+
+0.0 0 
+ legt 
+
+0.0 0 
+ kommt 
+
+0.0 0 
+ greift 
+
+0.0 0 
+ landet 
+
+0.0 0 
+ bringt 
+
+0.0 0 
+ spielt 
+
+0.0 0 
+ schlägt 
+
+0.0 0 
+ erläuft 
+
+0.0 0 
+ enteilte 
+
+0.0 0 
+ legte 
+
+0.0 0 
+ erobern 
+
+0.0 0 
+ scheiterte 
+
+0.0 0 
+ spielt 
+
+0.0 0 
+ spielen 
+
+0.0 0 
+ segelt 
+
+0.0 0 
+ hob 
+
+0.0 0 
+ wandert 
+
+0.0 0 
+ steigt 
+
+0.0 0 
+ bleibt 
+
+0.0 0 
+ legt 
+
+0.0 0 
+ leisten 
+
+0.0 0 
+ entdeckt 
+
+0.0 0 
+ steigt 
+
+0.0 0 
+ überlistet 
+
+0.0 0 
+ schnappt 
+
+0.0 0 
+ kontert 
+
+0.0 0 
+ sah 
+
+0.0 0 
+ chippt 
+
+0.0 0 
+ kann 
+
+0.0 0 
+ setzt 
+
+0.0 0 
+ hatte 
+
+0.0 0 
+ ist 
+
+0.0 0 
+ passt 
+
+0.0 0 
+ enteilt 
+
+0.0 0 
+ spielt 
+
+0.0 0 
+ steht 
+
+0.0 0 
+ übernahm 
+
+0.0 0 
+ blockt 
+
+0.0 0 
+ leitet 
+
+0.0 0 
+ erwischte 
+
+0.0 0 
+ bleibt 
+
+0.0 0 
+ spitzelt 
+
+0.0 0 
+ lief 
+
+0.0 0 
+ gelingt 
+
+0.0 0 
+ flankt 
+
+0.0 0 
+ zieht 
+
+0.0 0 
+ zirkelt 
+
+0.0 0 
+ zieht 
+
+0.0 0 
+ landet 
+
+0.0 0 
+ ließ 
+
+0.0 0 
+ prallt 
+
+0.0 0 
+ köpfte 
+
+0.0 0 
+ hat 
+
+0.0 0 
+ läuft 
+
+0.0 0 
+ nahm 
+
+0.0 0 
+ nahm 
+
+0.0 0 
+ hatten 
+
+0.0 0 
+ nimmt 
+
+0.0 0 
+ leitete 
+
+0.0 0 
+ legt 
+
+0.0 0 
+ köpft 
+
+0.0 0 
+ lauerte 
+
+0.0 0 
+ flankte 
+
+0.0 0 
+ spielt 
+
+0.0 0 
+ hat 
+
+0.0 0 
+ nutzt 
+
+0.0 0 
+ darf 
+
+0.0 0 
+ hat 
+
+0.0 0 
+ VfB. 
+
+0.0 0 
+ tritt 
+
+0.0 0 
+ bringt 
+
+0.0 0 
+ schnappte 
+
+0.0 0 
+ köpfte 
+
+0.0 0 
+ nimmt 
+
+0.0 0 
+ setzte 
+
+0.0 0 
+ bugsierte 
+
+0.0 0 
+ scheiterte 
+
+0.0 0 
+ erobern 
+
+0.0 0 
+ ließ 
+
+0.0 0 
+ knacken 
+
+0.0 0 
+ verlängert 
+
+0.0 0 
+ lässt 
+
+0.0 0 
+ spielt 
+
+0.0 0 
+ flankt 
+
+0.0 0 
+ schnappte 
+
+0.0 0 
+ landete 
+
+0.0 0 
+ überlegt 
+
+0.0 0 
+ fackelt 
+
+0.0 0 
+ steigt 
+
+0.0 0 
+ flankt 
+
+0.0 0 
+ kommt 
+
+0.0 0 
+ landete 
+
+0.0 0 
+ flankt 
+
+0.0 0 
+ schickt 
+
+0.0 0 
+ brachte 
+
+0.0 0 
+ fälscht 
+
+0.0 0 
+ schweißte 
+
+0.0 0 
+ lässt 
+
+0.0 0 
+ behält 
+
+0.0 0 
+ zirkelte 
+
+0.0 0 
+ erobert 
+
+0.0 0 
+ kommt 
+
+0.0 0 
+ verliert 
+
+0.0 0 
+ erzielte 
+
+0.0 0 
+ hielt 
+
+0.0 0 
+ netzte 
+
+0.0 0 
+ gewinnt 
+
+0.0 0 
+ legt 
+
+0.0 0 
+ prallt 
+
+0.0 0 
+ trifft 
+
+0.0 0 
+ hat 
+
+0.0 0 
+ spielen 
+
+0.0 0 
+ köpft 
+
+0.0 0 
+ sollte 
+
+0.0 0 
+ hebt 
+
+0.0 0 
+ flankte 
+
+0.0 0 
+ steht 
+
+0.0 0 
+ tanzt 
+
+0.0 0 
+ passt 
+
+0.0 0 
+ war 
+
+0.0 0 
+ macht 
+
+0.0 0 
+ setzt 
+
+0.0 0 
+ flankt 
+
+0.0 0 
+ geht 
+
+0.0 0 
+ schickt 
+
+0.0 0 
+ taucht 
+
+0.0 0 
+ übernahm 
+
+0.0 0 
+ schickt 
+
+0.0 0 
+ kommt 
+
+0.0 0 
+ verwandelt 
+
+0.0 0 
+ kommt 
+
+0.0 0 
+ setzt 
+
+0.0 0 
+ nickte 
+
+0.0 0 
+ rauscht 
+
+0.0 0 
+ trat 
+
+0.0 0 
+ machte 
+
+0.0 0 
+ landet 
+
+0.0 0 
+ war 
+
+0.0 0 
+ hat 
+
+0.0 0 
+ setzt 
+
+0.0 0 
+ gibt 
+
+0.0 0 
+ zirkelt 
+
+0.0 0 
+ schickt 
+
+0.0 0 
+ überläuft 
+
+0.0 0 
+ erreichte 
+
+0.0 0 
+ schob 
+
+0.0 0 
+ drückte 
+
+0.0 0 
+ wird 
+
+0.0 0 
+ sieht 
+
+0.0 0 
+ zieht 
+
+0.0 0 
+ spielt 
+
+0.0 0 
+ übernimmt 
+
+0.0 0 
+ leitet 
+
+0.0 0 
+ stibitzt 
+
+0.0 0 
+ nimmt 
+
+0.0 0 
+ kommt 
+
+0.0 0 
+ köpft 
+
+0.0 0 
+ glänzt 
+
+0.0 0 
+ hebt 
+
+0.0 0 
+ gleicht 
+
+0.0 0 
+ gewinnt 
+
+0.0 0 
+ legte 
+
+0.0 0 
+ spielten 
+
+0.0 0 
+ landet 
+
+0.0 0 
+ nickte 
+
+0.0 0 
+ beschert 
+
+0.0 0 
+ zeigt 
+
+0.0 0 
+ steigt 
+
+0.0 0 
+ kommt 
+
+0.0 0 
+ passte 
+
+0.0 0 
+ zieht 
+
+0.0 0 
+ setzt 
+
+0.0 0 
+ leitete 
+
+CTXE1 mean score:0 +- 0.0
+CTXE2 mean score (with ref):0.0 +- 0.0

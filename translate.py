@@ -26,9 +26,12 @@ opt = parser.parse_args()
 
 
 def _report_score(name, score_total, words_total):
-    print("%s AVG SCORE: %.4f, %s PPL: %.4f" % (
-        name, score_total / words_total,
-        name, math.exp(-score_total / words_total)))
+    try:
+        print("%s AVG SCORE: %.4f, %s PPL: %.4f" % (
+            name, score_total / words_total,
+            name, math.exp(-score_total / words_total)))
+    except:
+        print("Could not print AVG SCORE ")
 
 
 def _report_bleu():
