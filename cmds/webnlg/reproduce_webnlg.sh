@@ -12,16 +12,15 @@ python3 ../../translate.py -model ../../data/webnlg_delex_${num}_notembd*e30.pt 
 python3 ../../webnlg_eval_scripts/webnlg_gcnonmt_relexicalise.py -i ../../data/data-webnlg/webnlg/ -f ../../data/data-webnlg/delexicalized_predictions_test_${num}.txt -c seen -p test -g _${num}
 
 #BLEU
-../../webnlg_eval_scripts/calculate_bleu_dev_input.sh relexicalised_predictions_${num}.txt
+../../webnlg_eval_scripts/calculate_bleu_dev_input.sh relexicalised_predictions_${num}.txt > out_bleu_${num}.txt
 
 #scripts for meteor and ter files
 python3 ../../webnlg_eval_scripts/metrics.py --td ../../data/data-webnlg/ --pred relexicalised_predictions_${num}.txt --p test
 
 #TER produces files out_{num}.txt with TER data
-java -jar ../../eval_tools/tercom-master/tercom-0.10.0.jar -h ../../data/data-webnlg/relexicalised_predictions_${num}-ter.txt -r ../../data/data-webnlg/test-all-notdelex-refs-ter.txt > out_${num}.txt
-
+java -jar ../../eval_tools/tercom-master/tercom-0.10.0.jar -h ../../data/data-webnlg/relexicalised_predictions_${num}-ter.txt -r ../../data/data-webnlg/test-all-notdelex-refs-ter.txt > out_ter_${num}.txt
 
 #METEOR
-java -Xmx2G -jar ../../eval_tools/meteor-master/meteor-1.6.jar ../../data/data-webnlg/relexicalised_predictions_${num}.txt ../../data/data-webnlg/test-all-notdelex-refs-meteor.txt -r 8 -l en -norm
+java -Xmx2G -jar ../../eval_tools/meteor-master/meteor-1.6.jar ../../data/data-webnlg/relexicalised_predictions_${num}.txt ../../data/data-webnlg/test-all-notdelex-refs-meteor.txt -r 8 -l en -norm > out_meteor_${num}.txt
 
 done

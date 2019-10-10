@@ -31,6 +31,9 @@ and run the commands or go to cmds/webnlg to run an sh script running all in ord
 
 # Football Task
 
+
+In general follow the instructions below, to reproduce experiments go into subdirectory /cmds. There convenience shell scripts provide a short way to run all experiments.
+
 ## Prepare data
 Run [data-extractor]() and get a sentences_full_{not}delex.pkl file and put it in data/data-football/, then for generating the input:
 	

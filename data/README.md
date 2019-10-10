@@ -1,1 +1,1 @@
-Downloaded datasets should be here
+Downloaded datasets should be here, out football data into data-football and webnlg into data-webnlg

@@ -8,7 +8,7 @@ import json
     ref = ('ref file ', 'option', 'r', str),
     out = ('outfilnemae', 'option', 'out', str)
 )
-def main(topdir = '../data/data-football/delex_', predfile = 'delexicalized_predictions_test.txt', out = 'relex_predictions_test.txt', ref ='test-data-football-gcn-delex.relex'):
+def main(topdir = '../data/data-football/delex_', predfile = 'delexicalized_predictions_test.txt', out = '', ref ='test-data-football-gcn-delex.relex'):
 
     with open( str(topdir / predfile) , 'r') as f:
         predictions = [line for line in f]

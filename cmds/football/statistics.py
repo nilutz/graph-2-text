@@ -7,17 +7,14 @@ import re
 @plac.annotations(
     topdir = ("dir to predfile", "option", "t", str),
     experiment = ("experiment  number ","option", "e", int),
-
 )
 def main(topdir = '.', experiment = 1):
 
-    if experiment == 1 or 3:
+    if experiment == 1:
         types_ = ['notdelex_attr_', 'notdelex_attr_postfix_','delex_attr_', 'delex_attr_postfix_', 'delex_attr_postfix_simple_']
         
-        if experiment == 1:
-            nums = [str(i) for i in range(1,4)]
-        else:
-            nums = [str(i) for i in range(4,7)]
+        nums = [str(i) for i in range(1,4)]
+
     elif experiment == 2:
         types_ = ['hyper_dense_256_3_1_c', 'hyper_dense_256_4_1_c', 'hyper_dense_256_5_1_c',
                  'hyper_dense_512_3_1_c', 'hyper_dense_512_4_1_c', 'hyper_dense_512_5_1_c',
@@ -29,7 +26,9 @@ def main(topdir = '.', experiment = 1):
         nums = [str(i) for i in range(1)]
 
     elif experiment == 3:
-        pass
+
+        types_ = ['delex_attr_postfix_']
+        nums = [str(i) for i in range(4,7)]
     else:
         raise "UNDEFINED EXPERIMENT"
 
